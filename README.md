@@ -59,7 +59,8 @@ Chaque sprint doit être validé à l’aide d’un **jeu de tests** (`in.txt` /
 - Notes de type **float** (0 à 20).
 - Affichage avec **1 décimale tronquée** :
   ```c  
-  printf("%.1f", floorf(note * 10) / 10);```
+  printf("%.1f", floorf(note * 10) / 10);
+  ```
 - Éviter de stocker des valeurs calculables (RCUE, moyennes).
 
 ---  
