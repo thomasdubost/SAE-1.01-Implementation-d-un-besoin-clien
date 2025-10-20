@@ -1,161 +1,168 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include "etudiant.h"
 #include <string.h>
 
-typedef enum status
+int main()
 {
-    admis,
-    exclus,
-    demissionne,
-    defaillant,
-} Status;
-enum command_type
-{
-    UNKNOWN = -1,
-    EXIT = 0,
-    INSCRIRE_ETUDIANT,
-    CURSUS,
-    NOTE,
-    DEMISSION_DEFAILLANCE,
-    JURY,
-    ETUDIANTS,
+}
 
-};
-typedef struct command
-{
-    enum command_type type;
-    int arg1;
-    int arg2;
-    int arg3;
-};
-
-typedef enum UE
-{
-    UE1 = 1,
-    UE2,
-    UE3,
-    UE4,
-    UE5,
-    UE6,
-} UE;
-
-typedef enum semestre
-{
-    paire,
-    impaire,
-
-} Semestre;
-
-typedef struct etudiant
-{
-    int id_etu;
-    int notes[6];
-    char status[10];
-    char nom[20];
-    char prenom[20];
-    Status stat;
-    Semestre sem;
-    int annee;
-} Etudiant;
-
-void separertxt(char *input, struct command *cmd);
-void choixcommande(char *input,struct command *cmd);
-
-void exit();
-void inscrireEtudiant();
-void cursus();
-void note();
-void demissionDefaillance();
-void jury();
-void etudiants();
-
-void separertxt(char *input, struct command *cmd)
+void separertxt(char *command, Separertxt *Separertxt)
 {
     const char *token;
-    token = strtok(input, " ");
+    token = strtok(command, " ");
     if (token == NULL)
     {
-        cmd->type = UNKNOWN;
+        Separertxt->command_type = UNKNOWN;
         return;
     }
 
     if (strcmp(token, "EXIT") == 0)
     {
-        cmd->type = EXIT;
+        Separertxt->command_type = EXIT;
         return;
     }
     else if (strcmp(token, "INSCRIRE") == 0)
     {
-        cmd->type = INSCRIRE_ETUDIANT;
+        Separertxt->command_type = INSCRIRE_ETUDIANT;
     }
     else if (strcmp(token, "CURSUS") == 0)
     {
-        cmd->type = CURSUS;
+        Separertxt->command_type = CURSUS;
     }
     else if (strcmp(token, "NOTE") == 0)
     {
-        cmd->type = NOTE;
+        //pour la commande justificatif car le dernier argument est une suite de plusieurs notes
+        separertxt_justificatif(Separertxt);
+        return;
     }
     else if (strcmp(token, "DEMISSION") == 0)
     {
-        cmd->type = DEMISSION_DEFAILLANCE;
+        Separertxt->command_type = DEMISSION_DEFAILLANCE;
     }
     else if (strcmp(token, "JURY") == 0)
     {
-        cmd->type = JURY;
+        Separertxt->command_type = JURY;
     }
     else if (strcmp(token, "ETUDIANTS") == 0)
     {
-        cmd->type = ETUDIANTS;
+        Separertxt->command_type = ETUDIANTS;
     }
     else
     {
-        cmd->type = UNKNOWN;
+        Separertxt->command_type = UNKNOWN;
         return;
     }
 
-    int count = 0;
+    int cmt = 0;
     const char *separator = " ";
-    while ((word = strtok(NULL, token)) != NULL && count < MAX_ARGUMENTS_COUNT)
+    while ((token = strtok(NULL, token)) != NULL && cmt < MAX_ARGUMENTS_COUNT)
     {
-        command->arguments_list[count] = word;
-        count++;
+        Separertxt->list_arguments[cmt] = token;
+        cmt++;
     };
-    parsed_command->arguments_count = count;
-    }
-    
-}   
-    void choixcommande(char *input,struct command *cmd)
-    {
-        switch (cmd->type)
-        {
-        case EXIT:
-            exit();
-            break;
-        case INSCRIRE_ETUDIANT:
-            inscrireEtudiant();
-            break;
-        case CURSUS:
-            cursus();
-            break;
-        case NOTE:
-            note();
-            break;
-        case DEMISSION_DEFAILLANCE:
-            demissionDefaillance();
-            break;
-        case JURY:
-            jury();
-            break;
-        case ETUDIANTS:
-            etudiants();
-            break;
-        default:
-            printf("Commande inconnue. Veuillez réessayer.\n");
-            break;
-        }
-        inscrireEtudiant(){
+    Separertxt->arguments_count = cmt;
+}
+// Sépare les arguments de la commande Justificatif
+void separertxt_justificatif(Separertxt *separertxt)
+{
+    const char *space_separator = " ";
+    const char *newline_separator = "\n";
+    int nb_argument = 0;
+    separertxt->command_type = NOTE_INPUT;
+    separertxt->list_arguments[0] = strtok(NULL, space_separator);
+    ++nb_argument;
+    separertxt->list_arguments[1] = strtok(NULL, space_separator);
+    ++nb_argument;
+    separertxt->list_arguments[2] = strtok(NULL, newline_separator);
+    ++nb_argument;
+    separertxt->arguments_count = nb_argument;
+}
 
+void choixcommande(char *command, Separertxt *Separertxt)
+{
+
+    switch (Separertxt->command_type)
+    {
+    case EXIT:
+        exit();
+        break;
+    case INSCRIRE_ETUDIANT:
+        inscrireEtudiant();
+        break;
+    case CURSUS:
+        cursus();
+        break;
+    case NOTE:
+        note();
+        break;
+    case DEMISSION_DEFAILLANCE:
+        demissionDefaillance();
+        break;
+    case JURY:
+        jury();
+        break;
+    case ETUDIANTS:
+        etudiants();
+        break;
+    default:
+        printf("Commande inconnue. Veuillez réessayer.\n");
+        break;
+    }
+    // Gère la commande inscription :
+void handle_inscription(const Separertxt separertxt, int *nb_students, Student *student_list)
+{
+    if (separertxt.arguments_count < INSCRIPTION_ARGS_COUNT)
+        return;
+
+    for (int i = 0; i < *nb_students; ++i)
+    {
+        if ((((strcmp(separertxt.list_arguments[0], student_list[i].name)) == 0) &&
+             (atoi(separertxt.list_arguments[1]) == student_list[i].group)))
+        {
+            puts("Nom incorrect");
+            return;
         }
     }
-    
+
+    Student student;
+    strcpy(student.name, separertxt.list_arguments[0]);
+    student.group = atoi(separertxt.list_arguments[1]);
+    student.student_id = ++*(nb_students);
+    student.nb_absence = 0;
+    student_list[*nb_students - 1] = student;
+
+    printf("Inscription enregistree (%d)\n", student.student_id);
+}
+
+    // Gère la commande inscription :
+void handle_inscription(const Separertxt separertxt, int *nb_students, Student *student_list)
+{
+    if (separertxt.arguments_count < INSCRIPTION_ARGS_COUNT)
+        return;
+
+    for (int i = 0; i < *nb_students; ++i)
+    {
+        if ((((strcmp(separertxt.list_arguments[0], student_list[i].name)) == 0) &&
+             (atoi(separertxt.list_arguments[1]) == student_list[i].group)))
+        {
+            puts("Nom incorrect");
+            return;
+        }
+    }
+
+    Student student;
+    strcpy(student.name, separertxt.list_arguments[0]);
+    student.group = atoi(separertxt.list_arguments[1]);
+    student.student_id = ++*(nb_students);
+    student.nb_absence = 0;
+    student_list[*nb_students - 1] = student;
+
+    printf("Inscription enregistree (%d)\n", student.student_id);
+}
+
+
+
+
+
+}
