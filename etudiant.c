@@ -7,6 +7,43 @@ int main()
 {
 }
 
+void choixcommande(char *command, Separertxt *Separertxt)
+{
+    // remplace le \n a la fin de la commande par un \0
+    command_line[strcspn(command_line, "\n")] = 0;
+    // récupérer la commande séparée
+    ParsedCommand parsed_command = {0};
+    parse_command(command_line, &parsed_command);
+
+    switch (Separertxt->command_type)
+    {
+    case EXIT:
+        exit();
+        break;
+    case INSCRIRE_ETUDIANT:
+        inscrireEtudiant();
+        break;
+    case CURSUS:
+        cursus();
+        break;
+    case NOTE:
+        note();
+        break;
+    case DEMISSION_DEFAILLANCE:
+        demissionDefaillance();
+        break;
+    case JURY:
+        jury();
+        break;
+    case ETUDIANTS:
+        etudiants();
+        break;
+    default:
+        printf("Commande inconnue. Veuillez réessayer.\n");
+        break;
+    }
+}
+
 void separertxt(char *command, Separertxt *Separertxt)
 {
     const char *token;
@@ -32,7 +69,7 @@ void separertxt(char *command, Separertxt *Separertxt)
     }
     else if (strcmp(token, "NOTE") == 0)
     {
-        //pour la commande justificatif car le dernier argument est une suite de plusieurs notes
+        // pour la commande justificatif car le dernier argument est une suite de plusieurs notes
         separertxt_justificatif(Separertxt);
         return;
     }
@@ -79,38 +116,8 @@ void separertxt_justificatif(Separertxt *separertxt)
     separertxt->arguments_count = nb_argument;
 }
 
-void choixcommande(char *command, Separertxt *Separertxt)
-{
-
-    switch (Separertxt->command_type)
-    {
-    case EXIT:
-        exit();
-        break;
-    case INSCRIRE_ETUDIANT:
-        inscrireEtudiant();
-        break;
-    case CURSUS:
-        cursus();
-        break;
-    case NOTE:
-        note();
-        break;
-    case DEMISSION_DEFAILLANCE:
-        demissionDefaillance();
-        break;
-    case JURY:
-        jury();
-        break;
-    case ETUDIANTS:
-        etudiants();
-        break;
-    default:
-        printf("Commande inconnue. Veuillez réessayer.\n");
-        break;
-    }
-    // Gère la commande inscription :
-void handle_inscription(const Separertxt separertxt, int *nb_students, Student *student_list)
+// Gère la commande inscription :
+void inscrireEtudiant(const Separertxt separertxt, int *nb_students, Etudiant *student_list)
 {
     if (separertxt.arguments_count < INSCRIPTION_ARGS_COUNT)
         return;
@@ -125,44 +132,13 @@ void handle_inscription(const Separertxt separertxt, int *nb_students, Student *
         }
     }
 
-    Student student;
-    strcpy(student.name, separertxt.list_arguments[0]);
-    student.group = atoi(separertxt.list_arguments[1]);
-    student.student_id = ++*(nb_students);
-    student.nb_absence = 0;
-    student_list[*nb_students - 1] = student;
+    Etudiant etudiant;
+    strcpy(etudiant.name, separertxt.list_arguments[0]);
+    etudiant.group = atoi(separertxt.list_arguments[1]);
+    etudiant.id_etudiant = ++*(nb_students);
+    etudiant.nb_absence = 0;
+    student_list[*nb_students - 1] = etudiant;
 
-    printf("Inscription enregistree (%d)\n", student.student_id);
+    printf("Inscription enregistree (%d)\n", etudiant.student_id);
 }
-
-    // Gère la commande inscription :
-void handle_inscription(const Separertxt separertxt, int *nb_students, Student *student_list)
-{
-    if (separertxt.arguments_count < INSCRIPTION_ARGS_COUNT)
-        return;
-
-    for (int i = 0; i < *nb_students; ++i)
-    {
-        if ((((strcmp(separertxt.list_arguments[0], student_list[i].name)) == 0) &&
-             (atoi(separertxt.list_arguments[1]) == student_list[i].group)))
-        {
-            puts("Nom incorrect");
-            return;
-        }
-    }
-
-    Student student;
-    strcpy(student.name, separertxt.list_arguments[0]);
-    student.group = atoi(separertxt.list_arguments[1]);
-    student.student_id = ++*(nb_students);
-    student.nb_absence = 0;
-    student_list[*nb_students - 1] = student;
-
-    printf("Inscription enregistree (%d)\n", student.student_id);
-}
-
-
-
-
-
 }
