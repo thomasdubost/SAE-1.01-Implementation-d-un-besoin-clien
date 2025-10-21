@@ -5,6 +5,9 @@
 
 int main()
 {
+    int etudiant_count = 0;
+    Etudiant etudiant_list[MAX_ETUDIANTS] = {0};
+    
 }
 
 void choixcommande(char *command, Separertxt *Separertxt)
@@ -137,8 +140,9 @@ void inscrireEtudiant(const Separertxt separertxt, int *nb_students, Etudiant *s
     etudiant.group = atoi(separertxt.list_arguments[1]);
     etudiant.id_etudiant = ++*(nb_students);
     etudiant.nb_absence = 0;
+    etudiant.stat = admis;
+    etudiant.notes[0];
     student_list[*nb_students - 1] = etudiant;
 
-    printf("Inscription enregistree (%d)\n", etudiant.student_id);
-}
+    printf("Inscription enregistree (%d)\n", etudiant.id_etudiant);
 }
