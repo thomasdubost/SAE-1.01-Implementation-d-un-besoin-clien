@@ -6,7 +6,7 @@
 int main()
 {
     int etudiant_count = 0;
-    Etudiant etudiant_list[MAX_ETUDIANTS] = {0};
+    Etudiant *etudiant_list[MAX_ETUDIANTS] = {0};
     
 }
 
