@@ -1,10 +1,21 @@
 #define MAX_ARGUMENTS_COUNT 3
+#define MAX_ARGUMENTS_LENGTH 256
+#define MAX_NAME_TAILLE 50
+#define INSCRIPTION_ARGS_COUNT 2
+#define MAX_ETUDIANTS 100
+#define NB_SEMESTRES 6
+#define NB_BLOCS 3
+#define NB_MATIERES 6
+#define MAX_COMMAND_LENGTH 256
+
 typedef enum
 {
-    admis,
-    exclus,
-    demissionne,
-    defaillant,
+    ADMIS,
+    AJOURNE,
+    EN_COURS,
+    DEMISSION,
+    DEFAILLANT,
+    DIPLOME,
 } Status;
 
 typedef enum
@@ -24,37 +35,37 @@ typedef enum
 typedef struct
 {
     Command_type command_type;
-    char *list_arguments[MAX_ARGUMENTS_COUNT];
-    int arguments_count;
-} Separertxt;
-
-typedef enum
-{
-    UE1 = 1,
-    UE2,
-    UE3,
-    UE4,
-    UE5,
-    UE6,
-} UE;
+    char list_arguments[MAX_ARGUMENTS_COUNT][MAX_ARGUMENTS_LENGTH];
+    int arguments_cmp;
+} texte_separer;
 
 typedef struct
 {
-    char name[MAX_NAME_LENGTH];
-    // char padding[2];
-    int nb_absence;
-    int student_id;
-    int group;
-    Status stat;
+    float note;
+    char appreciation[5]; // exemple: "ADM", "AJ", "ADC", "ADS"
+} Note;
+
+typedef struct
+{
+    Note matieres[NB_MATIERES];
+} Semestre;
+
+typedef struct
+{
+    char nom[MAX_NAME_TAILLE];
+    char prenom[MAX_NAME_TAILLE];
+    int id_etudiant;
+    Semestre semestres[NB_SEMESTRES];
+    Semestre blocs[NB_BLOCS];
+    Status status;
     int annee;
 } Etudiant;
 
-void separertxt(char *command, Separertxt *Separertxt);
-void choixcommande();
-
-void exit();
-void inscrireEtudiant();
-void cursus();
+void separertxt(char *command, texte_separer *texte_separer);
+void choixCommande(char *command, int *etudiant_count, Etudiant *etudiant_list);
+void inscrireEtudiant(const texte_separer separertxt, int *nb_students, Etudiant *student_list);
+void texteSeparerNote(texte_separer *texte_separer);
+void cursus(const texte_separer separer_txt, int nb_etudiant, Etudiant *etudiant_list);
 void note();
 void demissionDefaillance();
 void jury();
