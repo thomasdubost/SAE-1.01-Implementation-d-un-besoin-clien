@@ -6,40 +6,49 @@
 int main()
 {
     int etudiant_count = 0;
-    Etudiant *etudiant_list[MAX_ETUDIANTS] = {0};
-    
+    Etudiant etudiant_list[MAX_ETUDIANTS] = {0};
+    char command[MAX_COMMAND_LENGTH];
+    while (1)
+    {
+
+        if (fgets(command, MAX_COMMAND_LENGTH, stdin) == NULL)
+        {
+            continue;
+        }
+        choixCommande(command, &etudiant_count, etudiant_list);
+    }
 }
 
-void choixcommande(char *command, Separertxt *Separertxt)
+void choixCommande(char *command, int *etudiant_count, Etudiant *etudiant_list)
 {
     // remplace le \n a la fin de la commande par un \0
-    command_line[strcspn(command_line, "\n")] = 0;
+    command[strcspn(command, "\n")] = 0;
     // récupérer la commande séparée
-    ParsedCommand parsed_command = {0};
-    parse_command(command_line, &parsed_command);
+    texte_separer separer_txt = {0};
+    separertxt(command, &separer_txt);
 
-    switch (Separertxt->command_type)
+    switch (separer_txt.command_type)
     {
     case EXIT:
-        exit();
+        exit(0);
         break;
     case INSCRIRE_ETUDIANT:
-        inscrireEtudiant();
+        inscrireEtudiant(separer_txt, etudiant_count, etudiant_list);
         break;
     case CURSUS:
-        cursus();
+        cursus(separer_txt, *etudiant_count, etudiant_list);
         break;
     case NOTE:
-        note();
+        // note();
         break;
     case DEMISSION_DEFAILLANCE:
-        demissionDefaillance();
+        // demissionDefaillance();
         break;
     case JURY:
-        jury();
+        // jury();
         break;
     case ETUDIANTS:
-        etudiants();
+        // etudiants();
         break;
     default:
         printf("Commande inconnue. Veuillez réessayer.\n");
@@ -47,102 +56,170 @@ void choixcommande(char *command, Separertxt *Separertxt)
     }
 }
 
-void separertxt(char *command, Separertxt *Separertxt)
+void separertxt(char *command, texte_separer *texte_separer)
 {
     const char *token;
     token = strtok(command, " ");
     if (token == NULL)
     {
-        Separertxt->command_type = UNKNOWN;
+        texte_separer->command_type = UNKNOWN;
         return;
     }
 
     if (strcmp(token, "EXIT") == 0)
     {
-        Separertxt->command_type = EXIT;
+        texte_separer->command_type = EXIT;
         return;
     }
     else if (strcmp(token, "INSCRIRE") == 0)
     {
-        Separertxt->command_type = INSCRIRE_ETUDIANT;
+        texte_separer->command_type = INSCRIRE_ETUDIANT;
     }
     else if (strcmp(token, "CURSUS") == 0)
     {
-        Separertxt->command_type = CURSUS;
+        texte_separer->command_type = CURSUS;
     }
     else if (strcmp(token, "NOTE") == 0)
     {
-        // pour la commande justificatif car le dernier argument est une suite de plusieurs notes
-        separertxt_justificatif(Separertxt);
-        return;
+        texte_separer->command_type = NOTE;
     }
     else if (strcmp(token, "DEMISSION") == 0)
     {
-        Separertxt->command_type = DEMISSION_DEFAILLANCE;
+        texte_separer->command_type = DEMISSION_DEFAILLANCE;
     }
     else if (strcmp(token, "JURY") == 0)
     {
-        Separertxt->command_type = JURY;
+        texte_separer->command_type = JURY;
     }
     else if (strcmp(token, "ETUDIANTS") == 0)
     {
-        Separertxt->command_type = ETUDIANTS;
+        texte_separer->command_type = ETUDIANTS;
     }
     else
     {
-        Separertxt->command_type = UNKNOWN;
+        texte_separer->command_type = UNKNOWN;
         return;
     }
 
     int cmt = 0;
-    const char *separator = " ";
-    while ((token = strtok(NULL, token)) != NULL && cmt < MAX_ARGUMENTS_COUNT)
+    while ((token = strtok(NULL, " ")) != NULL && cmt < MAX_ARGUMENTS_COUNT)
     {
-        Separertxt->list_arguments[cmt] = token;
+        strcpy(texte_separer->list_arguments[cmt], token);
         cmt++;
     };
-    Separertxt->arguments_count = cmt;
-}
-// Sépare les arguments de la commande Justificatif
-void separertxt_justificatif(Separertxt *separertxt)
-{
-    const char *space_separator = " ";
-    const char *newline_separator = "\n";
-    int nb_argument = 0;
-    separertxt->command_type = NOTE_INPUT;
-    separertxt->list_arguments[0] = strtok(NULL, space_separator);
-    ++nb_argument;
-    separertxt->list_arguments[1] = strtok(NULL, space_separator);
-    ++nb_argument;
-    separertxt->list_arguments[2] = strtok(NULL, newline_separator);
-    ++nb_argument;
-    separertxt->arguments_count = nb_argument;
+    texte_separer->arguments_cmp = cmt;
 }
 
-// Gère la commande inscription :
-void inscrireEtudiant(const Separertxt separertxt, int *nb_students, Etudiant *student_list)
+// Inscrire un étudiant
+void inscrireEtudiant(const texte_separer separertxt, int *nb_etudiant, Etudiant *list_etudiant)
 {
-    if (separertxt.arguments_count < INSCRIPTION_ARGS_COUNT)
+    if (separertxt.arguments_cmp < INSCRIPTION_ARGS_COUNT)
         return;
 
-    for (int i = 0; i < *nb_students; ++i)
+    for (int i = 0; i < *nb_etudiant; ++i)
     {
-        if ((((strcmp(separertxt.list_arguments[0], student_list[i].name)) == 0) &&
-             (atoi(separertxt.list_arguments[1]) == student_list[i].group)))
+        if (strcmp(separertxt.list_arguments[0], list_etudiant[i].prenom) == 0 &&
+            strcmp(separertxt.list_arguments[1], list_etudiant[i].nom) == 0)
         {
             puts("Nom incorrect");
             return;
         }
     }
 
-    Etudiant etudiant;
-    strcpy(etudiant.name, separertxt.list_arguments[0]);
-    etudiant.group = atoi(separertxt.list_arguments[1]);
-    etudiant.id_etudiant = ++*(nb_students);
-    etudiant.nb_absence = 0;
-    etudiant.stat = admis;
-    etudiant.notes[0];
-    student_list[*nb_students - 1] = etudiant;
+    Etudiant etudiant = {-1};
+    strcpy(etudiant.prenom, separertxt.list_arguments[0]);
+    strcpy(etudiant.nom, separertxt.list_arguments[1]);
+    etudiant.id_etudiant = ++(*nb_etudiant);
+    etudiant.status = EN_COURS; // par défaut
+    etudiant.annee = 1;
+    list_etudiant[*nb_etudiant - 1] = etudiant;
 
     printf("Inscription enregistree (%d)\n", etudiant.id_etudiant);
+}
+
+void cursus(const texte_separer separer_txt, int nb_etudiant, Etudiant *etudiant_list)
+{
+    if (separer_txt.arguments_cmp < 1)
+    {
+        printf("Erreur : ID étudiant manquant.\n");
+        return;
+    }
+
+    int id = atoi(separer_txt.list_arguments[0]);
+    Etudiant *etudiant = NULL;
+
+    // Recherche de l’étudiant
+    for (int i = 0; i < nb_etudiant; i++)
+    {
+        if (etudiant_list[i].id_etudiant == id)
+        {
+            etudiant = &etudiant_list[i];
+            break;
+        }
+    }
+
+    if (etudiant == NULL)
+    {
+        printf("Aucun étudiant trouvé avec l’ID %d.\n", id);
+        return;
+    }
+
+    // Affichage en-tête
+    printf("%s %s\n", etudiant->prenom, etudiant->nom);
+
+    // Affichage des semestres
+    for (int s = 0; s < NB_SEMESTRES; s++)
+    {
+        printf("S%d - ", s + 1);
+        for (int m = 0; m < NB_MATIERES; m++)
+        {
+            float note = etudiant->semestres[s].matieres[m].note;
+            char *app = etudiant->semestres[s].matieres[m].appreciation;
+            if (note >= 0)
+                printf("%.1f (%s)", note, app);
+            else
+                printf("* (*)");
+            if (m < NB_MATIERES - 1)
+                printf(" - ");
+        }
+        printf(" -\n");
+    }
+
+    // Affichage des différents blocs
+    for (int b = 0; b < NB_BLOCS; b++)
+    {
+        printf("B%d - ", b + 1);
+        for (int m = 0; m < NB_MATIERES; m++)
+        {
+            float note = etudiant->blocs[b].matieres[m].note;
+            char *app = etudiant->blocs[b].matieres[m].appreciation;
+            if (note >= 0)
+                printf("%.1f (%s)", note, app);
+            else
+                printf("* (*)");
+            if (m < NB_MATIERES - 1)
+                printf(" - ");
+        }
+        printf(" -\n");
+    }
+
+    // Statut final
+    switch (etudiant->status)
+    {
+    case EN_COURS:
+        printf("en cours\n");
+        break;
+    case AJOURNE:
+        printf("ajourne\n");
+        break;
+    case DEMISSION:
+        printf("demission\n");
+        break;
+    case DIPLOME:
+        printf("diplome\n");
+        break;
+    default:
+        printf("statut inconnu\n");
+        break;
+    }
 }
