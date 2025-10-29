@@ -59,7 +59,7 @@
       "program": "${workspaceFolder}/etudiant.out",
       "args": [
         "<",
-        "${workspaceFolder}/inout/test.txt"
+        "${workspaceFolder}/inout/in.txt"
       ],
       "request": "launch",
       "externalConsole": false,
