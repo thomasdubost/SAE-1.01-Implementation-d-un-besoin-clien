@@ -7,15 +7,16 @@
 #define NB_BILANS 3
 #define NB_UE 6
 #define MAX_COMMAND_LENGTH 256
+#define NOTE_MAX 20
 
 typedef enum
 {
-    ADMIS,
+
     AJOURNE,
     EN_COURS,
-    DEMISSION,
-    DEFAILLANT,
+    STATUT_DEMISSION,
     DIPLOME,
+    DEFAILLANT,
 } Status;
 
 typedef enum
@@ -26,10 +27,10 @@ typedef enum
     CURSUS,
     NOTE,
     NOTE_INPUT,
-    DEMISSION_DEFAILLANCE,
+    DEMISSION,
+    DEFAILLANCE,
     JURY,
     ETUDIANTS,
-
 } Command_type;
 
 typedef struct
@@ -70,7 +71,9 @@ void texteSeparerNote(texte_separer *texte_separer);
 void cursus(const texte_separer separer_txt, int nb_etudiant, Etudiant *etudiant_list);
 void affichage_semestre(Etudiant etudiant, int nb_semestres);
 void note(const texte_separer separer_txt, Etudiant *etudiant_list, int nb_etudiant);
-void demissionDefaillance(const texte_separer separertxt, Etudiant *etudiant_list);
+void demission(const texte_separer separer_txt, Etudiant *etudiant_list, int nb_etudiant);
+void defaillance(const texte_separer separer_txt, Etudiant *etudiant_list, int nb_etudiant);
+
 void jury(const texte_separer separer_txt, Etudiant *etudiant_list, int nb_etudiant);
 
 void etudiants();
