@@ -1,0 +1,128 @@
+Inscription enregistree (1)
+Marcel Pagnol
+S1 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - en cours
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Marcel Pagnol
+S1 - * (*) - 10.5 (ADM) - * (*) - 8.5 (AJ) - * (*) - 6.5 (AJ) - en cours
+Demission enregistree
+Marcel Pagnol
+S1 - * (*) - 10.5 (ADM) - * (*) - 8.5 (AJ) - * (*) - 6.5 (AJ) - demission
+Inscription enregistree (2)
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+2 Kilian Mbappe
+S1 - 10.5 (ADM) - 15.2 (ADM) - 10.1 (ADM) - 11.7 (ADM) - 5.0 (AJ) - 17.7 (ADM) - en cours
+Inscription enregistree (3)
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+3 Ousmane Dembele
+S1 - 13.0 (ADM) - 11.2 (ADM) - 10.0 (ADM) - 12.8 (ADM) - 14.5 (ADM) - 12.1 (ADM) - en cours
+Semestre termine pour 2 etudiant(s)
+2 Kilian Mbappe
+S1 - 10.5 (ADM) - 15.2 (ADM) - 10.1 (ADM) - 11.7 (ADM) - 5.0 (AJ) - 17.7 (ADM) -
+S2 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - en cours
+3 Ousmane Dembele
+S1 - 13.0 (ADM) - 11.2 (ADM) - 10.0 (ADM) - 12.8 (ADM) - 14.5 (ADM) - 12.1 (ADM) -
+S2 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - en cours
+Note enregistree
+2 Kilian Mbappe
+S1 - 10.5 (ADM) - 15.2 (ADM) - 10.1 (ADM) - 11.7 (ADM) - 5.0 (AJ) - 17.7 (ADM) -
+S2 - * (*) - * (*) - 8.3 (AJ) - * (*) - * (*) - * (*) - en cours
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+2 Kilian Mbappe
+S1 - 10.5 (ADM) - 15.2 (ADM) - 10.1 (ADM) - 11.7 (ADM) - 5.0 (AJ) - 17.7 (ADM) -
+S2 - 9.7 (AJ) - 13.6 (ADM) - 8.3 (AJ) - 12.7 (ADM) - 15.2 (ADM) - 15.5 (ADM) - en cours
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+3 Ousmane Dembele
+S1 - 13.0 (ADM) - 11.2 (ADM) - 10.0 (ADM) - 12.8 (ADM) - 14.5 (ADM) - 12.1 (ADM) -
+S2 - 14.0 (ADM) - 9.6 (AJ) - 5.8 (AJ) - 11.8 (ADM) - 12.7 (ADM) - 18.7 (ADM) - en cours
+Semestre termine pour 2 etudiant(s)
+2 Kilian Mbappe
+S1 - 10.5 (ADM) - 15.2 (ADM) - 10.1 (ADM) - 11.7 (ADM) - 5.0 (ADC) - 17.7 (ADM) -
+S2 - 9.7 (ADC) - 13.6 (ADM) - 8.3 (AJ) - 12.7 (ADM) - 15.2 (ADM) - 15.5 (ADM) -
+B1 - 10.1 (ADM) - 14.4 (ADM) - 9.2 (AJ) - 12.2 (ADM) - 10.1 (ADM) - 16.6 (ADM) -
+S3 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - en cours
+3 Ousmane Dembele
+S1 - 13.0 (ADM) - 11.2 (ADM) - 10.0 (ADM) - 12.8 (ADM) - 14.5 (ADM) - 12.1 (ADM) -
+S2 - 14.0 (ADM) - 9.6 (ADC) - 5.8 (AJ) - 11.8 (ADM) - 12.7 (ADM) - 18.7 (ADM) -
+B1 - 13.5 (ADM) - 10.6 (ADM) - 7.9 (AJB) - 12.3 (ADM) - 13.6 (ADM) - 15.4 (ADM) - ajourne
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Semestre termine pour 1 etudiant(s)
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+2 Kilian Mbappe
+S1 - 10.5 (ADM) - 15.2 (ADM) - 10.1 (ADM) - 11.7 (ADM) - 5.0 (ADC) - 17.7 (ADM) -
+S2 - 9.7 (ADC) - 13.6 (ADM) - 8.3 (AJ) - 12.7 (ADM) - 15.2 (ADM) - 15.5 (ADM) -
+B1 - 10.1 (ADM) - 14.4 (ADM) - 9.2 (AJ) - 12.2 (ADM) - 10.1 (ADM) - 16.6 (ADM) -
+S3 - 10.0 (ADM) - 12.0 (ADM) - 9.5 (AJ) - 10.0 (ADM) - 13.0 (ADM) - 15.0 (ADM) -
+S4 - 9.2 (AJ) - 13.0 (ADM) - 11.1 (ADM) - 9.0 (AJ) - 12.0 (ADM) - 16.0 (ADM) - en cours
+Semestre termine pour 1 etudiant(s)
+2 Kilian Mbappe
+S1 - 10.5 (ADM) - 15.2 (ADM) - 10.1 (ADM) - 11.7 (ADM) - 5.0 (ADC) - 17.7 (ADM) -
+S2 - 9.7 (ADC) - 13.6 (ADM) - 8.3 (ADS) - 12.7 (ADM) - 15.2 (ADM) - 15.5 (ADM) -
+B1 - 10.1 (ADM) - 14.4 (ADM) - 9.2 (ADS) - 12.2 (ADM) - 10.1 (ADM) - 16.6 (ADM) -
+S3 - 10.0 (ADM) - 12.0 (ADM) - 9.5 (ADC) - 10.0 (ADM) - 13.0 (ADM) - 15.0 (ADM) -
+S4 - 9.2 (AJ) - 13.0 (ADM) - 11.1 (ADM) - 9.0 (AJ) - 12.0 (ADM) - 16.0 (ADM) -
+B2 - 9.6 (AJ) - 12.5 (ADM) - 10.3 (ADM) - 9.5 (AJ) - 12.5 (ADM) - 15.5 (ADM) -
+S5 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - en cours
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Semestre termine pour 1 etudiant(s)
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Semestre termine pour 1 etudiant(s)
+2 Kilian Mbappe
+S1 - 10.5 (ADM) - 15.2 (ADM) - 10.1 (ADM) - 11.7 (ADM) - 5.0 (ADC) - 17.7 (ADM) -
+S2 - 9.7 (ADC) - 13.6 (ADM) - 8.3 (ADS) - 12.7 (ADM) - 15.2 (ADM) - 15.5 (ADM) -
+B1 - 10.1 (ADM) - 14.4 (ADM) - 9.2 (ADS) - 12.2 (ADM) - 10.1 (ADM) - 16.6 (ADM) -
+S3 - 10.0 (ADM) - 12.0 (ADM) - 9.5 (ADC) - 10.0 (ADM) - 13.0 (ADM) - 15.0 (ADM) -
+S4 - 9.2 (ADS) - 13.0 (ADM) - 11.1 (ADM) - 9.0 (ADS) - 12.0 (ADM) - 16.0 (ADM) -
+B2 - 9.6 (ADS) - 12.5 (ADM) - 10.3 (ADM) - 9.5 (ADS) - 12.5 (ADM) - 15.5 (ADM) -
+S5 - 1.0 (ADC) - 12.0 (ADM) - 11.0 (ADM) - 12.0 (ADM) - 13.0 (ADM) - 16.0 (ADM) -
+S6 - 19.0 (ADM) - 14.0 (ADM) - 14.0 (ADM) - 11.0 (ADM) - 11.0 (ADM) - 14.0 (ADM) -
+B3 - 10.0 (ADM) - 13.0 (ADM) - 12.5 (ADM) - 11.5 (ADM) - 12.0 (ADM) - 15.0 (ADM) - diplome
+1 - Marcel Pagnol - S1 - demission
+2 - Kilian Mbape - S6 - diplome
+3 - Ousmane Dembele - S2 - ajourne
+1 demission(s)
+0 defaillance(s)
+0 en cours
+1 ajourne(s)
+1 passe(s)

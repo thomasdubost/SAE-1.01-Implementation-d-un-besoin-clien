@@ -1,0 +1,45 @@
+{
+    "tasks": [
+        {
+            "type": "process",
+            "label": "Build (GCC)",
+            "group": {
+                "kind": "build",
+                "isDefault": false
+            },
+            "command": "gcc",
+            "args": [
+                "-g",
+                "${workspaceFolder}/etudiant.c",
+                "-o",
+                "${workspaceFolder}/etudiant.out"
+            ],
+            "problemMatcher": [
+                "$gcc"
+            ]
+        },
+        {
+            "type": "process",
+            "label": "Build (MSVC)",
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "command": "cl",
+            "args": [
+                "/W4",
+                "/analyze",
+                "/TC",
+                "/Zi",
+                "/Od",
+                "/nologo",
+                "/Fe${workspaceFolder}/etudiant.exe",
+                "${workspaceFolder}/etudiant.c"
+            ],
+            "problemMatcher": [
+                "$msCompile"
+            ]
+        }
+    ],
+    "version": "2.0.0"
+}

@@ -1,0 +1,72 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Debug (Windows)",
+      "type": "cppvsdbg",
+      "program": "${workspaceFolder}/etudiant.exe",
+      "request": "launch",
+      "console": "externalTerminal",
+      "stopAtEntry": false,
+      "cwd": "${workspaceRoot}",
+      "preLaunchTask": "Build (MSVC)"
+    },
+
+
+
+
+
+
+
+    
+    {
+      "name": "Debug (Linux)",
+      "type": "cppdbg",
+      "program": "${workspaceFolder}/etudiant.out",
+      "request": "launch",
+      "externalConsole": false,
+      "stopAtEntry": false,
+      "cwd": "${workspaceRoot}",
+      "preLaunchTask": "Build (GCC)"
+    },
+
+
+
+
+
+
+
+
+
+
+    {
+      "name": "Launch initial tests (Windows)",
+      "type": "cppvsdbg",
+      "request": "launch",
+      "console": "externalTerminal",
+      "program": "${workspaceFolder}/etudiant.exe",
+      "args": [
+        "<",
+        "${workspaceFolder}/test.txt"
+      ],
+      "stopAtEntry": false,
+      "cwd": "${fileDirname}",
+      "preLaunchTask": "Build (MSVC)"
+    },
+    {
+      "name": "Launch initial tests (Linux)",
+      "type": "cppdbg",
+      "program": "${workspaceFolder}/etudiant.out",
+      "args": [
+        "<",
+        "${workspaceFolder}/inout/test.txt"
+      ],
+      "request": "launch",
+      "externalConsole": false,
+      "stopAtEntry": false,
+      "cwd": "${workspaceRoot}",
+      "preLaunchTask": "Build (GCC)"
+    },
+    
+  ]
+}
