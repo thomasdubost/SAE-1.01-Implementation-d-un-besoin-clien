@@ -67,6 +67,23 @@
       "cwd": "${workspaceRoot}",
       "preLaunchTask": "Build (GCC)"
     },
+
+    {
+      "name": "Input in.txt output out_program.txt (Linux)",
+      "type": "cppdbg",
+      "program": "${workspaceFolder}/etudiant.out",
+      "args": [
+        "<",
+        "${workspaceFolder}/inout/in.txt",
+        ">",
+        "${workspaceFolder}/inout/out_program.tx"
+      ],
+      "request": "launch",
+      "externalConsole": false,
+      "stopAtEntry": false,
+      "cwd": "${workspaceRoot}",
+      "preLaunchTask": "Build (GCC)"
+    },
     
   ]
 }

@@ -8,6 +8,7 @@
 #define NB_UE 6
 #define MAX_COMMAND_LENGTH 256
 #define NOTE_MAX 20
+#define APPRECIATION_LENGTH 5
 
 typedef enum
 {
@@ -43,7 +44,7 @@ typedef struct
 typedef struct
 {
     float note;
-    char appreciation[5]; // exemple: "ADM", "AJ", "ADC", "ADS"
+    char appreciation[APPRECIATION_LENGTH]; // exemple: "ADM", "AJ", "ADC", "ADS"
 } Note;
 
 typedef struct
@@ -69,7 +70,8 @@ void choixCommande(char *command, int *etudiant_count, Etudiant *etudiant_list);
 void inscrireEtudiant(const texte_separer separertxt, int *nb_students, Etudiant *student_list);
 void texteSeparerNote(texte_separer *texte_separer);
 void cursus(const texte_separer separer_txt, int nb_etudiant, Etudiant *etudiant_list);
-void affichage_semestre(Etudiant etudiant, int nb_semestres);
+void affichage_semestre(Etudiant etudiant);
+void affichage_bilan(Etudiant etudiant, int bilan_a_afficher);
 void note(const texte_separer separer_txt, Etudiant *etudiant_list, int nb_etudiant);
 void demission(const texte_separer separer_txt, Etudiant *etudiant_list, int nb_etudiant);
 void defaillance(const texte_separer separer_txt, Etudiant *etudiant_list, int nb_etudiant);
