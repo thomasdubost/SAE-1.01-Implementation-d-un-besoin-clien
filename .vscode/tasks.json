@@ -12,7 +12,8 @@
                 "-g",
                 "${workspaceFolder}/etudiant.c",
                 "-o",
-                "${workspaceFolder}/etudiant.out"
+                "${workspaceFolder}/etudiant.out",
+                "-lm"
             ],
             "problemMatcher": [
                 "$gcc"

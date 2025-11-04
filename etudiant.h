@@ -9,6 +9,7 @@
 #define MAX_COMMAND_LENGTH 256
 #define NOTE_MAX 20
 #define APPRECIATION_LENGTH 5
+#define NB_SEMESTRE_PAR_BILAN 2
 
 typedef enum
 {
@@ -60,9 +61,7 @@ typedef struct
     UE semestres[NB_SEMESTRES];
     int semestre_en_cours;
     UE bilan[NB_BILANS];
-    int bilan_en_cours;
     Status status;
-    int annee;
 } Etudiant;
 
 void separertxt(char *command, texte_separer *texte_separer);
@@ -75,9 +74,7 @@ void affichage_bilan(Etudiant etudiant, int bilan_a_afficher);
 void note(const texte_separer separer_txt, Etudiant *etudiant_list, int nb_etudiant);
 void demission(const texte_separer separer_txt, Etudiant *etudiant_list, int nb_etudiant);
 void defaillance(const texte_separer separer_txt, Etudiant *etudiant_list, int nb_etudiant);
-
 void jury(const texte_separer separer_txt, Etudiant *etudiant_list, int nb_etudiant);
-
-void etudiants();
+void etudiants(const texte_separer separertxt, Etudiant *etudiant_list, int nb_etudiant);
 
 void init_ue(UE semestres[]);

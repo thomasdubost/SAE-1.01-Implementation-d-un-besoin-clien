@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include "etudiant.h"
 #include <string.h>
+#include <math.h>
 
 int main()
 {
@@ -52,7 +53,7 @@ void choixCommande(char *command, int *etudiant_count, Etudiant *etudiant_list)
         jury(separer_txt, etudiant_list, *etudiant_count);
         break;
     case ETUDIANTS:
-        // etudiants();
+        etudiants(separer_txt, etudiant_list, *etudiant_count);
         break;
     default:
         printf("Commande inconnue. Veuillez réessayer.\n");
@@ -139,10 +140,8 @@ void inscrireEtudiant(const texte_separer separertxt, int *nb_etudiant, Etudiant
     strcpy(etudiant.nom, separertxt.list_arguments[1]);
     init_ue(etudiant.semestres);
     etudiant.semestre_en_cours = 1;
-    etudiant.bilan_en_cours = 1;
     etudiant.id_etudiant = ++(*nb_etudiant);
     etudiant.status = EN_COURS; // par défaut
-    etudiant.annee = 1;
     list_etudiant[*nb_etudiant - 1] = etudiant;
 
     printf("Inscription enregistree (%d)\n", etudiant.id_etudiant);
@@ -219,7 +218,7 @@ void affichage_semestre(Etudiant etudiant)
             float note = etudiant.semestres[s].UE[m].note;
             char *app = etudiant.semestres[s].UE[m].appreciation;
             if (note != -1)
-                printf("%.1f (%s)", note, app);
+                printf("%.1f (%s)", floorf(note * 10.f) / 10.f, app);
             else
                 printf("* (*)");
             printf(" - ");
@@ -239,7 +238,7 @@ void affichage_bilan(Etudiant etudiant, int bilan_a_afficher)
         float note = etudiant.bilan[bilan_a_afficher].UE[m].note;
         char *app = etudiant.bilan[bilan_a_afficher].UE[m].appreciation;
         if (note >= 0)
-            printf("%.1f (%s)", note, app);
+            printf("%.1f (%s)", floorf(note * 10.f) / 10.f, app);
         else
             printf("* (*)");
         printf(" - ");
@@ -339,32 +338,31 @@ void jury(const texte_separer separer_txt, Etudiant *etudiant_list, int nb_etudi
         for (int num_ue = 0; num_ue < NB_UE; ++num_ue)
         {
             float note = etudiant->semestres[semestre_index].UE[num_ue].note;
-            if (note < 10)
-            {
-                float note_semestre_precedent = etudiant->semestres[semestre_index - 1].UE[num_ue].note;
-                float moyenne_note = (note + note_semestre_precedent) / 2;
+            float note_semestre_precedent = etudiant->semestres[semestre_index - 1].UE[num_ue].note;
+            float moyenne_note = (note + note_semestre_precedent) / 2;
 
-                if (moyenne_note >= 10)
-                {
-                    strcpy(etudiant->semestres[semestre_index].UE[num_ue].appreciation, "ADC");
-                }
+            if (note >= 10 || moyenne_note < 10)
+            {
+                continue;
             }
+
+            strcpy(etudiant->semestres[semestre_index].UE[num_ue].appreciation, "ADC");
         }
         // verification des notes pour le semestre d'avant
         for (int num_ue = 0; num_ue < NB_UE; ++num_ue)
         {
             float note = etudiant->semestres[semestre_index - 1].UE[num_ue].note;
-            if (note < 10)
-            {
-                float note_semestre_suivant = etudiant->semestres[semestre_index].UE[num_ue].note;
-                float moyenne_note = (note + note_semestre_suivant) / 2;
+            float note_semestre_suivant = etudiant->semestres[semestre_index].UE[num_ue].note;
+            float moyenne_note = (note + note_semestre_suivant) / 2;
 
-                if (moyenne_note >= 10)
-                {
-                    strcpy(etudiant->semestres[semestre_index - 1].UE[num_ue].appreciation, "ADC");
-                }
+            if (note >= 10 || moyenne_note < 10)
+            {
+                continue;
             }
+
+            strcpy(etudiant->semestres[semestre_index - 1].UE[num_ue].appreciation, "ADC");
         }
+
         etudiant->semestre_en_cours++;
         nb_etudiant_affectes++;
     }
@@ -374,6 +372,19 @@ void jury(const texte_separer separer_txt, Etudiant *etudiant_list, int nb_etudi
         printf("Semestre termine pour %d etudiant(s)\n", nb_etudiant_affectes);
     }
 }
+
+void calculer_bilan(Etudiant *etudiant, int num_bilan)
+{
+    int numero_semestre_index = num_bilan * NB_SEMESTRE_PAR_BILAN - 1;
+    for (int i = 0; i < NB_UE; ++i)
+    {
+        float note_semestre_1 = etudiant->semestres[numero_semestre_index - 1].UE[i].note;
+        float note_semestre_2 = etudiant->semestres[numero_semestre_index].UE[i].note;
+        float moyenne = (note_semestre_1 + note_semestre_2) / 2;
+        etudiant->bilan[num_bilan - 1].UE->note = moyenne;
+    }
+}
+
 void demission(const texte_separer separer_txt, Etudiant *etudiant_list, int nb_etudiant)
 {
     int id = atoi(separer_txt.list_arguments[0]);
@@ -393,6 +404,7 @@ void demission(const texte_separer separer_txt, Etudiant *etudiant_list, int nb_
     etudiant->status = STATUT_DEMISSION;
     puts("Demission enregistree");
 }
+
 void defaillance(const texte_separer separer_txt, Etudiant *etudiant_list, int nb_etudiant)
 {
     int id = atoi(separer_txt.list_arguments[0]);
@@ -411,4 +423,13 @@ void defaillance(const texte_separer separer_txt, Etudiant *etudiant_list, int n
     }
     etudiant->status = DEFAILLANT;
     puts("Defaillance enregistree");
+}
+
+void etudiants(const texte_separer separertxt, Etudiant *etudiant_list, int nb_etudiant)
+{
+    for (int i = 0; i < nb_etudiant; ++i)
+    {
+        Etudiant *etudiant = &etudiant_list[i];
+        printf("%d - %s %s - S%d - %s\n", i + 1, etudiant->prenom, etudiant->nom, etudiant->semestre_en_cours, etudiant->status);
+    }
 }

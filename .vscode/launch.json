@@ -53,13 +53,15 @@
       "cwd": "${fileDirname}",
       "preLaunchTask": "Build (MSVC)"
     },
+
+
     {
       "name": "Launch initial tests (Linux)",
       "type": "cppdbg",
       "program": "${workspaceFolder}/etudiant.out",
       "args": [
         "<",
-        "${workspaceFolder}/inout/in.txt"
+        "${workspaceFolder}/inout/inout-sujet/in.txt.txt"
       ],
       "request": "launch",
       "externalConsole": false,
@@ -74,9 +76,9 @@
       "program": "${workspaceFolder}/etudiant.out",
       "args": [
         "<",
-        "${workspaceFolder}/inout/in.txt",
+        "${workspaceFolder}/inout/in-sp1-1.txt",
         ">",
-        "${workspaceFolder}/inout/out_program.tx"
+        "${workspaceFolder}/inout/out_program.txt"
       ],
       "request": "launch",
       "externalConsole": false,
