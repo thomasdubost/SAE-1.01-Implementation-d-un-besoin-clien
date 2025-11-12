@@ -1,0 +1,2201 @@
+Inscription enregistree (1)
+1 Lie Ily
+S1 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - en cours
+Note incorrecte
+Inscription enregistree (2)
+Note enregistree
+Inscription enregistree (3)
+1 - Lie Ily - S1 - en cours
+2 - Chi Ael - S1 - en cours
+3 - Jil Ony - S1 - en cours
+Inscription enregistree (4)
+Note enregistree
+Inscription enregistree (5)
+Inscription enregistree (6)
+Inscription enregistree (7)
+Semestre incorrect
+Note enregistree
+Note enregistree
+Inscription enregistree (8)
+Inscription enregistree (9)
+Inscription enregistree (10)
+Inscription enregistree (11)
+Inscription enregistree (12)
+Inscription enregistree (13)
+Inscription enregistree (14)
+1 - Lie Ily - S1 - en cours
+2 - Chi Ael - S1 - en cours
+3 - Jil Ony - S1 - en cours
+4 - Lan Ben - S1 - en cours
+5 - Ida Ece - S1 - en cours
+6 - Aza Leo - S1 - en cours
+7 - Joe Eva - S1 - en cours
+8 - Zoe Evi - S1 - en cours
+9 - Nah Ane - S1 - en cours
+10 - Any Luu - S1 - en cours
+11 - Lan Sam - S1 - en cours
+12 - Kye Lyn - S1 - en cours
+13 - Ony Evi - S1 - en cours
+14 - Tya Apo - S1 - en cours
+Note enregistree
+Note enregistree
+Note enregistree
+Inscription enregistree (15)
+Note enregistree
+Inscription enregistree (16)
+Inscription enregistree (17)
+1 - Lie Ily - S1 - en cours
+2 - Chi Ael - S1 - en cours
+3 - Jil Ony - S1 - en cours
+4 - Lan Ben - S1 - en cours
+5 - Ida Ece - S1 - en cours
+6 - Aza Leo - S1 - en cours
+7 - Joe Eva - S1 - en cours
+8 - Zoe Evi - S1 - en cours
+9 - Nah Ane - S1 - en cours
+10 - Any Luu - S1 - en cours
+11 - Lan Sam - S1 - en cours
+12 - Kye Lyn - S1 - en cours
+13 - Ony Evi - S1 - en cours
+14 - Tya Apo - S1 - en cours
+15 - Lie Rey - S1 - en cours
+16 - Oum Vic - S1 - en cours
+17 - Ida Ane - S1 - en cours
+Inscription enregistree (18)
+4 Lan Ben
+S1 - 5.9 (AJ) - * (*) - * (*) - * (*) - 10.0 (ADM) - * (*) - en cours
+Note enregistree
+16 Oum Vic
+S1 - * (*) - * (*) - 7.8 (AJ) - * (*) - * (*) - * (*) - en cours
+Inscription enregistree (19)
+Note enregistree
+2 Chi Ael
+S1 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - en cours
+Inscription enregistree (20)
+Note enregistree
+Inscription enregistree (21)
+1 - Lie Ily - S1 - en cours
+2 - Chi Ael - S1 - en cours
+3 - Jil Ony - S1 - en cours
+4 - Lan Ben - S1 - en cours
+5 - Ida Ece - S1 - en cours
+6 - Aza Leo - S1 - en cours
+7 - Joe Eva - S1 - en cours
+8 - Zoe Evi - S1 - en cours
+9 - Nah Ane - S1 - en cours
+10 - Any Luu - S1 - en cours
+11 - Lan Sam - S1 - en cours
+12 - Kye Lyn - S1 - en cours
+13 - Ony Evi - S1 - en cours
+14 - Tya Apo - S1 - en cours
+15 - Lie Rey - S1 - en cours
+16 - Oum Vic - S1 - en cours
+17 - Ida Ane - S1 - en cours
+18 - Bia Eri - S1 - en cours
+19 - Mia Flo - S1 - en cours
+20 - Ida Rut - S1 - en cours
+21 - Eri Ami - S1 - en cours
+Inscription enregistree (22)
+Identifiant incorrect
+Note enregistree
+Inscription enregistree (23)
+0 demission(s)
+0 defaillance(s)
+23 en cours
+0 ajourne(s)
+0 passe(s)
+Inscription enregistree (24)
+Note enregistree
+Note enregistree
+Inscription enregistree (25)
+Inscription enregistree (26)
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+18 Bia Eri
+S1 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - en cours
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+0 demission(s)
+0 defaillance(s)
+26 en cours
+0 ajourne(s)
+0 passe(s)
+Note enregistree
+Annee incorrecte
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+1 - Lie Ily - S1 - en cours
+2 - Chi Ael - S1 - en cours
+3 - Jil Ony - S1 - en cours
+4 - Lan Ben - S1 - en cours
+5 - Ida Ece - S1 - en cours
+6 - Aza Leo - S1 - en cours
+7 - Joe Eva - S1 - en cours
+8 - Zoe Evi - S1 - en cours
+9 - Nah Ane - S1 - en cours
+10 - Any Luu - S1 - en cours
+11 - Lan Sam - S1 - en cours
+12 - Kye Lyn - S1 - en cours
+13 - Ony Evi - S1 - en cours
+14 - Tya Apo - S1 - en cours
+15 - Lie Rey - S1 - en cours
+16 - Oum Vic - S1 - en cours
+17 - Ida Ane - S1 - en cours
+18 - Bia Eri - S1 - en cours
+19 - Mia Flo - S1 - en cours
+20 - Ida Rut - S1 - en cours
+21 - Eri Ami - S1 - en cours
+22 - Abi Luu - S1 - en cours
+23 - Rob Zoe - S1 - en cours
+24 - Mya Teo - S1 - en cours
+25 - Jay Ony - S1 - en cours
+26 - Nor Rey - S1 - en cours
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+1 - Lie Ily - S1 - en cours
+2 - Chi Ael - S1 - en cours
+3 - Jil Ony - S1 - en cours
+4 - Lan Ben - S1 - en cours
+5 - Ida Ece - S1 - en cours
+6 - Aza Leo - S1 - en cours
+7 - Joe Eva - S1 - en cours
+8 - Zoe Evi - S1 - en cours
+9 - Nah Ane - S1 - en cours
+10 - Any Luu - S1 - en cours
+11 - Lan Sam - S1 - en cours
+12 - Kye Lyn - S1 - en cours
+13 - Ony Evi - S1 - en cours
+14 - Tya Apo - S1 - en cours
+15 - Lie Rey - S1 - en cours
+16 - Oum Vic - S1 - en cours
+17 - Ida Ane - S1 - en cours
+18 - Bia Eri - S1 - en cours
+19 - Mia Flo - S1 - en cours
+20 - Ida Rut - S1 - en cours
+21 - Eri Ami - S1 - en cours
+22 - Abi Luu - S1 - en cours
+23 - Rob Zoe - S1 - en cours
+24 - Mya Teo - S1 - en cours
+25 - Jay Ony - S1 - en cours
+26 - Nor Rey - S1 - en cours
+Note enregistree
+5 Ida Ece
+S1 - * (*) - * (*) - * (*) - 2.3 (AJ) - 6.1 (AJ) - 5.2 (AJ) - en cours
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+1 - Lie Ily - S1 - en cours
+2 - Chi Ael - S1 - en cours
+3 - Jil Ony - S1 - en cours
+4 - Lan Ben - S1 - en cours
+5 - Ida Ece - S1 - en cours
+6 - Aza Leo - S1 - en cours
+7 - Joe Eva - S1 - en cours
+8 - Zoe Evi - S1 - en cours
+9 - Nah Ane - S1 - en cours
+10 - Any Luu - S1 - en cours
+11 - Lan Sam - S1 - en cours
+12 - Kye Lyn - S1 - en cours
+13 - Ony Evi - S1 - en cours
+14 - Tya Apo - S1 - en cours
+15 - Lie Rey - S1 - en cours
+16 - Oum Vic - S1 - en cours
+17 - Ida Ane - S1 - en cours
+18 - Bia Eri - S1 - en cours
+19 - Mia Flo - S1 - en cours
+20 - Ida Rut - S1 - en cours
+21 - Eri Ami - S1 - en cours
+22 - Abi Luu - S1 - en cours
+23 - Rob Zoe - S1 - en cours
+24 - Mya Teo - S1 - en cours
+25 - Jay Ony - S1 - en cours
+26 - Nor Rey - S1 - en cours
+Note enregistree
+Note enregistree
+Note enregistree
+1 - Lie Ily - S1 - en cours
+2 - Chi Ael - S1 - en cours
+3 - Jil Ony - S1 - en cours
+4 - Lan Ben - S1 - en cours
+5 - Ida Ece - S1 - en cours
+6 - Aza Leo - S1 - en cours
+7 - Joe Eva - S1 - en cours
+8 - Zoe Evi - S1 - en cours
+9 - Nah Ane - S1 - en cours
+10 - Any Luu - S1 - en cours
+11 - Lan Sam - S1 - en cours
+12 - Kye Lyn - S1 - en cours
+13 - Ony Evi - S1 - en cours
+14 - Tya Apo - S1 - en cours
+15 - Lie Rey - S1 - en cours
+16 - Oum Vic - S1 - en cours
+17 - Ida Ane - S1 - en cours
+18 - Bia Eri - S1 - en cours
+19 - Mia Flo - S1 - en cours
+20 - Ida Rut - S1 - en cours
+21 - Eri Ami - S1 - en cours
+22 - Abi Luu - S1 - en cours
+23 - Rob Zoe - S1 - en cours
+24 - Mya Teo - S1 - en cours
+25 - Jay Ony - S1 - en cours
+26 - Nor Rey - S1 - en cours
+Note enregistree
+1 - Lie Ily - S1 - en cours
+2 - Chi Ael - S1 - en cours
+3 - Jil Ony - S1 - en cours
+4 - Lan Ben - S1 - en cours
+5 - Ida Ece - S1 - en cours
+6 - Aza Leo - S1 - en cours
+7 - Joe Eva - S1 - en cours
+8 - Zoe Evi - S1 - en cours
+9 - Nah Ane - S1 - en cours
+10 - Any Luu - S1 - en cours
+11 - Lan Sam - S1 - en cours
+12 - Kye Lyn - S1 - en cours
+13 - Ony Evi - S1 - en cours
+14 - Tya Apo - S1 - en cours
+15 - Lie Rey - S1 - en cours
+16 - Oum Vic - S1 - en cours
+17 - Ida Ane - S1 - en cours
+18 - Bia Eri - S1 - en cours
+19 - Mia Flo - S1 - en cours
+20 - Ida Rut - S1 - en cours
+21 - Eri Ami - S1 - en cours
+22 - Abi Luu - S1 - en cours
+23 - Rob Zoe - S1 - en cours
+24 - Mya Teo - S1 - en cours
+25 - Jay Ony - S1 - en cours
+26 - Nor Rey - S1 - en cours
+Note enregistree
+Note enregistree
+Note enregistree
+0 demission(s)
+0 defaillance(s)
+26 en cours
+0 ajourne(s)
+0 passe(s)
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+18 Bia Eri
+S1 - * (*) - 3.6 (AJ) - 18.9 (ADM) - * (*) - * (*) - 5.2 (AJ) - en cours
+Note enregistree
+Note enregistree
+21 Eri Ami
+S1 - 19.0 (ADM) - * (*) - * (*) - 19.9 (ADM) - * (*) - * (*) - en cours
+Note enregistree
+Note enregistree
+Note enregistree
+0 demission(s)
+0 defaillance(s)
+26 en cours
+0 ajourne(s)
+0 passe(s)
+Note enregistree
+Note enregistree
+Note enregistree
+14 Tya Apo
+S1 - 10.4 (ADM) - 7.3 (AJ) - 18.1 (ADM) - 15.7 (ADM) - 9.7 (AJ) - 10.0 (ADM) - en cours
+Identifiant incorrect
+Note enregistree
+1 - Lie Ily - S1 - en cours
+2 - Chi Ael - S1 - en cours
+3 - Jil Ony - S1 - en cours
+4 - Lan Ben - S1 - en cours
+5 - Ida Ece - S1 - en cours
+6 - Aza Leo - S1 - en cours
+7 - Joe Eva - S1 - en cours
+8 - Zoe Evi - S1 - en cours
+9 - Nah Ane - S1 - en cours
+10 - Any Luu - S1 - en cours
+11 - Lan Sam - S1 - en cours
+12 - Kye Lyn - S1 - en cours
+13 - Ony Evi - S1 - en cours
+14 - Tya Apo - S1 - en cours
+15 - Lie Rey - S1 - en cours
+16 - Oum Vic - S1 - en cours
+17 - Ida Ane - S1 - en cours
+18 - Bia Eri - S1 - en cours
+19 - Mia Flo - S1 - en cours
+20 - Ida Rut - S1 - en cours
+21 - Eri Ami - S1 - en cours
+22 - Abi Luu - S1 - en cours
+23 - Rob Zoe - S1 - en cours
+24 - Mya Teo - S1 - en cours
+25 - Jay Ony - S1 - en cours
+26 - Nor Rey - S1 - en cours
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+12 Kye Lyn
+S1 - * (*) - 13.4 (ADM) - * (*) - * (*) - 14.8 (ADM) - * (*) - en cours
+Note enregistree
+Note enregistree
+0 demission(s)
+0 defaillance(s)
+26 en cours
+0 ajourne(s)
+0 passe(s)
+Note enregistree
+9 Nah Ane
+S1 - 1.3 (AJ) - 4.0 (AJ) - 13.9 (ADM) - 13.2 (ADM) - 14.3 (ADM) - 9.8 (AJ) - en cours
+Note enregistree
+Identifiant incorrect
+Note enregistree
+10 Any Luu
+S1 - * (*) - 13.5 (ADM) - 14.4 (ADM) - 16.2 (ADM) - 13.4 (ADM) - 11.0 (ADM) - en cours
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+1 - Lie Ily - S1 - en cours
+2 - Chi Ael - S1 - en cours
+3 - Jil Ony - S1 - en cours
+4 - Lan Ben - S1 - en cours
+5 - Ida Ece - S1 - en cours
+6 - Aza Leo - S1 - en cours
+7 - Joe Eva - S1 - en cours
+8 - Zoe Evi - S1 - en cours
+9 - Nah Ane - S1 - en cours
+10 - Any Luu - S1 - en cours
+11 - Lan Sam - S1 - en cours
+12 - Kye Lyn - S1 - en cours
+13 - Ony Evi - S1 - en cours
+14 - Tya Apo - S1 - en cours
+15 - Lie Rey - S1 - en cours
+16 - Oum Vic - S1 - en cours
+17 - Ida Ane - S1 - en cours
+18 - Bia Eri - S1 - en cours
+19 - Mia Flo - S1 - en cours
+20 - Ida Rut - S1 - en cours
+21 - Eri Ami - S1 - en cours
+22 - Abi Luu - S1 - en cours
+23 - Rob Zoe - S1 - en cours
+24 - Mya Teo - S1 - en cours
+25 - Jay Ony - S1 - en cours
+26 - Nor Rey - S1 - en cours
+Note enregistree
+Note enregistree
+1 - Lie Ily - S1 - en cours
+2 - Chi Ael - S1 - en cours
+3 - Jil Ony - S1 - en cours
+4 - Lan Ben - S1 - en cours
+5 - Ida Ece - S1 - en cours
+6 - Aza Leo - S1 - en cours
+7 - Joe Eva - S1 - en cours
+8 - Zoe Evi - S1 - en cours
+9 - Nah Ane - S1 - en cours
+10 - Any Luu - S1 - en cours
+11 - Lan Sam - S1 - en cours
+12 - Kye Lyn - S1 - en cours
+13 - Ony Evi - S1 - en cours
+14 - Tya Apo - S1 - en cours
+15 - Lie Rey - S1 - en cours
+16 - Oum Vic - S1 - en cours
+17 - Ida Ane - S1 - en cours
+18 - Bia Eri - S1 - en cours
+19 - Mia Flo - S1 - en cours
+20 - Ida Rut - S1 - en cours
+21 - Eri Ami - S1 - en cours
+22 - Abi Luu - S1 - en cours
+23 - Rob Zoe - S1 - en cours
+24 - Mya Teo - S1 - en cours
+25 - Jay Ony - S1 - en cours
+26 - Nor Rey - S1 - en cours
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+0 demission(s)
+0 defaillance(s)
+26 en cours
+0 ajourne(s)
+0 passe(s)
+Note enregistree
+18 Bia Eri
+S1 - * (*) - 3.6 (AJ) - 18.9 (ADM) - 8.8 (AJ) - 13.0 (ADM) - 5.2 (AJ) - en cours
+Demission enregistree
+Note enregistree
+1 - Lie Ily - S1 - en cours
+2 - Chi Ael - S1 - en cours
+3 - Jil Ony - S1 - en cours
+4 - Lan Ben - S1 - en cours
+5 - Ida Ece - S1 - en cours
+6 - Aza Leo - S1 - en cours
+7 - Joe Eva - S1 - en cours
+8 - Zoe Evi - S1 - en cours
+9 - Nah Ane - S1 - en cours
+10 - Any Luu - S1 - en cours
+11 - Lan Sam - S1 - en cours
+12 - Kye Lyn - S1 - en cours
+13 - Ony Evi - S1 - demission
+14 - Tya Apo - S1 - en cours
+15 - Lie Rey - S1 - en cours
+16 - Oum Vic - S1 - en cours
+17 - Ida Ane - S1 - en cours
+18 - Bia Eri - S1 - en cours
+19 - Mia Flo - S1 - en cours
+20 - Ida Rut - S1 - en cours
+21 - Eri Ami - S1 - en cours
+22 - Abi Luu - S1 - en cours
+23 - Rob Zoe - S1 - en cours
+24 - Mya Teo - S1 - en cours
+25 - Jay Ony - S1 - en cours
+26 - Nor Rey - S1 - en cours
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+1 demission(s)
+0 defaillance(s)
+25 en cours
+0 ajourne(s)
+0 passe(s)
+Note enregistree
+1 - Lie Ily - S1 - en cours
+2 - Chi Ael - S1 - en cours
+3 - Jil Ony - S1 - en cours
+4 - Lan Ben - S1 - en cours
+5 - Ida Ece - S1 - en cours
+6 - Aza Leo - S1 - en cours
+7 - Joe Eva - S1 - en cours
+8 - Zoe Evi - S1 - en cours
+9 - Nah Ane - S1 - en cours
+10 - Any Luu - S1 - en cours
+11 - Lan Sam - S1 - en cours
+12 - Kye Lyn - S1 - en cours
+13 - Ony Evi - S1 - demission
+14 - Tya Apo - S1 - en cours
+15 - Lie Rey - S1 - en cours
+16 - Oum Vic - S1 - en cours
+17 - Ida Ane - S1 - en cours
+18 - Bia Eri - S1 - en cours
+19 - Mia Flo - S1 - en cours
+20 - Ida Rut - S1 - en cours
+21 - Eri Ami - S1 - en cours
+22 - Abi Luu - S1 - en cours
+23 - Rob Zoe - S1 - en cours
+24 - Mya Teo - S1 - en cours
+25 - Jay Ony - S1 - en cours
+26 - Nor Rey - S1 - en cours
+Note enregistree
+Note enregistree
+Note enregistree
+1 demission(s)
+0 defaillance(s)
+25 en cours
+0 ajourne(s)
+0 passe(s)
+Note enregistree
+17 Ida Ane
+S1 - 3.8 (AJ) - 19.3 (ADM) - 10.2 (ADM) - 3.2 (AJ) - 6.8 (AJ) - 4.8 (AJ) - en cours
+Semestre incorrect
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+1 demission(s)
+0 defaillance(s)
+25 en cours
+0 ajourne(s)
+0 passe(s)
+Defaillance enregistree
+Identifiant incorrect
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+24 Mya Teo
+S1 - 14.2 (ADM) - 13.3 (ADM) - 12.2 (ADM) - 18.4 (ADM) - 17.7 (ADM) - 0.3 (AJ) - en cours
+Note enregistree
+Note enregistree
+Semestre termine pour 24 etudiant(s)
+Note enregistree
+Note enregistree
+Note enregistree
+1 - Lie Ily - S2 - en cours
+2 - Chi Ael - S2 - en cours
+3 - Jil Ony - S2 - en cours
+4 - Lan Ben - S2 - en cours
+5 - Ida Ece - S1 - defaillance
+6 - Aza Leo - S2 - en cours
+7 - Joe Eva - S2 - en cours
+8 - Zoe Evi - S2 - en cours
+9 - Nah Ane - S2 - en cours
+10 - Any Luu - S2 - en cours
+11 - Lan Sam - S2 - en cours
+12 - Kye Lyn - S2 - en cours
+13 - Ony Evi - S1 - demission
+14 - Tya Apo - S2 - en cours
+15 - Lie Rey - S2 - en cours
+16 - Oum Vic - S2 - en cours
+17 - Ida Ane - S2 - en cours
+18 - Bia Eri - S2 - en cours
+19 - Mia Flo - S2 - en cours
+20 - Ida Rut - S2 - en cours
+21 - Eri Ami - S2 - en cours
+22 - Abi Luu - S2 - en cours
+23 - Rob Zoe - S2 - en cours
+24 - Mya Teo - S2 - en cours
+25 - Jay Ony - S2 - en cours
+26 - Nor Rey - S2 - en cours
+Note enregistree
+22 Abi Luu
+S1 - 17.1 (ADM) - 2.0 (AJ) - 13.2 (ADM) - 12.2 (ADM) - 18.9 (ADM) - 9.2 (AJ) -
+S2 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - en cours
+Note enregistree
+1 - Lie Ily - S2 - en cours
+2 - Chi Ael - S2 - en cours
+3 - Jil Ony - S2 - en cours
+4 - Lan Ben - S2 - en cours
+5 - Ida Ece - S1 - defaillance
+6 - Aza Leo - S2 - en cours
+7 - Joe Eva - S2 - en cours
+8 - Zoe Evi - S2 - en cours
+9 - Nah Ane - S2 - en cours
+10 - Any Luu - S2 - en cours
+11 - Lan Sam - S2 - en cours
+12 - Kye Lyn - S2 - en cours
+13 - Ony Evi - S1 - demission
+14 - Tya Apo - S2 - en cours
+15 - Lie Rey - S2 - en cours
+16 - Oum Vic - S2 - en cours
+17 - Ida Ane - S2 - en cours
+18 - Bia Eri - S2 - en cours
+19 - Mia Flo - S2 - en cours
+20 - Ida Rut - S2 - en cours
+21 - Eri Ami - S2 - en cours
+22 - Abi Luu - S2 - en cours
+23 - Rob Zoe - S2 - en cours
+24 - Mya Teo - S2 - en cours
+25 - Jay Ony - S2 - en cours
+26 - Nor Rey - S2 - en cours
+Note enregistree
+Note enregistree
+Defaillance enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+1 demission(s)
+2 defaillance(s)
+23 en cours
+0 ajourne(s)
+0 passe(s)
+Note enregistree
+Note enregistree
+Note enregistree
+1 - Lie Ily - S2 - en cours
+2 - Chi Ael - S2 - en cours
+3 - Jil Ony - S2 - en cours
+4 - Lan Ben - S2 - en cours
+5 - Ida Ece - S1 - defaillance
+6 - Aza Leo - S2 - en cours
+7 - Joe Eva - S2 - en cours
+8 - Zoe Evi - S2 - en cours
+9 - Nah Ane - S2 - defaillance
+10 - Any Luu - S2 - en cours
+11 - Lan Sam - S2 - en cours
+12 - Kye Lyn - S2 - en cours
+13 - Ony Evi - S1 - demission
+14 - Tya Apo - S2 - en cours
+15 - Lie Rey - S2 - en cours
+16 - Oum Vic - S2 - en cours
+17 - Ida Ane - S2 - en cours
+18 - Bia Eri - S2 - en cours
+19 - Mia Flo - S2 - en cours
+20 - Ida Rut - S2 - en cours
+21 - Eri Ami - S2 - en cours
+22 - Abi Luu - S2 - en cours
+23 - Rob Zoe - S2 - en cours
+24 - Mya Teo - S2 - en cours
+25 - Jay Ony - S2 - en cours
+26 - Nor Rey - S2 - en cours
+Note enregistree
+Note enregistree
+Etudiant hors formation
+Note enregistree
+1 demission(s)
+2 defaillance(s)
+23 en cours
+0 ajourne(s)
+0 passe(s)
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+1 - Lie Ily - S2 - en cours
+2 - Chi Ael - S2 - en cours
+3 - Jil Ony - S2 - en cours
+4 - Lan Ben - S2 - en cours
+5 - Ida Ece - S1 - defaillance
+6 - Aza Leo - S2 - en cours
+7 - Joe Eva - S2 - en cours
+8 - Zoe Evi - S2 - en cours
+9 - Nah Ane - S2 - defaillance
+10 - Any Luu - S2 - en cours
+11 - Lan Sam - S2 - en cours
+12 - Kye Lyn - S2 - en cours
+13 - Ony Evi - S1 - demission
+14 - Tya Apo - S2 - en cours
+15 - Lie Rey - S2 - en cours
+16 - Oum Vic - S2 - en cours
+17 - Ida Ane - S2 - en cours
+18 - Bia Eri - S2 - en cours
+19 - Mia Flo - S2 - en cours
+20 - Ida Rut - S2 - en cours
+21 - Eri Ami - S2 - en cours
+22 - Abi Luu - S2 - en cours
+23 - Rob Zoe - S2 - en cours
+24 - Mya Teo - S2 - en cours
+25 - Jay Ony - S2 - en cours
+26 - Nor Rey - S2 - en cours
+Note enregistree
+Note enregistree
+Note enregistree
+17 Ida Ane
+S1 - 3.8 (AJ) - 19.3 (ADM) - 10.2 (ADM) - 3.2 (AJ) - 6.8 (AJ) - 4.8 (AJ) -
+S2 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - en cours
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+21 Eri Ami
+S1 - 19.0 (ADM) - 17.2 (ADM) - 13.6 (ADM) - 19.9 (ADM) - 15.0 (ADM) - 2.0 (AJ) -
+S2 - * (*) - * (*) - 7.9 (AJ) - * (*) - * (*) - 18.5 (ADM) - en cours
+Note enregistree
+Note enregistree
+1 demission(s)
+2 defaillance(s)
+23 en cours
+0 ajourne(s)
+0 passe(s)
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+22 Abi Luu
+S1 - 17.1 (ADM) - 2.0 (AJ) - 13.2 (ADM) - 12.2 (ADM) - 18.9 (ADM) - 9.2 (AJ) -
+S2 - * (*) - * (*) - * (*) - * (*) - * (*) - 8.2 (AJ) - en cours
+Etudiant hors formation
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+1 - Lie Ily - S2 - en cours
+2 - Chi Ael - S2 - en cours
+3 - Jil Ony - S2 - en cours
+4 - Lan Ben - S2 - en cours
+5 - Ida Ece - S1 - defaillance
+6 - Aza Leo - S2 - en cours
+7 - Joe Eva - S2 - en cours
+8 - Zoe Evi - S2 - en cours
+9 - Nah Ane - S2 - defaillance
+10 - Any Luu - S2 - en cours
+11 - Lan Sam - S2 - en cours
+12 - Kye Lyn - S2 - en cours
+13 - Ony Evi - S1 - demission
+14 - Tya Apo - S2 - en cours
+15 - Lie Rey - S2 - en cours
+16 - Oum Vic - S2 - en cours
+17 - Ida Ane - S2 - en cours
+18 - Bia Eri - S2 - en cours
+19 - Mia Flo - S2 - en cours
+20 - Ida Rut - S2 - en cours
+21 - Eri Ami - S2 - en cours
+22 - Abi Luu - S2 - en cours
+23 - Rob Zoe - S2 - en cours
+24 - Mya Teo - S2 - en cours
+25 - Jay Ony - S2 - en cours
+26 - Nor Rey - S2 - en cours
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+1 - Lie Ily - S2 - en cours
+2 - Chi Ael - S2 - en cours
+3 - Jil Ony - S2 - en cours
+4 - Lan Ben - S2 - en cours
+5 - Ida Ece - S1 - defaillance
+6 - Aza Leo - S2 - en cours
+7 - Joe Eva - S2 - en cours
+8 - Zoe Evi - S2 - en cours
+9 - Nah Ane - S2 - defaillance
+10 - Any Luu - S2 - en cours
+11 - Lan Sam - S2 - en cours
+12 - Kye Lyn - S2 - en cours
+13 - Ony Evi - S1 - demission
+14 - Tya Apo - S2 - en cours
+15 - Lie Rey - S2 - en cours
+16 - Oum Vic - S2 - en cours
+17 - Ida Ane - S2 - en cours
+18 - Bia Eri - S2 - en cours
+19 - Mia Flo - S2 - en cours
+20 - Ida Rut - S2 - en cours
+21 - Eri Ami - S2 - en cours
+22 - Abi Luu - S2 - en cours
+23 - Rob Zoe - S2 - en cours
+24 - Mya Teo - S2 - en cours
+25 - Jay Ony - S2 - en cours
+26 - Nor Rey - S2 - en cours
+Note enregistree
+Note enregistree
+Etudiant hors formation
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+1 demission(s)
+2 defaillance(s)
+23 en cours
+0 ajourne(s)
+0 passe(s)
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+1 - Lie Ily - S2 - en cours
+2 - Chi Ael - S2 - en cours
+3 - Jil Ony - S2 - en cours
+4 - Lan Ben - S2 - en cours
+5 - Ida Ece - S1 - defaillance
+6 - Aza Leo - S2 - en cours
+7 - Joe Eva - S2 - en cours
+8 - Zoe Evi - S2 - en cours
+9 - Nah Ane - S2 - defaillance
+10 - Any Luu - S2 - en cours
+11 - Lan Sam - S2 - en cours
+12 - Kye Lyn - S2 - en cours
+13 - Ony Evi - S1 - demission
+14 - Tya Apo - S2 - en cours
+15 - Lie Rey - S2 - en cours
+16 - Oum Vic - S2 - en cours
+17 - Ida Ane - S2 - en cours
+18 - Bia Eri - S2 - en cours
+19 - Mia Flo - S2 - en cours
+20 - Ida Rut - S2 - en cours
+21 - Eri Ami - S2 - en cours
+22 - Abi Luu - S2 - en cours
+23 - Rob Zoe - S2 - en cours
+24 - Mya Teo - S2 - en cours
+25 - Jay Ony - S2 - en cours
+26 - Nor Rey - S2 - en cours
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+1 demission(s)
+2 defaillance(s)
+23 en cours
+0 ajourne(s)
+0 passe(s)
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+25 Jay Ony
+S1 - 9.3 (AJ) - 17.7 (ADM) - 13.4 (ADM) - 12.4 (ADM) - 4.2 (AJ) - 14.3 (ADM) -
+S2 - 11.6 (ADM) - 17.4 (ADM) - 6.6 (AJ) - * (*) - * (*) - * (*) - en cours
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+1 Lie Ily
+S1 - 10.8 (ADM) - 16.8 (ADM) - 14.0 (ADM) - 14.9 (ADM) - 15.5 (ADM) - 16.8 (ADM) -
+S2 - 7.5 (AJ) - 3.6 (AJ) - * (*) - 12.4 (ADM) - * (*) - * (*) - en cours
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+1 - Lie Ily - S2 - en cours
+2 - Chi Ael - S2 - en cours
+3 - Jil Ony - S2 - en cours
+4 - Lan Ben - S2 - en cours
+5 - Ida Ece - S1 - defaillance
+6 - Aza Leo - S2 - en cours
+7 - Joe Eva - S2 - en cours
+8 - Zoe Evi - S2 - en cours
+9 - Nah Ane - S2 - defaillance
+10 - Any Luu - S2 - en cours
+11 - Lan Sam - S2 - en cours
+12 - Kye Lyn - S2 - en cours
+13 - Ony Evi - S1 - demission
+14 - Tya Apo - S2 - en cours
+15 - Lie Rey - S2 - en cours
+16 - Oum Vic - S2 - en cours
+17 - Ida Ane - S2 - en cours
+18 - Bia Eri - S2 - en cours
+19 - Mia Flo - S2 - en cours
+20 - Ida Rut - S2 - en cours
+21 - Eri Ami - S2 - en cours
+22 - Abi Luu - S2 - en cours
+23 - Rob Zoe - S2 - en cours
+24 - Mya Teo - S2 - en cours
+25 - Jay Ony - S2 - en cours
+26 - Nor Rey - S2 - en cours
+Note enregistree
+1 - Lie Ily - S2 - en cours
+2 - Chi Ael - S2 - en cours
+3 - Jil Ony - S2 - en cours
+4 - Lan Ben - S2 - en cours
+5 - Ida Ece - S1 - defaillance
+6 - Aza Leo - S2 - en cours
+7 - Joe Eva - S2 - en cours
+8 - Zoe Evi - S2 - en cours
+9 - Nah Ane - S2 - defaillance
+10 - Any Luu - S2 - en cours
+11 - Lan Sam - S2 - en cours
+12 - Kye Lyn - S2 - en cours
+13 - Ony Evi - S1 - demission
+14 - Tya Apo - S2 - en cours
+15 - Lie Rey - S2 - en cours
+16 - Oum Vic - S2 - en cours
+17 - Ida Ane - S2 - en cours
+18 - Bia Eri - S2 - en cours
+19 - Mia Flo - S2 - en cours
+20 - Ida Rut - S2 - en cours
+21 - Eri Ami - S2 - en cours
+22 - Abi Luu - S2 - en cours
+23 - Rob Zoe - S2 - en cours
+24 - Mya Teo - S2 - en cours
+25 - Jay Ony - S2 - en cours
+26 - Nor Rey - S2 - en cours
+Note enregistree
+Note enregistree
+Etudiant hors formation
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+1 demission(s)
+2 defaillance(s)
+23 en cours
+0 ajourne(s)
+0 passe(s)
+Note enregistree
+Demission enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+20 Ida Rut
+S1 - 9.7 (AJ) - 13.8 (ADM) - 14.5 (ADM) - 0.3 (AJ) - 5.6 (AJ) - 19.3 (ADM) -
+S2 - 13.5 (ADM) - 8.7 (AJ) - 5.9 (AJ) - 18.9 (ADM) - 13.1 (ADM) - 5.0 (AJ) - en cours
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Etudiant hors formation
+Note enregistree
+Note enregistree
+21 Eri Ami
+S1 - 19.0 (ADM) - 17.2 (ADM) - 13.6 (ADM) - 19.9 (ADM) - 15.0 (ADM) - 2.0 (AJ) -
+S2 - 13.3 (ADM) - 12.0 (ADM) - 7.9 (AJ) - 3.6 (AJ) - 8.9 (AJ) - 18.5 (ADM) - en cours
+Note enregistree
+Semestre termine pour 22 etudiant(s)
+Note enregistree
+Note enregistree
+Nom incorrect
+Note enregistree
+Note enregistree
+2 demission(s)
+2 defaillance(s)
+0 en cours
+4 ajourne(s)
+18 passe(s)
+Note enregistree
+0 demission(s)
+0 defaillance(s)
+18 en cours
+0 ajourne(s)
+0 passe(s)
+Note enregistree
+2 demission(s)
+2 defaillance(s)
+0 en cours
+4 ajourne(s)
+18 passe(s)
+Note enregistree
+1 - Lie Ily - S3 - en cours
+2 - Chi Ael - S3 - en cours
+3 - Jil Ony - S3 - en cours
+4 - Lan Ben - S2 - demission
+5 - Ida Ece - S1 - defaillance
+6 - Aza Leo - S3 - en cours
+7 - Joe Eva - S3 - en cours
+8 - Zoe Evi - S3 - en cours
+9 - Nah Ane - S2 - defaillance
+10 - Any Luu - S3 - en cours
+11 - Lan Sam - S2 - ajourne
+12 - Kye Lyn - S3 - en cours
+13 - Ony Evi - S1 - demission
+14 - Tya Apo - S3 - en cours
+15 - Lie Rey - S3 - en cours
+16 - Oum Vic - S3 - en cours
+17 - Ida Ane - S2 - ajourne
+18 - Bia Eri - S3 - en cours
+19 - Mia Flo - S3 - en cours
+20 - Ida Rut - S3 - en cours
+21 - Eri Ami - S3 - en cours
+22 - Abi Luu - S3 - en cours
+23 - Rob Zoe - S2 - ajourne
+24 - Mya Teo - S3 - en cours
+25 - Jay Ony - S2 - ajourne
+26 - Nor Rey - S3 - en cours
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+2 demission(s)
+2 defaillance(s)
+0 en cours
+4 ajourne(s)
+18 passe(s)
+Note enregistree
+Note enregistree
+Note enregistree
+2 demission(s)
+2 defaillance(s)
+0 en cours
+4 ajourne(s)
+18 passe(s)
+Etudiant hors formation
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Annee incorrecte
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+1 - Lie Ily - S3 - en cours
+2 - Chi Ael - S3 - en cours
+3 - Jil Ony - S3 - en cours
+4 - Lan Ben - S2 - demission
+5 - Ida Ece - S1 - defaillance
+6 - Aza Leo - S3 - en cours
+7 - Joe Eva - S3 - en cours
+8 - Zoe Evi - S3 - en cours
+9 - Nah Ane - S2 - defaillance
+10 - Any Luu - S3 - en cours
+11 - Lan Sam - S2 - ajourne
+12 - Kye Lyn - S3 - en cours
+13 - Ony Evi - S1 - demission
+14 - Tya Apo - S3 - en cours
+15 - Lie Rey - S3 - en cours
+16 - Oum Vic - S3 - en cours
+17 - Ida Ane - S2 - ajourne
+18 - Bia Eri - S3 - en cours
+19 - Mia Flo - S3 - en cours
+20 - Ida Rut - S3 - en cours
+21 - Eri Ami - S3 - en cours
+22 - Abi Luu - S3 - en cours
+23 - Rob Zoe - S2 - ajourne
+24 - Mya Teo - S3 - en cours
+25 - Jay Ony - S2 - ajourne
+26 - Nor Rey - S3 - en cours
+Note enregistree
+Note enregistree
+Note enregistree
+24 Mya Teo
+S1 - 14.2 (ADM) - 13.3 (ADM) - 12.2 (ADM) - 18.4 (ADM) - 17.7 (ADM) - 0.3 (ADC) -
+S2 - 17.1 (ADM) - 9.8 (ADC) - 19.8 (ADM) - 1.8 (ADC) - 13.1 (ADM) - 19.9 (ADM) -
+B1 - 15.6 (ADM) - 11.5 (ADM) - 16.0 (ADM) - 10.1 (ADM) - 15.4 (ADM) - 10.1 (ADM) -
+S3 - * (*) - * (*) - * (*) - * (*) - * (*) - 17.9 (ADM) - en cours
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Demission enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+1 - Lie Ily - S3 - en cours
+2 - Chi Ael - S3 - en cours
+3 - Jil Ony - S3 - en cours
+4 - Lan Ben - S2 - demission
+5 - Ida Ece - S1 - defaillance
+6 - Aza Leo - S3 - en cours
+7 - Joe Eva - S3 - en cours
+8 - Zoe Evi - S3 - en cours
+9 - Nah Ane - S2 - defaillance
+10 - Any Luu - S3 - en cours
+11 - Lan Sam - S2 - ajourne
+12 - Kye Lyn - S3 - en cours
+13 - Ony Evi - S1 - demission
+14 - Tya Apo - S3 - en cours
+15 - Lie Rey - S3 - en cours
+16 - Oum Vic - S3 - demission
+17 - Ida Ane - S2 - ajourne
+18 - Bia Eri - S3 - en cours
+19 - Mia Flo - S3 - en cours
+20 - Ida Rut - S3 - en cours
+21 - Eri Ami - S3 - en cours
+22 - Abi Luu - S3 - en cours
+23 - Rob Zoe - S2 - ajourne
+24 - Mya Teo - S3 - en cours
+25 - Jay Ony - S2 - ajourne
+26 - Nor Rey - S3 - en cours
+Note enregistree
+Note enregistree
+Defaillance enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+2 demission(s)
+2 defaillance(s)
+0 en cours
+4 ajourne(s)
+18 passe(s)
+Note enregistree
+Note enregistree
+1 - Lie Ily - S3 - en cours
+2 - Chi Ael - S3 - en cours
+3 - Jil Ony - S3 - en cours
+4 - Lan Ben - S2 - demission
+5 - Ida Ece - S1 - defaillance
+6 - Aza Leo - S3 - en cours
+7 - Joe Eva - S3 - en cours
+8 - Zoe Evi - S3 - en cours
+9 - Nah Ane - S2 - defaillance
+10 - Any Luu - S3 - en cours
+11 - Lan Sam - S2 - ajourne
+12 - Kye Lyn - S3 - en cours
+13 - Ony Evi - S1 - demission
+14 - Tya Apo - S3 - en cours
+15 - Lie Rey - S3 - defaillance
+16 - Oum Vic - S3 - demission
+17 - Ida Ane - S2 - ajourne
+18 - Bia Eri - S3 - en cours
+19 - Mia Flo - S3 - en cours
+20 - Ida Rut - S3 - en cours
+21 - Eri Ami - S3 - en cours
+22 - Abi Luu - S3 - en cours
+23 - Rob Zoe - S2 - ajourne
+24 - Mya Teo - S3 - en cours
+25 - Jay Ony - S2 - ajourne
+26 - Nor Rey - S3 - en cours
+Note enregistree
+Note enregistree
+Note enregistree
+9 Nah Ane
+S1 - 1.3 (AJ) - 4.0 (AJ) - 13.9 (ADM) - 13.2 (ADM) - 14.3 (ADM) - 9.8 (AJ) -
+S2 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - defaillance
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+2 demission(s)
+2 defaillance(s)
+0 en cours
+4 ajourne(s)
+18 passe(s)
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+1 demission(s)
+1 defaillance(s)
+16 en cours
+0 ajourne(s)
+0 passe(s)
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+1 - Lie Ily - S3 - en cours
+2 - Chi Ael - S3 - en cours
+3 - Jil Ony - S3 - en cours
+4 - Lan Ben - S2 - demission
+5 - Ida Ece - S1 - defaillance
+6 - Aza Leo - S3 - en cours
+7 - Joe Eva - S3 - en cours
+8 - Zoe Evi - S3 - en cours
+9 - Nah Ane - S2 - defaillance
+10 - Any Luu - S3 - en cours
+11 - Lan Sam - S2 - ajourne
+12 - Kye Lyn - S3 - en cours
+13 - Ony Evi - S1 - demission
+14 - Tya Apo - S3 - en cours
+15 - Lie Rey - S3 - defaillance
+16 - Oum Vic - S3 - demission
+17 - Ida Ane - S2 - ajourne
+18 - Bia Eri - S3 - en cours
+19 - Mia Flo - S3 - en cours
+20 - Ida Rut - S3 - en cours
+21 - Eri Ami - S3 - en cours
+22 - Abi Luu - S3 - en cours
+23 - Rob Zoe - S2 - ajourne
+24 - Mya Teo - S3 - en cours
+25 - Jay Ony - S2 - ajourne
+26 - Nor Rey - S3 - en cours
+Note enregistree
+Note enregistree
+Note enregistree
+7 Joe Eva
+S1 - 19.4 (ADM) - 13.8 (ADM) - 17.2 (ADM) - 0.2 (ADC) - 6.2 (AJ) - 7.6 (AJ) -
+S2 - 16.1 (ADM) - 15.0 (ADM) - 13.1 (ADM) - 19.8 (ADM) - 9.7 (AJ) - 9.5 (AJ) -
+B1 - 17.7 (ADM) - 14.4 (ADM) - 15.1 (ADM) - 10.0 (ADM) - 8.0 (AJ) - 8.6 (AJ) -
+S3 - * (*) - * (*) - 9.7 (AJ) - 11.5 (ADM) - 13.8 (ADM) - 14.7 (ADM) - en cours
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+6 Aza Leo
+S1 - 11.4 (ADM) - 19.0 (ADM) - 1.6 (ADC) - 6.5 (ADC) - 17.0 (ADM) - 16.7 (ADM) -
+S2 - 15.7 (ADM) - 4.0 (ADC) - 19.8 (ADM) - 18.9 (ADM) - 19.3 (ADM) - 0.0 (AJ) -
+B1 - 13.5 (ADM) - 11.5 (ADM) - 10.7 (ADM) - 12.7 (ADM) - 18.1 (ADM) - 8.3 (AJ) -
+S3 - 13.2 (ADM) - 17.6 (ADM) - * (*) - 17.2 (ADM) - 16.9 (ADM) - 19.1 (ADM) - en cours
+Note enregistree
+Note enregistree
+Note enregistree
+3 Jil Ony
+S1 - 15.8 (ADM) - 19.5 (ADM) - 19.9 (ADM) - 9.9 (ADC) - 19.2 (ADM) - 15.9 (ADM) -
+S2 - 4.6 (ADC) - 1.9 (ADC) - 0.2 (ADC) - 14.0 (ADM) - 2.9 (ADC) - 10.8 (ADM) -
+B1 - 10.2 (ADM) - 10.7 (ADM) - 10.0 (ADM) - 11.9 (ADM) - 11.0 (ADM) - 13.3 (ADM) -
+S3 - 15.8 (ADM) - 18.3 (ADM) - 4.3 (AJ) - 19.4 (ADM) - 13.1 (ADM) - 6.5 (AJ) - en cours
+Note enregistree
+1 - Lie Ily - S3 - en cours
+2 - Chi Ael - S3 - en cours
+3 - Jil Ony - S3 - en cours
+4 - Lan Ben - S2 - demission
+5 - Ida Ece - S1 - defaillance
+6 - Aza Leo - S3 - en cours
+7 - Joe Eva - S3 - en cours
+8 - Zoe Evi - S3 - en cours
+9 - Nah Ane - S2 - defaillance
+10 - Any Luu - S3 - en cours
+11 - Lan Sam - S2 - ajourne
+12 - Kye Lyn - S3 - en cours
+13 - Ony Evi - S1 - demission
+14 - Tya Apo - S3 - en cours
+15 - Lie Rey - S3 - defaillance
+16 - Oum Vic - S3 - demission
+17 - Ida Ane - S2 - ajourne
+18 - Bia Eri - S3 - en cours
+19 - Mia Flo - S3 - en cours
+20 - Ida Rut - S3 - en cours
+21 - Eri Ami - S3 - en cours
+22 - Abi Luu - S3 - en cours
+23 - Rob Zoe - S2 - ajourne
+24 - Mya Teo - S3 - en cours
+25 - Jay Ony - S2 - ajourne
+26 - Nor Rey - S3 - en cours
+Note enregistree
+7 Joe Eva
+S1 - 19.4 (ADM) - 13.8 (ADM) - 17.2 (ADM) - 0.2 (ADC) - 6.2 (AJ) - 7.6 (AJ) -
+S2 - 16.1 (ADM) - 15.0 (ADM) - 13.1 (ADM) - 19.8 (ADM) - 9.7 (AJ) - 9.5 (AJ) -
+B1 - 17.7 (ADM) - 14.4 (ADM) - 15.1 (ADM) - 10.0 (ADM) - 8.0 (AJ) - 8.6 (AJ) -
+S3 - 3.4 (AJ) - 14.8 (ADM) - 9.7 (AJ) - 11.5 (ADM) - 13.8 (ADM) - 14.7 (ADM) - en cours
+Note enregistree
+Note enregistree
+Semestre termine pour 16 etudiant(s)
+26 Nor Rey
+S1 - 16.5 (ADM) - 19.0 (ADM) - 13.1 (ADM) - 10.9 (ADM) - 4.5 (AJ) - 7.7 (ADC) -
+S2 - 14.6 (ADM) - 1.9 (ADC) - 11.1 (ADM) - 11.4 (ADM) - 12.7 (ADM) - 19.3 (ADM) -
+B1 - 15.5 (ADM) - 10.5 (ADM) - 12.1 (ADM) - 11.1 (ADM) - 8.6 (AJ) - 13.5 (ADM) -
+S3 - 19.2 (ADM) - 8.9 (AJ) - 12.2 (ADM) - 18.8 (ADM) - 10.7 (ADM) - 9.8 (AJ) -
+S4 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - en cours
+Note enregistree
+16 Oum Vic
+S1 - 8.1 (AJ) - 6.8 (ADC) - 7.8 (AJ) - 18.3 (ADM) - 16.3 (ADM) - 3.4 (ADC) -
+S2 - 9.7 (AJ) - 14.3 (ADM) - 8.3 (AJ) - 9.3 (ADC) - 18.3 (ADM) - 16.9 (ADM) -
+B1 - 8.9 (AJ) - 10.5 (ADM) - 8.1 (AJ) - 13.8 (ADM) - 17.3 (ADM) - 10.2 (ADM) -
+S3 - 1.0 (AJ) - * (*) - * (*) - 4.0 (AJ) - 2.8 (AJ) - * (*) - demission
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Etudiant hors formation
+Note enregistree
+Note enregistree
+3 Jil Ony
+S1 - 15.8 (ADM) - 19.5 (ADM) - 19.9 (ADM) - 9.9 (ADC) - 19.2 (ADM) - 15.9 (ADM) -
+S2 - 4.6 (ADC) - 1.9 (ADC) - 0.2 (ADC) - 14.0 (ADM) - 2.9 (ADC) - 10.8 (ADM) -
+B1 - 10.2 (ADM) - 10.7 (ADM) - 10.0 (ADM) - 11.9 (ADM) - 11.0 (ADM) - 13.3 (ADM) -
+S3 - 15.8 (ADM) - 18.3 (ADM) - 4.3 (AJ) - 19.4 (ADM) - 13.1 (ADM) - 6.5 (AJ) -
+S4 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - en cours
+Note enregistree
+1 - Lie Ily - S4 - en cours
+2 - Chi Ael - S4 - en cours
+3 - Jil Ony - S4 - en cours
+4 - Lan Ben - S2 - demission
+5 - Ida Ece - S1 - defaillance
+6 - Aza Leo - S4 - en cours
+7 - Joe Eva - S4 - en cours
+8 - Zoe Evi - S4 - en cours
+9 - Nah Ane - S2 - defaillance
+10 - Any Luu - S4 - en cours
+11 - Lan Sam - S2 - ajourne
+12 - Kye Lyn - S4 - en cours
+13 - Ony Evi - S1 - demission
+14 - Tya Apo - S4 - en cours
+15 - Lie Rey - S3 - defaillance
+16 - Oum Vic - S3 - demission
+17 - Ida Ane - S2 - ajourne
+18 - Bia Eri - S4 - en cours
+19 - Mia Flo - S4 - en cours
+20 - Ida Rut - S4 - en cours
+21 - Eri Ami - S4 - en cours
+22 - Abi Luu - S4 - en cours
+23 - Rob Zoe - S2 - ajourne
+24 - Mya Teo - S4 - en cours
+25 - Jay Ony - S2 - ajourne
+26 - Nor Rey - S4 - en cours
+Note enregistree
+2 demission(s)
+2 defaillance(s)
+0 en cours
+4 ajourne(s)
+18 passe(s)
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+1 demission(s)
+1 defaillance(s)
+16 en cours
+0 ajourne(s)
+0 passe(s)
+Note enregistree
+Note enregistree
+Note enregistree
+1 - Lie Ily - S4 - en cours
+2 - Chi Ael - S4 - en cours
+3 - Jil Ony - S4 - en cours
+4 - Lan Ben - S2 - demission
+5 - Ida Ece - S1 - defaillance
+6 - Aza Leo - S4 - en cours
+7 - Joe Eva - S4 - en cours
+8 - Zoe Evi - S4 - en cours
+9 - Nah Ane - S2 - defaillance
+10 - Any Luu - S4 - en cours
+11 - Lan Sam - S2 - ajourne
+12 - Kye Lyn - S4 - en cours
+13 - Ony Evi - S1 - demission
+14 - Tya Apo - S4 - en cours
+15 - Lie Rey - S3 - defaillance
+16 - Oum Vic - S3 - demission
+17 - Ida Ane - S2 - ajourne
+18 - Bia Eri - S4 - en cours
+19 - Mia Flo - S4 - en cours
+20 - Ida Rut - S4 - en cours
+21 - Eri Ami - S4 - en cours
+22 - Abi Luu - S4 - en cours
+23 - Rob Zoe - S2 - ajourne
+24 - Mya Teo - S4 - en cours
+25 - Jay Ony - S2 - ajourne
+26 - Nor Rey - S4 - en cours
+Note enregistree
+Note enregistree
+2 demission(s)
+2 defaillance(s)
+0 en cours
+4 ajourne(s)
+18 passe(s)
+Note enregistree
+Note enregistree
+2 demission(s)
+2 defaillance(s)
+0 en cours
+4 ajourne(s)
+18 passe(s)
+Note enregistree
+10 Any Luu
+S1 - 19.2 (ADM) - 13.5 (ADM) - 14.4 (ADM) - 16.2 (ADM) - 13.4 (ADM) - 11.0 (ADM) -
+S2 - 12.7 (ADM) - 7.1 (ADC) - 19.3 (ADM) - 6.8 (ADC) - 10.5 (ADM) - 16.3 (ADM) -
+B1 - 16.0 (ADM) - 10.3 (ADM) - 16.9 (ADM) - 11.5 (ADM) - 11.9 (ADM) - 13.7 (ADM) -
+S3 - 6.0 (AJ) - 15.4 (ADM) - 9.0 (AJ) - 16.0 (ADM) - 12.8 (ADM) - 12.1 (ADM) -
+S4 - * (*) - * (*) - 5.3 (AJ) - * (*) - * (*) - * (*) - en cours
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+1 - Lie Ily - S4 - en cours
+2 - Chi Ael - S4 - en cours
+3 - Jil Ony - S4 - en cours
+4 - Lan Ben - S2 - demission
+5 - Ida Ece - S1 - defaillance
+6 - Aza Leo - S4 - en cours
+7 - Joe Eva - S4 - en cours
+8 - Zoe Evi - S4 - en cours
+9 - Nah Ane - S2 - defaillance
+10 - Any Luu - S4 - en cours
+11 - Lan Sam - S2 - ajourne
+12 - Kye Lyn - S4 - en cours
+13 - Ony Evi - S1 - demission
+14 - Tya Apo - S4 - en cours
+15 - Lie Rey - S3 - defaillance
+16 - Oum Vic - S3 - demission
+17 - Ida Ane - S2 - ajourne
+18 - Bia Eri - S4 - en cours
+19 - Mia Flo - S4 - en cours
+20 - Ida Rut - S4 - en cours
+21 - Eri Ami - S4 - en cours
+22 - Abi Luu - S4 - en cours
+23 - Rob Zoe - S2 - ajourne
+24 - Mya Teo - S4 - en cours
+25 - Jay Ony - S2 - ajourne
+26 - Nor Rey - S4 - en cours
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+1 - Lie Ily - S4 - en cours
+2 - Chi Ael - S4 - en cours
+3 - Jil Ony - S4 - en cours
+4 - Lan Ben - S2 - demission
+5 - Ida Ece - S1 - defaillance
+6 - Aza Leo - S4 - en cours
+7 - Joe Eva - S4 - en cours
+8 - Zoe Evi - S4 - en cours
+9 - Nah Ane - S2 - defaillance
+10 - Any Luu - S4 - en cours
+11 - Lan Sam - S2 - ajourne
+12 - Kye Lyn - S4 - en cours
+13 - Ony Evi - S1 - demission
+14 - Tya Apo - S4 - en cours
+15 - Lie Rey - S3 - defaillance
+16 - Oum Vic - S3 - demission
+17 - Ida Ane - S2 - ajourne
+18 - Bia Eri - S4 - en cours
+19 - Mia Flo - S4 - en cours
+20 - Ida Rut - S4 - en cours
+21 - Eri Ami - S4 - en cours
+22 - Abi Luu - S4 - en cours
+23 - Rob Zoe - S2 - ajourne
+24 - Mya Teo - S4 - en cours
+25 - Jay Ony - S2 - ajourne
+26 - Nor Rey - S4 - en cours
+Semestre termine pour 0 etudiant(s)
+Note enregistree
+1 - Lie Ily - S4 - en cours
+2 - Chi Ael - S4 - en cours
+3 - Jil Ony - S4 - en cours
+4 - Lan Ben - S2 - demission
+5 - Ida Ece - S1 - defaillance
+6 - Aza Leo - S4 - en cours
+7 - Joe Eva - S4 - en cours
+8 - Zoe Evi - S4 - en cours
+9 - Nah Ane - S2 - defaillance
+10 - Any Luu - S4 - en cours
+11 - Lan Sam - S2 - ajourne
+12 - Kye Lyn - S4 - en cours
+13 - Ony Evi - S1 - demission
+14 - Tya Apo - S4 - en cours
+15 - Lie Rey - S3 - defaillance
+16 - Oum Vic - S3 - demission
+17 - Ida Ane - S2 - ajourne
+18 - Bia Eri - S4 - en cours
+19 - Mia Flo - S4 - en cours
+20 - Ida Rut - S4 - en cours
+21 - Eri Ami - S4 - en cours
+22 - Abi Luu - S4 - en cours
+23 - Rob Zoe - S2 - ajourne
+24 - Mya Teo - S4 - en cours
+25 - Jay Ony - S2 - ajourne
+26 - Nor Rey - S4 - en cours
+Note enregistree
+1 - Lie Ily - S4 - en cours
+2 - Chi Ael - S4 - en cours
+3 - Jil Ony - S4 - en cours
+4 - Lan Ben - S2 - demission
+5 - Ida Ece - S1 - defaillance
+6 - Aza Leo - S4 - en cours
+7 - Joe Eva - S4 - en cours
+8 - Zoe Evi - S4 - en cours
+9 - Nah Ane - S2 - defaillance
+10 - Any Luu - S4 - en cours
+11 - Lan Sam - S2 - ajourne
+12 - Kye Lyn - S4 - en cours
+13 - Ony Evi - S1 - demission
+14 - Tya Apo - S4 - en cours
+15 - Lie Rey - S3 - defaillance
+16 - Oum Vic - S3 - demission
+17 - Ida Ane - S2 - ajourne
+18 - Bia Eri - S4 - en cours
+19 - Mia Flo - S4 - en cours
+20 - Ida Rut - S4 - en cours
+21 - Eri Ami - S4 - en cours
+22 - Abi Luu - S4 - en cours
+23 - Rob Zoe - S2 - ajourne
+24 - Mya Teo - S4 - en cours
+25 - Jay Ony - S2 - ajourne
+26 - Nor Rey - S4 - en cours
+Note enregistree
+1 Lie Ily
+S1 - 10.8 (ADM) - 16.8 (ADM) - 14.0 (ADM) - 14.9 (ADM) - 15.5 (ADM) - 16.8 (ADM) -
+S2 - 7.5 (AJ) - 3.6 (ADC) - 15.8 (ADM) - 12.4 (ADM) - 4.5 (ADC) - 3.9 (ADC) -
+B1 - 9.1 (AJ) - 10.2 (ADM) - 14.9 (ADM) - 13.6 (ADM) - 10.0 (ADM) - 10.3 (ADM) -
+S3 - 19.1 (ADM) - 11.3 (ADM) - 0.3 (AJ) - 11.6 (ADM) - 4.8 (AJ) - 18.5 (ADM) -
+S4 - * (*) - 0.2 (AJ) - * (*) - * (*) - * (*) - 1.6 (AJ) - en cours
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+1 demission(s)
+1 defaillance(s)
+16 en cours
+0 ajourne(s)
+0 passe(s)
+Note enregistree
+1 - Lie Ily - S4 - en cours
+2 - Chi Ael - S4 - en cours
+3 - Jil Ony - S4 - en cours
+4 - Lan Ben - S2 - demission
+5 - Ida Ece - S1 - defaillance
+6 - Aza Leo - S4 - en cours
+7 - Joe Eva - S4 - en cours
+8 - Zoe Evi - S4 - en cours
+9 - Nah Ane - S2 - defaillance
+10 - Any Luu - S4 - en cours
+11 - Lan Sam - S2 - ajourne
+12 - Kye Lyn - S4 - en cours
+13 - Ony Evi - S1 - demission
+14 - Tya Apo - S4 - en cours
+15 - Lie Rey - S3 - defaillance
+16 - Oum Vic - S3 - demission
+17 - Ida Ane - S2 - ajourne
+18 - Bia Eri - S4 - en cours
+19 - Mia Flo - S4 - en cours
+20 - Ida Rut - S4 - en cours
+21 - Eri Ami - S4 - en cours
+22 - Abi Luu - S4 - en cours
+23 - Rob Zoe - S2 - ajourne
+24 - Mya Teo - S4 - en cours
+25 - Jay Ony - S2 - ajourne
+26 - Nor Rey - S4 - en cours
+Note enregistree
+Note enregistree
+1 demission(s)
+1 defaillance(s)
+16 en cours
+0 ajourne(s)
+0 passe(s)
+Note enregistree
+2 demission(s)
+2 defaillance(s)
+0 en cours
+4 ajourne(s)
+18 passe(s)
+Note enregistree
+Demission enregistree
+1 - Lie Ily - S4 - en cours
+2 - Chi Ael - S4 - en cours
+3 - Jil Ony - S4 - en cours
+4 - Lan Ben - S2 - demission
+5 - Ida Ece - S1 - defaillance
+6 - Aza Leo - S4 - en cours
+7 - Joe Eva - S4 - en cours
+8 - Zoe Evi - S4 - en cours
+9 - Nah Ane - S2 - defaillance
+10 - Any Luu - S4 - demission
+11 - Lan Sam - S2 - ajourne
+12 - Kye Lyn - S4 - en cours
+13 - Ony Evi - S1 - demission
+14 - Tya Apo - S4 - en cours
+15 - Lie Rey - S3 - defaillance
+16 - Oum Vic - S3 - demission
+17 - Ida Ane - S2 - ajourne
+18 - Bia Eri - S4 - en cours
+19 - Mia Flo - S4 - en cours
+20 - Ida Rut - S4 - en cours
+21 - Eri Ami - S4 - en cours
+22 - Abi Luu - S4 - en cours
+23 - Rob Zoe - S2 - ajourne
+24 - Mya Teo - S4 - en cours
+25 - Jay Ony - S2 - ajourne
+26 - Nor Rey - S4 - en cours
+Note enregistree
+Note enregistree
+1 - Lie Ily - S4 - en cours
+2 - Chi Ael - S4 - en cours
+3 - Jil Ony - S4 - en cours
+4 - Lan Ben - S2 - demission
+5 - Ida Ece - S1 - defaillance
+6 - Aza Leo - S4 - en cours
+7 - Joe Eva - S4 - en cours
+8 - Zoe Evi - S4 - en cours
+9 - Nah Ane - S2 - defaillance
+10 - Any Luu - S4 - demission
+11 - Lan Sam - S2 - ajourne
+12 - Kye Lyn - S4 - en cours
+13 - Ony Evi - S1 - demission
+14 - Tya Apo - S4 - en cours
+15 - Lie Rey - S3 - defaillance
+16 - Oum Vic - S3 - demission
+17 - Ida Ane - S2 - ajourne
+18 - Bia Eri - S4 - en cours
+19 - Mia Flo - S4 - en cours
+20 - Ida Rut - S4 - en cours
+21 - Eri Ami - S4 - en cours
+22 - Abi Luu - S4 - en cours
+23 - Rob Zoe - S2 - ajourne
+24 - Mya Teo - S4 - en cours
+25 - Jay Ony - S2 - ajourne
+26 - Nor Rey - S4 - en cours
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+14 Tya Apo
+S1 - 10.4 (ADM) - 7.3 (ADC) - 18.1 (ADM) - 15.7 (ADM) - 9.7 (AJ) - 10.0 (ADM) -
+S2 - 16.7 (ADM) - 14.0 (ADM) - 7.3 (ADC) - 12.8 (ADM) - 8.4 (AJ) - 8.3 (AJ) -
+B1 - 13.5 (ADM) - 10.6 (ADM) - 12.7 (ADM) - 14.3 (ADM) - 9.0 (AJ) - 9.1 (AJ) -
+S3 - 3.4 (AJ) - 19.3 (ADM) - 0.5 (AJ) - 15.3 (ADM) - 10.3 (ADM) - 12.5 (ADM) -
+S4 - 13.8 (ADM) - 9.8 (AJ) - 19.8 (ADM) - 18.0 (ADM) - 18.8 (ADM) - 13.7 (ADM) - en cours
+Note enregistree
+Note enregistree
+2 demission(s)
+1 defaillance(s)
+15 en cours
+0 ajourne(s)
+0 passe(s)
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Defaillance enregistree
+2 demission(s)
+2 defaillance(s)
+14 en cours
+0 ajourne(s)
+0 passe(s)
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+2 demission(s)
+2 defaillance(s)
+14 en cours
+0 ajourne(s)
+0 passe(s)
+Note enregistree
+Semestre termine pour 14 etudiant(s)
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+12 Kye Lyn
+S1 - 15.6 (ADM) - 13.4 (ADM) - 18.1 (ADM) - 3.2 (ADC) - 14.8 (ADM) - 19.2 (ADM) -
+S2 - 5.1 (ADC) - 14.5 (ADM) - 7.4 (ADC) - 19.7 (ADM) - 5.1 (ADC) - 8.9 (ADC) -
+B1 - 10.3 (ADM) - 13.9 (ADM) - 12.7 (ADM) - 11.4 (ADM) - 10.0 (ADM) - 14.0 (ADM) -
+S3 - 17.5 (ADM) - 19.7 (ADM) - 1.2 (ADC) - 18.3 (ADM) - 4.4 (AJ) - 0.5 (ADC) -
+S4 - 15.6 (ADM) - 0.3 (ADC) - 19.4 (ADM) - 14.7 (ADM) - 10.5 (ADM) - 19.6 (ADM) -
+B2 - 16.6 (ADM) - 10.0 (ADM) - 10.3 (ADM) - 16.5 (ADM) - 7.5 (AJB) - 10.0 (ADM) - ajourne
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+10 Any Luu
+S1 - 19.2 (ADM) - 13.5 (ADM) - 14.4 (ADM) - 16.2 (ADM) - 13.4 (ADM) - 11.0 (ADM) -
+S2 - 12.7 (ADM) - 7.1 (ADC) - 19.3 (ADM) - 6.8 (ADC) - 10.5 (ADM) - 16.3 (ADM) -
+B1 - 16.0 (ADM) - 10.3 (ADM) - 16.9 (ADM) - 11.5 (ADM) - 11.9 (ADM) - 13.7 (ADM) -
+S3 - 6.0 (AJ) - 15.4 (ADM) - 9.0 (AJ) - 16.0 (ADM) - 12.8 (ADM) - 12.1 (ADM) -
+S4 - * (*) - * (*) - 5.3 (AJ) - * (*) - * (*) - * (*) - demission
+Note enregistree
+Semestre termine pour 0 etudiant(s)
+Demission enregistree
+Note enregistree
+21 Eri Ami
+S1 - 19.0 (ADM) - 17.2 (ADM) - 13.6 (ADM) - 19.9 (ADM) - 15.0 (ADM) - 2.0 (ADC) -
+S2 - 13.3 (ADM) - 12.0 (ADM) - 7.9 (ADC) - 3.6 (ADC) - 8.9 (ADC) - 18.5 (ADM) -
+B1 - 16.1 (ADM) - 14.6 (ADM) - 10.7 (ADM) - 11.8 (ADM) - 12.0 (ADM) - 10.2 (ADM) -
+S3 - 9.3 (ADC) - 18.8 (ADM) - 17.5 (ADM) - 17.7 (ADM) - 17.8 (ADM) - 19.5 (ADM) -
+S4 - 15.7 (ADM) - 19.8 (ADM) - 7.0 (ADC) - 16.0 (ADM) - 10.2 (ADM) - 12.7 (ADM) -
+B2 - 12.5 (ADM) - 19.3 (ADM) - 12.3 (ADM) - 16.8 (ADM) - 14.0 (ADM) - 16.1 (ADM) -
+S5 - * (*) - 11.7 (ADM) - * (*) - * (*) - * (*) - * (*) - en cours
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+9 Nah Ane
+S1 - 1.3 (AJ) - 4.0 (AJ) - 13.9 (ADM) - 13.2 (ADM) - 14.3 (ADM) - 9.8 (AJ) -
+S2 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - defaillance
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+1 - Lie Ily - S4 - defaillance
+2 - Chi Ael - S5 - en cours
+3 - Jil Ony - S5 - en cours
+4 - Lan Ben - S2 - demission
+5 - Ida Ece - S1 - defaillance
+6 - Aza Leo - S5 - en cours
+7 - Joe Eva - S5 - en cours
+8 - Zoe Evi - S5 - en cours
+9 - Nah Ane - S2 - defaillance
+10 - Any Luu - S4 - demission
+11 - Lan Sam - S2 - ajourne
+12 - Kye Lyn - S4 - ajourne
+13 - Ony Evi - S1 - demission
+14 - Tya Apo - S5 - demission
+15 - Lie Rey - S3 - defaillance
+16 - Oum Vic - S3 - demission
+17 - Ida Ane - S2 - ajourne
+18 - Bia Eri - S5 - en cours
+19 - Mia Flo - S5 - en cours
+20 - Ida Rut - S4 - ajourne
+21 - Eri Ami - S5 - en cours
+22 - Abi Luu - S4 - ajourne
+23 - Rob Zoe - S2 - ajourne
+24 - Mya Teo - S4 - ajourne
+25 - Jay Ony - S2 - ajourne
+26 - Nor Rey - S5 - en cours
+Defaillance enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+3 Jil Ony
+S1 - 15.8 (ADM) - 19.5 (ADM) - 19.9 (ADM) - 9.9 (ADC) - 19.2 (ADM) - 15.9 (ADM) -
+S2 - 4.6 (ADC) - 1.9 (ADC) - 0.2 (ADC) - 14.0 (ADM) - 2.9 (ADC) - 10.8 (ADM) -
+B1 - 10.2 (ADM) - 10.7 (ADM) - 10.0 (ADM) - 11.9 (ADM) - 11.0 (ADM) - 13.3 (ADM) -
+S3 - 15.8 (ADM) - 18.3 (ADM) - 4.3 (AJ) - 19.4 (ADM) - 13.1 (ADM) - 6.5 (ADC) -
+S4 - 12.9 (ADM) - 16.1 (ADM) - 14.6 (ADM) - 0.9 (ADC) - 8.3 (ADC) - 15.2 (ADM) -
+B2 - 14.3 (ADM) - 17.2 (ADM) - 9.4 (AJ) - 10.2 (ADM) - 10.7 (ADM) - 10.9 (ADM) -
+S5 - * (*) - * (*) - 18.6 (ADM) - 9.0 (AJ) - * (*) - 17.4 (ADM) - en cours
+Note enregistree
+2 demission(s)
+2 defaillance(s)
+0 en cours
+4 ajourne(s)
+10 passe(s)
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+13 Ony Evi
+S1 - 0.8 (AJ) - * (*) - 16.9 (ADM) - 6.2 (AJ) - 11.7 (ADM) - * (*) - demission
+Note enregistree
+Note enregistree
+2 demission(s)
+2 defaillance(s)
+0 en cours
+4 ajourne(s)
+10 passe(s)
+Note enregistree
+Annee incorrecte
+Note enregistree
+Note enregistree
+Note enregistree
+Semestre termine pour 8 etudiant(s)
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+2 demission(s)
+2 defaillance(s)
+0 en cours
+4 ajourne(s)
+18 passe(s)
+Note enregistree
+Note enregistree
+Note enregistree
+18 Bia Eri
+S1 - 16.1 (ADM) - 3.6 (ADC) - 18.9 (ADM) - 8.8 (ADS) - 13.0 (ADM) - 5.2 (ADC) -
+S2 - 4.7 (ADC) - 18.5 (ADM) - 2.1 (ADC) - 8.1 (ADS) - 19.1 (ADM) - 15.4 (ADM) -
+B1 - 10.4 (ADM) - 11.0 (ADM) - 10.5 (ADM) - 8.5 (ADS) - 16.0 (ADM) - 10.3 (ADM) -
+S3 - 4.2 (ADC) - 18.9 (ADM) - 17.4 (ADM) - 15.2 (ADM) - 0.1 (ADC) - 5.4 (ADC) -
+S4 - 16.1 (ADM) - 8.8 (ADC) - 18.1 (ADM) - 7.9 (ADC) - 19.9 (ADM) - 16.1 (ADM) -
+B2 - 10.1 (ADM) - 13.8 (ADM) - 17.8 (ADM) - 11.5 (ADM) - 10.0 (ADM) - 10.7 (ADM) -
+S5 - 6.9 (AJ) - 12.7 (ADM) - 8.1 (AJ) - 5.7 (AJ) - 19.4 (ADM) - 17.2 (ADM) -
+S6 - 9.5 (AJ) - * (*) - * (*) - * (*) - 7.5 (AJ) - * (*) - en cours
+Defaillance enregistree
+19 Mia Flo
+S1 - 13.2 (ADM) - 6.5 (ADS) - 1.3 (ADC) - 18.5 (ADM) - 14.3 (ADM) - 7.1 (ADC) -
+S2 - 14.9 (ADM) - 9.7 (ADS) - 19.4 (ADM) - 5.7 (ADC) - 3.0 (ADS) - 14.0 (ADM) -
+B1 - 14.0 (ADM) - 8.1 (ADS) - 10.3 (ADM) - 12.1 (ADM) - 8.6 (ADS) - 10.5 (ADM) -
+S3 - 12.5 (ADM) - 16.3 (ADM) - 2.2 (ADC) - 2.7 (ADC) - 19.1 (ADM) - 8.2 (ADC) -
+S4 - 13.9 (ADM) - 4.0 (ADC) - 18.4 (ADM) - 17.8 (ADM) - 7.5 (ADC) - 14.4 (ADM) -
+B2 - 13.2 (ADM) - 10.1 (ADM) - 10.3 (ADM) - 10.3 (ADM) - 13.3 (ADM) - 11.3 (ADM) -
+S5 - 1.6 (AJ) - 19.0 (ADM) - 16.6 (ADM) - 17.9 (ADM) - 1.7 (AJ) - 17.1 (ADM) -
+S6 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - en cours
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+14 Tya Apo
+S1 - 10.4 (ADM) - 7.3 (ADC) - 18.1 (ADM) - 15.7 (ADM) - 9.7 (ADS) - 10.0 (ADM) -
+S2 - 16.7 (ADM) - 14.0 (ADM) - 7.3 (ADC) - 12.8 (ADM) - 8.4 (ADS) - 8.3 (ADS) -
+B1 - 13.5 (ADM) - 10.6 (ADM) - 12.7 (ADM) - 14.3 (ADM) - 9.0 (ADS) - 9.1 (ADS) -
+S3 - 3.4 (AJ) - 19.3 (ADM) - 0.5 (ADC) - 15.3 (ADM) - 10.3 (ADM) - 12.5 (ADM) -
+S4 - 13.8 (ADM) - 9.8 (ADC) - 19.8 (ADM) - 18.0 (ADM) - 18.8 (ADM) - 13.7 (ADM) -
+B2 - 8.6 (AJ) - 14.6 (ADM) - 10.1 (ADM) - 16.6 (ADM) - 14.6 (ADM) - 13.1 (ADM) -
+S5 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - demission
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+1 - Lie Ily - S4 - defaillance
+2 - Chi Ael - S6 - en cours
+3 - Jil Ony - S6 - en cours
+4 - Lan Ben - S2 - demission
+5 - Ida Ece - S1 - defaillance
+6 - Aza Leo - S6 - defaillance
+7 - Joe Eva - S6 - en cours
+8 - Zoe Evi - S6 - en cours
+9 - Nah Ane - S2 - defaillance
+10 - Any Luu - S4 - demission
+11 - Lan Sam - S2 - ajourne
+12 - Kye Lyn - S4 - ajourne
+13 - Ony Evi - S1 - demission
+14 - Tya Apo - S5 - demission
+15 - Lie Rey - S3 - defaillance
+16 - Oum Vic - S3 - demission
+17 - Ida Ane - S2 - ajourne
+18 - Bia Eri - S6 - en cours
+19 - Mia Flo - S6 - en cours
+20 - Ida Rut - S4 - ajourne
+21 - Eri Ami - S5 - defaillance
+22 - Abi Luu - S4 - ajourne
+23 - Rob Zoe - S2 - ajourne
+24 - Mya Teo - S4 - ajourne
+25 - Jay Ony - S2 - ajourne
+26 - Nor Rey - S6 - en cours
+Note enregistree
+Note enregistree
+Demission enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+13 Ony Evi
+S1 - 0.8 (AJ) - * (*) - 16.9 (ADM) - 6.2 (AJ) - 11.7 (ADM) - * (*) - demission
+Note enregistree
+Semestre termine pour 6 etudiant(s)
+1 - Lie Ily - S4 - defaillance
+2 - Chi Ael - S6 - demission
+3 - Jil Ony - S6 - ajourne
+4 - Lan Ben - S2 - demission
+5 - Ida Ece - S1 - defaillance
+6 - Aza Leo - S6 - defaillance
+7 - Joe Eva - S6 - ajourne
+8 - Zoe Evi - S6 - diplome
+9 - Nah Ane - S2 - defaillance
+10 - Any Luu - S4 - demission
+11 - Lan Sam - S2 - ajourne
+12 - Kye Lyn - S4 - ajourne
+13 - Ony Evi - S1 - demission
+14 - Tya Apo - S5 - demission
+15 - Lie Rey - S3 - defaillance
+16 - Oum Vic - S3 - demission
+17 - Ida Ane - S2 - ajourne
+18 - Bia Eri - S6 - ajourne
+19 - Mia Flo - S6 - diplome
+20 - Ida Rut - S4 - ajourne
+21 - Eri Ami - S5 - defaillance
+22 - Abi Luu - S4 - ajourne
+23 - Rob Zoe - S2 - ajourne
+24 - Mya Teo - S4 - ajourne
+25 - Jay Ony - S2 - ajourne
+26 - Nor Rey - S6 - ajourne
+1 Lie Ily
+S1 - 10.8 (ADM) - 16.8 (ADM) - 14.0 (ADM) - 14.9 (ADM) - 15.5 (ADM) - 16.8 (ADM) -
+S2 - 7.5 (AJ) - 3.6 (ADC) - 15.8 (ADM) - 12.4 (ADM) - 4.5 (ADC) - 3.9 (ADC) -
+B1 - 9.1 (AJ) - 10.2 (ADM) - 14.9 (ADM) - 13.6 (ADM) - 10.0 (ADM) - 10.3 (ADM) -
+S3 - 19.1 (ADM) - 11.3 (ADM) - 0.3 (AJ) - 11.6 (ADM) - 4.8 (AJ) - 18.5 (ADM) -
+S4 - 19.9 (ADM) - 0.2 (AJ) - * (*) - 6.9 (AJ) - 10.9 (ADM) - 1.6 (AJ) - defaillance
+2 Chi Ael
+S1 - 17.7 (ADM) - 19.5 (ADM) - 14.0 (ADM) - 15.1 (ADM) - 0.0 (ADC) - 6.2 (ADC) -
+S2 - 10.5 (ADM) - 16.9 (ADM) - 14.1 (ADM) - 17.9 (ADM) - 19.9 (ADM) - 16.0 (ADM) -
+B1 - 14.1 (ADM) - 18.2 (ADM) - 14.0 (ADM) - 16.5 (ADM) - 10.0 (ADM) - 11.1 (ADM) -
+S3 - 18.9 (ADM) - 11.7 (ADM) - 18.8 (ADM) - 16.3 (ADM) - 13.7 (ADM) - 17.8 (ADM) -
+S4 - 14.9 (ADM) - 14.0 (ADM) - 1.6 (ADC) - 17.3 (ADM) - 11.6 (ADM) - 5.5 (ADC) -
+B2 - 16.9 (ADM) - 12.8 (ADM) - 10.2 (ADM) - 16.8 (ADM) - 12.6 (ADM) - 11.6 (ADM) -
+S5 - 5.9 (AJ) - 14.3 (ADM) - 15.6 (ADM) - 7.6 (AJ) - 19.5 (ADM) - 14.0 (ADM) -
+S6 - * (*) - 11.2 (ADM) - 4.6 (AJ) - 1.6 (AJ) - 3.3 (AJ) - 19.0 (ADM) - demission
+3 Jil Ony
+S1 - 15.8 (ADM) - 19.5 (ADM) - 19.9 (ADM) - 9.9 (ADC) - 19.2 (ADM) - 15.9 (ADM) -
+S2 - 4.6 (ADC) - 1.9 (ADC) - 0.2 (ADC) - 14.0 (ADM) - 2.9 (ADC) - 10.8 (ADM) -
+B1 - 10.2 (ADM) - 10.7 (ADM) - 10.0 (ADM) - 11.9 (ADM) - 11.0 (ADM) - 13.3 (ADM) -
+S3 - 15.8 (ADM) - 18.3 (ADM) - 4.3 (ADS) - 19.4 (ADM) - 13.1 (ADM) - 6.5 (ADC) -
+S4 - 12.9 (ADM) - 16.1 (ADM) - 14.6 (ADM) - 0.9 (ADC) - 8.3 (ADC) - 15.2 (ADM) -
+B2 - 14.3 (ADM) - 17.2 (ADM) - 9.4 (ADS) - 10.2 (ADM) - 10.7 (ADM) - 10.9 (ADM) -
+S5 - 15.6 (ADM) - 7.8 (AJ) - 18.6 (ADM) - 9.0 (AJ) - 7.2 (AJ) - 17.4 (ADM) -
+S6 - 7.6 (ADC) - 10.0 (ADM) - 5.6 (ADC) - 9.3 (AJ) - 8.8 (AJ) - 15.7 (ADM) -
+B3 - 11.6 (ADM) - 8.9 (AJ) - 12.1 (ADM) - 9.2 (AJ) - 8.0 (AJ) - 16.5 (ADM) - ajourne
+4 Lan Ben
+S1 - 5.9 (AJ) - 13.4 (ADM) - 1.5 (AJ) - 8.1 (AJ) - 10.0 (ADM) - 6.4 (AJ) -
+S2 - 6.8 (AJ) - 14.8 (ADM) - 17.6 (ADM) - * (*) - 14.8 (ADM) - * (*) - demission
+5 Ida Ece
+S1 - * (*) - 7.8 (AJ) - 10.6 (ADM) - 2.3 (AJ) - 6.1 (AJ) - 5.2 (AJ) - defaillance
+6 Aza Leo
+S1 - 11.4 (ADM) - 19.0 (ADM) - 1.6 (ADC) - 6.5 (ADC) - 17.0 (ADM) - 16.7 (ADM) -
+S2 - 15.7 (ADM) - 4.0 (ADC) - 19.8 (ADM) - 18.9 (ADM) - 19.3 (ADM) - 0.0 (ADS) -
+B1 - 13.5 (ADM) - 11.5 (ADM) - 10.7 (ADM) - 12.7 (ADM) - 18.1 (ADM) - 8.3 (ADS) -
+S3 - 13.2 (ADM) - 17.6 (ADM) - 2.8 (ADC) - 17.2 (ADM) - 16.9 (ADM) - 19.1 (ADM) -
+S4 - 12.4 (ADM) - 14.1 (ADM) - 19.3 (ADM) - 0.8 (AJ) - 12.5 (ADM) - 9.4 (ADC) -
+B2 - 12.8 (ADM) - 15.8 (ADM) - 11.1 (ADM) - 9.0 (AJ) - 14.7 (ADM) - 14.3 (ADM) -
+S5 - 4.1 (AJ) - 3.3 (AJ) - 8.5 (AJ) - 8.9 (AJ) - 14.5 (ADM) - 11.4 (ADM) -
+S6 - * (*) - 5.2 (AJ) - * (*) - * (*) - * (*) - * (*) - defaillance
+7 Joe Eva
+S1 - 19.4 (ADM) - 13.8 (ADM) - 17.2 (ADM) - 0.2 (ADC) - 6.2 (ADS) - 7.6 (ADS) -
+S2 - 16.1 (ADM) - 15.0 (ADM) - 13.1 (ADM) - 19.8 (ADM) - 9.7 (ADS) - 9.5 (ADS) -
+B1 - 17.7 (ADM) - 14.4 (ADM) - 15.1 (ADM) - 10.0 (ADM) - 8.0 (ADS) - 8.6 (ADS) -
+S3 - 3.4 (ADS) - 14.8 (ADM) - 9.7 (ADS) - 11.5 (ADM) - 13.8 (ADM) - 14.7 (ADM) -
+S4 - 14.8 (ADM) - 11.6 (ADM) - 6.6 (ADS) - 12.1 (ADM) - 15.6 (ADM) - 12.1 (ADM) -
+B2 - 9.1 (ADS) - 13.2 (ADM) - 8.2 (ADS) - 11.8 (ADM) - 14.7 (ADM) - 13.4 (ADM) -
+S5 - 11.8 (ADM) - 13.5 (ADM) - 18.4 (ADM) - 2.3 (AJ) - 13.0 (ADM) - 12.5 (ADM) -
+S6 - 19.7 (ADM) - 9.6 (ADC) - 2.3 (ADC) - 0.8 (AJ) - 12.8 (ADM) - 15.7 (ADM) -
+B3 - 15.7 (ADM) - 11.5 (ADM) - 10.3 (ADM) - 1.5 (AJB) - 12.9 (ADM) - 14.1 (ADM) - ajourne
+8 Zoe Evi
+S1 - 15.7 (ADM) - 0.1 (ADC) - 16.9 (ADM) - 6.8 (ADS) - 18.6 (ADM) - 18.7 (ADM) -
+S2 - 10.0 (ADM) - 19.8 (ADM) - 7.3 (ADC) - 9.9 (ADS) - 5.6 (ADC) - 7.7 (ADC) -
+B1 - 12.8 (ADM) - 10.0 (ADM) - 12.1 (ADM) - 8.3 (ADS) - 12.1 (ADM) - 13.2 (ADM) -
+S3 - 19.1 (ADM) - 19.2 (ADM) - 12.9 (ADM) - 10.5 (ADM) - 14.2 (ADM) - 9.8 (ADS) -
+S4 - 11.3 (ADM) - 3.6 (ADC) - 19.6 (ADM) - 18.7 (ADM) - 18.4 (ADM) - 10.1 (ADM) -
+B2 - 15.2 (ADM) - 11.4 (ADM) - 16.3 (ADM) - 14.6 (ADM) - 16.3 (ADM) - 9.9 (ADS) -
+S5 - 4.1 (ADC) - 12.5 (ADM) - 19.0 (ADM) - 17.4 (ADM) - 9.2 (ADC) - 19.1 (ADM) -
+S6 - 16.4 (ADM) - 19.9 (ADM) - 11.9 (ADM) - 18.4 (ADM) - 16.1 (ADM) - 15.1 (ADM) -
+B3 - 10.3 (ADM) - 16.2 (ADM) - 15.5 (ADM) - 17.9 (ADM) - 12.7 (ADM) - 17.1 (ADM) - diplome
+9 Nah Ane
+S1 - 1.3 (AJ) - 4.0 (AJ) - 13.9 (ADM) - 13.2 (ADM) - 14.3 (ADM) - 9.8 (AJ) -
+S2 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - defaillance
+10 Any Luu
+S1 - 19.2 (ADM) - 13.5 (ADM) - 14.4 (ADM) - 16.2 (ADM) - 13.4 (ADM) - 11.0 (ADM) -
+S2 - 12.7 (ADM) - 7.1 (ADC) - 19.3 (ADM) - 6.8 (ADC) - 10.5 (ADM) - 16.3 (ADM) -
+B1 - 16.0 (ADM) - 10.3 (ADM) - 16.9 (ADM) - 11.5 (ADM) - 11.9 (ADM) - 13.7 (ADM) -
+S3 - 6.0 (AJ) - 15.4 (ADM) - 9.0 (AJ) - 16.0 (ADM) - 12.8 (ADM) - 12.1 (ADM) -
+S4 - * (*) - * (*) - 5.3 (AJ) - * (*) - * (*) - * (*) - demission
+11 Lan Sam
+S1 - 5.9 (ADC) - 19.5 (ADM) - 3.7 (AJ) - 9.5 (ADC) - 19.3 (ADM) - 14.9 (ADM) -
+S2 - 17.8 (ADM) - 7.5 (ADC) - 12.1 (ADM) - 15.8 (ADM) - 14.3 (ADM) - 10.2 (ADM) -
+B1 - 11.8 (ADM) - 13.5 (ADM) - 7.9 (AJB) - 12.6 (ADM) - 16.8 (ADM) - 12.6 (ADM) - ajourne
+12 Kye Lyn
+S1 - 15.6 (ADM) - 13.4 (ADM) - 18.1 (ADM) - 3.2 (ADC) - 14.8 (ADM) - 19.2 (ADM) -
+S2 - 5.1 (ADC) - 14.5 (ADM) - 7.4 (ADC) - 19.7 (ADM) - 5.1 (ADC) - 8.9 (ADC) -
+B1 - 10.3 (ADM) - 13.9 (ADM) - 12.7 (ADM) - 11.4 (ADM) - 10.0 (ADM) - 14.0 (ADM) -
+S3 - 17.5 (ADM) - 19.7 (ADM) - 1.2 (ADC) - 18.3 (ADM) - 4.4 (AJ) - 0.5 (ADC) -
+S4 - 15.6 (ADM) - 0.3 (ADC) - 19.4 (ADM) - 14.7 (ADM) - 10.5 (ADM) - 19.6 (ADM) -
+B2 - 16.6 (ADM) - 10.0 (ADM) - 10.3 (ADM) - 16.5 (ADM) - 7.5 (AJB) - 10.0 (ADM) - ajourne
+13 Ony Evi
+S1 - 0.8 (AJ) - * (*) - 16.9 (ADM) - 6.2 (AJ) - 11.7 (ADM) - * (*) - demission
+14 Tya Apo
+S1 - 10.4 (ADM) - 7.3 (ADC) - 18.1 (ADM) - 15.7 (ADM) - 9.7 (ADS) - 10.0 (ADM) -
+S2 - 16.7 (ADM) - 14.0 (ADM) - 7.3 (ADC) - 12.8 (ADM) - 8.4 (ADS) - 8.3 (ADS) -
+B1 - 13.5 (ADM) - 10.6 (ADM) - 12.7 (ADM) - 14.3 (ADM) - 9.0 (ADS) - 9.1 (ADS) -
+S3 - 3.4 (AJ) - 19.3 (ADM) - 0.5 (ADC) - 15.3 (ADM) - 10.3 (ADM) - 12.5 (ADM) -
+S4 - 13.8 (ADM) - 9.8 (ADC) - 19.8 (ADM) - 18.0 (ADM) - 18.8 (ADM) - 13.7 (ADM) -
+B2 - 8.6 (AJ) - 14.6 (ADM) - 10.1 (ADM) - 16.6 (ADM) - 14.6 (ADM) - 13.1 (ADM) -
+S5 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - demission
+15 Lie Rey
+S1 - 7.4 (AJ) - 10.0 (ADM) - 10.7 (ADM) - 5.0 (ADC) - 18.9 (ADM) - 7.9 (AJ) -
+S2 - 9.1 (AJ) - 11.2 (ADM) - 18.7 (ADM) - 16.2 (ADM) - 4.3 (ADC) - 8.2 (AJ) -
+B1 - 8.2 (AJ) - 10.6 (ADM) - 14.7 (ADM) - 10.6 (ADM) - 11.6 (ADM) - 8.0 (AJ) -
+S3 - 6.4 (AJ) - 11.4 (ADM) - * (*) - 14.8 (ADM) - 3.4 (AJ) - 11.4 (ADM) - defaillance
+16 Oum Vic
+S1 - 8.1 (AJ) - 6.8 (ADC) - 7.8 (AJ) - 18.3 (ADM) - 16.3 (ADM) - 3.4 (ADC) -
+S2 - 9.7 (AJ) - 14.3 (ADM) - 8.3 (AJ) - 9.3 (ADC) - 18.3 (ADM) - 16.9 (ADM) -
+B1 - 8.9 (AJ) - 10.5 (ADM) - 8.1 (AJ) - 13.8 (ADM) - 17.3 (ADM) - 10.2 (ADM) -
+S3 - 1.0 (AJ) - * (*) - * (*) - 4.0 (AJ) - 2.8 (AJ) - * (*) - demission
+17 Ida Ane
+S1 - 3.8 (ADC) - 19.3 (ADM) - 10.2 (ADM) - 3.2 (ADC) - 6.8 (ADC) - 4.8 (AJ) -
+S2 - 19.5 (ADM) - 12.7 (ADM) - 12.9 (ADM) - 17.1 (ADM) - 15.4 (ADM) - 10.3 (ADM) -
+B1 - 11.7 (ADM) - 16.0 (ADM) - 11.5 (ADM) - 10.1 (ADM) - 11.1 (ADM) - 7.5 (AJB) - ajourne
+18 Bia Eri
+S1 - 16.1 (ADM) - 3.6 (ADC) - 18.9 (ADM) - 8.8 (ADS) - 13.0 (ADM) - 5.2 (ADC) -
+S2 - 4.7 (ADC) - 18.5 (ADM) - 2.1 (ADC) - 8.1 (ADS) - 19.1 (ADM) - 15.4 (ADM) -
+B1 - 10.4 (ADM) - 11.0 (ADM) - 10.5 (ADM) - 8.5 (ADS) - 16.0 (ADM) - 10.3 (ADM) -
+S3 - 4.2 (ADC) - 18.9 (ADM) - 17.4 (ADM) - 15.2 (ADM) - 0.1 (ADC) - 5.4 (ADC) -
+S4 - 16.1 (ADM) - 8.8 (ADC) - 18.1 (ADM) - 7.9 (ADC) - 19.9 (ADM) - 16.1 (ADM) -
+B2 - 10.1 (ADM) - 13.8 (ADM) - 17.8 (ADM) - 11.5 (ADM) - 10.0 (ADM) - 10.7 (ADM) -
+S5 - 6.9 (AJ) - 12.7 (ADM) - 8.1 (ADC) - 5.7 (ADC) - 19.4 (ADM) - 17.2 (ADM) -
+S6 - 9.5 (AJ) - 19.1 (ADM) - 18.1 (ADM) - 15.5 (ADM) - 7.5 (ADC) - 5.3 (ADC) -
+B3 - 8.2 (AJ) - 15.9 (ADM) - 13.1 (ADM) - 10.6 (ADM) - 13.4 (ADM) - 11.2 (ADM) - ajourne
+19 Mia Flo
+S1 - 13.2 (ADM) - 6.5 (ADS) - 1.3 (ADC) - 18.5 (ADM) - 14.3 (ADM) - 7.1 (ADC) -
+S2 - 14.9 (ADM) - 9.7 (ADS) - 19.4 (ADM) - 5.7 (ADC) - 3.0 (ADS) - 14.0 (ADM) -
+B1 - 14.0 (ADM) - 8.1 (ADS) - 10.3 (ADM) - 12.1 (ADM) - 8.6 (ADS) - 10.5 (ADM) -
+S3 - 12.5 (ADM) - 16.3 (ADM) - 2.2 (ADC) - 2.7 (ADC) - 19.1 (ADM) - 8.2 (ADC) -
+S4 - 13.9 (ADM) - 4.0 (ADC) - 18.4 (ADM) - 17.8 (ADM) - 7.5 (ADC) - 14.4 (ADM) -
+B2 - 13.2 (ADM) - 10.1 (ADM) - 10.3 (ADM) - 10.3 (ADM) - 13.3 (ADM) - 11.3 (ADM) -
+S5 - 1.6 (ADC) - 19.0 (ADM) - 16.6 (ADM) - 17.9 (ADM) - 1.7 (ADC) - 17.1 (ADM) -
+S6 - 19.8 (ADM) - 1.6 (ADC) - 12.6 (ADM) - 18.0 (ADM) - 18.5 (ADM) - 11.6 (ADM) -
+B3 - 10.7 (ADM) - 10.3 (ADM) - 14.6 (ADM) - 18.0 (ADM) - 10.1 (ADM) - 14.4 (ADM) - diplome
+20 Ida Rut
+S1 - 9.7 (ADC) - 13.8 (ADM) - 14.5 (ADM) - 0.3 (ADS) - 5.6 (ADS) - 19.3 (ADM) -
+S2 - 13.5 (ADM) - 8.7 (ADC) - 5.9 (ADC) - 18.9 (ADM) - 13.1 (ADM) - 5.0 (ADC) -
+B1 - 11.6 (ADM) - 11.3 (ADM) - 10.2 (ADM) - 9.6 (ADS) - 9.4 (ADS) - 12.2 (ADM) -
+S3 - 19.1 (ADM) - 13.2 (ADM) - 19.5 (ADM) - 12.2 (ADM) - 2.3 (ADC) - 4.7 (AJ) -
+S4 - 2.5 (ADC) - 12.0 (ADM) - 3.1 (ADC) - 12.5 (ADM) - 19.0 (ADM) - 11.1 (ADM) -
+B2 - 10.8 (ADM) - 12.6 (ADM) - 11.3 (ADM) - 12.3 (ADM) - 10.6 (ADM) - 7.9 (AJB) - ajourne
+21 Eri Ami
+S1 - 19.0 (ADM) - 17.2 (ADM) - 13.6 (ADM) - 19.9 (ADM) - 15.0 (ADM) - 2.0 (ADC) -
+S2 - 13.3 (ADM) - 12.0 (ADM) - 7.9 (ADC) - 3.6 (ADC) - 8.9 (ADC) - 18.5 (ADM) -
+B1 - 16.1 (ADM) - 14.6 (ADM) - 10.7 (ADM) - 11.8 (ADM) - 12.0 (ADM) - 10.2 (ADM) -
+S3 - 9.3 (ADC) - 18.8 (ADM) - 17.5 (ADM) - 17.7 (ADM) - 17.8 (ADM) - 19.5 (ADM) -
+S4 - 15.7 (ADM) - 19.8 (ADM) - 7.0 (ADC) - 16.0 (ADM) - 10.2 (ADM) - 12.7 (ADM) -
+B2 - 12.5 (ADM) - 19.3 (ADM) - 12.3 (ADM) - 16.8 (ADM) - 14.0 (ADM) - 16.1 (ADM) -
+S5 - 13.3 (ADM) - 11.7 (ADM) - 5.8 (AJ) - * (*) - * (*) - * (*) - defaillance
+22 Abi Luu
+S1 - 17.1 (ADM) - 2.0 (ADS) - 13.2 (ADM) - 12.2 (ADM) - 18.9 (ADM) - 9.2 (ADS) -
+S2 - 7.8 (ADC) - 14.3 (ADM) - 15.7 (ADM) - 15.9 (ADM) - 12.3 (ADM) - 8.2 (ADS) -
+B1 - 12.4 (ADM) - 8.1 (ADS) - 14.4 (ADM) - 14.0 (ADM) - 15.6 (ADM) - 8.7 (ADS) -
+S3 - 4.8 (AJ) - 6.7 (ADC) - 5.5 (ADC) - 4.7 (AJ) - 8.3 (AJ) - 5.2 (ADC) -
+S4 - 12.1 (ADM) - 17.9 (ADM) - 16.9 (ADM) - 13.1 (ADM) - 11.0 (ADM) - 17.1 (ADM) -
+B2 - 8.4 (AJ) - 12.3 (ADM) - 11.2 (ADM) - 8.9 (AJ) - 9.6 (AJ) - 11.1 (ADM) - ajourne
+23 Rob Zoe
+S1 - 0.9 (ADC) - 18.9 (ADM) - 19.8 (ADM) - 19.6 (ADM) - 5.2 (AJ) - 12.8 (ADM) -
+S2 - 19.9 (ADM) - 2.4 (ADC) - 0.5 (ADC) - 13.8 (ADM) - 2.9 (AJ) - 17.5 (ADM) -
+B1 - 10.4 (ADM) - 10.6 (ADM) - 10.2 (ADM) - 16.7 (ADM) - 4.0 (AJB) - 15.1 (ADM) - ajourne
+24 Mya Teo
+S1 - 14.2 (ADM) - 13.3 (ADM) - 12.2 (ADM) - 18.4 (ADM) - 17.7 (ADM) - 0.3 (ADC) -
+S2 - 17.1 (ADM) - 9.8 (ADC) - 19.8 (ADM) - 1.8 (ADC) - 13.1 (ADM) - 19.9 (ADM) -
+B1 - 15.6 (ADM) - 11.5 (ADM) - 16.0 (ADM) - 10.1 (ADM) - 15.4 (ADM) - 10.1 (ADM) -
+S3 - 15.3 (ADM) - 1.0 (ADC) - 19.6 (ADM) - 5.4 (AJ) - 18.4 (ADM) - 17.9 (ADM) -
+S4 - 15.6 (ADM) - 19.5 (ADM) - 7.2 (ADC) - 0.2 (AJ) - 10.6 (ADM) - 7.7 (ADC) -
+B2 - 15.5 (ADM) - 10.3 (ADM) - 13.4 (ADM) - 2.8 (AJB) - 14.5 (ADM) - 12.8 (ADM) - ajourne
+25 Jay Ony
+S1 - 9.3 (ADC) - 17.7 (ADM) - 13.4 (ADM) - 12.4 (ADM) - 4.2 (AJ) - 14.3 (ADM) -
+S2 - 11.6 (ADM) - 17.4 (ADM) - 6.6 (ADC) - 13.1 (ADM) - 11.2 (ADM) - 7.3 (ADC) -
+B1 - 10.4 (ADM) - 17.5 (ADM) - 10.0 (ADM) - 12.7 (ADM) - 7.7 (AJB) - 10.8 (ADM) - ajourne
+26 Nor Rey
+S1 - 16.5 (ADM) - 19.0 (ADM) - 13.1 (ADM) - 10.9 (ADM) - 4.5 (ADS) - 7.7 (ADC) -
+S2 - 14.6 (ADM) - 1.9 (ADC) - 11.1 (ADM) - 11.4 (ADM) - 12.7 (ADM) - 19.3 (ADM) -
+B1 - 15.5 (ADM) - 10.5 (ADM) - 12.1 (ADM) - 11.1 (ADM) - 8.6 (ADS) - 13.5 (ADM) -
+S3 - 19.2 (ADM) - 8.9 (ADS) - 12.2 (ADM) - 18.8 (ADM) - 10.7 (ADM) - 9.8 (ADS) -
+S4 - 6.0 (ADC) - 8.1 (ADS) - 19.0 (ADM) - 15.2 (ADM) - 13.4 (ADM) - 8.5 (ADS) -
+B2 - 12.6 (ADM) - 8.5 (ADS) - 15.6 (ADM) - 17.0 (ADM) - 12.0 (ADM) - 9.2 (ADS) -
+S5 - 9.4 (ADC) - 14.7 (ADM) - 8.8 (AJ) - 12.5 (ADM) - 17.6 (ADM) - 10.6 (ADM) -
+S6 - 16.5 (ADM) - 12.7 (ADM) - 9.2 (AJ) - 16.8 (ADM) - 12.2 (ADM) - 15.1 (ADM) -
+B3 - 12.9 (ADM) - 13.7 (ADM) - 9.0 (AJ) - 14.7 (ADM) - 14.9 (ADM) - 12.9 (ADM) - ajourne
+2 demission(s)
+2 defaillance(s)
+0 en cours
+4 ajourne(s)
+18 passe(s)
+2 demission(s)
+2 defaillance(s)
+0 en cours
+4 ajourne(s)
+10 passe(s)
+2 demission(s)
+2 defaillance(s)
+0 en cours
+4 ajourne(s)
+2 passe(s)

@@ -1,0 +1,1204 @@
+Inscription enregistree (1)
+Note enregistree
+Inscription enregistree (2)
+1 - Noe Ece - S1 - en cours
+2 - Flo Xin - S1 - en cours
+Demission enregistree
+2 Flo Xin
+S1 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - demission
+Note enregistree
+Note enregistree
+Inscription enregistree (3)
+Note enregistree
+Defaillance enregistree
+Note enregistree
+Note enregistree
+1 Noe Ece
+S1 - 8.8 (AJ) - 10.1 (ADM) - * (*) - 9.4 (AJ) - 11.8 (ADM) - * (*) - defaillance
+Note enregistree
+Note enregistree
+Note enregistree
+Inscription enregistree (4)
+Note enregistree
+4 Paj Flo
+S1 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - en cours
+Note enregistree
+1 - Noe Ece - S1 - defaillance
+2 - Flo Xin - S1 - demission
+3 - Teo Ayo - S1 - en cours
+4 - Paj Flo - S1 - en cours
+Note enregistree
+Inscription enregistree (5)
+Note enregistree
+Note enregistree
+1 - Noe Ece - S1 - defaillance
+2 - Flo Xin - S1 - demission
+3 - Teo Ayo - S1 - en cours
+4 - Paj Flo - S1 - en cours
+5 - Rob Lan - S1 - en cours
+Identifiant incorrect
+Inscription enregistree (6)
+Inscription enregistree (7)
+Note enregistree
+4 Paj Flo
+S1 - * (*) - * (*) - * (*) - 14.0 (ADM) - 9.3 (AJ) - 3.6 (AJ) - en cours
+Inscription enregistree (8)
+Note enregistree
+Inscription enregistree (9)
+Note enregistree
+Inscription enregistree (10)
+1 - Noe Ece - S1 - defaillance
+2 - Flo Xin - S1 - demission
+3 - Teo Ayo - S1 - en cours
+4 - Paj Flo - S1 - en cours
+5 - Rob Lan - S1 - en cours
+6 - Nel Asa - S1 - en cours
+7 - Aza Joe - S1 - en cours
+8 - Ode Ane - S1 - en cours
+9 - Sam Lou - S1 - en cours
+10 - Max Kim - S1 - en cours
+Note enregistree
+Inscription enregistree (11)
+Note enregistree
+Note enregistree
+Inscription enregistree (12)
+1 - Noe Ece - S1 - defaillance
+2 - Flo Xin - S1 - demission
+3 - Teo Ayo - S1 - en cours
+4 - Paj Flo - S1 - en cours
+5 - Rob Lan - S1 - en cours
+6 - Nel Asa - S1 - en cours
+7 - Aza Joe - S1 - en cours
+8 - Ode Ane - S1 - en cours
+9 - Sam Lou - S1 - en cours
+10 - Max Kim - S1 - en cours
+11 - Rim Mia - S1 - en cours
+12 - Noe Vic - S1 - en cours
+Inscription enregistree (13)
+9 Sam Lou
+S1 - * (*) - * (*) - * (*) - * (*) - * (*) - 16.5 (ADM) - en cours
+Inscription enregistree (14)
+Inscription enregistree (15)
+Note enregistree
+Note enregistree
+Inscription enregistree (16)
+8 Ode Ane
+S1 - * (*) - * (*) - * (*) - * (*) - 10.9 (ADM) - * (*) - en cours
+Note enregistree
+Inscription enregistree (17)
+Inscription enregistree (18)
+6 Nel Asa
+S1 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - en cours
+Inscription enregistree (19)
+Note enregistree
+Inscription enregistree (20)
+15 Hai Thy
+S1 - 8.2 (AJ) - * (*) - * (*) - * (*) - * (*) - * (*) - en cours
+Note incorrecte
+Inscription enregistree (21)
+Inscription enregistree (22)
+1 - Noe Ece - S1 - defaillance
+2 - Flo Xin - S1 - demission
+3 - Teo Ayo - S1 - en cours
+4 - Paj Flo - S1 - en cours
+5 - Rob Lan - S1 - en cours
+6 - Nel Asa - S1 - en cours
+7 - Aza Joe - S1 - en cours
+8 - Ode Ane - S1 - en cours
+9 - Sam Lou - S1 - en cours
+10 - Max Kim - S1 - en cours
+11 - Rim Mia - S1 - en cours
+12 - Noe Vic - S1 - en cours
+13 - Pie Rob - S1 - en cours
+14 - Eva Roy - S1 - en cours
+15 - Hai Thy - S1 - en cours
+16 - Roy Lan - S1 - en cours
+17 - Teo Pie - S1 - en cours
+18 - Mya Nor - S1 - en cours
+19 - Lor Rut - S1 - en cours
+20 - Ali Bia - S1 - en cours
+21 - Ary Max - S1 - en cours
+22 - Sae Ane - S1 - en cours
+Defaillance enregistree
+Note enregistree
+Inscription enregistree (23)
+1 - Noe Ece - S1 - defaillance
+2 - Flo Xin - S1 - demission
+3 - Teo Ayo - S1 - en cours
+4 - Paj Flo - S1 - defaillance
+5 - Rob Lan - S1 - en cours
+6 - Nel Asa - S1 - en cours
+7 - Aza Joe - S1 - en cours
+8 - Ode Ane - S1 - en cours
+9 - Sam Lou - S1 - en cours
+10 - Max Kim - S1 - en cours
+11 - Rim Mia - S1 - en cours
+12 - Noe Vic - S1 - en cours
+13 - Pie Rob - S1 - en cours
+14 - Eva Roy - S1 - en cours
+15 - Hai Thy - S1 - en cours
+16 - Roy Lan - S1 - en cours
+17 - Teo Pie - S1 - en cours
+18 - Mya Nor - S1 - en cours
+19 - Lor Rut - S1 - en cours
+20 - Ali Bia - S1 - en cours
+21 - Ary Max - S1 - en cours
+22 - Sae Ane - S1 - en cours
+23 - Pol Poe - S1 - en cours
+Inscription enregistree (24)
+Note enregistree
+Nom incorrect
+Note enregistree
+1 - Noe Ece - S1 - defaillance
+2 - Flo Xin - S1 - demission
+3 - Teo Ayo - S1 - en cours
+4 - Paj Flo - S1 - defaillance
+5 - Rob Lan - S1 - en cours
+6 - Nel Asa - S1 - en cours
+7 - Aza Joe - S1 - en cours
+8 - Ode Ane - S1 - en cours
+9 - Sam Lou - S1 - en cours
+10 - Max Kim - S1 - en cours
+11 - Rim Mia - S1 - en cours
+12 - Noe Vic - S1 - en cours
+13 - Pie Rob - S1 - en cours
+14 - Eva Roy - S1 - en cours
+15 - Hai Thy - S1 - en cours
+16 - Roy Lan - S1 - en cours
+17 - Teo Pie - S1 - en cours
+18 - Mya Nor - S1 - en cours
+19 - Lor Rut - S1 - en cours
+20 - Ali Bia - S1 - en cours
+21 - Ary Max - S1 - en cours
+22 - Sae Ane - S1 - en cours
+23 - Pol Poe - S1 - en cours
+24 - Ide Nah - S1 - en cours
+Inscription enregistree (25)
+Demission enregistree
+Inscription enregistree (26)
+Inscription enregistree (27)
+Note enregistree
+1 - Noe Ece - S1 - defaillance
+2 - Flo Xin - S1 - demission
+3 - Teo Ayo - S1 - en cours
+4 - Paj Flo - S1 - defaillance
+5 - Rob Lan - S1 - en cours
+6 - Nel Asa - S1 - en cours
+7 - Aza Joe - S1 - en cours
+8 - Ode Ane - S1 - en cours
+9 - Sam Lou - S1 - en cours
+10 - Max Kim - S1 - en cours
+11 - Rim Mia - S1 - en cours
+12 - Noe Vic - S1 - en cours
+13 - Pie Rob - S1 - en cours
+14 - Eva Roy - S1 - en cours
+15 - Hai Thy - S1 - demission
+16 - Roy Lan - S1 - en cours
+17 - Teo Pie - S1 - en cours
+18 - Mya Nor - S1 - en cours
+19 - Lor Rut - S1 - en cours
+20 - Ali Bia - S1 - en cours
+21 - Ary Max - S1 - en cours
+22 - Sae Ane - S1 - en cours
+23 - Pol Poe - S1 - en cours
+24 - Ide Nah - S1 - en cours
+25 - Ami Leo - S1 - en cours
+26 - Mya Bia - S1 - en cours
+27 - Ria Aza - S1 - en cours
+Note enregistree
+20 Ali Bia
+S1 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - en cours
+Note enregistree
+Inscription enregistree (28)
+Inscription enregistree (29)
+Inscription enregistree (30)
+Note enregistree
+1 - Noe Ece - S1 - defaillance
+2 - Flo Xin - S1 - demission
+3 - Teo Ayo - S1 - en cours
+4 - Paj Flo - S1 - defaillance
+5 - Rob Lan - S1 - en cours
+6 - Nel Asa - S1 - en cours
+7 - Aza Joe - S1 - en cours
+8 - Ode Ane - S1 - en cours
+9 - Sam Lou - S1 - en cours
+10 - Max Kim - S1 - en cours
+11 - Rim Mia - S1 - en cours
+12 - Noe Vic - S1 - en cours
+13 - Pie Rob - S1 - en cours
+14 - Eva Roy - S1 - en cours
+15 - Hai Thy - S1 - demission
+16 - Roy Lan - S1 - en cours
+17 - Teo Pie - S1 - en cours
+18 - Mya Nor - S1 - en cours
+19 - Lor Rut - S1 - en cours
+20 - Ali Bia - S1 - en cours
+21 - Ary Max - S1 - en cours
+22 - Sae Ane - S1 - en cours
+23 - Pol Poe - S1 - en cours
+24 - Ide Nah - S1 - en cours
+25 - Ami Leo - S1 - en cours
+26 - Mya Bia - S1 - en cours
+27 - Ria Aza - S1 - en cours
+28 - Aby Thy - S1 - en cours
+29 - Kim Ons - S1 - en cours
+30 - Ide Eli - S1 - en cours
+Note enregistree
+Note enregistree
+Note enregistree
+Inscription enregistree (31)
+Note enregistree
+4 Paj Flo
+S1 - * (*) - * (*) - * (*) - 14.0 (ADM) - 9.3 (AJ) - 3.6 (AJ) - defaillance
+Inscription enregistree (32)
+Inscription enregistree (33)
+Inscription enregistree (34)
+Note enregistree
+Inscription enregistree (35)
+Note enregistree
+Inscription enregistree (36)
+Note enregistree
+Note enregistree
+24 Ide Nah
+S1 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - en cours
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Defaillance enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+1 - Noe Ece - S1 - defaillance
+2 - Flo Xin - S1 - demission
+3 - Teo Ayo - S1 - en cours
+4 - Paj Flo - S1 - defaillance
+5 - Rob Lan - S1 - en cours
+6 - Nel Asa - S1 - en cours
+7 - Aza Joe - S1 - en cours
+8 - Ode Ane - S1 - en cours
+9 - Sam Lou - S1 - en cours
+10 - Max Kim - S1 - en cours
+11 - Rim Mia - S1 - en cours
+12 - Noe Vic - S1 - en cours
+13 - Pie Rob - S1 - en cours
+14 - Eva Roy - S1 - en cours
+15 - Hai Thy - S1 - demission
+16 - Roy Lan - S1 - defaillance
+17 - Teo Pie - S1 - en cours
+18 - Mya Nor - S1 - en cours
+19 - Lor Rut - S1 - en cours
+20 - Ali Bia - S1 - en cours
+21 - Ary Max - S1 - en cours
+22 - Sae Ane - S1 - en cours
+23 - Pol Poe - S1 - en cours
+24 - Ide Nah - S1 - en cours
+25 - Ami Leo - S1 - en cours
+26 - Mya Bia - S1 - en cours
+27 - Ria Aza - S1 - en cours
+28 - Aby Thy - S1 - en cours
+29 - Kim Ons - S1 - en cours
+30 - Ide Eli - S1 - en cours
+31 - Vic Lie - S1 - en cours
+32 - Mya Roy - S1 - en cours
+33 - Umi Rey - S1 - en cours
+34 - Any Rob - S1 - en cours
+35 - Thi Rut - S1 - en cours
+36 - Ons Nil - S1 - en cours
+Note enregistree
+Note enregistree
+Note enregistree
+1 - Noe Ece - S1 - defaillance
+2 - Flo Xin - S1 - demission
+3 - Teo Ayo - S1 - en cours
+4 - Paj Flo - S1 - defaillance
+5 - Rob Lan - S1 - en cours
+6 - Nel Asa - S1 - en cours
+7 - Aza Joe - S1 - en cours
+8 - Ode Ane - S1 - en cours
+9 - Sam Lou - S1 - en cours
+10 - Max Kim - S1 - en cours
+11 - Rim Mia - S1 - en cours
+12 - Noe Vic - S1 - en cours
+13 - Pie Rob - S1 - en cours
+14 - Eva Roy - S1 - en cours
+15 - Hai Thy - S1 - demission
+16 - Roy Lan - S1 - defaillance
+17 - Teo Pie - S1 - en cours
+18 - Mya Nor - S1 - en cours
+19 - Lor Rut - S1 - en cours
+20 - Ali Bia - S1 - en cours
+21 - Ary Max - S1 - en cours
+22 - Sae Ane - S1 - en cours
+23 - Pol Poe - S1 - en cours
+24 - Ide Nah - S1 - en cours
+25 - Ami Leo - S1 - en cours
+26 - Mya Bia - S1 - en cours
+27 - Ria Aza - S1 - en cours
+28 - Aby Thy - S1 - en cours
+29 - Kim Ons - S1 - en cours
+30 - Ide Eli - S1 - en cours
+31 - Vic Lie - S1 - en cours
+32 - Mya Roy - S1 - en cours
+33 - Umi Rey - S1 - en cours
+34 - Any Rob - S1 - en cours
+35 - Thi Rut - S1 - en cours
+36 - Ons Nil - S1 - en cours
+Note enregistree
+Note enregistree
+1 - Noe Ece - S1 - defaillance
+2 - Flo Xin - S1 - demission
+3 - Teo Ayo - S1 - en cours
+4 - Paj Flo - S1 - defaillance
+5 - Rob Lan - S1 - en cours
+6 - Nel Asa - S1 - en cours
+7 - Aza Joe - S1 - en cours
+8 - Ode Ane - S1 - en cours
+9 - Sam Lou - S1 - en cours
+10 - Max Kim - S1 - en cours
+11 - Rim Mia - S1 - en cours
+12 - Noe Vic - S1 - en cours
+13 - Pie Rob - S1 - en cours
+14 - Eva Roy - S1 - en cours
+15 - Hai Thy - S1 - demission
+16 - Roy Lan - S1 - defaillance
+17 - Teo Pie - S1 - en cours
+18 - Mya Nor - S1 - en cours
+19 - Lor Rut - S1 - en cours
+20 - Ali Bia - S1 - en cours
+21 - Ary Max - S1 - en cours
+22 - Sae Ane - S1 - en cours
+23 - Pol Poe - S1 - en cours
+24 - Ide Nah - S1 - en cours
+25 - Ami Leo - S1 - en cours
+26 - Mya Bia - S1 - en cours
+27 - Ria Aza - S1 - en cours
+28 - Aby Thy - S1 - en cours
+29 - Kim Ons - S1 - en cours
+30 - Ide Eli - S1 - en cours
+31 - Vic Lie - S1 - en cours
+32 - Mya Roy - S1 - en cours
+33 - Umi Rey - S1 - en cours
+34 - Any Rob - S1 - en cours
+35 - Thi Rut - S1 - en cours
+36 - Ons Nil - S1 - en cours
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+1 - Noe Ece - S1 - defaillance
+2 - Flo Xin - S1 - demission
+3 - Teo Ayo - S1 - en cours
+4 - Paj Flo - S1 - defaillance
+5 - Rob Lan - S1 - en cours
+6 - Nel Asa - S1 - en cours
+7 - Aza Joe - S1 - en cours
+8 - Ode Ane - S1 - en cours
+9 - Sam Lou - S1 - en cours
+10 - Max Kim - S1 - en cours
+11 - Rim Mia - S1 - en cours
+12 - Noe Vic - S1 - en cours
+13 - Pie Rob - S1 - en cours
+14 - Eva Roy - S1 - en cours
+15 - Hai Thy - S1 - demission
+16 - Roy Lan - S1 - defaillance
+17 - Teo Pie - S1 - en cours
+18 - Mya Nor - S1 - en cours
+19 - Lor Rut - S1 - en cours
+20 - Ali Bia - S1 - en cours
+21 - Ary Max - S1 - en cours
+22 - Sae Ane - S1 - en cours
+23 - Pol Poe - S1 - en cours
+24 - Ide Nah - S1 - en cours
+25 - Ami Leo - S1 - en cours
+26 - Mya Bia - S1 - en cours
+27 - Ria Aza - S1 - en cours
+28 - Aby Thy - S1 - en cours
+29 - Kim Ons - S1 - en cours
+30 - Ide Eli - S1 - en cours
+31 - Vic Lie - S1 - en cours
+32 - Mya Roy - S1 - en cours
+33 - Umi Rey - S1 - en cours
+34 - Any Rob - S1 - en cours
+35 - Thi Rut - S1 - en cours
+36 - Ons Nil - S1 - en cours
+Note enregistree
+1 - Noe Ece - S1 - defaillance
+2 - Flo Xin - S1 - demission
+3 - Teo Ayo - S1 - en cours
+4 - Paj Flo - S1 - defaillance
+5 - Rob Lan - S1 - en cours
+6 - Nel Asa - S1 - en cours
+7 - Aza Joe - S1 - en cours
+8 - Ode Ane - S1 - en cours
+9 - Sam Lou - S1 - en cours
+10 - Max Kim - S1 - en cours
+11 - Rim Mia - S1 - en cours
+12 - Noe Vic - S1 - en cours
+13 - Pie Rob - S1 - en cours
+14 - Eva Roy - S1 - en cours
+15 - Hai Thy - S1 - demission
+16 - Roy Lan - S1 - defaillance
+17 - Teo Pie - S1 - en cours
+18 - Mya Nor - S1 - en cours
+19 - Lor Rut - S1 - en cours
+20 - Ali Bia - S1 - en cours
+21 - Ary Max - S1 - en cours
+22 - Sae Ane - S1 - en cours
+23 - Pol Poe - S1 - en cours
+24 - Ide Nah - S1 - en cours
+25 - Ami Leo - S1 - en cours
+26 - Mya Bia - S1 - en cours
+27 - Ria Aza - S1 - en cours
+28 - Aby Thy - S1 - en cours
+29 - Kim Ons - S1 - en cours
+30 - Ide Eli - S1 - en cours
+31 - Vic Lie - S1 - en cours
+32 - Mya Roy - S1 - en cours
+33 - Umi Rey - S1 - en cours
+34 - Any Rob - S1 - en cours
+35 - Thi Rut - S1 - en cours
+36 - Ons Nil - S1 - en cours
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+13 Pie Rob
+S1 - 14.6 (ADM) - * (*) - * (*) - 6.5 (AJ) - * (*) - 3.6 (AJ) - en cours
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Defaillance enregistree
+Note enregistree
+Demission enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+1 - Noe Ece - S1 - defaillance
+2 - Flo Xin - S1 - demission
+3 - Teo Ayo - S1 - en cours
+4 - Paj Flo - S1 - defaillance
+5 - Rob Lan - S1 - en cours
+6 - Nel Asa - S1 - demission
+7 - Aza Joe - S1 - en cours
+8 - Ode Ane - S1 - en cours
+9 - Sam Lou - S1 - en cours
+10 - Max Kim - S1 - en cours
+11 - Rim Mia - S1 - defaillance
+12 - Noe Vic - S1 - en cours
+13 - Pie Rob - S1 - en cours
+14 - Eva Roy - S1 - en cours
+15 - Hai Thy - S1 - demission
+16 - Roy Lan - S1 - defaillance
+17 - Teo Pie - S1 - en cours
+18 - Mya Nor - S1 - en cours
+19 - Lor Rut - S1 - en cours
+20 - Ali Bia - S1 - en cours
+21 - Ary Max - S1 - en cours
+22 - Sae Ane - S1 - en cours
+23 - Pol Poe - S1 - en cours
+24 - Ide Nah - S1 - en cours
+25 - Ami Leo - S1 - en cours
+26 - Mya Bia - S1 - en cours
+27 - Ria Aza - S1 - en cours
+28 - Aby Thy - S1 - en cours
+29 - Kim Ons - S1 - en cours
+30 - Ide Eli - S1 - en cours
+31 - Vic Lie - S1 - en cours
+32 - Mya Roy - S1 - en cours
+33 - Umi Rey - S1 - en cours
+34 - Any Rob - S1 - en cours
+35 - Thi Rut - S1 - en cours
+36 - Ons Nil - S1 - en cours
+Note enregistree
+Note enregistree
+33 Umi Rey
+S1 - * (*) - * (*) - * (*) - * (*) - 0.1 (AJ) - * (*) - en cours
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Semestre incorrect
+Note enregistree
+Note enregistree
+15 Hai Thy
+S1 - 8.2 (AJ) - * (*) - * (*) - * (*) - * (*) - * (*) - demission
+Note enregistree
+Note enregistree
+13 Pie Rob
+S1 - 14.6 (ADM) - * (*) - * (*) - 6.5 (AJ) - 15.2 (ADM) - 3.6 (AJ) - en cours
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Demission enregistree
+Note enregistree
+1 - Noe Ece - S1 - defaillance
+2 - Flo Xin - S1 - demission
+3 - Teo Ayo - S1 - en cours
+4 - Paj Flo - S1 - defaillance
+5 - Rob Lan - S1 - en cours
+6 - Nel Asa - S1 - demission
+7 - Aza Joe - S1 - en cours
+8 - Ode Ane - S1 - en cours
+9 - Sam Lou - S1 - en cours
+10 - Max Kim - S1 - demission
+11 - Rim Mia - S1 - defaillance
+12 - Noe Vic - S1 - en cours
+13 - Pie Rob - S1 - en cours
+14 - Eva Roy - S1 - en cours
+15 - Hai Thy - S1 - demission
+16 - Roy Lan - S1 - defaillance
+17 - Teo Pie - S1 - en cours
+18 - Mya Nor - S1 - en cours
+19 - Lor Rut - S1 - en cours
+20 - Ali Bia - S1 - en cours
+21 - Ary Max - S1 - en cours
+22 - Sae Ane - S1 - en cours
+23 - Pol Poe - S1 - en cours
+24 - Ide Nah - S1 - en cours
+25 - Ami Leo - S1 - en cours
+26 - Mya Bia - S1 - en cours
+27 - Ria Aza - S1 - en cours
+28 - Aby Thy - S1 - en cours
+29 - Kim Ons - S1 - en cours
+30 - Ide Eli - S1 - en cours
+31 - Vic Lie - S1 - en cours
+32 - Mya Roy - S1 - en cours
+33 - Umi Rey - S1 - en cours
+34 - Any Rob - S1 - en cours
+35 - Thi Rut - S1 - en cours
+36 - Ons Nil - S1 - en cours
+Demission enregistree
+Note enregistree
+28 Aby Thy
+S1 - * (*) - 12.7 (ADM) - * (*) - 1.8 (AJ) - 4.8 (AJ) - * (*) - en cours
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+1 - Noe Ece - S1 - defaillance
+2 - Flo Xin - S1 - demission
+3 - Teo Ayo - S1 - en cours
+4 - Paj Flo - S1 - defaillance
+5 - Rob Lan - S1 - en cours
+6 - Nel Asa - S1 - demission
+7 - Aza Joe - S1 - en cours
+8 - Ode Ane - S1 - en cours
+9 - Sam Lou - S1 - en cours
+10 - Max Kim - S1 - demission
+11 - Rim Mia - S1 - defaillance
+12 - Noe Vic - S1 - en cours
+13 - Pie Rob - S1 - en cours
+14 - Eva Roy - S1 - en cours
+15 - Hai Thy - S1 - demission
+16 - Roy Lan - S1 - defaillance
+17 - Teo Pie - S1 - en cours
+18 - Mya Nor - S1 - en cours
+19 - Lor Rut - S1 - en cours
+20 - Ali Bia - S1 - en cours
+21 - Ary Max - S1 - en cours
+22 - Sae Ane - S1 - en cours
+23 - Pol Poe - S1 - en cours
+24 - Ide Nah - S1 - en cours
+25 - Ami Leo - S1 - en cours
+26 - Mya Bia - S1 - en cours
+27 - Ria Aza - S1 - en cours
+28 - Aby Thy - S1 - en cours
+29 - Kim Ons - S1 - en cours
+30 - Ide Eli - S1 - en cours
+31 - Vic Lie - S1 - en cours
+32 - Mya Roy - S1 - en cours
+33 - Umi Rey - S1 - en cours
+34 - Any Rob - S1 - en cours
+35 - Thi Rut - S1 - en cours
+36 - Ons Nil - S1 - demission
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Defaillance enregistree
+Note enregistree
+1 - Noe Ece - S1 - defaillance
+2 - Flo Xin - S1 - demission
+3 - Teo Ayo - S1 - en cours
+4 - Paj Flo - S1 - defaillance
+5 - Rob Lan - S1 - en cours
+6 - Nel Asa - S1 - demission
+7 - Aza Joe - S1 - en cours
+8 - Ode Ane - S1 - en cours
+9 - Sam Lou - S1 - en cours
+10 - Max Kim - S1 - demission
+11 - Rim Mia - S1 - defaillance
+12 - Noe Vic - S1 - defaillance
+13 - Pie Rob - S1 - en cours
+14 - Eva Roy - S1 - en cours
+15 - Hai Thy - S1 - demission
+16 - Roy Lan - S1 - defaillance
+17 - Teo Pie - S1 - en cours
+18 - Mya Nor - S1 - en cours
+19 - Lor Rut - S1 - en cours
+20 - Ali Bia - S1 - en cours
+21 - Ary Max - S1 - en cours
+22 - Sae Ane - S1 - en cours
+23 - Pol Poe - S1 - en cours
+24 - Ide Nah - S1 - en cours
+25 - Ami Leo - S1 - en cours
+26 - Mya Bia - S1 - en cours
+27 - Ria Aza - S1 - en cours
+28 - Aby Thy - S1 - en cours
+29 - Kim Ons - S1 - en cours
+30 - Ide Eli - S1 - en cours
+31 - Vic Lie - S1 - en cours
+32 - Mya Roy - S1 - en cours
+33 - Umi Rey - S1 - en cours
+34 - Any Rob - S1 - en cours
+35 - Thi Rut - S1 - en cours
+36 - Ons Nil - S1 - demission
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Demission enregistree
+1 - Noe Ece - S1 - defaillance
+2 - Flo Xin - S1 - demission
+3 - Teo Ayo - S1 - en cours
+4 - Paj Flo - S1 - defaillance
+5 - Rob Lan - S1 - en cours
+6 - Nel Asa - S1 - demission
+7 - Aza Joe - S1 - en cours
+8 - Ode Ane - S1 - en cours
+9 - Sam Lou - S1 - en cours
+10 - Max Kim - S1 - demission
+11 - Rim Mia - S1 - defaillance
+12 - Noe Vic - S1 - defaillance
+13 - Pie Rob - S1 - en cours
+14 - Eva Roy - S1 - en cours
+15 - Hai Thy - S1 - demission
+16 - Roy Lan - S1 - defaillance
+17 - Teo Pie - S1 - en cours
+18 - Mya Nor - S1 - en cours
+19 - Lor Rut - S1 - en cours
+20 - Ali Bia - S1 - en cours
+21 - Ary Max - S1 - en cours
+22 - Sae Ane - S1 - en cours
+23 - Pol Poe - S1 - en cours
+24 - Ide Nah - S1 - en cours
+25 - Ami Leo - S1 - demission
+26 - Mya Bia - S1 - en cours
+27 - Ria Aza - S1 - en cours
+28 - Aby Thy - S1 - en cours
+29 - Kim Ons - S1 - en cours
+30 - Ide Eli - S1 - en cours
+31 - Vic Lie - S1 - en cours
+32 - Mya Roy - S1 - en cours
+33 - Umi Rey - S1 - en cours
+34 - Any Rob - S1 - en cours
+35 - Thi Rut - S1 - en cours
+36 - Ons Nil - S1 - demission
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+1 - Noe Ece - S1 - defaillance
+2 - Flo Xin - S1 - demission
+3 - Teo Ayo - S1 - en cours
+4 - Paj Flo - S1 - defaillance
+5 - Rob Lan - S1 - en cours
+6 - Nel Asa - S1 - demission
+7 - Aza Joe - S1 - en cours
+8 - Ode Ane - S1 - en cours
+9 - Sam Lou - S1 - en cours
+10 - Max Kim - S1 - demission
+11 - Rim Mia - S1 - defaillance
+12 - Noe Vic - S1 - defaillance
+13 - Pie Rob - S1 - en cours
+14 - Eva Roy - S1 - en cours
+15 - Hai Thy - S1 - demission
+16 - Roy Lan - S1 - defaillance
+17 - Teo Pie - S1 - en cours
+18 - Mya Nor - S1 - en cours
+19 - Lor Rut - S1 - en cours
+20 - Ali Bia - S1 - en cours
+21 - Ary Max - S1 - en cours
+22 - Sae Ane - S1 - en cours
+23 - Pol Poe - S1 - en cours
+24 - Ide Nah - S1 - en cours
+25 - Ami Leo - S1 - demission
+26 - Mya Bia - S1 - en cours
+27 - Ria Aza - S1 - en cours
+28 - Aby Thy - S1 - en cours
+29 - Kim Ons - S1 - en cours
+30 - Ide Eli - S1 - en cours
+31 - Vic Lie - S1 - en cours
+32 - Mya Roy - S1 - en cours
+33 - Umi Rey - S1 - en cours
+34 - Any Rob - S1 - en cours
+35 - Thi Rut - S1 - en cours
+36 - Ons Nil - S1 - demission
+Note enregistree
+1 - Noe Ece - S1 - defaillance
+2 - Flo Xin - S1 - demission
+3 - Teo Ayo - S1 - en cours
+4 - Paj Flo - S1 - defaillance
+5 - Rob Lan - S1 - en cours
+6 - Nel Asa - S1 - demission
+7 - Aza Joe - S1 - en cours
+8 - Ode Ane - S1 - en cours
+9 - Sam Lou - S1 - en cours
+10 - Max Kim - S1 - demission
+11 - Rim Mia - S1 - defaillance
+12 - Noe Vic - S1 - defaillance
+13 - Pie Rob - S1 - en cours
+14 - Eva Roy - S1 - en cours
+15 - Hai Thy - S1 - demission
+16 - Roy Lan - S1 - defaillance
+17 - Teo Pie - S1 - en cours
+18 - Mya Nor - S1 - en cours
+19 - Lor Rut - S1 - en cours
+20 - Ali Bia - S1 - en cours
+21 - Ary Max - S1 - en cours
+22 - Sae Ane - S1 - en cours
+23 - Pol Poe - S1 - en cours
+24 - Ide Nah - S1 - en cours
+25 - Ami Leo - S1 - demission
+26 - Mya Bia - S1 - en cours
+27 - Ria Aza - S1 - en cours
+28 - Aby Thy - S1 - en cours
+29 - Kim Ons - S1 - en cours
+30 - Ide Eli - S1 - en cours
+31 - Vic Lie - S1 - en cours
+32 - Mya Roy - S1 - en cours
+33 - Umi Rey - S1 - en cours
+34 - Any Rob - S1 - en cours
+35 - Thi Rut - S1 - en cours
+36 - Ons Nil - S1 - demission
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Identifiant incorrect
+Note enregistree
+Note enregistree
+1 - Noe Ece - S1 - defaillance
+2 - Flo Xin - S1 - demission
+3 - Teo Ayo - S1 - en cours
+4 - Paj Flo - S1 - defaillance
+5 - Rob Lan - S1 - en cours
+6 - Nel Asa - S1 - demission
+7 - Aza Joe - S1 - en cours
+8 - Ode Ane - S1 - en cours
+9 - Sam Lou - S1 - en cours
+10 - Max Kim - S1 - demission
+11 - Rim Mia - S1 - defaillance
+12 - Noe Vic - S1 - defaillance
+13 - Pie Rob - S1 - en cours
+14 - Eva Roy - S1 - en cours
+15 - Hai Thy - S1 - demission
+16 - Roy Lan - S1 - defaillance
+17 - Teo Pie - S1 - en cours
+18 - Mya Nor - S1 - en cours
+19 - Lor Rut - S1 - en cours
+20 - Ali Bia - S1 - en cours
+21 - Ary Max - S1 - en cours
+22 - Sae Ane - S1 - en cours
+23 - Pol Poe - S1 - en cours
+24 - Ide Nah - S1 - en cours
+25 - Ami Leo - S1 - demission
+26 - Mya Bia - S1 - en cours
+27 - Ria Aza - S1 - en cours
+28 - Aby Thy - S1 - en cours
+29 - Kim Ons - S1 - en cours
+30 - Ide Eli - S1 - en cours
+31 - Vic Lie - S1 - en cours
+32 - Mya Roy - S1 - en cours
+33 - Umi Rey - S1 - en cours
+34 - Any Rob - S1 - en cours
+35 - Thi Rut - S1 - en cours
+36 - Ons Nil - S1 - demission
+Note enregistree
+Note enregistree
+Defaillance enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+32 Mya Roy
+S1 - * (*) - 4.0 (AJ) - 1.4 (AJ) - 4.2 (AJ) - * (*) - 13.9 (ADM) - en cours
+Note enregistree
+Note enregistree
+23 Pol Poe
+S1 - 2.8 (AJ) - 13.7 (ADM) - 3.1 (AJ) - 6.8 (AJ) - 16.4 (ADM) - 11.0 (ADM) - en cours
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+21 Ary Max
+S1 - 13.9 (ADM) - 5.1 (AJ) - 12.9 (ADM) - 18.3 (ADM) - 9.8 (AJ) - 5.7 (AJ) - en cours
+Note enregistree
+Note enregistree
+Des notes sont manquantes
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+35 Thi Rut
+S1 - 4.0 (AJ) - 1.3 (AJ) - 17.2 (ADM) - 3.8 (AJ) - 4.5 (AJ) - 6.5 (AJ) - en cours
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Defaillance enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+14 Eva Roy
+S1 - 5.1 (AJ) - * (*) - 10.3 (ADM) - 18.2 (ADM) - * (*) - 19.0 (ADM) - defaillance
+Note enregistree
+Note enregistree
+15 Hai Thy
+S1 - 8.2 (AJ) - * (*) - * (*) - * (*) - * (*) - * (*) - demission
+Note enregistree
+22 Sae Ane
+S1 - * (*) - * (*) - * (*) - 14.0 (ADM) - * (*) - * (*) - en cours
+Note enregistree
+4 Paj Flo
+S1 - * (*) - * (*) - * (*) - 14.0 (ADM) - 9.3 (AJ) - 3.6 (AJ) - defaillance
+Note enregistree
+Note enregistree
+Note enregistree
+Demission enregistree
+Note enregistree
+Note enregistree
+Nom incorrect
+Note enregistree
+1 - Noe Ece - S1 - defaillance
+2 - Flo Xin - S1 - demission
+3 - Teo Ayo - S1 - en cours
+4 - Paj Flo - S1 - defaillance
+5 - Rob Lan - S1 - en cours
+6 - Nel Asa - S1 - demission
+7 - Aza Joe - S1 - en cours
+8 - Ode Ane - S1 - en cours
+9 - Sam Lou - S1 - en cours
+10 - Max Kim - S1 - demission
+11 - Rim Mia - S1 - defaillance
+12 - Noe Vic - S1 - defaillance
+13 - Pie Rob - S1 - en cours
+14 - Eva Roy - S1 - defaillance
+15 - Hai Thy - S1 - demission
+16 - Roy Lan - S1 - defaillance
+17 - Teo Pie - S1 - en cours
+18 - Mya Nor - S1 - en cours
+19 - Lor Rut - S1 - en cours
+20 - Ali Bia - S1 - demission
+21 - Ary Max - S1 - en cours
+22 - Sae Ane - S1 - en cours
+23 - Pol Poe - S1 - defaillance
+24 - Ide Nah - S1 - en cours
+25 - Ami Leo - S1 - demission
+26 - Mya Bia - S1 - en cours
+27 - Ria Aza - S1 - en cours
+28 - Aby Thy - S1 - en cours
+29 - Kim Ons - S1 - en cours
+30 - Ide Eli - S1 - en cours
+31 - Vic Lie - S1 - en cours
+32 - Mya Roy - S1 - en cours
+33 - Umi Rey - S1 - en cours
+34 - Any Rob - S1 - en cours
+35 - Thi Rut - S1 - en cours
+36 - Ons Nil - S1 - demission
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+1 - Noe Ece - S1 - defaillance
+2 - Flo Xin - S1 - demission
+3 - Teo Ayo - S1 - en cours
+4 - Paj Flo - S1 - defaillance
+5 - Rob Lan - S1 - en cours
+6 - Nel Asa - S1 - demission
+7 - Aza Joe - S1 - en cours
+8 - Ode Ane - S1 - en cours
+9 - Sam Lou - S1 - en cours
+10 - Max Kim - S1 - demission
+11 - Rim Mia - S1 - defaillance
+12 - Noe Vic - S1 - defaillance
+13 - Pie Rob - S1 - en cours
+14 - Eva Roy - S1 - defaillance
+15 - Hai Thy - S1 - demission
+16 - Roy Lan - S1 - defaillance
+17 - Teo Pie - S1 - en cours
+18 - Mya Nor - S1 - en cours
+19 - Lor Rut - S1 - en cours
+20 - Ali Bia - S1 - demission
+21 - Ary Max - S1 - en cours
+22 - Sae Ane - S1 - en cours
+23 - Pol Poe - S1 - defaillance
+24 - Ide Nah - S1 - en cours
+25 - Ami Leo - S1 - demission
+26 - Mya Bia - S1 - en cours
+27 - Ria Aza - S1 - en cours
+28 - Aby Thy - S1 - en cours
+29 - Kim Ons - S1 - en cours
+30 - Ide Eli - S1 - en cours
+31 - Vic Lie - S1 - en cours
+32 - Mya Roy - S1 - en cours
+33 - Umi Rey - S1 - en cours
+34 - Any Rob - S1 - en cours
+35 - Thi Rut - S1 - en cours
+36 - Ons Nil - S1 - demission
+Note enregistree
+Defaillance enregistree
+Defaillance enregistree
+Note enregistree
+20 Ali Bia
+S1 - 13.5 (ADM) - 15.4 (ADM) - 14.2 (ADM) - 15.5 (ADM) - 7.5 (AJ) - 1.5 (AJ) - demission
+Note enregistree
+Note enregistree
+Demission enregistree
+Note enregistree
+24 Ide Nah
+S1 - 18.8 (ADM) - 19.6 (ADM) - 13.8 (ADM) - 1.0 (AJ) - 14.7 (ADM) - 8.4 (AJ) - defaillance
+Note enregistree
+Defaillance enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+12 Noe Vic
+S1 - 5.7 (AJ) - * (*) - * (*) - 18.2 (ADM) - 15.8 (ADM) - 12.5 (ADM) - defaillance
+Note enregistree
+Note enregistree
+1 - Noe Ece - S1 - defaillance
+2 - Flo Xin - S1 - demission
+3 - Teo Ayo - S1 - en cours
+4 - Paj Flo - S1 - defaillance
+5 - Rob Lan - S1 - en cours
+6 - Nel Asa - S1 - demission
+7 - Aza Joe - S1 - en cours
+8 - Ode Ane - S1 - en cours
+9 - Sam Lou - S1 - en cours
+10 - Max Kim - S1 - demission
+11 - Rim Mia - S1 - defaillance
+12 - Noe Vic - S1 - defaillance
+13 - Pie Rob - S1 - en cours
+14 - Eva Roy - S1 - defaillance
+15 - Hai Thy - S1 - demission
+16 - Roy Lan - S1 - defaillance
+17 - Teo Pie - S1 - en cours
+18 - Mya Nor - S1 - defaillance
+19 - Lor Rut - S1 - en cours
+20 - Ali Bia - S1 - demission
+21 - Ary Max - S1 - en cours
+22 - Sae Ane - S1 - en cours
+23 - Pol Poe - S1 - defaillance
+24 - Ide Nah - S1 - defaillance
+25 - Ami Leo - S1 - demission
+26 - Mya Bia - S1 - en cours
+27 - Ria Aza - S1 - en cours
+28 - Aby Thy - S1 - en cours
+29 - Kim Ons - S1 - en cours
+30 - Ide Eli - S1 - defaillance
+31 - Vic Lie - S1 - en cours
+32 - Mya Roy - S1 - en cours
+33 - Umi Rey - S1 - en cours
+34 - Any Rob - S1 - en cours
+35 - Thi Rut - S1 - demission
+36 - Ons Nil - S1 - demission
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Demission enregistree
+Note enregistree
+1 - Noe Ece - S1 - defaillance
+2 - Flo Xin - S1 - demission
+3 - Teo Ayo - S1 - en cours
+4 - Paj Flo - S1 - defaillance
+5 - Rob Lan - S1 - en cours
+6 - Nel Asa - S1 - demission
+7 - Aza Joe - S1 - en cours
+8 - Ode Ane - S1 - en cours
+9 - Sam Lou - S1 - en cours
+10 - Max Kim - S1 - demission
+11 - Rim Mia - S1 - defaillance
+12 - Noe Vic - S1 - defaillance
+13 - Pie Rob - S1 - demission
+14 - Eva Roy - S1 - defaillance
+15 - Hai Thy - S1 - demission
+16 - Roy Lan - S1 - defaillance
+17 - Teo Pie - S1 - en cours
+18 - Mya Nor - S1 - defaillance
+19 - Lor Rut - S1 - en cours
+20 - Ali Bia - S1 - demission
+21 - Ary Max - S1 - en cours
+22 - Sae Ane - S1 - en cours
+23 - Pol Poe - S1 - defaillance
+24 - Ide Nah - S1 - defaillance
+25 - Ami Leo - S1 - demission
+26 - Mya Bia - S1 - en cours
+27 - Ria Aza - S1 - en cours
+28 - Aby Thy - S1 - en cours
+29 - Kim Ons - S1 - en cours
+30 - Ide Eli - S1 - defaillance
+31 - Vic Lie - S1 - en cours
+32 - Mya Roy - S1 - en cours
+33 - Umi Rey - S1 - en cours
+34 - Any Rob - S1 - en cours
+35 - Thi Rut - S1 - demission
+36 - Ons Nil - S1 - demission
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Demission enregistree
+Demission enregistree
+Demission enregistree
+Defaillance enregistree
+Defaillance enregistree
+1 - Noe Ece - S1 - defaillance
+2 - Flo Xin - S1 - demission
+3 - Teo Ayo - S1 - en cours
+4 - Paj Flo - S1 - defaillance
+5 - Rob Lan - S1 - en cours
+6 - Nel Asa - S1 - demission
+7 - Aza Joe - S1 - en cours
+8 - Ode Ane - S1 - en cours
+9 - Sam Lou - S1 - en cours
+10 - Max Kim - S1 - demission
+11 - Rim Mia - S1 - defaillance
+12 - Noe Vic - S1 - defaillance
+13 - Pie Rob - S1 - demission
+14 - Eva Roy - S1 - defaillance
+15 - Hai Thy - S1 - demission
+16 - Roy Lan - S1 - defaillance
+17 - Teo Pie - S1 - en cours
+18 - Mya Nor - S1 - defaillance
+19 - Lor Rut - S1 - en cours
+20 - Ali Bia - S1 - demission
+21 - Ary Max - S1 - demission
+22 - Sae Ane - S1 - en cours
+23 - Pol Poe - S1 - defaillance
+24 - Ide Nah - S1 - defaillance
+25 - Ami Leo - S1 - demission
+26 - Mya Bia - S1 - en cours
+27 - Ria Aza - S1 - demission
+28 - Aby Thy - S1 - en cours
+29 - Kim Ons - S1 - en cours
+30 - Ide Eli - S1 - defaillance
+31 - Vic Lie - S1 - defaillance
+32 - Mya Roy - S1 - defaillance
+33 - Umi Rey - S1 - en cours
+34 - Any Rob - S1 - demission
+35 - Thi Rut - S1 - demission
+36 - Ons Nil - S1 - demission
+1 Noe Ece
+S1 - 8.8 (AJ) - 10.1 (ADM) - * (*) - 9.4 (AJ) - 11.8 (ADM) - * (*) - defaillance
+2 Flo Xin
+S1 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - demission
+3 Teo Ayo
+S1 - 2.4 (AJ) - 12.1 (ADM) - 0.2 (AJ) - 13.3 (ADM) - 18.7 (ADM) - 8.7 (AJ) - en cours
+4 Paj Flo
+S1 - * (*) - * (*) - * (*) - 14.0 (ADM) - 9.3 (AJ) - 3.6 (AJ) - defaillance
+5 Rob Lan
+S1 - 10.5 (ADM) - 16.4 (ADM) - 17.5 (ADM) - 0.0 (AJ) - 8.1 (AJ) - 18.1 (ADM) - en cours
+6 Nel Asa
+S1 - * (*) - * (*) - * (*) - 13.4 (ADM) - * (*) - * (*) - demission
+7 Aza Joe
+S1 - * (*) - * (*) - * (*) - 16.6 (ADM) - * (*) - * (*) - en cours
+8 Ode Ane
+S1 - 0.6 (AJ) - 14.2 (ADM) - 11.5 (ADM) - 14.0 (ADM) - 10.9 (ADM) - 9.6 (AJ) - en cours
+9 Sam Lou
+S1 - 15.5 (ADM) - 18.5 (ADM) - 15.3 (ADM) - 1.7 (AJ) - 10.0 (ADM) - 16.5 (ADM) - en cours
+10 Max Kim
+S1 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - demission
+11 Rim Mia
+S1 - * (*) - * (*) - * (*) - 6.7 (AJ) - * (*) - * (*) - defaillance
+12 Noe Vic
+S1 - 5.7 (AJ) - * (*) - * (*) - 18.2 (ADM) - 15.8 (ADM) - 12.5 (ADM) - defaillance
+13 Pie Rob
+S1 - 14.8 (ADM) - 1.4 (AJ) - 14.1 (ADM) - 6.5 (AJ) - 15.2 (ADM) - 7.9 (AJ) - demission
+14 Eva Roy
+S1 - 5.1 (AJ) - * (*) - 10.3 (ADM) - 18.2 (ADM) - * (*) - 19.0 (ADM) - defaillance
+15 Hai Thy
+S1 - 8.2 (AJ) - * (*) - * (*) - * (*) - * (*) - * (*) - demission
+16 Roy Lan
+S1 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - defaillance
+17 Teo Pie
+S1 - 11.5 (ADM) - 10.2 (ADM) - 12.9 (ADM) - 4.6 (AJ) - 11.7 (ADM) - 17.4 (ADM) - en cours
+18 Mya Nor
+S1 - 17.8 (ADM) - 4.0 (AJ) - 8.7 (AJ) - 15.0 (ADM) - 19.4 (ADM) - 11.7 (ADM) - defaillance
+19 Lor Rut
+S1 - 19.8 (ADM) - * (*) - * (*) - * (*) - 4.0 (AJ) - * (*) - en cours
+20 Ali Bia
+S1 - 13.5 (ADM) - 15.4 (ADM) - 14.2 (ADM) - 15.5 (ADM) - 7.5 (AJ) - 1.5 (AJ) - demission
+21 Ary Max
+S1 - 2.2 (AJ) - 19.3 (ADM) - 8.3 (AJ) - 18.3 (ADM) - 3.6 (AJ) - 4.3 (AJ) - demission
+22 Sae Ane
+S1 - * (*) - * (*) - * (*) - 14.0 (ADM) - * (*) - * (*) - en cours
+23 Pol Poe
+S1 - 2.8 (AJ) - 13.7 (ADM) - 3.1 (AJ) - 6.8 (AJ) - 16.4 (ADM) - 11.0 (ADM) - defaillance
+24 Ide Nah
+S1 - 18.8 (ADM) - 19.6 (ADM) - 13.8 (ADM) - 1.0 (AJ) - 14.7 (ADM) - 8.4 (AJ) - defaillance
+25 Ami Leo
+S1 - 14.9 (ADM) - * (*) - * (*) - * (*) - 3.3 (AJ) - 15.3 (ADM) - demission
+26 Mya Bia
+S1 - 18.4 (ADM) - 13.2 (ADM) - 10.3 (ADM) - 11.4 (ADM) - 1.3 (AJ) - 13.3 (ADM) - en cours
+27 Ria Aza
+S1 - 19.7 (ADM) - 13.0 (ADM) - 5.5 (AJ) - 18.7 (ADM) - 15.7 (ADM) - 7.1 (AJ) - demission
+28 Aby Thy
+S1 - 17.7 (ADM) - 12.7 (ADM) - * (*) - 1.8 (AJ) - 4.8 (AJ) - 9.5 (AJ) - en cours
+29 Kim Ons
+S1 - 6.4 (AJ) - * (*) - * (*) - * (*) - 16.9 (ADM) - * (*) - en cours
+30 Ide Eli
+S1 - 7.6 (AJ) - 11.6 (ADM) - 17.0 (ADM) - 4.7 (AJ) - 9.7 (AJ) - 8.3 (AJ) - defaillance
+31 Vic Lie
+S1 - 1.2 (AJ) - 9.1 (AJ) - 12.0 (ADM) - 16.4 (ADM) - 15.7 (ADM) - 2.5 (AJ) - defaillance
+32 Mya Roy
+S1 - 16.6 (ADM) - 8.2 (AJ) - 1.4 (AJ) - 4.2 (AJ) - 19.8 (ADM) - 17.4 (ADM) - defaillance
+33 Umi Rey
+S1 - * (*) - * (*) - * (*) - * (*) - 0.1 (AJ) - * (*) - en cours
+34 Any Rob
+S1 - 16.5 (ADM) - 7.4 (AJ) - 5.5 (AJ) - 4.4 (AJ) - 3.7 (AJ) - 19.9 (ADM) - demission
+35 Thi Rut
+S1 - 4.0 (AJ) - 1.3 (AJ) - 1.1 (AJ) - 3.8 (AJ) - 4.5 (AJ) - 6.5 (AJ) - demission
+36 Ons Nil
+S1 - 1.1 (AJ) - 13.0 (ADM) - 16.4 (ADM) - 19.3 (ADM) - 9.8 (AJ) - * (*) - demission

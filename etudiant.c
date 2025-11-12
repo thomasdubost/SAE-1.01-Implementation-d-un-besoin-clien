@@ -25,6 +25,8 @@ void choixCommande(char *command, int *etudiant_count, Etudiant *etudiant_list)
 {
     // remplace le \n a la fin de la commande par un \0
     command[strcspn(command, "\n")] = 0;
+    command[strcspn(command, "\r")] = 0;
+
     // récupérer la commande séparée
     texte_separer separer_txt = {0};
     separertxt(command, &separer_txt);
@@ -32,7 +34,7 @@ void choixCommande(char *command, int *etudiant_count, Etudiant *etudiant_list)
     switch (separer_txt.command_type)
     {
     case EXIT:
-        exit_prog(separer_txt);
+        exit(0);
         break;
     case INSCRIRE_ETUDIANT:
         inscrireEtudiant(separer_txt, etudiant_count, etudiant_list);
@@ -59,6 +61,7 @@ void choixCommande(char *command, int *etudiant_count, Etudiant *etudiant_list)
         bilan_etu(separer_txt, etudiant_list, *etudiant_count);
         break;
     default:
+
         printf("Commande inconnue. Veuillez réessayer.\n");
         break;
     }
@@ -454,8 +457,27 @@ void etudiants(const texte_separer separertxt, Etudiant *etudiant_list, int nb_e
 {
     for (int i = 0; i < nb_etudiant; ++i)
     {
-        Etudiant *etudiant = &etudiant_list[i];
-        printf("%d - %s %s - S%d - %s\n", i + 1, etudiant->prenom, etudiant->nom, etudiant->semestre_en_cours, etudiant->status);
+        Etudiant etudiant = etudiant_list[i];
+        char statusEtudiant[STATUT_LENGTH];
+        switch (etudiant.status)
+        {
+        case AJOURNE:
+            strcpy(statusEtudiant, "ajourne");
+            break;
+        case EN_COURS:
+            strcpy(statusEtudiant, "en cours");
+            break;
+        case STATUT_DEMISSION:
+            strcpy(statusEtudiant, "demission");
+            break;
+        case DEFAILLANCE:
+            strcpy(statusEtudiant, "defaillance");
+            break;
+        case DIPLOME:
+            strcpy(statusEtudiant, "diplome");
+            break;
+        }
+        printf("%d - %s %s - S%d - %s\n", i + 1, etudiant.prenom, etudiant.nom, etudiant.semestre_en_cours, statusEtudiant);
     }
 }
 

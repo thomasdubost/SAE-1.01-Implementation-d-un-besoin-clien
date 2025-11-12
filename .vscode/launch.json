@@ -61,7 +61,7 @@
       "program": "${workspaceFolder}/etudiant.out",
       "args": [
         "<",
-        "${workspaceFolder}/inout/inout-sujet/in.txt.txt"
+        "${workspaceFolder}/inout/in-sp1-2.txt"
       ],
       "request": "launch",
       "externalConsole": false,

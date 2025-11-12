@@ -1,0 +1,1032 @@
+Inscription enregistree (1)
+Identifiant incorrect
+Note enregistree
+Note enregistree
+Note enregistree
+Inscription enregistree (2)
+1 - Thy Ali - S1 - en cours
+2 - Noe Sam - S1 - en cours
+Inscription enregistree (3)
+Inscription enregistree (4)
+1 - Thy Ali - S1 - en cours
+2 - Noe Sam - S1 - en cours
+3 - Ian Ria - S1 - en cours
+4 - Abi Ony - S1 - en cours
+Inscription enregistree (5)
+Inscription enregistree (6)
+Note enregistree
+Note enregistree
+3 Ian Ria
+S1 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - en cours
+Inscription enregistree (7)
+Note enregistree
+Note enregistree
+Inscription enregistree (8)
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+1 - Thy Ali - S1 - en cours
+2 - Noe Sam - S1 - en cours
+3 - Ian Ria - S1 - en cours
+4 - Abi Ony - S1 - en cours
+5 - Ary Paj - S1 - en cours
+6 - Eli Poe - S1 - en cours
+7 - Tom Noy - S1 - en cours
+8 - Kai Nao - S1 - en cours
+Inscription enregistree (9)
+Note enregistree
+1 - Thy Ali - S1 - en cours
+2 - Noe Sam - S1 - en cours
+3 - Ian Ria - S1 - en cours
+4 - Abi Ony - S1 - en cours
+5 - Ary Paj - S1 - en cours
+6 - Eli Poe - S1 - en cours
+7 - Tom Noy - S1 - en cours
+8 - Kai Nao - S1 - en cours
+9 - Rey Rex - S1 - en cours
+Note enregistree
+Defaillance enregistree
+Inscription enregistree (10)
+Inscription enregistree (11)
+Inscription enregistree (12)
+Inscription enregistree (13)
+Note enregistree
+Inscription enregistree (14)
+Inscription enregistree (15)
+Inscription enregistree (16)
+Note enregistree
+Inscription enregistree (17)
+Inscription enregistree (18)
+1 - Thy Ali - S1 - en cours
+2 - Noe Sam - S1 - defaillance
+3 - Ian Ria - S1 - en cours
+4 - Abi Ony - S1 - en cours
+5 - Ary Paj - S1 - en cours
+6 - Eli Poe - S1 - en cours
+7 - Tom Noy - S1 - en cours
+8 - Kai Nao - S1 - en cours
+9 - Rey Rex - S1 - en cours
+10 - Hai Loo - S1 - en cours
+11 - Leo Ida - S1 - en cours
+12 - Nah Noe - S1 - en cours
+13 - Xin Ali - S1 - en cours
+14 - Xin Tom - S1 - en cours
+15 - Ide Yva - S1 - en cours
+16 - Nah Thy - S1 - en cours
+17 - Ian Nel - S1 - en cours
+18 - Kye Ali - S1 - en cours
+Note enregistree
+Inscription enregistree (19)
+Inscription enregistree (20)
+4 Abi Ony
+S1 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - en cours
+Note enregistree
+Note enregistree
+12 Nah Noe
+S1 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - en cours
+Note enregistree
+Inscription enregistree (21)
+1 - Thy Ali - S1 - en cours
+2 - Noe Sam - S1 - defaillance
+3 - Ian Ria - S1 - en cours
+4 - Abi Ony - S1 - en cours
+5 - Ary Paj - S1 - en cours
+6 - Eli Poe - S1 - en cours
+7 - Tom Noy - S1 - en cours
+8 - Kai Nao - S1 - en cours
+9 - Rey Rex - S1 - en cours
+10 - Hai Loo - S1 - en cours
+11 - Leo Ida - S1 - en cours
+12 - Nah Noe - S1 - en cours
+13 - Xin Ali - S1 - en cours
+14 - Xin Tom - S1 - en cours
+15 - Ide Yva - S1 - en cours
+16 - Nah Thy - S1 - en cours
+17 - Ian Nel - S1 - en cours
+18 - Kye Ali - S1 - en cours
+19 - Any Evi - S1 - en cours
+20 - Aza Lyo - S1 - en cours
+21 - Umi Asa - S1 - en cours
+Inscription enregistree (22)
+Note enregistree
+Note enregistree
+Inscription enregistree (23)
+Inscription enregistree (24)
+Note enregistree
+Note enregistree
+1 - Thy Ali - S1 - en cours
+2 - Noe Sam - S1 - defaillance
+3 - Ian Ria - S1 - en cours
+4 - Abi Ony - S1 - en cours
+5 - Ary Paj - S1 - en cours
+6 - Eli Poe - S1 - en cours
+7 - Tom Noy - S1 - en cours
+8 - Kai Nao - S1 - en cours
+9 - Rey Rex - S1 - en cours
+10 - Hai Loo - S1 - en cours
+11 - Leo Ida - S1 - en cours
+12 - Nah Noe - S1 - en cours
+13 - Xin Ali - S1 - en cours
+14 - Xin Tom - S1 - en cours
+15 - Ide Yva - S1 - en cours
+16 - Nah Thy - S1 - en cours
+17 - Ian Nel - S1 - en cours
+18 - Kye Ali - S1 - en cours
+19 - Any Evi - S1 - en cours
+20 - Aza Lyo - S1 - en cours
+21 - Umi Asa - S1 - en cours
+22 - Lyo Lor - S1 - en cours
+23 - Nil Mia - S1 - en cours
+24 - Tya Ons - S1 - en cours
+Note enregistree
+Inscription enregistree (25)
+1 - Thy Ali - S1 - en cours
+2 - Noe Sam - S1 - defaillance
+3 - Ian Ria - S1 - en cours
+4 - Abi Ony - S1 - en cours
+5 - Ary Paj - S1 - en cours
+6 - Eli Poe - S1 - en cours
+7 - Tom Noy - S1 - en cours
+8 - Kai Nao - S1 - en cours
+9 - Rey Rex - S1 - en cours
+10 - Hai Loo - S1 - en cours
+11 - Leo Ida - S1 - en cours
+12 - Nah Noe - S1 - en cours
+13 - Xin Ali - S1 - en cours
+14 - Xin Tom - S1 - en cours
+15 - Ide Yva - S1 - en cours
+16 - Nah Thy - S1 - en cours
+17 - Ian Nel - S1 - en cours
+18 - Kye Ali - S1 - en cours
+19 - Any Evi - S1 - en cours
+20 - Aza Lyo - S1 - en cours
+21 - Umi Asa - S1 - en cours
+22 - Lyo Lor - S1 - en cours
+23 - Nil Mia - S1 - en cours
+24 - Tya Ons - S1 - en cours
+25 - Chi Izy - S1 - en cours
+Inscription enregistree (26)
+Note enregistree
+Inscription enregistree (27)
+Note enregistree
+Note enregistree
+Inscription enregistree (28)
+Inscription enregistree (29)
+Inscription enregistree (30)
+Inscription enregistree (31)
+Inscription enregistree (32)
+Inscription enregistree (33)
+30 Evi Ael
+S1 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - en cours
+Inscription enregistree (34)
+Defaillance enregistree
+Note enregistree
+Note enregistree
+9 Rey Rex
+S1 - * (*) - * (*) - 5.2 (AJ) - * (*) - * (*) - * (*) - en cours
+Inscription enregistree (35)
+Note enregistree
+9 Rey Rex
+S1 - * (*) - * (*) - 5.2 (AJ) - * (*) - * (*) - * (*) - en cours
+Note enregistree
+26 Ian Gao
+S1 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - en cours
+Note enregistree
+Identifiant incorrect
+Inscription enregistree (36)
+Note enregistree
+Note enregistree
+1 - Thy Ali - S1 - en cours
+2 - Noe Sam - S1 - defaillance
+3 - Ian Ria - S1 - en cours
+4 - Abi Ony - S1 - en cours
+5 - Ary Paj - S1 - en cours
+6 - Eli Poe - S1 - en cours
+7 - Tom Noy - S1 - en cours
+8 - Kai Nao - S1 - en cours
+9 - Rey Rex - S1 - en cours
+10 - Hai Loo - S1 - en cours
+11 - Leo Ida - S1 - en cours
+12 - Nah Noe - S1 - en cours
+13 - Xin Ali - S1 - en cours
+14 - Xin Tom - S1 - en cours
+15 - Ide Yva - S1 - en cours
+16 - Nah Thy - S1 - en cours
+17 - Ian Nel - S1 - en cours
+18 - Kye Ali - S1 - en cours
+19 - Any Evi - S1 - en cours
+20 - Aza Lyo - S1 - en cours
+21 - Umi Asa - S1 - en cours
+22 - Lyo Lor - S1 - en cours
+23 - Nil Mia - S1 - en cours
+24 - Tya Ons - S1 - en cours
+25 - Chi Izy - S1 - en cours
+26 - Ian Gao - S1 - en cours
+27 - Sae Paj - S1 - en cours
+28 - Ece Kai - S1 - defaillance
+29 - Nao Jay - S1 - en cours
+30 - Evi Ael - S1 - en cours
+31 - Izy Hai - S1 - en cours
+32 - Apo Mia - S1 - en cours
+33 - Aoi Leo - S1 - en cours
+34 - Ece Tom - S1 - en cours
+35 - Rey Nah - S1 - en cours
+36 - Tom Nao - S1 - en cours
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+1 - Thy Ali - S1 - en cours
+2 - Noe Sam - S1 - defaillance
+3 - Ian Ria - S1 - en cours
+4 - Abi Ony - S1 - en cours
+5 - Ary Paj - S1 - en cours
+6 - Eli Poe - S1 - en cours
+7 - Tom Noy - S1 - en cours
+8 - Kai Nao - S1 - en cours
+9 - Rey Rex - S1 - en cours
+10 - Hai Loo - S1 - en cours
+11 - Leo Ida - S1 - en cours
+12 - Nah Noe - S1 - en cours
+13 - Xin Ali - S1 - en cours
+14 - Xin Tom - S1 - en cours
+15 - Ide Yva - S1 - en cours
+16 - Nah Thy - S1 - en cours
+17 - Ian Nel - S1 - en cours
+18 - Kye Ali - S1 - en cours
+19 - Any Evi - S1 - en cours
+20 - Aza Lyo - S1 - en cours
+21 - Umi Asa - S1 - en cours
+22 - Lyo Lor - S1 - en cours
+23 - Nil Mia - S1 - en cours
+24 - Tya Ons - S1 - en cours
+25 - Chi Izy - S1 - en cours
+26 - Ian Gao - S1 - en cours
+27 - Sae Paj - S1 - en cours
+28 - Ece Kai - S1 - defaillance
+29 - Nao Jay - S1 - en cours
+30 - Evi Ael - S1 - en cours
+31 - Izy Hai - S1 - en cours
+32 - Apo Mia - S1 - en cours
+33 - Aoi Leo - S1 - en cours
+34 - Ece Tom - S1 - en cours
+35 - Rey Nah - S1 - en cours
+36 - Tom Nao - S1 - en cours
+Demission enregistree
+Defaillance enregistree
+Defaillance enregistree
+Note enregistree
+32 Apo Mia
+S1 - * (*) - * (*) - * (*) - * (*) - 19.8 (ADM) - * (*) - en cours
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+30 Evi Ael
+S1 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - en cours
+Note enregistree
+Note enregistree
+1 - Thy Ali - S1 - en cours
+2 - Noe Sam - S1 - defaillance
+3 - Ian Ria - S1 - en cours
+4 - Abi Ony - S1 - en cours
+5 - Ary Paj - S1 - en cours
+6 - Eli Poe - S1 - en cours
+7 - Tom Noy - S1 - en cours
+8 - Kai Nao - S1 - defaillance
+9 - Rey Rex - S1 - en cours
+10 - Hai Loo - S1 - en cours
+11 - Leo Ida - S1 - en cours
+12 - Nah Noe - S1 - en cours
+13 - Xin Ali - S1 - en cours
+14 - Xin Tom - S1 - en cours
+15 - Ide Yva - S1 - en cours
+16 - Nah Thy - S1 - en cours
+17 - Ian Nel - S1 - en cours
+18 - Kye Ali - S1 - en cours
+19 - Any Evi - S1 - en cours
+20 - Aza Lyo - S1 - demission
+21 - Umi Asa - S1 - en cours
+22 - Lyo Lor - S1 - en cours
+23 - Nil Mia - S1 - en cours
+24 - Tya Ons - S1 - en cours
+25 - Chi Izy - S1 - en cours
+26 - Ian Gao - S1 - en cours
+27 - Sae Paj - S1 - en cours
+28 - Ece Kai - S1 - defaillance
+29 - Nao Jay - S1 - en cours
+30 - Evi Ael - S1 - en cours
+31 - Izy Hai - S1 - en cours
+32 - Apo Mia - S1 - en cours
+33 - Aoi Leo - S1 - en cours
+34 - Ece Tom - S1 - defaillance
+35 - Rey Nah - S1 - en cours
+36 - Tom Nao - S1 - en cours
+Note enregistree
+Note enregistree
+Note enregistree
+9 Rey Rex
+S1 - * (*) - * (*) - 5.2 (AJ) - 12.6 (ADM) - * (*) - * (*) - en cours
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+20 Aza Lyo
+S1 - * (*) - * (*) - * (*) - 19.4 (ADM) - * (*) - * (*) - demission
+Note enregistree
+31 Izy Hai
+S1 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - en cours
+Demission enregistree
+34 Ece Tom
+S1 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - defaillance
+Note enregistree
+Identifiant incorrect
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+27 Sae Paj
+S1 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - en cours
+Note enregistree
+Note enregistree
+Note enregistree
+Demission enregistree
+Note enregistree
+1 - Thy Ali - S1 - en cours
+2 - Noe Sam - S1 - defaillance
+3 - Ian Ria - S1 - en cours
+4 - Abi Ony - S1 - en cours
+5 - Ary Paj - S1 - en cours
+6 - Eli Poe - S1 - en cours
+7 - Tom Noy - S1 - en cours
+8 - Kai Nao - S1 - defaillance
+9 - Rey Rex - S1 - demission
+10 - Hai Loo - S1 - en cours
+11 - Leo Ida - S1 - en cours
+12 - Nah Noe - S1 - en cours
+13 - Xin Ali - S1 - en cours
+14 - Xin Tom - S1 - en cours
+15 - Ide Yva - S1 - en cours
+16 - Nah Thy - S1 - en cours
+17 - Ian Nel - S1 - en cours
+18 - Kye Ali - S1 - en cours
+19 - Any Evi - S1 - en cours
+20 - Aza Lyo - S1 - demission
+21 - Umi Asa - S1 - en cours
+22 - Lyo Lor - S1 - en cours
+23 - Nil Mia - S1 - demission
+24 - Tya Ons - S1 - en cours
+25 - Chi Izy - S1 - en cours
+26 - Ian Gao - S1 - en cours
+27 - Sae Paj - S1 - en cours
+28 - Ece Kai - S1 - defaillance
+29 - Nao Jay - S1 - en cours
+30 - Evi Ael - S1 - en cours
+31 - Izy Hai - S1 - en cours
+32 - Apo Mia - S1 - en cours
+33 - Aoi Leo - S1 - en cours
+34 - Ece Tom - S1 - defaillance
+35 - Rey Nah - S1 - en cours
+36 - Tom Nao - S1 - en cours
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+1 Thy Ali
+S1 - 13.0 (ADM) - 14.5 (ADM) - 10.3 (ADM) - 4.8 (AJ) - 6.0 (AJ) - 18.8 (ADM) - en cours
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Identifiant incorrect
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+17 Ian Nel
+S1 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - en cours
+Note enregistree
+Note enregistree
+Note enregistree
+Identifiant incorrect
+Note enregistree
+Note enregistree
+Note enregistree
+12 Nah Noe
+S1 - * (*) - 10.0 (ADM) - * (*) - 7.1 (AJ) - * (*) - * (*) - en cours
+Note enregistree
+Note enregistree
+Note enregistree
+1 - Thy Ali - S1 - en cours
+2 - Noe Sam - S1 - defaillance
+3 - Ian Ria - S1 - en cours
+4 - Abi Ony - S1 - en cours
+5 - Ary Paj - S1 - en cours
+6 - Eli Poe - S1 - en cours
+7 - Tom Noy - S1 - en cours
+8 - Kai Nao - S1 - defaillance
+9 - Rey Rex - S1 - demission
+10 - Hai Loo - S1 - en cours
+11 - Leo Ida - S1 - en cours
+12 - Nah Noe - S1 - en cours
+13 - Xin Ali - S1 - en cours
+14 - Xin Tom - S1 - en cours
+15 - Ide Yva - S1 - en cours
+16 - Nah Thy - S1 - en cours
+17 - Ian Nel - S1 - en cours
+18 - Kye Ali - S1 - en cours
+19 - Any Evi - S1 - en cours
+20 - Aza Lyo - S1 - demission
+21 - Umi Asa - S1 - en cours
+22 - Lyo Lor - S1 - en cours
+23 - Nil Mia - S1 - demission
+24 - Tya Ons - S1 - en cours
+25 - Chi Izy - S1 - en cours
+26 - Ian Gao - S1 - en cours
+27 - Sae Paj - S1 - en cours
+28 - Ece Kai - S1 - defaillance
+29 - Nao Jay - S1 - en cours
+30 - Evi Ael - S1 - en cours
+31 - Izy Hai - S1 - en cours
+32 - Apo Mia - S1 - en cours
+33 - Aoi Leo - S1 - en cours
+34 - Ece Tom - S1 - defaillance
+35 - Rey Nah - S1 - en cours
+36 - Tom Nao - S1 - en cours
+Note enregistree
+Note enregistree
+Defaillance enregistree
+10 Hai Loo
+S1 - 6.7 (AJ) - * (*) - * (*) - * (*) - * (*) - * (*) - en cours
+Note enregistree
+Demission enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Demission enregistree
+34 Ece Tom
+S1 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - defaillance
+Note enregistree
+Note enregistree
+Note enregistree
+1 - Thy Ali - S1 - en cours
+2 - Noe Sam - S1 - defaillance
+3 - Ian Ria - S1 - en cours
+4 - Abi Ony - S1 - en cours
+5 - Ary Paj - S1 - en cours
+6 - Eli Poe - S1 - en cours
+7 - Tom Noy - S1 - en cours
+8 - Kai Nao - S1 - defaillance
+9 - Rey Rex - S1 - demission
+10 - Hai Loo - S1 - en cours
+11 - Leo Ida - S1 - en cours
+12 - Nah Noe - S1 - en cours
+13 - Xin Ali - S1 - demission
+14 - Xin Tom - S1 - en cours
+15 - Ide Yva - S1 - en cours
+16 - Nah Thy - S1 - en cours
+17 - Ian Nel - S1 - en cours
+18 - Kye Ali - S1 - en cours
+19 - Any Evi - S1 - en cours
+20 - Aza Lyo - S1 - demission
+21 - Umi Asa - S1 - en cours
+22 - Lyo Lor - S1 - en cours
+23 - Nil Mia - S1 - demission
+24 - Tya Ons - S1 - en cours
+25 - Chi Izy - S1 - defaillance
+26 - Ian Gao - S1 - en cours
+27 - Sae Paj - S1 - en cours
+28 - Ece Kai - S1 - defaillance
+29 - Nao Jay - S1 - demission
+30 - Evi Ael - S1 - en cours
+31 - Izy Hai - S1 - en cours
+32 - Apo Mia - S1 - en cours
+33 - Aoi Leo - S1 - en cours
+34 - Ece Tom - S1 - defaillance
+35 - Rey Nah - S1 - en cours
+36 - Tom Nao - S1 - en cours
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+14 Xin Tom
+S1 - 12.3 (ADM) - 18.3 (ADM) - 10.8 (ADM) - 2.0 (AJ) - 18.0 (ADM) - 15.5 (ADM) - en cours
+Note enregistree
+Note enregistree
+Note enregistree
+Demission enregistree
+25 Chi Izy
+S1 - * (*) - 14.1 (ADM) - * (*) - 5.7 (AJ) - * (*) - 9.9 (AJ) - defaillance
+Note enregistree
+9 Rey Rex
+S1 - * (*) - * (*) - 5.2 (AJ) - 12.6 (ADM) - * (*) - 14.6 (ADM) - demission
+Note enregistree
+Note enregistree
+1 - Thy Ali - S1 - en cours
+2 - Noe Sam - S1 - defaillance
+3 - Ian Ria - S1 - en cours
+4 - Abi Ony - S1 - en cours
+5 - Ary Paj - S1 - en cours
+6 - Eli Poe - S1 - en cours
+7 - Tom Noy - S1 - en cours
+8 - Kai Nao - S1 - defaillance
+9 - Rey Rex - S1 - demission
+10 - Hai Loo - S1 - en cours
+11 - Leo Ida - S1 - en cours
+12 - Nah Noe - S1 - en cours
+13 - Xin Ali - S1 - demission
+14 - Xin Tom - S1 - en cours
+15 - Ide Yva - S1 - en cours
+16 - Nah Thy - S1 - en cours
+17 - Ian Nel - S1 - demission
+18 - Kye Ali - S1 - en cours
+19 - Any Evi - S1 - en cours
+20 - Aza Lyo - S1 - demission
+21 - Umi Asa - S1 - en cours
+22 - Lyo Lor - S1 - en cours
+23 - Nil Mia - S1 - demission
+24 - Tya Ons - S1 - en cours
+25 - Chi Izy - S1 - defaillance
+26 - Ian Gao - S1 - en cours
+27 - Sae Paj - S1 - en cours
+28 - Ece Kai - S1 - defaillance
+29 - Nao Jay - S1 - demission
+30 - Evi Ael - S1 - en cours
+31 - Izy Hai - S1 - en cours
+32 - Apo Mia - S1 - en cours
+33 - Aoi Leo - S1 - en cours
+34 - Ece Tom - S1 - defaillance
+35 - Rey Nah - S1 - en cours
+36 - Tom Nao - S1 - en cours
+Note enregistree
+1 - Thy Ali - S1 - en cours
+2 - Noe Sam - S1 - defaillance
+3 - Ian Ria - S1 - en cours
+4 - Abi Ony - S1 - en cours
+5 - Ary Paj - S1 - en cours
+6 - Eli Poe - S1 - en cours
+7 - Tom Noy - S1 - en cours
+8 - Kai Nao - S1 - defaillance
+9 - Rey Rex - S1 - demission
+10 - Hai Loo - S1 - en cours
+11 - Leo Ida - S1 - en cours
+12 - Nah Noe - S1 - en cours
+13 - Xin Ali - S1 - demission
+14 - Xin Tom - S1 - en cours
+15 - Ide Yva - S1 - en cours
+16 - Nah Thy - S1 - en cours
+17 - Ian Nel - S1 - demission
+18 - Kye Ali - S1 - en cours
+19 - Any Evi - S1 - en cours
+20 - Aza Lyo - S1 - demission
+21 - Umi Asa - S1 - en cours
+22 - Lyo Lor - S1 - en cours
+23 - Nil Mia - S1 - demission
+24 - Tya Ons - S1 - en cours
+25 - Chi Izy - S1 - defaillance
+26 - Ian Gao - S1 - en cours
+27 - Sae Paj - S1 - en cours
+28 - Ece Kai - S1 - defaillance
+29 - Nao Jay - S1 - demission
+30 - Evi Ael - S1 - en cours
+31 - Izy Hai - S1 - en cours
+32 - Apo Mia - S1 - en cours
+33 - Aoi Leo - S1 - en cours
+34 - Ece Tom - S1 - defaillance
+35 - Rey Nah - S1 - en cours
+36 - Tom Nao - S1 - en cours
+Note enregistree
+30 Evi Ael
+S1 - * (*) - * (*) - 13.3 (ADM) - 6.2 (AJ) - 6.0 (AJ) - 6.6 (AJ) - en cours
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+20 Aza Lyo
+S1 - * (*) - * (*) - * (*) - 19.4 (ADM) - * (*) - * (*) - demission
+Note enregistree
+Note enregistree
+Note enregistree
+Nom incorrect
+Note enregistree
+Note enregistree
+1 - Thy Ali - S1 - en cours
+2 - Noe Sam - S1 - defaillance
+3 - Ian Ria - S1 - en cours
+4 - Abi Ony - S1 - en cours
+5 - Ary Paj - S1 - en cours
+6 - Eli Poe - S1 - en cours
+7 - Tom Noy - S1 - en cours
+8 - Kai Nao - S1 - defaillance
+9 - Rey Rex - S1 - demission
+10 - Hai Loo - S1 - en cours
+11 - Leo Ida - S1 - en cours
+12 - Nah Noe - S1 - en cours
+13 - Xin Ali - S1 - demission
+14 - Xin Tom - S1 - en cours
+15 - Ide Yva - S1 - en cours
+16 - Nah Thy - S1 - en cours
+17 - Ian Nel - S1 - demission
+18 - Kye Ali - S1 - en cours
+19 - Any Evi - S1 - en cours
+20 - Aza Lyo - S1 - demission
+21 - Umi Asa - S1 - en cours
+22 - Lyo Lor - S1 - en cours
+23 - Nil Mia - S1 - demission
+24 - Tya Ons - S1 - en cours
+25 - Chi Izy - S1 - defaillance
+26 - Ian Gao - S1 - en cours
+27 - Sae Paj - S1 - en cours
+28 - Ece Kai - S1 - defaillance
+29 - Nao Jay - S1 - demission
+30 - Evi Ael - S1 - en cours
+31 - Izy Hai - S1 - en cours
+32 - Apo Mia - S1 - en cours
+33 - Aoi Leo - S1 - en cours
+34 - Ece Tom - S1 - defaillance
+35 - Rey Nah - S1 - en cours
+36 - Tom Nao - S1 - en cours
+Semestre incorrect
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+11 Leo Ida
+S1 - 7.5 (AJ) - 9.8 (AJ) - 15.6 (ADM) - 8.2 (AJ) - 11.7 (ADM) - 13.6 (ADM) - en cours
+Note enregistree
+Note enregistree
+1 - Thy Ali - S1 - en cours
+2 - Noe Sam - S1 - defaillance
+3 - Ian Ria - S1 - en cours
+4 - Abi Ony - S1 - en cours
+5 - Ary Paj - S1 - en cours
+6 - Eli Poe - S1 - en cours
+7 - Tom Noy - S1 - en cours
+8 - Kai Nao - S1 - defaillance
+9 - Rey Rex - S1 - demission
+10 - Hai Loo - S1 - en cours
+11 - Leo Ida - S1 - en cours
+12 - Nah Noe - S1 - en cours
+13 - Xin Ali - S1 - demission
+14 - Xin Tom - S1 - en cours
+15 - Ide Yva - S1 - en cours
+16 - Nah Thy - S1 - en cours
+17 - Ian Nel - S1 - demission
+18 - Kye Ali - S1 - en cours
+19 - Any Evi - S1 - en cours
+20 - Aza Lyo - S1 - demission
+21 - Umi Asa - S1 - en cours
+22 - Lyo Lor - S1 - en cours
+23 - Nil Mia - S1 - demission
+24 - Tya Ons - S1 - en cours
+25 - Chi Izy - S1 - defaillance
+26 - Ian Gao - S1 - en cours
+27 - Sae Paj - S1 - en cours
+28 - Ece Kai - S1 - defaillance
+29 - Nao Jay - S1 - demission
+30 - Evi Ael - S1 - en cours
+31 - Izy Hai - S1 - en cours
+32 - Apo Mia - S1 - en cours
+33 - Aoi Leo - S1 - en cours
+34 - Ece Tom - S1 - defaillance
+35 - Rey Nah - S1 - en cours
+36 - Tom Nao - S1 - en cours
+Note enregistree
+Defaillance enregistree
+Des notes sont manquantes
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Demission enregistree
+Note enregistree
+1 - Thy Ali - S1 - en cours
+2 - Noe Sam - S1 - defaillance
+3 - Ian Ria - S1 - en cours
+4 - Abi Ony - S1 - en cours
+5 - Ary Paj - S1 - en cours
+6 - Eli Poe - S1 - en cours
+7 - Tom Noy - S1 - en cours
+8 - Kai Nao - S1 - defaillance
+9 - Rey Rex - S1 - demission
+10 - Hai Loo - S1 - en cours
+11 - Leo Ida - S1 - en cours
+12 - Nah Noe - S1 - en cours
+13 - Xin Ali - S1 - demission
+14 - Xin Tom - S1 - en cours
+15 - Ide Yva - S1 - en cours
+16 - Nah Thy - S1 - en cours
+17 - Ian Nel - S1 - demission
+18 - Kye Ali - S1 - en cours
+19 - Any Evi - S1 - en cours
+20 - Aza Lyo - S1 - demission
+21 - Umi Asa - S1 - en cours
+22 - Lyo Lor - S1 - en cours
+23 - Nil Mia - S1 - demission
+24 - Tya Ons - S1 - en cours
+25 - Chi Izy - S1 - defaillance
+26 - Ian Gao - S1 - en cours
+27 - Sae Paj - S1 - defaillance
+28 - Ece Kai - S1 - defaillance
+29 - Nao Jay - S1 - demission
+30 - Evi Ael - S1 - en cours
+31 - Izy Hai - S1 - en cours
+32 - Apo Mia - S1 - en cours
+33 - Aoi Leo - S1 - en cours
+34 - Ece Tom - S1 - defaillance
+35 - Rey Nah - S1 - en cours
+36 - Tom Nao - S1 - demission
+Note enregistree
+Note enregistree
+Defaillance enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Demission enregistree
+Note enregistree
+Note enregistree
+Demission enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+1 - Thy Ali - S1 - en cours
+2 - Noe Sam - S1 - defaillance
+3 - Ian Ria - S1 - en cours
+4 - Abi Ony - S1 - en cours
+5 - Ary Paj - S1 - en cours
+6 - Eli Poe - S1 - en cours
+7 - Tom Noy - S1 - defaillance
+8 - Kai Nao - S1 - defaillance
+9 - Rey Rex - S1 - demission
+10 - Hai Loo - S1 - en cours
+11 - Leo Ida - S1 - en cours
+12 - Nah Noe - S1 - en cours
+13 - Xin Ali - S1 - demission
+14 - Xin Tom - S1 - en cours
+15 - Ide Yva - S1 - en cours
+16 - Nah Thy - S1 - en cours
+17 - Ian Nel - S1 - demission
+18 - Kye Ali - S1 - en cours
+19 - Any Evi - S1 - en cours
+20 - Aza Lyo - S1 - demission
+21 - Umi Asa - S1 - en cours
+22 - Lyo Lor - S1 - en cours
+23 - Nil Mia - S1 - demission
+24 - Tya Ons - S1 - en cours
+25 - Chi Izy - S1 - defaillance
+26 - Ian Gao - S1 - en cours
+27 - Sae Paj - S1 - defaillance
+28 - Ece Kai - S1 - defaillance
+29 - Nao Jay - S1 - demission
+30 - Evi Ael - S1 - demission
+31 - Izy Hai - S1 - en cours
+32 - Apo Mia - S1 - en cours
+33 - Aoi Leo - S1 - demission
+34 - Ece Tom - S1 - defaillance
+35 - Rey Nah - S1 - en cours
+36 - Tom Nao - S1 - demission
+Note enregistree
+1 - Thy Ali - S1 - en cours
+2 - Noe Sam - S1 - defaillance
+3 - Ian Ria - S1 - en cours
+4 - Abi Ony - S1 - en cours
+5 - Ary Paj - S1 - en cours
+6 - Eli Poe - S1 - en cours
+7 - Tom Noy - S1 - defaillance
+8 - Kai Nao - S1 - defaillance
+9 - Rey Rex - S1 - demission
+10 - Hai Loo - S1 - en cours
+11 - Leo Ida - S1 - en cours
+12 - Nah Noe - S1 - en cours
+13 - Xin Ali - S1 - demission
+14 - Xin Tom - S1 - en cours
+15 - Ide Yva - S1 - en cours
+16 - Nah Thy - S1 - en cours
+17 - Ian Nel - S1 - demission
+18 - Kye Ali - S1 - en cours
+19 - Any Evi - S1 - en cours
+20 - Aza Lyo - S1 - demission
+21 - Umi Asa - S1 - en cours
+22 - Lyo Lor - S1 - en cours
+23 - Nil Mia - S1 - demission
+24 - Tya Ons - S1 - en cours
+25 - Chi Izy - S1 - defaillance
+26 - Ian Gao - S1 - en cours
+27 - Sae Paj - S1 - defaillance
+28 - Ece Kai - S1 - defaillance
+29 - Nao Jay - S1 - demission
+30 - Evi Ael - S1 - demission
+31 - Izy Hai - S1 - en cours
+32 - Apo Mia - S1 - en cours
+33 - Aoi Leo - S1 - demission
+34 - Ece Tom - S1 - defaillance
+35 - Rey Nah - S1 - en cours
+36 - Tom Nao - S1 - demission
+Demission enregistree
+1 - Thy Ali - S1 - en cours
+2 - Noe Sam - S1 - defaillance
+3 - Ian Ria - S1 - en cours
+4 - Abi Ony - S1 - en cours
+5 - Ary Paj - S1 - en cours
+6 - Eli Poe - S1 - en cours
+7 - Tom Noy - S1 - defaillance
+8 - Kai Nao - S1 - defaillance
+9 - Rey Rex - S1 - demission
+10 - Hai Loo - S1 - en cours
+11 - Leo Ida - S1 - en cours
+12 - Nah Noe - S1 - en cours
+13 - Xin Ali - S1 - demission
+14 - Xin Tom - S1 - en cours
+15 - Ide Yva - S1 - en cours
+16 - Nah Thy - S1 - en cours
+17 - Ian Nel - S1 - demission
+18 - Kye Ali - S1 - en cours
+19 - Any Evi - S1 - en cours
+20 - Aza Lyo - S1 - demission
+21 - Umi Asa - S1 - en cours
+22 - Lyo Lor - S1 - en cours
+23 - Nil Mia - S1 - demission
+24 - Tya Ons - S1 - en cours
+25 - Chi Izy - S1 - defaillance
+26 - Ian Gao - S1 - en cours
+27 - Sae Paj - S1 - defaillance
+28 - Ece Kai - S1 - defaillance
+29 - Nao Jay - S1 - demission
+30 - Evi Ael - S1 - demission
+31 - Izy Hai - S1 - en cours
+32 - Apo Mia - S1 - demission
+33 - Aoi Leo - S1 - demission
+34 - Ece Tom - S1 - defaillance
+35 - Rey Nah - S1 - en cours
+36 - Tom Nao - S1 - demission
+Defaillance enregistree
+Defaillance enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Demission enregistree
+Note enregistree
+Note enregistree
+2 Noe Sam
+S1 - 4.5 (AJ) - * (*) - 0.7 (AJ) - * (*) - * (*) - * (*) - defaillance
+Note enregistree
+Note enregistree
+Note enregistree
+Demission enregistree
+Note enregistree
+Defaillance enregistree
+Defaillance enregistree
+6 Eli Poe
+S1 - 18.6 (ADM) - 14.3 (ADM) - 19.6 (ADM) - 9.5 (AJ) - 8.9 (AJ) - 5.1 (AJ) - en cours
+Note enregistree
+Defaillance enregistree
+1 - Thy Ali - S1 - demission
+2 - Noe Sam - S1 - defaillance
+3 - Ian Ria - S1 - defaillance
+4 - Abi Ony - S1 - en cours
+5 - Ary Paj - S1 - en cours
+6 - Eli Poe - S1 - en cours
+7 - Tom Noy - S1 - defaillance
+8 - Kai Nao - S1 - defaillance
+9 - Rey Rex - S1 - demission
+10 - Hai Loo - S1 - en cours
+11 - Leo Ida - S1 - en cours
+12 - Nah Noe - S1 - en cours
+13 - Xin Ali - S1 - demission
+14 - Xin Tom - S1 - defaillance
+15 - Ide Yva - S1 - defaillance
+16 - Nah Thy - S1 - en cours
+17 - Ian Nel - S1 - demission
+18 - Kye Ali - S1 - en cours
+19 - Any Evi - S1 - en cours
+20 - Aza Lyo - S1 - demission
+21 - Umi Asa - S1 - en cours
+22 - Lyo Lor - S1 - defaillance
+23 - Nil Mia - S1 - demission
+24 - Tya Ons - S1 - en cours
+25 - Chi Izy - S1 - defaillance
+26 - Ian Gao - S1 - demission
+27 - Sae Paj - S1 - defaillance
+28 - Ece Kai - S1 - defaillance
+29 - Nao Jay - S1 - demission
+30 - Evi Ael - S1 - demission
+31 - Izy Hai - S1 - defaillance
+32 - Apo Mia - S1 - demission
+33 - Aoi Leo - S1 - demission
+34 - Ece Tom - S1 - defaillance
+35 - Rey Nah - S1 - en cours
+36 - Tom Nao - S1 - demission
+1 Thy Ali
+S1 - 5.0 (AJ) - 1.2 (AJ) - 11.1 (ADM) - 10.1 (ADM) - 14.7 (ADM) - 18.8 (ADM) - demission
+2 Noe Sam
+S1 - 4.5 (AJ) - * (*) - 0.7 (AJ) - * (*) - * (*) - * (*) - defaillance
+3 Ian Ria
+S1 - 11.4 (ADM) - 19.0 (ADM) - 8.5 (AJ) - 18.6 (ADM) - 16.4 (ADM) - 12.4 (ADM) - defaillance
+4 Abi Ony
+S1 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - en cours
+5 Ary Paj
+S1 - 7.6 (AJ) - 17.8 (ADM) - 0.7 (AJ) - 10.5 (ADM) - 10.6 (ADM) - 19.8 (ADM) - en cours
+6 Eli Poe
+S1 - 18.6 (ADM) - 14.3 (ADM) - 19.6 (ADM) - 9.5 (AJ) - 8.9 (AJ) - 5.1 (AJ) - en cours
+7 Tom Noy
+S1 - 2.8 (AJ) - 13.1 (ADM) - 12.1 (ADM) - 10.2 (ADM) - 17.2 (ADM) - 17.4 (ADM) - defaillance
+8 Kai Nao
+S1 - 13.4 (ADM) - * (*) - * (*) - 0.0 (AJ) - 0.4 (AJ) - 11.2 (ADM) - defaillance
+9 Rey Rex
+S1 - * (*) - * (*) - 5.2 (AJ) - 12.6 (ADM) - * (*) - 14.6 (ADM) - demission
+10 Hai Loo
+S1 - 6.7 (AJ) - * (*) - * (*) - * (*) - * (*) - * (*) - en cours
+11 Leo Ida
+S1 - 7.5 (AJ) - 9.8 (AJ) - 15.6 (ADM) - 8.2 (AJ) - 11.7 (ADM) - 13.6 (ADM) - en cours
+12 Nah Noe
+S1 - * (*) - 10.0 (ADM) - * (*) - 7.1 (AJ) - * (*) - * (*) - en cours
+13 Xin Ali
+S1 - 17.2 (ADM) - 12.1 (ADM) - * (*) - 7.3 (AJ) - 3.5 (AJ) - * (*) - demission
+14 Xin Tom
+S1 - 18.3 (ADM) - 18.3 (ADM) - 10.8 (ADM) - 14.2 (ADM) - 5.9 (AJ) - 16.1 (ADM) - defaillance
+15 Ide Yva
+S1 - 14.1 (ADM) - 13.3 (ADM) - 6.7 (AJ) - 9.9 (AJ) - 9.7 (AJ) - 4.8 (AJ) - defaillance
+16 Nah Thy
+S1 - 14.8 (ADM) - 12.0 (ADM) - 19.8 (ADM) - 17.5 (ADM) - 6.7 (AJ) - 1.8 (AJ) - en cours
+17 Ian Nel
+S1 - * (*) - 7.8 (AJ) - * (*) - * (*) - 14.8 (ADM) - 7.4 (AJ) - demission
+18 Kye Ali
+S1 - 19.3 (ADM) - * (*) - 1.0 (AJ) - * (*) - * (*) - * (*) - en cours
+19 Any Evi
+S1 - 10.1 (ADM) - 6.2 (AJ) - 11.7 (ADM) - 17.9 (ADM) - 7.3 (AJ) - 13.9 (ADM) - en cours
+20 Aza Lyo
+S1 - * (*) - * (*) - * (*) - 19.4 (ADM) - * (*) - * (*) - demission
+21 Umi Asa
+S1 - 9.5 (AJ) - 18.3 (ADM) - * (*) - * (*) - 15.7 (ADM) - * (*) - en cours
+22 Lyo Lor
+S1 - 16.6 (ADM) - 18.0 (ADM) - 6.3 (AJ) - 3.8 (AJ) - 17.8 (ADM) - 9.6 (AJ) - defaillance
+23 Nil Mia
+S1 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - demission
+24 Tya Ons
+S1 - 19.0 (ADM) - 5.9 (AJ) - 10.0 (ADM) - 4.2 (AJ) - 12.3 (ADM) - 7.1 (AJ) - en cours
+25 Chi Izy
+S1 - * (*) - 14.1 (ADM) - * (*) - 5.7 (AJ) - * (*) - 9.9 (AJ) - defaillance
+26 Ian Gao
+S1 - 18.8 (ADM) - 2.0 (AJ) - 3.1 (AJ) - 11.3 (ADM) - 11.0 (ADM) - 4.7 (AJ) - demission
+27 Sae Paj
+S1 - 0.0 (AJ) - * (*) - 7.0 (AJ) - 14.6 (ADM) - 17.4 (ADM) - 6.4 (AJ) - defaillance
+28 Ece Kai
+S1 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - defaillance
+29 Nao Jay
+S1 - 19.5 (ADM) - * (*) - * (*) - 14.7 (ADM) - * (*) - * (*) - demission
+30 Evi Ael
+S1 - 8.2 (AJ) - 6.2 (AJ) - 12.7 (ADM) - 5.4 (AJ) - 6.0 (AJ) - 6.6 (AJ) - demission
+31 Izy Hai
+S1 - 0.2 (AJ) - 3.4 (AJ) - 0.0 (AJ) - 3.2 (AJ) - 3.9 (AJ) - 16.3 (ADM) - defaillance
+32 Apo Mia
+S1 - 7.7 (AJ) - 9.6 (AJ) - 7.5 (AJ) - 16.3 (ADM) - 19.8 (ADM) - 13.9 (ADM) - demission
+33 Aoi Leo
+S1 - 10.9 (ADM) - 15.6 (ADM) - 5.7 (AJ) - 12.9 (ADM) - 3.3 (AJ) - 12.3 (ADM) - demission
+34 Ece Tom
+S1 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - defaillance
+35 Rey Nah
+S1 - * (*) - 12.3 (ADM) - 5.7 (AJ) - * (*) - * (*) - 16.1 (ADM) - en cours
+36 Tom Nao
+S1 - 12.1 (ADM) - 8.3 (AJ) - 5.3 (AJ) - 8.5 (AJ) - 5.3 (AJ) - 16.1 (ADM) - demission
