@@ -33,6 +33,7 @@ typedef enum
     DEFAILLANCE,
     JURY,
     ETUDIANTS,
+    BILAN,
 } Command_type;
 
 typedef struct
@@ -50,7 +51,7 @@ typedef struct
 
 typedef struct
 {
-    Note UE[NB_UE];
+    Note notes[NB_UE];
 } UE;
 
 typedef struct
@@ -75,6 +76,7 @@ void note(const texte_separer separer_txt, Etudiant *etudiant_list, int nb_etudi
 void demission(const texte_separer separer_txt, Etudiant *etudiant_list, int nb_etudiant);
 void defaillance(const texte_separer separer_txt, Etudiant *etudiant_list, int nb_etudiant);
 void jury(const texte_separer separer_txt, Etudiant *etudiant_list, int nb_etudiant);
+void calculer_bilan(Etudiant *etudiant, int num_bilan);
 void etudiants(const texte_separer separertxt, Etudiant *etudiant_list, int nb_etudiant);
-
+void bilan_etu(const texte_separer separertxt, Etudiant *etudiant_list, int nb_etudiant);
 void init_ue(UE semestres[]);
