@@ -1,4 +1,4 @@
-INSCRIRE Marcel Pagnol 
+INSCRIRE Marcel Pagnol
 CURSUS 1
 NOTE 1 2 10.5
 NOTE 1 4 8.5

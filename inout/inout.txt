@@ -1,7 +1,7 @@
 > INSCRIRE Marcel Pagnol
 Inscription enregistree (1)
 > CURSUS 1
-Marcel Pagnol
+1 Marcel Pagnol
 S1 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - en cours
 > NOTE 1 2 10.5
 Note enregistree
@@ -12,12 +12,12 @@ Note enregistree
 > NOTE 1 6 6.5
 Note enregistree
 > CURSUS 1
-Marcel Pagnol
+1 Marcel Pagnol
 S1 - * (*) - 10.5 (ADM) - * (*) - 8.5 (AJ) - * (*) - 6.5 (AJ) - en cours
 > DEMISSION 1
 Demission enregistree
 > CURSUS 1
-Marcel Pagnol
+1 Marcel Pagnol
 S1 - * (*) - 10.5 (ADM) - * (*) - 8.5 (AJ) - * (*) - 6.5 (AJ) - demission
 > INSCRIRE Kilian Mbappe
 Inscription enregistree (2)
@@ -111,7 +111,7 @@ S3 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - en cours
 3 Ousmane Dembele
 S1 - 13.0 (ADM) - 11.2 (ADM) - 10.0 (ADM) - 12.8 (ADM) - 14.5 (ADM) - 12.1 (ADM) -
 S2 - 14.0 (ADM) - 9.6 (ADC) - 5.8 (AJ) - 11.8 (ADM) - 12.7 (ADM) - 18.7 (ADM) -
-B1 - 13.5 (ADM) - 10.6 (ADM) - 7.9 (AJB) - 12.3 (ADM) - 13.6 (ADM) - 15.4 (ADM) - ajourne
+B1 - 13.5 (ADM) - 10.4 (ADM) - 7.9 (AJB) - 12.3 (ADM) - 13.6 (ADM) - 15.4 (ADM) - ajourne
 > NOTE 2 1 10.0
 Note enregistree
 > NOTE 2 2 12.0
@@ -197,7 +197,7 @@ S6 - 19.0 (ADM) - 14.0 (ADM) - 14.0 (ADM) - 11.0 (ADM) - 11.0 (ADM) - 14.0 (ADM)
 B3 - 10.0 (ADM) - 13.0 (ADM) - 12.5 (ADM) - 11.5 (ADM) - 12.0 (ADM) - 15.0 (ADM) - diplome
 > ETUDIANTS
 1 - Marcel Pagnol - S1 - demission
-2 - Kilian Mbape - S6 - diplome
+2 - Kilian Mbappe - S6 - diplome
 3 - Ousmane Dembele - S2 - ajourne
 > BILAN 1
 1 demission(s)

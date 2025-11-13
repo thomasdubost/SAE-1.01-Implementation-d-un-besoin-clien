@@ -219,9 +219,9 @@ void affichage_semestre(Etudiant etudiant)
     {
         if (s % 2 == 0 && s != 0)
         {
-
             affichage_bilan(etudiant, s / 2);
-            printf("\n");
+            // printf("\n");
+            continue;
         }
         printf("S%d - ", s + 1);
 
@@ -247,8 +247,8 @@ void affichage_bilan(Etudiant etudiant, int bilan_a_afficher)
     printf("B%d - ", bilan_a_afficher);
     for (int m = 0; m < NB_UE; m++)
     {
-        float note = etudiant.bilan[bilan_a_afficher].notes[m].note;
-        char *app = etudiant.bilan[bilan_a_afficher].notes[m].appreciation;
+        float note = etudiant.bilan[bilan_a_afficher - 1].notes[m].note;
+        char *app = etudiant.bilan[bilan_a_afficher - 1].notes[m].appreciation;
         if (note >= 0)
             printf("%.1f (%s)", floorf(note * 10.f) / 10.f, app);
         else
@@ -348,7 +348,7 @@ void jury(const texte_separer separer_txt, Etudiant *etudiant_list, int nb_etudi
             continue;
         }
 
-        int semestre_index = etudiant->semestre_en_cours;
+        int semestre_index = etudiant->semestre_en_cours - 1;
 
         // verification des notes pour le semestre actuel
         for (int num_ue = 0; num_ue < NB_UE; ++num_ue)
@@ -381,36 +381,43 @@ void jury(const texte_separer separer_txt, Etudiant *etudiant_list, int nb_etudi
             strcpy(etudiant->semestres[semestre_index - 1].notes[num_ue].appreciation, "ADC");
         }
 
-        if (etudiant->semestre_en_cours % 2 == 0)
+        int num_bilan = etudiant->semestre_en_cours / NB_SEMESTRE_PAR_BILAN;
+        calculer_bilan(etudiant, num_bilan);
+        int compteur_inf_10 = 0;
+        for (int i = 0; i < NB_UE; i++)
         {
-            int num_bilan = etudiant->semestre_en_cours / NB_SEMESTRE_PAR_BILAN;
-            calculer_bilan(etudiant, num_bilan);
-            int compteur_inf_10 = 0;
-            for (int i = 0; i < NB_UE; i++)
-            {
-                float note = etudiant->bilan[num_bilan - 1].notes[i].note;
-                if (note < 8)
-                {
-                    etudiant->status = AJOURNE;
-                    break;
-                }
-
-                if (note >= 8 && note < 10)
-                {
-                    compteur_inf_10++;
-                }
-            }
-
-            if (compteur_inf_10 >= MAX_NOTE_INF_10)
+            float note = etudiant->bilan[num_bilan - 1].notes[i].note;
+            if (note < 8)
             {
                 etudiant->status = AJOURNE;
+                nb_etudiant_affectes++;
+                break;
+            }
+
+            if (note >= 8 && note < 10)
+            {
+                compteur_inf_10++;
             }
         }
+
+        if (compteur_inf_10 >= MAX_NOTE_INF_10)
+        {
+            etudiant->status = AJOURNE;
+            nb_etudiant_affectes++;
+            continue;
+        }
+
+        if (etudiant->semestre_en_cours == NB_SEMESTRES && etudiant->status == EN_COURS)
+        {
+            nb_etudiant_affectes++;
+            etudiant->status = DIPLOME;
+        }
+
         if (etudiant->status == EN_COURS)
         {
             etudiant->semestre_en_cours++;
+            nb_etudiant_affectes++;
         }
-        nb_etudiant_affectes++;
     }
 
     printf("Semestre termine pour %d etudiant(s)\n", nb_etudiant_affectes);
@@ -425,6 +432,14 @@ void calculer_bilan(Etudiant *etudiant, int num_bilan)
         float note_semestre_2 = etudiant->semestres[numero_semestre_index].notes[i].note;
         float moyenne = (note_semestre_1 + note_semestre_2) / 2;
         etudiant->bilan[num_bilan - 1].notes[i].note = moyenne;
+        char *appreciation_bilan = etudiant->bilan[num_bilan - 1].notes[i].appreciation;
+        // Déterminer l'appréciation en fonction de la note
+        if (moyenne >= 10)
+            strcpy(appreciation_bilan, "ADM");
+        else if (moyenne >= 8 && moyenne < 10)
+            strcpy(appreciation_bilan, "AJ");
+        else if (moyenne < 8)
+            strcpy(appreciation_bilan, "AJB");
     }
 }
 void demission(const texte_separer separer_txt, Etudiant *etudiant_list, int nb_etudiant)
