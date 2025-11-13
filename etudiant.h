@@ -11,6 +11,8 @@
 #define APPRECIATION_LENGTH 5
 #define NB_SEMESTRE_PAR_BILAN 2
 #define STATUT_LENGTH 15
+#define MAX_NOTE_INF_10 2
+
 typedef enum
 {
 

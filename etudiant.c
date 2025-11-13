@@ -195,19 +195,19 @@ void cursus(const texte_separer separer_txt, int nb_etudiant, Etudiant *etudiant
     switch (etudiant->status)
     {
     case EN_COURS:
-        printf("en cours\n");
+        puts("en cours");
         break;
     case AJOURNE:
-        printf("ajourne\n");
+        puts("ajourne");
         break;
     case STATUT_DEMISSION:
-        printf("demission\n");
+        puts("demission");
         break;
     case DIPLOME:
-        printf("diplome\n");
+        puts("diplome");
         break;
-    default:
-        printf("statut inconnu\n");
+    case DEFAILLANT:
+        puts("defaillance");
         break;
     }
 }
@@ -265,6 +265,11 @@ void note(const texte_separer separer_txt, Etudiant *etudiant_list, int nb_etudi
         puts("Identifiant incorrect");
         return;
     }
+    if (etudiant_list[id - 1].status != EN_COURS)
+    {
+        puts("Etudiant hors formation");
+        return;
+    }
 
     int UE_index = atoi(separer_txt.list_arguments[1]) - 1;
 
@@ -277,6 +282,7 @@ void note(const texte_separer separer_txt, Etudiant *etudiant_list, int nb_etudi
 
     if (note < 0 || note > NOTE_MAX)
     {
+        puts("Note incorrecte");
         return;
     }
 
@@ -288,10 +294,8 @@ void note(const texte_separer separer_txt, Etudiant *etudiant_list, int nb_etudi
     // Déterminer l'appréciation en fonction de la note
     if (note >= 10)
         strcpy(appreciation, "ADM");
-    else if (note <= 10 && note >= 8)
+    else if (note < 10)
         strcpy(appreciation, "AJ");
-    else if (note < 8)
-        strcpy(appreciation, "AJB");
     else
         strcpy(appreciation, "ADS");
     printf("Note enregistree \n");
@@ -303,6 +307,7 @@ void jury(const texte_separer separer_txt, Etudiant *etudiant_list, int nb_etudi
     if (semestre < 1 || semestre > NB_SEMESTRES)
     {
         puts("Semestre incorrect");
+        return;
     }
 
     for (int i = 0; i < nb_etudiant; ++i)
@@ -354,6 +359,7 @@ void jury(const texte_separer separer_txt, Etudiant *etudiant_list, int nb_etudi
 
             if (note >= 10 || moyenne_note < 10)
             {
+
                 continue;
             }
 
@@ -378,28 +384,36 @@ void jury(const texte_separer separer_txt, Etudiant *etudiant_list, int nb_etudi
         if (etudiant->semestre_en_cours % 2 == 0)
         {
             int num_bilan = etudiant->semestre_en_cours / NB_SEMESTRE_PAR_BILAN;
-
-            switch (num_bilan)
+            calculer_bilan(etudiant, num_bilan);
+            int compteur_inf_10 = 0;
+            for (int i = 0; i < NB_UE; i++)
             {
-            case 1:
-                calculer_bilan(etudiant, num_bilan);
-                break;
-            case 2:
-                calculer_bilan(etudiant, num_bilan);
-                break;
-            case 3:
-                calculer_bilan(etudiant, num_bilan);
-                break;
+                float note = etudiant->bilan[num_bilan - 1].notes[i].note;
+                if (note < 8)
+                {
+                    etudiant->status = AJOURNE;
+                    break;
+                }
+
+                if (note >= 8 && note < 10)
+                {
+                    compteur_inf_10++;
+                }
+            }
+
+            if (compteur_inf_10 >= MAX_NOTE_INF_10)
+            {
+                etudiant->status = AJOURNE;
             }
         }
-        etudiant->semestre_en_cours++;
+        if (etudiant->status == EN_COURS)
+        {
+            etudiant->semestre_en_cours++;
+        }
         nb_etudiant_affectes++;
     }
 
-    if (nb_etudiant_affectes != 0)
-    {
-        printf("Semestre termine pour %d etudiant(s)\n", nb_etudiant_affectes);
-    }
+    printf("Semestre termine pour %d etudiant(s)\n", nb_etudiant_affectes);
 }
 
 void calculer_bilan(Etudiant *etudiant, int num_bilan)
@@ -436,7 +450,7 @@ void demission(const texte_separer separer_txt, Etudiant *etudiant_list, int nb_
 void defaillance(const texte_separer separer_txt, Etudiant *etudiant_list, int nb_etudiant)
 {
     int id = atoi(separer_txt.list_arguments[0]);
-    if (id <= 0 || id >= nb_etudiant)
+    if (id <= 0 || id > nb_etudiant)
     {
         puts("Identifiant incorrect");
         return;
@@ -470,7 +484,7 @@ void etudiants(const texte_separer separertxt, Etudiant *etudiant_list, int nb_e
         case STATUT_DEMISSION:
             strcpy(statusEtudiant, "demission");
             break;
-        case DEFAILLANCE:
+        case DEFAILLANT:
             strcpy(statusEtudiant, "defaillance");
             break;
         case DIPLOME:

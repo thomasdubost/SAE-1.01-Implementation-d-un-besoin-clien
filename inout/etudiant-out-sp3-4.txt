@@ -30,11 +30,12 @@ Note enregistree
 Inscription enregistree (12)
 Inscription enregistree (13)
 4 Ily Ray
-S1 - * (*) - 4.7 (AJB) - 3.4 (AJB) - * (*) - * (*) - * (*) - en cours
+S1 - * (*) - 4.7 (AJ) - 3.4 (AJ) - * (*) - * (*) - * (*) - en cours
 Identifiant incorrect
 Inscription enregistree (14)
 6 Rob Ria
 S1 - * (*) - 8.4 (AJ) - * (*) - 18.9 (ADM) - * (*) - * (*) - en cours
+Note incorrecte
 Note enregistree 
 Inscription enregistree (15)
 2 Lea Bia
@@ -89,7 +90,7 @@ Inscription enregistree (24)
 Note enregistree 
 Inscription enregistree (25)
 13 Roy Eva
-S1 - 6.5 (AJB) - * (*) - * (*) - * (*) - * (*) - * (*) - en cours
+S1 - 6.5 (AJ) - * (*) - * (*) - * (*) - * (*) - * (*) - en cours
 Note enregistree 
 Note enregistree 
 Inscription enregistree (26)
@@ -161,7 +162,7 @@ Note enregistree
 Note enregistree 
 Note enregistree 
 4 Ily Ray
-S1 - * (*) - 4.7 (AJB) - 3.4 (AJB) - * (*) - * (*) - * (*) - en cours
+S1 - * (*) - 4.7 (AJ) - 3.4 (AJ) - * (*) - * (*) - * (*) - en cours
 Note enregistree 
 Note enregistree 
 Note enregistree 
@@ -210,7 +211,7 @@ Note enregistree
 Note enregistree 
 Note enregistree 
 12 Kai Vic
-S1 - 11.1 (ADM) - 19.0 (ADM) - 4.7 (AJB) - 16.7 (ADM) - * (*) - 20.0 (ADM) - en cours
+S1 - 11.1 (ADM) - 19.0 (ADM) - 4.7 (AJ) - 16.7 (ADM) - * (*) - 20.0 (ADM) - en cours
 Note enregistree 
 Note enregistree 
 Note enregistree 
@@ -218,7 +219,7 @@ Note enregistree
 Note enregistree 
 Note enregistree 
 8 Apo Ece
-S1 - * (*) - * (*) - 2.9 (AJB) - * (*) - 16.5 (ADM) - 14.7 (ADM) - en cours
+S1 - * (*) - * (*) - 2.9 (AJ) - * (*) - 16.5 (ADM) - 14.7 (ADM) - en cours
 Note enregistree 
 Identifiant incorrect
 Note enregistree 
@@ -327,7 +328,7 @@ Note enregistree
 Note enregistree 
 Note enregistree 
 22 Emi Tom
-S1 - * (*) - * (*) - * (*) - * (*) - * (*) - 2.1 (AJB) - en cours
+S1 - * (*) - * (*) - * (*) - * (*) - * (*) - 2.1 (AJ) - en cours
 Note enregistree 
 1 - Lya Ria - S1 - en cours
 2 - Lea Bia - S1 - en cours
@@ -428,7 +429,7 @@ Note enregistree
 26 - Ute Lyo - S1 - en cours
 Note enregistree 
 13 Roy Eva
-S1 - 6.5 (AJB) - 14.1 (ADM) - 8.4 (AJ) - 19.4 (ADM) - 7.7 (AJB) - 1.8 (AJB) - en cours
+S1 - 6.5 (AJ) - 14.1 (ADM) - 8.4 (AJ) - 19.4 (ADM) - 7.7 (AJ) - 1.8 (AJ) - en cours
 Note enregistree 
 Note enregistree 
 Note enregistree 
@@ -612,7 +613,7 @@ Note enregistree
 Note enregistree 
 Note enregistree 
 15 Tom Noy
-S1 - 15.3 (ADM) - 18.7 (ADM) - * (*) - 18.7 (ADM) - 0.9 (AJB) - 2.9 (AJB) - en cours
+S1 - 15.3 (ADM) - 18.7 (ADM) - * (*) - 18.7 (ADM) - 0.9 (AJ) - 2.9 (AJ) - en cours
 Note enregistree 
 1 - Lya Ria - S1 - en cours
 2 - Lea Bia - S1 - en cours
@@ -651,14 +652,14 @@ Note enregistree
 Note enregistree 
 Note enregistree 
 14 Rey Lyo
-S1 - 19.5 (ADM) - 9.7 (AJ) - 3.6 (AJB) - 18.7 (ADM) - 16.8 (ADM) - 17.9 (ADM) - en cours
+S1 - 19.5 (ADM) - 9.7 (AJ) - 3.6 (AJ) - 18.7 (ADM) - 16.8 (ADM) - 17.9 (ADM) - en cours
 Identifiant incorrect
 Note enregistree 
 Note enregistree 
 Note enregistree 
 Note enregistree 
 26 Ute Lyo
-S1 - 4.4 (AJB) - 4.5 (AJB) - * (*) - 3.9 (AJB) - * (*) - 10.0 (ADM) - en cours
+S1 - 4.4 (AJ) - 4.5 (AJ) - * (*) - 3.9 (AJ) - * (*) - 10.0 (ADM) - en cours
 Note enregistree 
 7 Ily Roy
 S1 - 13.5 (ADM) - 14.9 (ADM) - 18.9 (ADM) - 12.7 (ADM) - 12.4 (ADM) - 18.8 (ADM) - en cours
@@ -700,7 +701,7 @@ Des notes sont manquantes
 Note enregistree 
 Note enregistree 
 9 Asa Bia
-S1 - 8.8 (AJ) - 8.8 (AJ) - 19.8 (ADM) - 13.6 (ADM) - 10.2 (ADM) - 1.1 (AJB) - en cours
+S1 - 8.8 (AJ) - 8.8 (AJ) - 19.8 (ADM) - 13.6 (ADM) - 10.2 (ADM) - 1.1 (AJ) - en cours
 Note enregistree 
 Note enregistree 
 Note enregistree 
@@ -798,7 +799,7 @@ Note enregistree
 Note enregistree 
 Note enregistree 
 22 Emi Tom
-S1 - 18.6 (ADM) - 14.7 (ADM) - 9.3 (AJ) - 8.3 (AJ) - 13.4 (ADM) - 2.1 (AJB) - en cours
+S1 - 18.6 (ADM) - 14.7 (ADM) - 9.3 (AJ) - 8.3 (AJ) - 13.4 (ADM) - 2.1 (AJ) - en cours
 Note enregistree 
 Note enregistree 
 Note enregistree 
@@ -810,10 +811,10 @@ S1 - 18.6 (ADM) - 8.3 (AJ) - 15.9 (ADM) - 13.8 (ADM) - 18.5 (ADM) - 18.9 (ADM) -
 Note enregistree 
 Note enregistree 
 3 Leo Rut
-S1 - 11.2 (ADM) - 0.5 (AJB) - 9.7 (AJ) - 13.0 (ADM) - 10.2 (ADM) - 14.2 (ADM) - en cours
+S1 - 11.2 (ADM) - 0.5 (AJ) - 9.7 (AJ) - 13.0 (ADM) - 10.2 (ADM) - 14.2 (ADM) - en cours
 Note enregistree 
 17 Lou Rey
-S1 - 17.3 (ADM) - 19.4 (ADM) - 4.4 (AJB) - 9.9 (AJ) - 5.0 (AJB) - 19.9 (ADM) - en cours
+S1 - 17.3 (ADM) - 19.4 (ADM) - 4.4 (AJ) - 9.9 (AJ) - 5.0 (AJ) - 19.9 (ADM) - en cours
 Note enregistree 
 Note enregistree 
 Note enregistree 
@@ -830,18 +831,18 @@ Note enregistree
 Demission enregistree
 Note enregistree 
 14 Rey Lyo
-S1 - 19.5 (ADM) - 9.7 (AJ) - 3.6 (AJB) - 18.7 (ADM) - 13.6 (ADM) - 17.9 (ADM) - en cours
+S1 - 19.5 (ADM) - 9.7 (AJ) - 3.6 (AJ) - 18.7 (ADM) - 13.6 (ADM) - 17.9 (ADM) - en cours
 Identifiant incorrect
 Note enregistree 
 Note enregistree 
 Note enregistree 
 5 Nah Xin
-S1 - 18.1 (ADM) - 17.0 (ADM) - 3.1 (AJB) - 12.1 (ADM) - 12.0 (ADM) - 18.6 (ADM) - en cours
+S1 - 18.1 (ADM) - 17.0 (ADM) - 3.1 (AJ) - 12.1 (ADM) - 12.0 (ADM) - 18.6 (ADM) - en cours
 Note enregistree 
 Note enregistree 
 Note enregistree 
 23 Nya Ray
-S1 - 2.5 (AJB) - 8.3 (AJ) - 15.9 (ADM) - 13.8 (ADM) - 18.5 (ADM) - 18.9 (ADM) - en cours
+S1 - 2.5 (AJ) - 8.3 (AJ) - 15.9 (ADM) - 13.8 (ADM) - 18.5 (ADM) - 18.9 (ADM) - en cours
 Note enregistree 
 7 Ily Roy
 S1 - 13.5 (ADM) - 14.9 (ADM) - 18.9 (ADM) - 12.7 (ADM) - 12.4 (ADM) - 12.4 (ADM) - en cours
@@ -896,7 +897,7 @@ Note enregistree
 Note enregistree 
 Note enregistree 
 23 Nya Ray
-S1 - 2.5 (AJB) - 8.7 (AJ) - 15.9 (ADM) - 13.0 (ADM) - 18.5 (ADM) - 10.0 (ADM) - en cours
+S1 - 2.5 (AJ) - 8.7 (AJ) - 15.9 (ADM) - 13.0 (ADM) - 18.5 (ADM) - 10.0 (ADM) - en cours
 Note enregistree 
 Note enregistree 
 Note enregistree 
@@ -956,14 +957,14 @@ Note enregistree
 Note enregistree 
 Note enregistree 
 4 Ily Ray
-S1 - 6.0 (AJB) - 4.7 (AJB) - 3.4 (AJB) - 2.6 (AJB) - 13.0 (ADM) - * (*) - demission
+S1 - 6.0 (AJ) - 4.7 (AJ) - 3.4 (AJ) - 2.6 (AJ) - 13.0 (ADM) - * (*) - demission
 Note enregistree 
 Note enregistree 
 Note enregistree 
 Note enregistree 
 Note enregistree 
 1 Lya Ria
-S1 - 1.7 (AJB) - 10.4 (ADM) - 9.2 (AJ) - 3.9 (AJB) - 12.9 (ADM) - 18.5 (ADM) - statut inconnu
+S1 - 1.7 (AJ) - 10.4 (ADM) - 9.2 (AJ) - 3.9 (AJ) - 12.9 (ADM) - 18.5 (ADM) - statut inconnu
 Note enregistree 
 Note enregistree 
 Note enregistree 
@@ -1041,13 +1042,13 @@ Note enregistree
 Note enregistree 
 Note enregistree 
 25 Nya Lou
-S1 - 2.2 (AJB) - 2.7 (AJB) - 18.5 (ADM) - 13.5 (ADM) - 13.3 (ADM) - 6.3 (AJB) - en cours
+S1 - 2.2 (AJ) - 2.7 (AJ) - 18.5 (ADM) - 13.5 (ADM) - 13.3 (ADM) - 6.3 (AJ) - en cours
 Note enregistree 
 Note enregistree 
 Note enregistree 
 Note enregistree 
 23 Nya Ray
-S1 - 2.5 (AJB) - 8.7 (AJ) - 18.7 (ADM) - 13.0 (ADM) - 9.0 (AJ) - 10.0 (ADM) - en cours
+S1 - 2.5 (AJ) - 8.7 (AJ) - 18.7 (ADM) - 13.0 (ADM) - 9.0 (AJ) - 10.0 (ADM) - en cours
 Note enregistree 
 Note enregistree 
 Note enregistree 
@@ -1069,7 +1070,7 @@ Note enregistree
 Note enregistree 
 Note enregistree 
 8 Apo Ece
-S1 - 11.4 (ADM) - 3.7 (AJB) - 2.9 (AJB) - 1.7 (AJB) - 16.5 (ADM) - 6.4 (AJB) - demission
+S1 - 11.4 (ADM) - 3.7 (AJ) - 2.9 (AJ) - 1.7 (AJ) - 16.5 (ADM) - 6.4 (AJ) - demission
 Semestre termine pour 22 etudiant(s)
 Note enregistree 
 Note enregistree 
@@ -1142,7 +1143,7 @@ Note enregistree
 Note enregistree 
 Note enregistree 
 1 Lya Ria
-S1 - 1.7 (AJB) - 10.4 (ADM) - 9.2 (AJ) - 3.9 (AJB) - 12.9 (ADM) - 18.5 (ADM) - statut inconnu
+S1 - 1.7 (AJ) - 10.4 (ADM) - 9.2 (AJ) - 3.9 (AJ) - 12.9 (ADM) - 18.5 (ADM) - statut inconnu
 Note enregistree 
 Note enregistree 
 1 - Lya Ria - S1 - ôUA
@@ -1215,8 +1216,8 @@ Note enregistree
 Note enregistree 
 Note enregistree 
 12 Kai Vic
-S1 - 18.3 (ADM) - 18.2 (ADM) - 17.7 (ADM) - 14.1 (ADM) - 6.7 (AJB) - 0.0 (AJB) - 
-S2 - * (*) - 1.8 (AJB) - * (*) - * (*) - * (*) - * (*) - en cours
+S1 - 18.3 (ADM) - 18.2 (ADM) - 17.7 (ADM) - 14.1 (ADM) - 6.7 (AJ) - 0.0 (AJ) - 
+S2 - * (*) - 1.8 (AJ) - * (*) - * (*) - * (*) - * (*) - en cours
 Note enregistree 
 Note enregistree 
 Note enregistree 
@@ -1292,7 +1293,7 @@ Note enregistree
 Note enregistree 
 Note enregistree 
 8 Apo Ece
-S1 - 11.4 (ADM) - 3.7 (AJB) - 2.9 (AJB) - 1.7 (AJB) - 16.5 (ADM) - 6.4 (AJB) - demission
+S1 - 11.4 (ADM) - 3.7 (AJ) - 2.9 (AJ) - 1.7 (AJ) - 16.5 (ADM) - 6.4 (AJ) - demission
 Note enregistree 
 Note enregistree 
 1 - Lya Ria - S1 - =A
@@ -1330,7 +1331,7 @@ Note enregistree
 Note enregistree 
 Note enregistree 
 26 Ute Lyo
-S1 - 4.4 (AJB) - 4.5 (AJB) - * (*) - 3.9 (AJB) - * (*) - 10.0 (ADM) - demission
+S1 - 4.4 (AJ) - 4.5 (AJ) - * (*) - 3.9 (AJ) - * (*) - 10.0 (ADM) - demission
 Note enregistree 
 Note enregistree 
 Note enregistree 
@@ -1369,8 +1370,8 @@ Note enregistree
 Note enregistree 
 Note enregistree 
 24 Paz Ari
-S1 - 17.1 (ADM) - 14.0 (ADM) - 4.3 (AJB) - 16.9 (ADM) - 11.1 (ADM) - 18.3 (ADM) - 
-S2 - * (*) - 5.1 (AJB) - 16.3 (ADM) - * (*) - * (*) - 13.2 (ADM) - statut inconnu
+S1 - 17.1 (ADM) - 14.0 (ADM) - 4.3 (AJ) - 16.9 (ADM) - 11.1 (ADM) - 18.3 (ADM) - 
+S2 - * (*) - 5.1 (AJ) - 16.3 (ADM) - * (*) - * (*) - 13.2 (ADM) - statut inconnu
 Note enregistree 
 Note enregistree 
 Note enregistree 
@@ -1454,7 +1455,7 @@ Note enregistree
 Note enregistree 
 Note enregistree 
 26 Ute Lyo
-S1 - 4.4 (AJB) - 4.5 (AJB) - * (*) - 3.9 (AJB) - * (*) - 10.0 (ADM) - demission
+S1 - 4.4 (AJ) - 4.5 (AJ) - * (*) - 3.9 (AJ) - * (*) - 10.0 (ADM) - demission
 Note enregistree 
 1 - Lya Ria - S1 - ôãA
 2 - Lea Bia - S2 - en cours
@@ -1485,7 +1486,7 @@ Note enregistree
 Note enregistree 
 Note enregistree 
 26 Ute Lyo
-S1 - 4.4 (AJB) - 4.5 (AJB) - * (*) - 3.9 (AJB) - * (*) - 10.0 (ADM) - demission
+S1 - 4.4 (AJ) - 4.5 (AJ) - * (*) - 3.9 (AJ) - * (*) - 10.0 (ADM) - demission
 Note enregistree 
 Note enregistree 
 Note enregistree 
@@ -1569,11 +1570,11 @@ Note enregistree
 Note enregistree 
 Note enregistree 
 18 Ony Loo
-S1 - 15.3 (ADM) - 11.3 (ADM) - 9.8 (AJ) - 13.5 (ADM) - 8.5 (AJ) - 4.9 (AJB) - 
+S1 - 15.3 (ADM) - 11.3 (ADM) - 9.8 (AJ) - 13.5 (ADM) - 8.5 (AJ) - 4.9 (AJ) - 
 S2 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - en cours
 Note enregistree 
 5 Nah Xin
-S1 - 16.4 (ADM) - 15.2 (ADM) - 18.2 (ADM) - 19.3 (ADM) - 2.9 (AJB) - 18.6 (ADM) - 
+S1 - 16.4 (ADM) - 15.2 (ADM) - 18.2 (ADM) - 19.3 (ADM) - 2.9 (AJ) - 18.6 (ADM) - 
 S2 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - en cours
 Note enregistree 
 Etudiant hors formation
@@ -1610,7 +1611,7 @@ Note enregistree
 Note enregistree 
 Note enregistree 
 23 Nya Ray
-S1 - 2.5 (AJB) - 8.7 (AJ) - 11.1 (ADM) - 13.0 (ADM) - 9.0 (AJ) - 10.0 (ADM) - 
+S1 - 2.5 (AJ) - 8.7 (AJ) - 11.1 (ADM) - 13.0 (ADM) - 9.0 (AJ) - 10.0 (ADM) - 
 S2 - 8.7 (AJ) - 18.7 (ADM) - 17.4 (ADM) - 17.2 (ADM) - 11.1 (ADM) - 17.3 (ADM) - en cours
 Note enregistree 
 Note enregistree 
@@ -1619,8 +1620,8 @@ Note enregistree
 Note enregistree 
 Note enregistree 
 24 Paz Ari
-S1 - 17.1 (ADM) - 14.0 (ADM) - 4.3 (AJB) - 16.9 (ADM) - 11.1 (ADM) - 18.3 (ADM) - 
-S2 - * (*) - 5.1 (AJB) - 16.3 (ADM) - * (*) - * (*) - 13.2 (ADM) - statut inconnu
+S1 - 17.1 (ADM) - 14.0 (ADM) - 4.3 (AJ) - 16.9 (ADM) - 11.1 (ADM) - 18.3 (ADM) - 
+S2 - * (*) - 5.1 (AJ) - 16.3 (ADM) - * (*) - * (*) - 13.2 (ADM) - statut inconnu
 Note enregistree 
 Note enregistree 
 Note enregistree 
@@ -1628,7 +1629,7 @@ Note enregistree
 Note enregistree 
 Note enregistree 
 5 Nah Xin
-S1 - 16.4 (ADM) - 15.2 (ADM) - 18.2 (ADM) - 19.3 (ADM) - 2.9 (AJB) - 18.6 (ADM) - 
+S1 - 16.4 (ADM) - 15.2 (ADM) - 18.2 (ADM) - 19.3 (ADM) - 2.9 (AJ) - 18.6 (ADM) - 
 S2 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - en cours
 Note enregistree 
 Note enregistree 
@@ -1661,8 +1662,8 @@ Note enregistree
 Note enregistree 
 Note enregistree 
 24 Paz Ari
-S1 - 17.1 (ADM) - 14.0 (ADM) - 4.3 (AJB) - 16.9 (ADM) - 11.1 (ADM) - 18.3 (ADM) - 
-S2 - * (*) - 5.1 (AJB) - 16.3 (ADM) - * (*) - * (*) - 13.2 (ADM) - statut inconnu
+S1 - 17.1 (ADM) - 14.0 (ADM) - 4.3 (AJ) - 16.9 (ADM) - 11.1 (ADM) - 18.3 (ADM) - 
+S2 - * (*) - 5.1 (AJ) - 16.3 (ADM) - * (*) - * (*) - 13.2 (ADM) - statut inconnu
 Note enregistree 
 Note enregistree 
 Note enregistree 
@@ -1670,8 +1671,8 @@ Note enregistree
 Etudiant hors formation
 Note enregistree 
 11 Iza Rob
-S1 - 11.5 (ADM) - 16.0 (ADM) - 13.6 (ADM) - 11.3 (ADM) - 6.2 (AJB) - 19.5 (ADM) - 
-S2 - 3.3 (AJB) - 7.3 (AJB) - 10.1 (ADM) - 15.5 (ADM) - 12.5 (ADM) - 1.7 (AJB) - en cours
+S1 - 11.5 (ADM) - 16.0 (ADM) - 13.6 (ADM) - 11.3 (ADM) - 6.2 (AJ) - 19.5 (ADM) - 
+S2 - 3.3 (AJ) - 7.3 (AJ) - 10.1 (ADM) - 15.5 (ADM) - 12.5 (ADM) - 1.7 (AJ) - en cours
 Note enregistree 
 Note enregistree 
 Note enregistree 
@@ -1719,15 +1720,15 @@ Note enregistree
 Note enregistree 
 Note enregistree 
 18 Ony Loo
-S1 - 15.3 (ADM) - 11.3 (ADM) - 9.8 (AJ) - 13.5 (ADM) - 8.5 (AJ) - 4.9 (AJB) - 
+S1 - 15.3 (ADM) - 11.3 (ADM) - 9.8 (AJ) - 13.5 (ADM) - 8.5 (AJ) - 4.9 (AJ) - 
 S2 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - en cours
 Note enregistree 
 23 Nya Ray
-S1 - 2.5 (AJB) - 8.7 (AJ) - 11.1 (ADM) - 13.0 (ADM) - 9.0 (AJ) - 10.0 (ADM) - 
-S2 - 8.7 (AJ) - 18.7 (ADM) - 17.4 (ADM) - 6.9 (AJB) - 7.7 (AJB) - 17.3 (ADM) - en cours
+S1 - 2.5 (AJ) - 8.7 (AJ) - 11.1 (ADM) - 13.0 (ADM) - 9.0 (AJ) - 10.0 (ADM) - 
+S2 - 8.7 (AJ) - 18.7 (ADM) - 17.4 (ADM) - 6.9 (AJ) - 7.7 (AJ) - 17.3 (ADM) - en cours
 Note enregistree 
 14 Rey Lyo
-S1 - 7.7 (AJB) - 12.8 (ADM) - 8.9 (AJ) - 19.1 (ADM) - 13.6 (ADM) - 19.9 (ADM) - 
+S1 - 7.7 (AJ) - 12.8 (ADM) - 8.9 (AJ) - 19.1 (ADM) - 13.6 (ADM) - 19.9 (ADM) - 
 S2 - 10.0 (ADM) - * (*) - * (*) - * (*) - * (*) - * (*) - en cours
 Note enregistree 
 Note enregistree 
@@ -1836,18 +1837,18 @@ Note enregistree
 Note enregistree 
 Note enregistree 
 24 Paz Ari
-S1 - 17.1 (ADM) - 14.0 (ADM) - 4.3 (AJB) - 16.9 (ADM) - 11.1 (ADM) - 18.3 (ADM) - 
-S2 - * (*) - 5.1 (AJB) - 16.3 (ADM) - * (*) - * (*) - 13.2 (ADM) - statut inconnu
+S1 - 17.1 (ADM) - 14.0 (ADM) - 4.3 (AJ) - 16.9 (ADM) - 11.1 (ADM) - 18.3 (ADM) - 
+S2 - * (*) - 5.1 (AJ) - 16.3 (ADM) - * (*) - * (*) - 13.2 (ADM) - statut inconnu
 Note enregistree 
 5 Nah Xin
-S1 - 16.4 (ADM) - 15.2 (ADM) - 18.2 (ADM) - 19.3 (ADM) - 2.9 (AJB) - 18.6 (ADM) - 
+S1 - 16.4 (ADM) - 15.2 (ADM) - 18.2 (ADM) - 19.3 (ADM) - 2.9 (AJ) - 18.6 (ADM) - 
 S2 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - en cours
 Note enregistree 
 Note enregistree 
 Note enregistree 
 20 Oum Apo
 S1 - 9.6 (AJ) - 18.3 (ADM) - 16.4 (ADM) - 19.0 (ADM) - 15.1 (ADM) - 19.7 (ADM) - 
-S2 - 17.9 (ADM) - 2.5 (AJB) - 7.9 (AJB) - 2.4 (AJB) - 8.1 (AJ) - 5.8 (AJB) - demission
+S2 - 17.9 (ADM) - 2.5 (AJ) - 7.9 (AJ) - 2.4 (AJ) - 8.1 (AJ) - 5.8 (AJ) - demission
 Note enregistree 
 Note enregistree 
 1 - Lya Ria - S1 - ÆùA
@@ -1898,7 +1899,7 @@ Note enregistree
 Note enregistree 
 Note enregistree 
 21 Yva Noe
-S1 - 12.8 (ADM) - 10.6 (ADM) - 8.4 (AJ) - 1.1 (AJB) - 3.3 (AJB) - 11.5 (ADM) - 
+S1 - 12.8 (ADM) - 10.6 (ADM) - 8.4 (AJ) - 1.1 (AJ) - 3.3 (AJ) - 11.5 (ADM) - 
 S2 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - statut inconnu
 Demission enregistree
 Note enregistree 
@@ -1973,12 +1974,12 @@ Note enregistree
 Note enregistree 
 20 Oum Apo
 S1 - 9.6 (AJ) - 18.3 (ADM) - 16.4 (ADM) - 19.0 (ADM) - 15.1 (ADM) - 19.7 (ADM) - 
-S2 - 17.9 (ADM) - 2.5 (AJB) - 7.9 (AJB) - 2.4 (AJB) - 8.1 (AJ) - 5.8 (AJB) - demission
+S2 - 17.9 (ADM) - 2.5 (AJ) - 7.9 (AJ) - 2.4 (AJ) - 8.1 (AJ) - 5.8 (AJ) - demission
 Note enregistree 
 Note enregistree 
 12 Kai Vic
-S1 - 18.3 (ADM) - 18.2 (ADM) - 17.7 (ADM) - 14.1 (ADM) - 6.7 (AJB) - 0.0 (AJB) - 
-S2 - * (*) - 1.8 (AJB) - 14.1 (ADM) - * (*) - * (*) - 6.0 (AJB) - demission
+S1 - 18.3 (ADM) - 18.2 (ADM) - 17.7 (ADM) - 14.1 (ADM) - 6.7 (AJ) - 0.0 (AJ) - 
+S2 - * (*) - 1.8 (AJ) - 14.1 (ADM) - * (*) - * (*) - 6.0 (AJ) - demission
 Note enregistree 
 1 - Lya Ria - S1 - ÃêA
 2 - Lea Bia - S2 - demission
@@ -2009,7 +2010,7 @@ Note enregistree
 Note enregistree 
 Note enregistree 
 18 Ony Loo
-S1 - 15.3 (ADM) - 11.3 (ADM) - 9.8 (AJ) - 13.5 (ADM) - 8.5 (AJ) - 4.9 (AJB) - 
+S1 - 15.3 (ADM) - 11.3 (ADM) - 9.8 (AJ) - 13.5 (ADM) - 8.5 (AJ) - 4.9 (AJ) - 
 S2 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - en cours
 1 - Lya Ria - S1 - póA
 2 - Lea Bia - S2 - demission
@@ -2038,76 +2039,76 @@ S2 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - en cours
 25 - Nya Lou - S2 - en cours
 26 - Ute Lyo - S1 - demission
 1 Lya Ria
-S1 - 1.7 (AJB) - 10.4 (ADM) - 9.2 (AJ) - 3.9 (AJB) - 12.9 (ADM) - 18.5 (ADM) - statut inconnu
+S1 - 1.7 (AJ) - 10.4 (ADM) - 9.2 (AJ) - 3.9 (AJ) - 12.9 (ADM) - 18.5 (ADM) - statut inconnu
 2 Lea Bia
-S1 - 18.0 (ADM) - 16.0 (ADM) - 9.3 (AJ) - 9.6 (AJ) - 4.2 (AJB) - 11.4 (ADM) - 
-S2 - 16.9 (ADM) - 11.4 (ADM) - 17.7 (ADM) - 0.3 (AJB) - 19.7 (ADM) - 5.2 (AJB) - demission
+S1 - 18.0 (ADM) - 16.0 (ADM) - 9.3 (AJ) - 9.6 (AJ) - 4.2 (AJ) - 11.4 (ADM) - 
+S2 - 16.9 (ADM) - 11.4 (ADM) - 17.7 (ADM) - 0.3 (AJ) - 19.7 (ADM) - 5.2 (AJ) - demission
 3 Leo Rut
-S1 - 17.8 (ADM) - 0.5 (AJB) - 14.5 (ADM) - 13.0 (ADM) - 10.2 (ADM) - 9.1 (AJ) - 
-S2 - 11.1 (ADM) - 15.6 (ADM) - 0.3 (AJB) - 0.3 (AJB) - 13.3 (ADM) - 1.4 (AJB) - statut inconnu
+S1 - 17.8 (ADM) - 0.5 (AJ) - 14.5 (ADM) - 13.0 (ADM) - 10.2 (ADM) - 9.1 (AJ) - 
+S2 - 11.1 (ADM) - 15.6 (ADM) - 0.3 (AJ) - 0.3 (AJ) - 13.3 (ADM) - 1.4 (AJ) - statut inconnu
 4 Ily Ray
-S1 - 6.0 (AJB) - 4.7 (AJB) - 3.4 (AJB) - 2.6 (AJB) - 13.0 (ADM) - * (*) - demission
+S1 - 6.0 (AJ) - 4.7 (AJ) - 3.4 (AJ) - 2.6 (AJ) - 13.0 (ADM) - * (*) - demission
 5 Nah Xin
-S1 - 16.4 (ADM) - 15.2 (ADM) - 18.2 (ADM) - 19.3 (ADM) - 2.9 (AJB) - 18.6 (ADM) - 
+S1 - 16.4 (ADM) - 15.2 (ADM) - 18.2 (ADM) - 19.3 (ADM) - 2.9 (AJ) - 18.6 (ADM) - 
 S2 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - en cours
 6 Rob Ria
 S1 - 12.8 (ADM) - 10.5 (ADM) - 17.7 (ADM) - 15.9 (ADM) - 17.6 (ADM) - 17.1 (ADM) - 
-S2 - 0.9 (AJB) - 20.0 (ADM) - 18.3 (ADM) - 16.7 (ADM) - 10.7 (ADM) - 0.3 (AJB) - en cours
+S2 - 0.9 (AJ) - 20.0 (ADM) - 18.3 (ADM) - 16.7 (ADM) - 10.7 (ADM) - 0.3 (AJ) - en cours
 7 Ily Roy
-S1 - 10.1 (ADM) - 18.1 (ADM) - 1.4 (AJB) - 19.8 (ADM) - 9.9 (AJ) - 12.4 (ADM) - 
-S2 - 3.3 (AJB) - 3.3 (AJB) - 19.9 (ADM) - 9.8 (AJ) - 9.0 (AJ) - 4.3 (AJB) - statut inconnu
+S1 - 10.1 (ADM) - 18.1 (ADM) - 1.4 (AJ) - 19.8 (ADM) - 9.9 (AJ) - 12.4 (ADM) - 
+S2 - 3.3 (AJ) - 3.3 (AJ) - 19.9 (ADM) - 9.8 (AJ) - 9.0 (AJ) - 4.3 (AJ) - statut inconnu
 8 Apo Ece
-S1 - 11.4 (ADM) - 3.7 (AJB) - 2.9 (AJB) - 1.7 (AJB) - 16.5 (ADM) - 6.4 (AJB) - demission
+S1 - 11.4 (ADM) - 3.7 (AJ) - 2.9 (AJ) - 1.7 (AJ) - 16.5 (ADM) - 6.4 (AJ) - demission
 9 Asa Bia
-S1 - 10.0 (ADM) - 8.7 (AJ) - 6.4 (AJB) - 12.5 (ADM) - 16.8 (ADM) - 18.8 (ADM) - 
-S2 - 11.2 (ADM) - 4.4 (AJB) - 12.5 (ADM) - 9.9 (AJ) - 19.0 (ADM) - 14.7 (ADM) - en cours
+S1 - 10.0 (ADM) - 8.7 (AJ) - 6.4 (AJ) - 12.5 (ADM) - 16.8 (ADM) - 18.8 (ADM) - 
+S2 - 11.2 (ADM) - 4.4 (AJ) - 12.5 (ADM) - 9.9 (AJ) - 19.0 (ADM) - 14.7 (ADM) - en cours
 10 Zoe Chi
-S1 - 11.7 (ADM) - 19.1 (ADM) - 11.8 (ADM) - 18.6 (ADM) - 2.2 (AJB) - 18.0 (ADM) - 
-S2 - 15.9 (ADM) - 17.1 (ADM) - 5.4 (AJB) - 12.9 (ADM) - 3.0 (AJB) - 5.3 (AJB) - statut inconnu
+S1 - 11.7 (ADM) - 19.1 (ADM) - 11.8 (ADM) - 18.6 (ADM) - 2.2 (AJ) - 18.0 (ADM) - 
+S2 - 15.9 (ADM) - 17.1 (ADM) - 5.4 (AJ) - 12.9 (ADM) - 3.0 (AJ) - 5.3 (AJ) - statut inconnu
 11 Iza Rob
-S1 - 11.5 (ADM) - 16.0 (ADM) - 13.6 (ADM) - 11.3 (ADM) - 6.2 (AJB) - 19.5 (ADM) - 
-S2 - 3.3 (AJB) - 7.3 (AJB) - 10.1 (ADM) - 15.5 (ADM) - 12.5 (ADM) - 1.7 (AJB) - en cours
+S1 - 11.5 (ADM) - 16.0 (ADM) - 13.6 (ADM) - 11.3 (ADM) - 6.2 (AJ) - 19.5 (ADM) - 
+S2 - 3.3 (AJ) - 7.3 (AJ) - 10.1 (ADM) - 15.5 (ADM) - 12.5 (ADM) - 1.7 (AJ) - en cours
 12 Kai Vic
-S1 - 18.3 (ADM) - 18.2 (ADM) - 17.7 (ADM) - 14.1 (ADM) - 6.7 (AJB) - 0.0 (AJB) - 
-S2 - * (*) - 1.8 (AJB) - 14.1 (ADM) - * (*) - * (*) - 6.0 (AJB) - demission
+S1 - 18.3 (ADM) - 18.2 (ADM) - 17.7 (ADM) - 14.1 (ADM) - 6.7 (AJ) - 0.0 (AJ) - 
+S2 - * (*) - 1.8 (AJ) - 14.1 (ADM) - * (*) - * (*) - 6.0 (AJ) - demission
 13 Roy Eva
-S1 - 18.9 (ADM) - 10.1 (ADM) - 11.9 (ADM) - 11.3 (ADM) - 8.5 (AJ) - 6.3 (AJB) - 
-S2 - 1.9 (AJB) - 16.3 (ADM) - 9.4 (AJ) - 15.3 (ADM) - 17.5 (ADM) - 4.7 (AJB) - demission
+S1 - 18.9 (ADM) - 10.1 (ADM) - 11.9 (ADM) - 11.3 (ADM) - 8.5 (AJ) - 6.3 (AJ) - 
+S2 - 1.9 (AJ) - 16.3 (ADM) - 9.4 (AJ) - 15.3 (ADM) - 17.5 (ADM) - 4.7 (AJ) - demission
 14 Rey Lyo
-S1 - 7.7 (AJB) - 12.8 (ADM) - 8.9 (AJ) - 19.1 (ADM) - 13.6 (ADM) - 19.9 (ADM) - 
+S1 - 7.7 (AJ) - 12.8 (ADM) - 8.9 (AJ) - 19.1 (ADM) - 13.6 (ADM) - 19.9 (ADM) - 
 S2 - 10.0 (ADM) - * (*) - * (*) - * (*) - * (*) - * (*) - en cours
 15 Tom Noy
-S1 - 11.0 (ADM) - 14.7 (ADM) - 6.0 (AJB) - 16.1 (ADM) - 17.7 (ADM) - 18.4 (ADM) - 
-S2 - 13.4 (ADM) - 16.1 (ADM) - 7.3 (AJB) - 5.9 (AJB) - 2.0 (AJB) - 4.4 (AJB) - en cours
+S1 - 11.0 (ADM) - 14.7 (ADM) - 6.0 (AJ) - 16.1 (ADM) - 17.7 (ADM) - 18.4 (ADM) - 
+S2 - 13.4 (ADM) - 16.1 (ADM) - 7.3 (AJ) - 5.9 (AJ) - 2.0 (AJ) - 4.4 (AJ) - en cours
 16 Leo Thi
-S1 - 13.2 (ADM) - 17.8 (ADM) - 18.2 (ADM) - 7.1 (AJB) - 19.9 (ADM) - 17.3 (ADM) - 
-S2 - 9.7 (AJ) - 17.2 (ADM) - 18.9 (ADM) - 19.2 (ADM) - 13.6 (ADM) - 6.1 (AJB) - en cours
+S1 - 13.2 (ADM) - 17.8 (ADM) - 18.2 (ADM) - 7.1 (AJ) - 19.9 (ADM) - 17.3 (ADM) - 
+S2 - 9.7 (AJ) - 17.2 (ADM) - 18.9 (ADM) - 19.2 (ADM) - 13.6 (ADM) - 6.1 (AJ) - en cours
 17 Lou Rey
-S1 - 20.0 (ADM) - 15.6 (ADM) - 12.3 (ADM) - 9.9 (AJ) - 0.5 (AJB) - 0.1 (AJB) - 
+S1 - 20.0 (ADM) - 15.6 (ADM) - 12.3 (ADM) - 9.9 (AJ) - 0.5 (AJ) - 0.1 (AJ) - 
 S2 - 8.5 (AJ) - 16.9 (ADM) - 17.9 (ADM) - 8.1 (AJ) - 19.7 (ADM) - 13.6 (ADM) - en cours
 18 Ony Loo
-S1 - 15.3 (ADM) - 11.3 (ADM) - 9.8 (AJ) - 13.5 (ADM) - 8.5 (AJ) - 4.9 (AJB) - 
+S1 - 15.3 (ADM) - 11.3 (ADM) - 9.8 (AJ) - 13.5 (ADM) - 8.5 (AJ) - 4.9 (AJ) - 
 S2 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - en cours
 19 Gao Loo
 S1 - 18.5 (ADM) - 15.1 (ADM) - 19.2 (ADM) - 9.5 (AJ) - 18.6 (ADM) - 11.4 (ADM) - 
-S2 - 15.1 (ADM) - 1.4 (AJB) - 18.1 (ADM) - 17.8 (ADM) - 19.9 (ADM) - 3.2 (AJB) - en cours
+S2 - 15.1 (ADM) - 1.4 (AJ) - 18.1 (ADM) - 17.8 (ADM) - 19.9 (ADM) - 3.2 (AJ) - en cours
 20 Oum Apo
 S1 - 9.6 (AJ) - 18.3 (ADM) - 16.4 (ADM) - 19.0 (ADM) - 15.1 (ADM) - 19.7 (ADM) - 
-S2 - 17.9 (ADM) - 2.5 (AJB) - 7.9 (AJB) - 2.4 (AJB) - 8.1 (AJ) - 5.8 (AJB) - demission
+S2 - 17.9 (ADM) - 2.5 (AJ) - 7.9 (AJ) - 2.4 (AJ) - 8.1 (AJ) - 5.8 (AJ) - demission
 21 Yva Noe
-S1 - 12.8 (ADM) - 10.6 (ADM) - 8.4 (AJ) - 1.1 (AJB) - 3.3 (AJB) - 11.5 (ADM) - 
+S1 - 12.8 (ADM) - 10.6 (ADM) - 8.4 (AJ) - 1.1 (AJ) - 3.3 (AJ) - 11.5 (ADM) - 
 S2 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - statut inconnu
 22 Emi Tom
-S1 - 4.9 (AJB) - 13.3 (ADM) - 9.3 (AJ) - 8.3 (AJ) - 17.6 (ADM) - 18.2 (ADM) - 
+S1 - 4.9 (AJ) - 13.3 (ADM) - 9.3 (AJ) - 8.3 (AJ) - 17.6 (ADM) - 18.2 (ADM) - 
 S2 - 10.6 (ADM) - 19.6 (ADM) - 17.4 (ADM) - 12.4 (ADM) - 8.3 (AJ) - 19.4 (ADM) - en cours
 23 Nya Ray
-S1 - 2.5 (AJB) - 8.7 (AJ) - 11.1 (ADM) - 13.0 (ADM) - 9.0 (AJ) - 10.0 (ADM) - 
-S2 - 9.6 (AJ) - 18.1 (ADM) - 10.5 (ADM) - 10.8 (ADM) - 9.5 (AJ) - 4.2 (AJB) - en cours
+S1 - 2.5 (AJ) - 8.7 (AJ) - 11.1 (ADM) - 13.0 (ADM) - 9.0 (AJ) - 10.0 (ADM) - 
+S2 - 9.6 (AJ) - 18.1 (ADM) - 10.5 (ADM) - 10.8 (ADM) - 9.5 (AJ) - 4.2 (AJ) - en cours
 24 Paz Ari
-S1 - 17.1 (ADM) - 14.0 (ADM) - 4.3 (AJB) - 16.9 (ADM) - 11.1 (ADM) - 18.3 (ADM) - 
-S2 - * (*) - 5.1 (AJB) - 16.3 (ADM) - * (*) - * (*) - 13.2 (ADM) - statut inconnu
+S1 - 17.1 (ADM) - 14.0 (ADM) - 4.3 (AJ) - 16.9 (ADM) - 11.1 (ADM) - 18.3 (ADM) - 
+S2 - * (*) - 5.1 (AJ) - 16.3 (ADM) - * (*) - * (*) - 13.2 (ADM) - statut inconnu
 25 Nya Lou
-S1 - 2.2 (AJB) - 2.7 (AJB) - 18.5 (ADM) - 13.5 (ADM) - 13.3 (ADM) - 6.3 (AJB) - 
-S2 - 0.6 (AJB) - 19.4 (ADM) - 19.7 (ADM) - 1.6 (AJB) - 19.8 (ADM) - 19.1 (ADM) - en cours
+S1 - 2.2 (AJ) - 2.7 (AJ) - 18.5 (ADM) - 13.5 (ADM) - 13.3 (ADM) - 6.3 (AJ) - 
+S2 - 0.6 (AJ) - 19.4 (ADM) - 19.7 (ADM) - 1.6 (AJ) - 19.8 (ADM) - 19.1 (ADM) - en cours
 26 Ute Lyo
-S1 - 4.4 (AJB) - 4.5 (AJB) - * (*) - 3.9 (AJB) - * (*) - 10.0 (ADM) - demission
+S1 - 4.4 (AJ) - 4.5 (AJ) - * (*) - 3.9 (AJ) - * (*) - 10.0 (ADM) - demission

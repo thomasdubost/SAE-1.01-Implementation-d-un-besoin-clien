@@ -1,0 +1,2026 @@
+Inscription enregistree (1)
+1 - Ary Umi - S1 - en cours
+Note enregistree 
+0 demission(s)
+0 defaillance(s)
+1 en cours
+0 ajourne(s)
+0 passe(s)
+Identifiant incorrect
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Identifiant incorrect
+Note enregistree 
+Inscription enregistree (2)
+Inscription enregistree (3)
+Note enregistree 
+Inscription enregistree (4)
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+2 Ece Lyn
+S1 - * (*) - 17.7 (ADM) - 18.6 (ADM) - * (*) - * (*) - 6.8 (AJ) - en cours
+Note enregistree 
+Inscription enregistree (5)
+Inscription enregistree (6)
+Inscription enregistree (7)
+Note enregistree 
+Inscription enregistree (8)
+0 demission(s)
+0 defaillance(s)
+8 en cours
+0 ajourne(s)
+0 passe(s)
+Note enregistree 
+Inscription enregistree (9)
+Note enregistree 
+1 - Ary Umi - S1 - en cours
+2 - Ece Lyn - S1 - en cours
+3 - Lee Max - S1 - en cours
+4 - Eli Ami - S1 - en cours
+5 - Cam Abi - S1 - en cours
+6 - Cam Ari - S1 - en cours
+7 - Paj Dan - S1 - en cours
+8 - Cam Ons - S1 - en cours
+9 - Ayo Nel - S1 - en cours
+Note enregistree 
+Identifiant incorrect
+Inscription enregistree (10)
+Inscription enregistree (11)
+Note enregistree 
+Inscription enregistree (12)
+Nom incorrect
+Inscription enregistree (13)
+1 - Ary Umi - S1 - en cours
+2 - Ece Lyn - S1 - en cours
+3 - Lee Max - S1 - en cours
+4 - Eli Ami - S1 - en cours
+5 - Cam Abi - S1 - en cours
+6 - Cam Ari - S1 - en cours
+7 - Paj Dan - S1 - en cours
+8 - Cam Ons - S1 - en cours
+9 - Ayo Nel - S1 - en cours
+10 - Jon Jil - S1 - en cours
+11 - Nor Mya - S1 - en cours
+12 - Nou Lyo - S1 - en cours
+13 - Thy Loo - S1 - en cours
+Note enregistree 
+Inscription enregistree (14)
+0 demission(s)
+0 defaillance(s)
+14 en cours
+0 ajourne(s)
+0 passe(s)
+Inscription enregistree (15)
+Note incorrecte
+Note enregistree 
+Note enregistree 
+Semestre incorrect
+Inscription enregistree (16)
+14 Paz Ian
+S1 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - en cours
+Note enregistree 
+Inscription enregistree (17)
+Note enregistree 
+Note enregistree 
+Note enregistree 
+0 demission(s)
+0 defaillance(s)
+17 en cours
+0 ajourne(s)
+0 passe(s)
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Inscription enregistree (18)
+Note enregistree 
+Inscription enregistree (19)
+0 demission(s)
+0 defaillance(s)
+19 en cours
+0 ajourne(s)
+0 passe(s)
+Inscription enregistree (20)
+Note enregistree 
+Note enregistree 
+Inscription enregistree (21)
+Note enregistree 
+Note enregistree 
+Identifiant incorrect
+Note enregistree 
+Inscription enregistree (22)
+Note enregistree 
+10 Jon Jil
+S1 - 8.9 (AJ) - 16.8 (ADM) - 14.6 (ADM) - * (*) - * (*) - 15.2 (ADM) - en cours
+Note enregistree 
+Note enregistree 
+Inscription enregistree (23)
+Note incorrecte
+Note enregistree 
+Inscription enregistree (24)
+Inscription enregistree (25)
+Note enregistree 
+Note enregistree 
+Inscription enregistree (26)
+Note enregistree 
+Note enregistree 
+26 Noe Apo
+S1 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - en cours
+Note enregistree 
+Note enregistree 
+0 demission(s)
+0 defaillance(s)
+26 en cours
+0 ajourne(s)
+0 passe(s)
+Note enregistree 
+21 Luc Lan
+S1 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - en cours
+Note enregistree 
+0 demission(s)
+0 defaillance(s)
+26 en cours
+0 ajourne(s)
+0 passe(s)
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+0 demission(s)
+0 defaillance(s)
+26 en cours
+0 ajourne(s)
+0 passe(s)
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+2 Ece Lyn
+S1 - 16.9 (ADM) - 17.7 (ADM) - 18.6 (ADM) - 3.8 (AJ) - 9.1 (AJ) - 6.8 (AJ) - en cours
+Note enregistree 
+1 - Ary Umi - S1 - en cours
+2 - Ece Lyn - S1 - en cours
+3 - Lee Max - S1 - en cours
+4 - Eli Ami - S1 - en cours
+5 - Cam Abi - S1 - en cours
+6 - Cam Ari - S1 - en cours
+7 - Paj Dan - S1 - en cours
+8 - Cam Ons - S1 - en cours
+9 - Ayo Nel - S1 - en cours
+10 - Jon Jil - S1 - en cours
+11 - Nor Mya - S1 - en cours
+12 - Nou Lyo - S1 - en cours
+13 - Thy Loo - S1 - en cours
+14 - Paz Ian - S1 - en cours
+15 - Ayo Aza - S1 - en cours
+16 - Chi Lyn - S1 - en cours
+17 - Jil Xin - S1 - en cours
+18 - Rob Lan - S1 - en cours
+19 - Sam Paz - S1 - en cours
+20 - Vic Loo - S1 - en cours
+21 - Luc Lan - S1 - en cours
+22 - Ide Sam - S1 - en cours
+23 - Jay Mya - S1 - en cours
+24 - Hai Ary - S1 - en cours
+25 - Flo Poe - S1 - en cours
+26 - Noe Apo - S1 - en cours
+Note enregistree 
+Note enregistree 
+1 Ary Umi
+S1 - 18.5 (ADM) - 15.5 (ADM) - 1.7 (AJ) - 4.7 (AJ) - 8.6 (AJ) - 5.3 (AJ) - en cours
+Note enregistree 
+15 Ayo Aza
+S1 - * (*) - * (*) - * (*) - 15.0 (ADM) - * (*) - * (*) - en cours
+Note enregistree 
+Note enregistree 
+Note enregistree 
+0 demission(s)
+0 defaillance(s)
+26 en cours
+0 ajourne(s)
+0 passe(s)
+Note enregistree 
+Note enregistree 
+20 Vic Loo
+S1 - 8.7 (AJ) - * (*) - * (*) - 13.4 (ADM) - * (*) - * (*) - en cours
+Nom incorrect
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+17 Jil Xin
+S1 - 2.8 (AJ) - * (*) - * (*) - 7.8 (AJ) - 11.0 (ADM) - * (*) - en cours
+Note enregistree 
+Demission enregistree
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Identifiant incorrect
+Note enregistree 
+Note enregistree 
+1 demission(s)
+0 defaillance(s)
+25 en cours
+0 ajourne(s)
+0 passe(s)
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Identifiant incorrect
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Defaillance enregistree
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+23 Jay Mya
+S1 - 4.5 (AJ) - 10.2 (ADM) - 5.0 (AJ) - 19.9 (ADM) - 16.6 (ADM) - 14.5 (ADM) - en cours
+Note enregistree 
+1 demission(s)
+0 defaillance(s)
+24 en cours
+0 ajourne(s)
+0 passe(s)
+Note enregistree 
+Note enregistree 
+Note enregistree 
+1 - Ary Umi - S1 - en cours
+2 - Ece Lyn - S1 - en cours
+3 - Lee Max - S1 - en cours
+4 - Eli Ami - S1 - en cours
+5 - Cam Abi - S1 - en cours
+6 - Cam Ari - S1 - en cours
+7 - Paj Dan - S1 - en cours
+8 - Cam Ons - S1 - en cours
+9 - Ayo Nel - S1 - en cours
+10 - Jon Jil - S1 - en cours
+11 - Nor Mya - S1 - en cours
+12 - Nou Lyo - S1 - en cours
+13 - Thy Loo - S1 - en cours
+14 - Paz Ian - S1 - en cours
+15 - Ayo Aza - S1 - en cours
+16 - Chi Lyn - S1 - en cours
+17 - Jil Xin - S1 - demission
+18 - Rob Lan - S1 - en cours
+19 - Sam Paz - S1 - en cours
+20 - Vic Loo - S1 - en cours
+21 - Luc Lan - S1 - en cours
+22 - Ide Sam - S1 - en cours
+23 - Jay Mya - S1 - en cours
+24 - Hai Ary - S1 - en cours
+25 - Flo Poe - S1 - en cours
+26 - Noe Apo - S1 - en cours
+Note enregistree 
+Note enregistree 
+Note enregistree 
+1 - Ary Umi - S1 - en cours
+2 - Ece Lyn - S1 - en cours
+3 - Lee Max - S1 - en cours
+4 - Eli Ami - S1 - en cours
+5 - Cam Abi - S1 - en cours
+6 - Cam Ari - S1 - en cours
+7 - Paj Dan - S1 - en cours
+8 - Cam Ons - S1 - en cours
+9 - Ayo Nel - S1 - en cours
+10 - Jon Jil - S1 - en cours
+11 - Nor Mya - S1 - en cours
+12 - Nou Lyo - S1 - en cours
+13 - Thy Loo - S1 - en cours
+14 - Paz Ian - S1 - en cours
+15 - Ayo Aza - S1 - en cours
+16 - Chi Lyn - S1 - en cours
+17 - Jil Xin - S1 - demission
+18 - Rob Lan - S1 - en cours
+19 - Sam Paz - S1 - en cours
+20 - Vic Loo - S1 - en cours
+21 - Luc Lan - S1 - en cours
+22 - Ide Sam - S1 - en cours
+23 - Jay Mya - S1 - en cours
+24 - Hai Ary - S1 - en cours
+25 - Flo Poe - S1 - en cours
+26 - Noe Apo - S1 - en cours
+Note enregistree 
+Identifiant incorrect
+Note enregistree 
+1 - Ary Umi - S1 - en cours
+2 - Ece Lyn - S1 - en cours
+3 - Lee Max - S1 - en cours
+4 - Eli Ami - S1 - en cours
+5 - Cam Abi - S1 - en cours
+6 - Cam Ari - S1 - en cours
+7 - Paj Dan - S1 - en cours
+8 - Cam Ons - S1 - en cours
+9 - Ayo Nel - S1 - en cours
+10 - Jon Jil - S1 - en cours
+11 - Nor Mya - S1 - en cours
+12 - Nou Lyo - S1 - en cours
+13 - Thy Loo - S1 - en cours
+14 - Paz Ian - S1 - en cours
+15 - Ayo Aza - S1 - en cours
+16 - Chi Lyn - S1 - en cours
+17 - Jil Xin - S1 - demission
+18 - Rob Lan - S1 - en cours
+19 - Sam Paz - S1 - en cours
+20 - Vic Loo - S1 - en cours
+21 - Luc Lan - S1 - en cours
+22 - Ide Sam - S1 - en cours
+23 - Jay Mya - S1 - en cours
+24 - Hai Ary - S1 - en cours
+25 - Flo Poe - S1 - en cours
+26 - Noe Apo - S1 - en cours
+Note enregistree 
+Note enregistree 
+1 demission(s)
+0 defaillance(s)
+24 en cours
+0 ajourne(s)
+0 passe(s)
+Note enregistree 
+1 demission(s)
+0 defaillance(s)
+24 en cours
+0 ajourne(s)
+0 passe(s)
+Note enregistree 
+1 - Ary Umi - S1 - en cours
+2 - Ece Lyn - S1 - en cours
+3 - Lee Max - S1 - en cours
+4 - Eli Ami - S1 - en cours
+5 - Cam Abi - S1 - en cours
+6 - Cam Ari - S1 - en cours
+7 - Paj Dan - S1 - en cours
+8 - Cam Ons - S1 - en cours
+9 - Ayo Nel - S1 - en cours
+10 - Jon Jil - S1 - en cours
+11 - Nor Mya - S1 - en cours
+12 - Nou Lyo - S1 - en cours
+13 - Thy Loo - S1 - en cours
+14 - Paz Ian - S1 - en cours
+15 - Ayo Aza - S1 - en cours
+16 - Chi Lyn - S1 - en cours
+17 - Jil Xin - S1 - demission
+18 - Rob Lan - S1 - en cours
+19 - Sam Paz - S1 - en cours
+20 - Vic Loo - S1 - en cours
+21 - Luc Lan - S1 - en cours
+22 - Ide Sam - S1 - en cours
+23 - Jay Mya - S1 - en cours
+24 - Hai Ary - S1 - en cours
+25 - Flo Poe - S1 - en cours
+26 - Noe Apo - S1 - en cours
+Note enregistree 
+Note enregistree 
+1 demission(s)
+0 defaillance(s)
+24 en cours
+0 ajourne(s)
+0 passe(s)
+Note enregistree 
+Note enregistree 
+Nom incorrect
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+1 - Ary Umi - S1 - en cours
+2 - Ece Lyn - S1 - en cours
+3 - Lee Max - S1 - en cours
+4 - Eli Ami - S1 - en cours
+5 - Cam Abi - S1 - en cours
+6 - Cam Ari - S1 - en cours
+7 - Paj Dan - S1 - en cours
+8 - Cam Ons - S1 - en cours
+9 - Ayo Nel - S1 - en cours
+10 - Jon Jil - S1 - en cours
+11 - Nor Mya - S1 - en cours
+12 - Nou Lyo - S1 - en cours
+13 - Thy Loo - S1 - en cours
+14 - Paz Ian - S1 - en cours
+15 - Ayo Aza - S1 - en cours
+16 - Chi Lyn - S1 - en cours
+17 - Jil Xin - S1 - demission
+18 - Rob Lan - S1 - en cours
+19 - Sam Paz - S1 - en cours
+20 - Vic Loo - S1 - en cours
+21 - Luc Lan - S1 - en cours
+22 - Ide Sam - S1 - en cours
+23 - Jay Mya - S1 - en cours
+24 - Hai Ary - S1 - en cours
+25 - Flo Poe - S1 - en cours
+26 - Noe Apo - S1 - en cours
+Note enregistree 
+1 demission(s)
+0 defaillance(s)
+24 en cours
+0 ajourne(s)
+0 passe(s)
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+1 - Ary Umi - S1 - en cours
+2 - Ece Lyn - S1 - en cours
+3 - Lee Max - S1 - en cours
+4 - Eli Ami - S1 - en cours
+5 - Cam Abi - S1 - en cours
+6 - Cam Ari - S1 - en cours
+7 - Paj Dan - S1 - en cours
+8 - Cam Ons - S1 - en cours
+9 - Ayo Nel - S1 - en cours
+10 - Jon Jil - S1 - en cours
+11 - Nor Mya - S1 - en cours
+12 - Nou Lyo - S1 - en cours
+13 - Thy Loo - S1 - en cours
+14 - Paz Ian - S1 - en cours
+15 - Ayo Aza - S1 - en cours
+16 - Chi Lyn - S1 - en cours
+17 - Jil Xin - S1 - demission
+18 - Rob Lan - S1 - en cours
+19 - Sam Paz - S1 - en cours
+20 - Vic Loo - S1 - en cours
+21 - Luc Lan - S1 - en cours
+22 - Ide Sam - S1 - en cours
+23 - Jay Mya - S1 - en cours
+24 - Hai Ary - S1 - en cours
+25 - Flo Poe - S1 - en cours
+26 - Noe Apo - S1 - en cours
+Identifiant incorrect
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+24 Hai Ary
+S1 - 19.6 (ADM) - 19.8 (ADM) - 7.7 (AJ) - 16.6 (ADM) - 0.6 (AJ) - 3.5 (AJ) - en cours
+Note enregistree 
+23 Jay Mya
+S1 - 4.5 (AJ) - 10.2 (ADM) - 5.0 (AJ) - 19.9 (ADM) - 16.6 (ADM) - 14.5 (ADM) - en cours
+Semestre termine pour 24 etudiant(s)
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+10 Jon Jil
+S1 - 8.9 (AJ) - 16.8 (ADM) - 14.6 (ADM) - 14.0 (ADM) - 14.9 (ADM) - 15.2 (ADM) - 
+S2 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - en cours
+Note enregistree 
+Note enregistree 
+Note enregistree 
+1 - Ary Umi - S2 - en cours
+2 - Ece Lyn - S2 - en cours
+3 - Lee Max - S2 - en cours
+4 - Eli Ami - S2 - en cours
+5 - Cam Abi - S2 - en cours
+6 - Cam Ari - S2 - en cours
+7 - Paj Dan - S2 - en cours
+8 - Cam Ons - S2 - en cours
+9 - Ayo Nel - S2 - en cours
+10 - Jon Jil - S2 - en cours
+11 - Nor Mya - S2 - en cours
+12 - Nou Lyo - S2 - en cours
+13 - Thy Loo - S2 - en cours
+14 - Paz Ian - S2 - en cours
+15 - Ayo Aza - S2 - en cours
+16 - Chi Lyn - S1 - en cours
+17 - Jil Xin - S1 - demission
+18 - Rob Lan - S2 - en cours
+19 - Sam Paz - S2 - en cours
+20 - Vic Loo - S2 - en cours
+21 - Luc Lan - S2 - en cours
+22 - Ide Sam - S2 - en cours
+23 - Jay Mya - S2 - en cours
+24 - Hai Ary - S2 - en cours
+25 - Flo Poe - S2 - en cours
+26 - Noe Apo - S2 - en cours
+Note enregistree 
+Note enregistree 
+Note enregistree 
+1 demission(s)
+0 defaillance(s)
+0 en cours
+0 ajourne(s)
+0 passe(s)
+Note enregistree 
+Note enregistree 
+14 Paz Ian
+S1 - 18.0 (ADM) - 16.4 (ADM) - 17.8 (ADM) - 13.0 (ADM) - 8.6 (AJ) - 19.9 (ADM) - 
+S2 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - en cours
+Note enregistree 
+Note enregistree 
+Defaillance enregistree
+Note enregistree 
+Note enregistree 
+12 Nou Lyo
+S1 - 9.8 (AJ) - 18.2 (ADM) - 9.1 (AJ) - 13.8 (ADM) - 12.4 (ADM) - 7.6 (AJ) - 
+S2 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - en cours
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+1 demission(s)
+0 defaillance(s)
+0 en cours
+0 ajourne(s)
+0 passe(s)
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+1 demission(s)
+0 defaillance(s)
+0 en cours
+0 ajourne(s)
+0 passe(s)
+Note enregistree 
+Note enregistree 
+Note enregistree 
+1 - Ary Umi - S2 - en cours
+2 - Ece Lyn - S2 - en cours
+3 - Lee Max - S2 - en cours
+4 - Eli Ami - S2 - en cours
+5 - Cam Abi - S2 - en cours
+6 - Cam Ari - S2 - en cours
+7 - Paj Dan - S2 - en cours
+8 - Cam Ons - S2 - en cours
+9 - Ayo Nel - S2 - en cours
+10 - Jon Jil - S2 - en cours
+11 - Nor Mya - S2 - en cours
+12 - Nou Lyo - S2 - en cours
+13 - Thy Loo - S2 - en cours
+14 - Paz Ian - S2 - en cours
+15 - Ayo Aza - S2 - en cours
+16 - Chi Lyn - S1 - en cours
+17 - Jil Xin - S1 - demission
+18 - Rob Lan - S2 - en cours
+19 - Sam Paz - S2 - en cours
+20 - Vic Loo - S2 - en cours
+21 - Luc Lan - S2 - en cours
+22 - Ide Sam - S2 - en cours
+23 - Jay Mya - S2 - en cours
+24 - Hai Ary - S2 - en cours
+25 - Flo Poe - S2 - en cours
+26 - Noe Apo - S2 - en cours
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+1 demission(s)
+0 defaillance(s)
+0 en cours
+0 ajourne(s)
+0 passe(s)
+Note enregistree 
+Note enregistree 
+1 - Ary Umi - S2 - en cours
+2 - Ece Lyn - S2 - en cours
+3 - Lee Max - S2 - en cours
+4 - Eli Ami - S2 - en cours
+5 - Cam Abi - S2 - en cours
+6 - Cam Ari - S2 - en cours
+7 - Paj Dan - S2 - en cours
+8 - Cam Ons - S2 - en cours
+9 - Ayo Nel - S2 - en cours
+10 - Jon Jil - S2 - en cours
+11 - Nor Mya - S2 - en cours
+12 - Nou Lyo - S2 - en cours
+13 - Thy Loo - S2 - en cours
+14 - Paz Ian - S2 - en cours
+15 - Ayo Aza - S2 - en cours
+16 - Chi Lyn - S1 - en cours
+17 - Jil Xin - S1 - demission
+18 - Rob Lan - S2 - en cours
+19 - Sam Paz - S2 - en cours
+20 - Vic Loo - S2 - en cours
+21 - Luc Lan - S2 - en cours
+22 - Ide Sam - S2 - en cours
+23 - Jay Mya - S2 - en cours
+24 - Hai Ary - S2 - en cours
+25 - Flo Poe - S2 - en cours
+26 - Noe Apo - S2 - en cours
+Note enregistree 
+Note enregistree 
+Note enregistree 
+1 demission(s)
+0 defaillance(s)
+0 en cours
+0 ajourne(s)
+0 passe(s)
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note incorrecte
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+25 Flo Poe
+S1 - 19.4 (ADM) - 2.0 (AJ) - 17.3 (ADM) - 0.3 (AJ) - 0.8 (AJ) - 15.7 (ADM) - 
+S2 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - statut inconnu
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+1 demission(s)
+0 defaillance(s)
+0 en cours
+0 ajourne(s)
+0 passe(s)
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+1 demission(s)
+0 defaillance(s)
+0 en cours
+0 ajourne(s)
+0 passe(s)
+Note enregistree 
+Note enregistree 
+15 Ayo Aza
+S1 - 1.6 (AJ) - 10.4 (ADM) - 9.0 (AJ) - 15.0 (ADM) - 19.0 (ADM) - 11.4 (ADM) - 
+S2 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - en cours
+Note enregistree 
+Note enregistree 
+Note enregistree 
+11 Nor Mya
+S1 - 2.8 (AJ) - 11.4 (ADM) - 9.8 (AJ) - 13.3 (ADM) - 5.7 (AJ) - 19.3 (ADM) - 
+S2 - 13.7 (ADM) - 16.8 (ADM) - * (*) - 16.4 (ADM) - 12.9 (ADM) - 13.1 (ADM) - en cours
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+1 demission(s)
+0 defaillance(s)
+0 en cours
+0 ajourne(s)
+0 passe(s)
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+7 Paj Dan
+S1 - 3.1 (AJ) - 18.3 (ADM) - 16.9 (ADM) - 15.4 (ADM) - 0.6 (AJ) - 18.6 (ADM) - 
+S2 - 19.5 (ADM) - 16.2 (ADM) - 18.9 (ADM) - 2.3 (AJ) - 19.5 (ADM) - 12.5 (ADM) - en cours
+Note enregistree 
+1 demission(s)
+0 defaillance(s)
+0 en cours
+0 ajourne(s)
+0 passe(s)
+Note enregistree 
+17 Jil Xin
+S1 - 2.8 (AJ) - * (*) - * (*) - 7.8 (AJ) - 11.0 (ADM) - * (*) - demission
+Note enregistree 
+Demission enregistree
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Identifiant incorrect
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+10 Jon Jil
+S1 - 8.9 (AJ) - 16.8 (ADM) - 14.6 (ADM) - 14.0 (ADM) - 14.9 (ADM) - 15.2 (ADM) - 
+S2 - 15.0 (ADM) - 16.9 (ADM) - 14.6 (ADM) - 19.6 (ADM) - * (*) - 13.4 (ADM) - en cours
+Note enregistree 
+Note enregistree 
+Note enregistree 
+16 Chi Lyn
+S1 - * (*) - 11.4 (ADM) - 0.8 (AJ) - 18.7 (ADM) - 12.5 (ADM) - * (*) - statut inconnu
+Note enregistree 
+Note enregistree 
+1 - Ary Umi - S2 - en cours
+2 - Ece Lyn - S2 - en cours
+3 - Lee Max - S2 - en cours
+4 - Eli Ami - S2 - demission
+5 - Cam Abi - S2 - en cours
+6 - Cam Ari - S2 - en cours
+7 - Paj Dan - S2 - en cours
+8 - Cam Ons - S2 - en cours
+9 - Ayo Nel - S2 - en cours
+10 - Jon Jil - S2 - en cours
+11 - Nor Mya - S2 - en cours
+12 - Nou Lyo - S2 - en cours
+13 - Thy Loo - S2 - en cours
+14 - Paz Ian - S2 - en cours
+15 - Ayo Aza - S2 - en cours
+16 - Chi Lyn - S1 - en cours
+17 - Jil Xin - S1 - demission
+18 - Rob Lan - S2 - en cours
+19 - Sam Paz - S2 - en cours
+20 - Vic Loo - S2 - en cours
+21 - Luc Lan - S2 - en cours
+22 - Ide Sam - S2 - en cours
+23 - Jay Mya - S2 - en cours
+24 - Hai Ary - S2 - en cours
+25 - Flo Poe - S2 - en cours
+26 - Noe Apo - S2 - en cours
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+1 - Ary Umi - S2 - en cours
+2 - Ece Lyn - S2 - en cours
+3 - Lee Max - S2 - en cours
+4 - Eli Ami - S2 - demission
+5 - Cam Abi - S2 - en cours
+6 - Cam Ari - S2 - en cours
+7 - Paj Dan - S2 - en cours
+8 - Cam Ons - S2 - en cours
+9 - Ayo Nel - S2 - en cours
+10 - Jon Jil - S2 - en cours
+11 - Nor Mya - S2 - en cours
+12 - Nou Lyo - S2 - en cours
+13 - Thy Loo - S2 - en cours
+14 - Paz Ian - S2 - en cours
+15 - Ayo Aza - S2 - en cours
+16 - Chi Lyn - S1 - en cours
+17 - Jil Xin - S1 - demission
+18 - Rob Lan - S2 - en cours
+19 - Sam Paz - S2 - en cours
+20 - Vic Loo - S2 - en cours
+21 - Luc Lan - S2 - en cours
+22 - Ide Sam - S2 - en cours
+23 - Jay Mya - S2 - en cours
+24 - Hai Ary - S2 - en cours
+25 - Flo Poe - S2 - en cours
+26 - Noe Apo - S2 - en cours
+Note enregistree 
+Semestre termine pour 22 etudiant(s)
+Note enregistree 
+Note enregistree 
+Note enregistree 
+23 Jay Mya
+S1 - 4.5 (AJ) - 10.2 (ADM) - 5.0 (AJ) - 19.9 (ADM) - 16.6 (ADM) - 14.5 (ADM) - 
+S2 - 14.7 (ADM) - 15.8 (ADM) - 16.5 (ADM) - 19.1 (ADM) - 8.9 (AJ) - 2.6 (AJ) - 
+B1 - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 
+S3 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - en cours
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+1 - Ary Umi - S3 - en cours
+2 - Ece Lyn - S3 - en cours
+3 - Lee Max - S3 - en cours
+4 - Eli Ami - S2 - demission
+5 - Cam Abi - S3 - en cours
+6 - Cam Ari - S3 - en cours
+7 - Paj Dan - S3 - en cours
+8 - Cam Ons - S3 - en cours
+9 - Ayo Nel - S3 - en cours
+10 - Jon Jil - S3 - en cours
+11 - Nor Mya - S3 - en cours
+12 - Nou Lyo - S3 - en cours
+13 - Thy Loo - S3 - en cours
+14 - Paz Ian - S3 - en cours
+15 - Ayo Aza - S3 - en cours
+16 - Chi Lyn - S1 - en cours
+17 - Jil Xin - S1 - demission
+18 - Rob Lan - S3 - en cours
+19 - Sam Paz - S3 - en cours
+20 - Vic Loo - S3 - en cours
+21 - Luc Lan - S3 - en cours
+22 - Ide Sam - S3 - en cours
+23 - Jay Mya - S3 - en cours
+24 - Hai Ary - S3 - en cours
+25 - Flo Poe - S2 - en cours
+26 - Noe Apo - S3 - en cours
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+1 demission(s)
+0 defaillance(s)
+0 en cours
+0 ajourne(s)
+22 passe(s)
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+1 - Ary Umi - S3 - en cours
+2 - Ece Lyn - S3 - en cours
+3 - Lee Max - S3 - en cours
+4 - Eli Ami - S2 - demission
+5 - Cam Abi - S3 - en cours
+6 - Cam Ari - S3 - en cours
+7 - Paj Dan - S3 - en cours
+8 - Cam Ons - S3 - en cours
+9 - Ayo Nel - S3 - en cours
+10 - Jon Jil - S3 - en cours
+11 - Nor Mya - S3 - en cours
+12 - Nou Lyo - S3 - en cours
+13 - Thy Loo - S3 - en cours
+14 - Paz Ian - S3 - en cours
+15 - Ayo Aza - S3 - en cours
+16 - Chi Lyn - S1 - en cours
+17 - Jil Xin - S1 - demission
+18 - Rob Lan - S3 - en cours
+19 - Sam Paz - S3 - en cours
+20 - Vic Loo - S3 - en cours
+21 - Luc Lan - S3 - en cours
+22 - Ide Sam - S3 - en cours
+23 - Jay Mya - S3 - en cours
+24 - Hai Ary - S3 - en cours
+25 - Flo Poe - S2 - en cours
+26 - Noe Apo - S3 - en cours
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Nom incorrect
+Note enregistree 
+Note enregistree 
+1 - Ary Umi - S3 - en cours
+2 - Ece Lyn - S3 - en cours
+3 - Lee Max - S3 - en cours
+4 - Eli Ami - S2 - demission
+5 - Cam Abi - S3 - en cours
+6 - Cam Ari - S3 - en cours
+7 - Paj Dan - S3 - en cours
+8 - Cam Ons - S3 - en cours
+9 - Ayo Nel - S3 - en cours
+10 - Jon Jil - S3 - en cours
+11 - Nor Mya - S3 - en cours
+12 - Nou Lyo - S3 - en cours
+13 - Thy Loo - S3 - en cours
+14 - Paz Ian - S3 - en cours
+15 - Ayo Aza - S3 - en cours
+16 - Chi Lyn - S1 - en cours
+17 - Jil Xin - S1 - demission
+18 - Rob Lan - S3 - en cours
+19 - Sam Paz - S3 - en cours
+20 - Vic Loo - S3 - en cours
+21 - Luc Lan - S3 - en cours
+22 - Ide Sam - S3 - en cours
+23 - Jay Mya - S3 - en cours
+24 - Hai Ary - S3 - en cours
+25 - Flo Poe - S2 - en cours
+26 - Noe Apo - S3 - en cours
+Note enregistree 
+11 Nor Mya
+S1 - 2.8 (AJ) - 11.4 (ADM) - 9.8 (AJ) - 13.3 (ADM) - 5.7 (AJ) - 19.3 (ADM) - 
+S2 - 13.7 (ADM) - 16.8 (ADM) - 6.3 (AJ) - 16.4 (ADM) - 12.9 (ADM) - 13.1 (ADM) - 
+B1 - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 
+S3 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - en cours
+Note enregistree 
+Note enregistree 
+Note enregistree 
+1 - Ary Umi - S3 - en cours
+2 - Ece Lyn - S3 - en cours
+3 - Lee Max - S3 - en cours
+4 - Eli Ami - S2 - demission
+5 - Cam Abi - S3 - en cours
+6 - Cam Ari - S3 - en cours
+7 - Paj Dan - S3 - en cours
+8 - Cam Ons - S3 - en cours
+9 - Ayo Nel - S3 - en cours
+10 - Jon Jil - S3 - en cours
+11 - Nor Mya - S3 - en cours
+12 - Nou Lyo - S3 - en cours
+13 - Thy Loo - S3 - en cours
+14 - Paz Ian - S3 - en cours
+15 - Ayo Aza - S3 - en cours
+16 - Chi Lyn - S1 - en cours
+17 - Jil Xin - S1 - demission
+18 - Rob Lan - S3 - en cours
+19 - Sam Paz - S3 - en cours
+20 - Vic Loo - S3 - en cours
+21 - Luc Lan - S3 - en cours
+22 - Ide Sam - S3 - en cours
+23 - Jay Mya - S3 - en cours
+24 - Hai Ary - S3 - en cours
+25 - Flo Poe - S2 - en cours
+26 - Noe Apo - S3 - en cours
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+1 - Ary Umi - S3 - en cours
+2 - Ece Lyn - S3 - en cours
+3 - Lee Max - S3 - en cours
+4 - Eli Ami - S2 - demission
+5 - Cam Abi - S3 - en cours
+6 - Cam Ari - S3 - en cours
+7 - Paj Dan - S3 - en cours
+8 - Cam Ons - S3 - en cours
+9 - Ayo Nel - S3 - en cours
+10 - Jon Jil - S3 - en cours
+11 - Nor Mya - S3 - en cours
+12 - Nou Lyo - S3 - en cours
+13 - Thy Loo - S3 - en cours
+14 - Paz Ian - S3 - en cours
+15 - Ayo Aza - S3 - en cours
+16 - Chi Lyn - S1 - en cours
+17 - Jil Xin - S1 - demission
+18 - Rob Lan - S3 - en cours
+19 - Sam Paz - S3 - en cours
+20 - Vic Loo - S3 - en cours
+21 - Luc Lan - S3 - en cours
+22 - Ide Sam - S3 - en cours
+23 - Jay Mya - S3 - en cours
+24 - Hai Ary - S3 - en cours
+25 - Flo Poe - S2 - en cours
+26 - Noe Apo - S3 - en cours
+Defaillance enregistree
+Note enregistree 
+1 - Ary Umi - S3 - en cours
+2 - Ece Lyn - S3 - en cours
+3 - Lee Max - S3 - en cours
+4 - Eli Ami - S2 - demission
+5 - Cam Abi - S3 - en cours
+6 - Cam Ari - S3 - en cours
+7 - Paj Dan - S3 - en cours
+8 - Cam Ons - S3 - en cours
+9 - Ayo Nel - S3 - en cours
+10 - Jon Jil - S3 - en cours
+11 - Nor Mya - S3 - en cours
+12 - Nou Lyo - S3 - en cours
+13 - Thy Loo - S3 - en cours
+14 - Paz Ian - S3 - en cours
+15 - Ayo Aza - S3 - en cours
+16 - Chi Lyn - S1 - en cours
+17 - Jil Xin - S1 - demission
+18 - Rob Lan - S3 - en cours
+19 - Sam Paz - S3 - en cours
+20 - Vic Loo - S3 - en cours
+21 - Luc Lan - S3 - en cours
+22 - Ide Sam - S3 - en cours
+23 - Jay Mya - S3 - en cours
+24 - Hai Ary - S3 - en cours
+25 - Flo Poe - S2 - en cours
+26 - Noe Apo - S3 - en cours
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+1 demission(s)
+0 defaillance(s)
+0 en cours
+0 ajourne(s)
+21 passe(s)
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+17 Jil Xin
+S1 - 2.8 (AJ) - * (*) - * (*) - 7.8 (AJ) - 11.0 (ADM) - * (*) - demission
+Note enregistree 
+Note enregistree 
+2 demission(s)
+0 defaillance(s)
+21 en cours
+0 ajourne(s)
+0 passe(s)
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+1 - Ary Umi - S3 - en cours
+2 - Ece Lyn - S3 - en cours
+3 - Lee Max - S3 - en cours
+4 - Eli Ami - S2 - demission
+5 - Cam Abi - S3 - en cours
+6 - Cam Ari - S3 - en cours
+7 - Paj Dan - S3 - en cours
+8 - Cam Ons - S3 - en cours
+9 - Ayo Nel - S3 - en cours
+10 - Jon Jil - S3 - en cours
+11 - Nor Mya - S3 - en cours
+12 - Nou Lyo - S3 - en cours
+13 - Thy Loo - S3 - en cours
+14 - Paz Ian - S3 - en cours
+15 - Ayo Aza - S3 - en cours
+16 - Chi Lyn - S1 - en cours
+17 - Jil Xin - S1 - demission
+18 - Rob Lan - S3 - en cours
+19 - Sam Paz - S3 - en cours
+20 - Vic Loo - S3 - en cours
+21 - Luc Lan - S3 - en cours
+22 - Ide Sam - S3 - en cours
+23 - Jay Mya - S3 - en cours
+24 - Hai Ary - S3 - en cours
+25 - Flo Poe - S2 - en cours
+26 - Noe Apo - S3 - en cours
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+1 - Ary Umi - S3 - en cours
+2 - Ece Lyn - S3 - en cours
+3 - Lee Max - S3 - en cours
+4 - Eli Ami - S2 - demission
+5 - Cam Abi - S3 - en cours
+6 - Cam Ari - S3 - en cours
+7 - Paj Dan - S3 - en cours
+8 - Cam Ons - S3 - en cours
+9 - Ayo Nel - S3 - en cours
+10 - Jon Jil - S3 - en cours
+11 - Nor Mya - S3 - en cours
+12 - Nou Lyo - S3 - en cours
+13 - Thy Loo - S3 - en cours
+14 - Paz Ian - S3 - en cours
+15 - Ayo Aza - S3 - en cours
+16 - Chi Lyn - S1 - en cours
+17 - Jil Xin - S1 - demission
+18 - Rob Lan - S3 - en cours
+19 - Sam Paz - S3 - en cours
+20 - Vic Loo - S3 - en cours
+21 - Luc Lan - S3 - en cours
+22 - Ide Sam - S3 - en cours
+23 - Jay Mya - S3 - en cours
+24 - Hai Ary - S3 - en cours
+25 - Flo Poe - S2 - en cours
+26 - Noe Apo - S3 - en cours
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Etudiant hors formation
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+10 Jon Jil
+S1 - 8.9 (AJ) - 16.8 (ADM) - 14.6 (ADM) - 14.0 (ADM) - 14.9 (ADM) - 15.2 (ADM) - 
+S2 - 15.0 (ADM) - 16.9 (ADM) - 14.6 (ADM) - 19.6 (ADM) - 6.1 (AJ) - 13.4 (ADM) - 
+B1 - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 
+S3 - 10.2 (ADM) - 17.2 (ADM) - 9.5 (AJ) - 6.5 (AJ) - 17.0 (ADM) - 16.8 (ADM) - en cours
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+1 - Ary Umi - S3 - en cours
+2 - Ece Lyn - S3 - en cours
+3 - Lee Max - S3 - en cours
+4 - Eli Ami - S2 - demission
+5 - Cam Abi - S3 - en cours
+6 - Cam Ari - S3 - en cours
+7 - Paj Dan - S3 - en cours
+8 - Cam Ons - S3 - en cours
+9 - Ayo Nel - S3 - en cours
+10 - Jon Jil - S3 - en cours
+11 - Nor Mya - S3 - en cours
+12 - Nou Lyo - S3 - en cours
+13 - Thy Loo - S3 - en cours
+14 - Paz Ian - S3 - en cours
+15 - Ayo Aza - S3 - en cours
+16 - Chi Lyn - S1 - en cours
+17 - Jil Xin - S1 - demission
+18 - Rob Lan - S3 - en cours
+19 - Sam Paz - S3 - en cours
+20 - Vic Loo - S3 - en cours
+21 - Luc Lan - S3 - en cours
+22 - Ide Sam - S3 - en cours
+23 - Jay Mya - S3 - en cours
+24 - Hai Ary - S3 - en cours
+25 - Flo Poe - S2 - en cours
+26 - Noe Apo - S3 - en cours
+Demission enregistree
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+3 demission(s)
+0 defaillance(s)
+20 en cours
+0 ajourne(s)
+0 passe(s)
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+1 - Ary Umi - S3 - en cours
+2 - Ece Lyn - S3 - en cours
+3 - Lee Max - S3 - en cours
+4 - Eli Ami - S2 - demission
+5 - Cam Abi - S3 - en cours
+6 - Cam Ari - S3 - en cours
+7 - Paj Dan - S3 - en cours
+8 - Cam Ons - S3 - en cours
+9 - Ayo Nel - S3 - en cours
+10 - Jon Jil - S3 - en cours
+11 - Nor Mya - S3 - en cours
+12 - Nou Lyo - S3 - en cours
+13 - Thy Loo - S3 - en cours
+14 - Paz Ian - S3 - en cours
+15 - Ayo Aza - S3 - en cours
+16 - Chi Lyn - S1 - en cours
+17 - Jil Xin - S1 - demission
+18 - Rob Lan - S3 - en cours
+19 - Sam Paz - S3 - en cours
+20 - Vic Loo - S3 - en cours
+21 - Luc Lan - S3 - en cours
+22 - Ide Sam - S3 - en cours
+23 - Jay Mya - S3 - en cours
+24 - Hai Ary - S3 - demission
+25 - Flo Poe - S2 - demission
+26 - Noe Apo - S3 - en cours
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Des notes sont manquantes
+3 demission(s)
+0 defaillance(s)
+20 en cours
+0 ajourne(s)
+0 passe(s)
+Demission enregistree
+Note enregistree 
+Note enregistree 
+2 Ece Lyn
+S1 - 16.9 (ADM) - 17.7 (ADM) - 18.6 (ADM) - 3.8 (AJ) - 9.1 (AJ) - 6.8 (AJ) - 
+S2 - 12.6 (ADM) - 16.7 (ADM) - 6.3 (AJ) - 19.8 (ADM) - 12.2 (ADM) - 17.9 (ADM) - 
+B1 - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 
+S3 - 0.8 (AJ) - 7.9 (AJ) - 18.7 (ADM) - 18.2 (ADM) - * (*) - * (*) - statut inconnu
+Note enregistree 
+6 Cam Ari
+S1 - 18.1 (ADM) - 19.2 (ADM) - 0.2 (AJ) - 1.6 (AJ) - 14.4 (ADM) - 18.0 (ADM) - 
+S2 - 3.2 (AJ) - 1.2 (AJ) - 19.9 (ADM) - 19.1 (ADM) - 11.9 (ADM) - 15.5 (ADM) - 
+B1 - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 
+S3 - 8.5 (AJ) - 18.0 (ADM) - 17.1 (ADM) - 7.6 (AJ) - 19.3 (ADM) - 17.1 (ADM) - en cours
+Note enregistree 
+Note enregistree 
+1 - Ary Umi - S3 - en cours
+2 - Ece Lyn - S3 - en cours
+3 - Lee Max - S3 - en cours
+4 - Eli Ami - S2 - demission
+5 - Cam Abi - S3 - en cours
+6 - Cam Ari - S3 - en cours
+7 - Paj Dan - S3 - en cours
+8 - Cam Ons - S3 - en cours
+9 - Ayo Nel - S3 - en cours
+10 - Jon Jil - S3 - demission
+11 - Nor Mya - S3 - en cours
+12 - Nou Lyo - S3 - en cours
+13 - Thy Loo - S3 - en cours
+14 - Paz Ian - S3 - en cours
+15 - Ayo Aza - S3 - en cours
+16 - Chi Lyn - S1 - en cours
+17 - Jil Xin - S1 - demission
+18 - Rob Lan - S3 - en cours
+19 - Sam Paz - S3 - en cours
+20 - Vic Loo - S3 - en cours
+21 - Luc Lan - S3 - en cours
+22 - Ide Sam - S3 - en cours
+23 - Jay Mya - S3 - en cours
+24 - Hai Ary - S3 - demission
+25 - Flo Poe - S2 - demission
+26 - Noe Apo - S3 - en cours
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Identifiant incorrect
+Note enregistree 
+Note enregistree 
+Note enregistree 
+19 Sam Paz
+S1 - 10.2 (ADM) - 8.1 (AJ) - 4.6 (AJ) - 18.1 (ADM) - 9.9 (AJ) - 9.9 (AJ) - 
+S2 - 9.4 (AJ) - 12.6 (ADM) - 15.6 (ADM) - 4.3 (AJ) - 6.2 (AJ) - 7.2 (AJ) - 
+B1 - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 
+S3 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - en cours
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Nom incorrect
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+1 - Ary Umi - S3 - en cours
+2 - Ece Lyn - S3 - en cours
+3 - Lee Max - S3 - en cours
+4 - Eli Ami - S2 - demission
+5 - Cam Abi - S3 - en cours
+6 - Cam Ari - S3 - en cours
+7 - Paj Dan - S3 - en cours
+8 - Cam Ons - S3 - en cours
+9 - Ayo Nel - S3 - en cours
+10 - Jon Jil - S3 - demission
+11 - Nor Mya - S3 - en cours
+12 - Nou Lyo - S3 - en cours
+13 - Thy Loo - S3 - en cours
+14 - Paz Ian - S3 - en cours
+15 - Ayo Aza - S3 - en cours
+16 - Chi Lyn - S1 - en cours
+17 - Jil Xin - S1 - demission
+18 - Rob Lan - S3 - en cours
+19 - Sam Paz - S3 - en cours
+20 - Vic Loo - S3 - en cours
+21 - Luc Lan - S3 - en cours
+22 - Ide Sam - S3 - en cours
+23 - Jay Mya - S3 - en cours
+24 - Hai Ary - S3 - demission
+25 - Flo Poe - S2 - demission
+26 - Noe Apo - S3 - en cours
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+4 demission(s)
+0 defaillance(s)
+19 en cours
+0 ajourne(s)
+0 passe(s)
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+1 - Ary Umi - S3 - en cours
+2 - Ece Lyn - S3 - en cours
+3 - Lee Max - S3 - en cours
+4 - Eli Ami - S2 - demission
+5 - Cam Abi - S3 - en cours
+6 - Cam Ari - S3 - en cours
+7 - Paj Dan - S3 - en cours
+8 - Cam Ons - S3 - en cours
+9 - Ayo Nel - S3 - en cours
+10 - Jon Jil - S3 - demission
+11 - Nor Mya - S3 - en cours
+12 - Nou Lyo - S3 - en cours
+13 - Thy Loo - S3 - en cours
+14 - Paz Ian - S3 - en cours
+15 - Ayo Aza - S3 - en cours
+16 - Chi Lyn - S1 - en cours
+17 - Jil Xin - S1 - demission
+18 - Rob Lan - S3 - en cours
+19 - Sam Paz - S3 - en cours
+20 - Vic Loo - S3 - en cours
+21 - Luc Lan - S3 - en cours
+22 - Ide Sam - S3 - en cours
+23 - Jay Mya - S3 - en cours
+24 - Hai Ary - S3 - demission
+25 - Flo Poe - S2 - demission
+26 - Noe Apo - S3 - en cours
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+1 - Ary Umi - S3 - en cours
+2 - Ece Lyn - S3 - en cours
+3 - Lee Max - S3 - en cours
+4 - Eli Ami - S2 - demission
+5 - Cam Abi - S3 - en cours
+6 - Cam Ari - S3 - en cours
+7 - Paj Dan - S3 - en cours
+8 - Cam Ons - S3 - en cours
+9 - Ayo Nel - S3 - en cours
+10 - Jon Jil - S3 - demission
+11 - Nor Mya - S3 - en cours
+12 - Nou Lyo - S3 - en cours
+13 - Thy Loo - S3 - en cours
+14 - Paz Ian - S3 - en cours
+15 - Ayo Aza - S3 - en cours
+16 - Chi Lyn - S1 - en cours
+17 - Jil Xin - S1 - demission
+18 - Rob Lan - S3 - en cours
+19 - Sam Paz - S3 - en cours
+20 - Vic Loo - S3 - en cours
+21 - Luc Lan - S3 - en cours
+22 - Ide Sam - S3 - en cours
+23 - Jay Mya - S3 - en cours
+24 - Hai Ary - S3 - demission
+25 - Flo Poe - S2 - demission
+26 - Noe Apo - S3 - en cours
+Note enregistree 
+1 - Ary Umi - S3 - en cours
+2 - Ece Lyn - S3 - en cours
+3 - Lee Max - S3 - en cours
+4 - Eli Ami - S2 - demission
+5 - Cam Abi - S3 - en cours
+6 - Cam Ari - S3 - en cours
+7 - Paj Dan - S3 - en cours
+8 - Cam Ons - S3 - en cours
+9 - Ayo Nel - S3 - en cours
+10 - Jon Jil - S3 - demission
+11 - Nor Mya - S3 - en cours
+12 - Nou Lyo - S3 - en cours
+13 - Thy Loo - S3 - en cours
+14 - Paz Ian - S3 - en cours
+15 - Ayo Aza - S3 - en cours
+16 - Chi Lyn - S1 - en cours
+17 - Jil Xin - S1 - demission
+18 - Rob Lan - S3 - en cours
+19 - Sam Paz - S3 - en cours
+20 - Vic Loo - S3 - en cours
+21 - Luc Lan - S3 - en cours
+22 - Ide Sam - S3 - en cours
+23 - Jay Mya - S3 - en cours
+24 - Hai Ary - S3 - demission
+25 - Flo Poe - S2 - demission
+26 - Noe Apo - S3 - en cours
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Defaillance enregistree
+Note enregistree 
+Note enregistree 
+Note enregistree 
+1 - Ary Umi - S3 - en cours
+2 - Ece Lyn - S3 - en cours
+3 - Lee Max - S3 - en cours
+4 - Eli Ami - S2 - demission
+5 - Cam Abi - S3 - en cours
+6 - Cam Ari - S3 - en cours
+7 - Paj Dan - S3 - en cours
+8 - Cam Ons - S3 - en cours
+9 - Ayo Nel - S3 - en cours
+10 - Jon Jil - S3 - demission
+11 - Nor Mya - S3 - en cours
+12 - Nou Lyo - S3 - en cours
+13 - Thy Loo - S3 - en cours
+14 - Paz Ian - S3 - en cours
+15 - Ayo Aza - S3 - en cours
+16 - Chi Lyn - S1 - en cours
+17 - Jil Xin - S1 - demission
+18 - Rob Lan - S3 - en cours
+19 - Sam Paz - S3 - en cours
+20 - Vic Loo - S3 - en cours
+21 - Luc Lan - S3 - en cours
+22 - Ide Sam - S3 - en cours
+23 - Jay Mya - S3 - en cours
+24 - Hai Ary - S3 - demission
+25 - Flo Poe - S2 - demission
+26 - Noe Apo - S3 - en cours
+Note enregistree 
+6 Cam Ari
+S1 - 18.1 (ADM) - 19.2 (ADM) - 0.2 (AJ) - 1.6 (AJ) - 14.4 (ADM) - 18.0 (ADM) - 
+S2 - 3.2 (AJ) - 1.2 (AJ) - 19.9 (ADM) - 19.1 (ADM) - 11.9 (ADM) - 15.5 (ADM) - 
+B1 - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 
+S3 - 19.2 (ADM) - 18.0 (ADM) - 17.1 (ADM) - 9.3 (AJ) - 14.1 (ADM) - 17.1 (ADM) - en cours
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+4 demission(s)
+0 defaillance(s)
+18 en cours
+0 ajourne(s)
+0 passe(s)
+Note enregistree 
+Note enregistree 
+4 demission(s)
+0 defaillance(s)
+18 en cours
+0 ajourne(s)
+0 passe(s)
+Note enregistree 
+Note enregistree 
+23 Jay Mya
+S1 - 4.5 (AJ) - 10.2 (ADM) - 5.0 (AJ) - 19.9 (ADM) - 16.6 (ADM) - 14.5 (ADM) - 
+S2 - 14.7 (ADM) - 15.8 (ADM) - 16.5 (ADM) - 19.1 (ADM) - 8.9 (AJ) - 2.6 (AJ) - 
+B1 - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 
+S3 - 19.9 (ADM) - 6.6 (AJ) - 11.6 (ADM) - 9.2 (AJ) - 2.1 (AJ) - 18.8 (ADM) - en cours
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+1 demission(s)
+0 defaillance(s)
+0 en cours
+0 ajourne(s)
+18 passe(s)
+Note enregistree 
+Note enregistree 
+Note enregistree 
+4 demission(s)
+0 defaillance(s)
+18 en cours
+0 ajourne(s)
+0 passe(s)
+Note enregistree 
+Note enregistree 
+Note enregistree 
+1 - Ary Umi - S3 - en cours
+2 - Ece Lyn - S3 - en cours
+3 - Lee Max - S3 - en cours
+4 - Eli Ami - S2 - demission
+5 - Cam Abi - S3 - en cours
+6 - Cam Ari - S3 - en cours
+7 - Paj Dan - S3 - en cours
+8 - Cam Ons - S3 - en cours
+9 - Ayo Nel - S3 - en cours
+10 - Jon Jil - S3 - demission
+11 - Nor Mya - S3 - en cours
+12 - Nou Lyo - S3 - en cours
+13 - Thy Loo - S3 - en cours
+14 - Paz Ian - S3 - en cours
+15 - Ayo Aza - S3 - en cours
+16 - Chi Lyn - S1 - en cours
+17 - Jil Xin - S1 - demission
+18 - Rob Lan - S3 - en cours
+19 - Sam Paz - S3 - en cours
+20 - Vic Loo - S3 - en cours
+21 - Luc Lan - S3 - en cours
+22 - Ide Sam - S3 - en cours
+23 - Jay Mya - S3 - en cours
+24 - Hai Ary - S3 - demission
+25 - Flo Poe - S2 - demission
+26 - Noe Apo - S3 - en cours
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+1 - Ary Umi - S3 - en cours
+2 - Ece Lyn - S3 - en cours
+3 - Lee Max - S3 - en cours
+4 - Eli Ami - S2 - demission
+5 - Cam Abi - S3 - en cours
+6 - Cam Ari - S3 - en cours
+7 - Paj Dan - S3 - en cours
+8 - Cam Ons - S3 - en cours
+9 - Ayo Nel - S3 - en cours
+10 - Jon Jil - S3 - demission
+11 - Nor Mya - S3 - en cours
+12 - Nou Lyo - S3 - en cours
+13 - Thy Loo - S3 - en cours
+14 - Paz Ian - S3 - en cours
+15 - Ayo Aza - S3 - en cours
+16 - Chi Lyn - S1 - en cours
+17 - Jil Xin - S1 - demission
+18 - Rob Lan - S3 - en cours
+19 - Sam Paz - S3 - en cours
+20 - Vic Loo - S3 - en cours
+21 - Luc Lan - S3 - en cours
+22 - Ide Sam - S3 - en cours
+23 - Jay Mya - S3 - en cours
+24 - Hai Ary - S3 - demission
+25 - Flo Poe - S2 - demission
+26 - Noe Apo - S3 - en cours
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+4 demission(s)
+0 defaillance(s)
+18 en cours
+0 ajourne(s)
+0 passe(s)
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Defaillance enregistree
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note incorrecte
+Note enregistree 
+Note enregistree 
+4 demission(s)
+0 defaillance(s)
+17 en cours
+0 ajourne(s)
+0 passe(s)
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+1 - Ary Umi - S3 - en cours
+2 - Ece Lyn - S3 - en cours
+3 - Lee Max - S3 - en cours
+4 - Eli Ami - S2 - demission
+5 - Cam Abi - S3 - en cours
+6 - Cam Ari - S3 - en cours
+7 - Paj Dan - S3 - en cours
+8 - Cam Ons - S3 - en cours
+9 - Ayo Nel - S3 - en cours
+10 - Jon Jil - S3 - demission
+11 - Nor Mya - S3 - en cours
+12 - Nou Lyo - S3 - en cours
+13 - Thy Loo - S3 - en cours
+14 - Paz Ian - S3 - en cours
+15 - Ayo Aza - S3 - en cours
+16 - Chi Lyn - S1 - en cours
+17 - Jil Xin - S1 - demission
+18 - Rob Lan - S3 - en cours
+19 - Sam Paz - S3 - en cours
+20 - Vic Loo - S3 - en cours
+21 - Luc Lan - S3 - en cours
+22 - Ide Sam - S3 - en cours
+23 - Jay Mya - S3 - en cours
+24 - Hai Ary - S3 - demission
+25 - Flo Poe - S2 - demission
+26 - Noe Apo - S3 - en cours
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Identifiant incorrect
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Etudiant hors formation
+Note enregistree 
+Note enregistree 
+4 demission(s)
+0 defaillance(s)
+17 en cours
+0 ajourne(s)
+0 passe(s)
+Demission enregistree
+1 - Ary Umi - S3 - en cours
+2 - Ece Lyn - S3 - en cours
+3 - Lee Max - S3 - en cours
+4 - Eli Ami - S2 - demission
+5 - Cam Abi - S3 - en cours
+6 - Cam Ari - S3 - en cours
+7 - Paj Dan - S3 - en cours
+8 - Cam Ons - S3 - en cours
+9 - Ayo Nel - S3 - en cours
+10 - Jon Jil - S3 - demission
+11 - Nor Mya - S3 - en cours
+12 - Nou Lyo - S3 - demission
+13 - Thy Loo - S3 - demission
+14 - Paz Ian - S3 - en cours
+15 - Ayo Aza - S3 - en cours
+16 - Chi Lyn - S1 - en cours
+17 - Jil Xin - S1 - demission
+18 - Rob Lan - S3 - en cours
+19 - Sam Paz - S3 - en cours
+20 - Vic Loo - S3 - en cours
+21 - Luc Lan - S3 - en cours
+22 - Ide Sam - S3 - en cours
+23 - Jay Mya - S3 - en cours
+24 - Hai Ary - S3 - demission
+25 - Flo Poe - S2 - demission
+26 - Noe Apo - S3 - en cours
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+1 - Ary Umi - S3 - en cours
+2 - Ece Lyn - S3 - en cours
+3 - Lee Max - S3 - en cours
+4 - Eli Ami - S2 - demission
+5 - Cam Abi - S3 - en cours
+6 - Cam Ari - S3 - en cours
+7 - Paj Dan - S3 - en cours
+8 - Cam Ons - S3 - en cours
+9 - Ayo Nel - S3 - en cours
+10 - Jon Jil - S3 - demission
+11 - Nor Mya - S3 - en cours
+12 - Nou Lyo - S3 - demission
+13 - Thy Loo - S3 - demission
+14 - Paz Ian - S3 - en cours
+15 - Ayo Aza - S3 - en cours
+16 - Chi Lyn - S1 - en cours
+17 - Jil Xin - S1 - demission
+18 - Rob Lan - S3 - en cours
+19 - Sam Paz - S3 - en cours
+20 - Vic Loo - S3 - en cours
+21 - Luc Lan - S3 - en cours
+22 - Ide Sam - S3 - en cours
+23 - Jay Mya - S3 - en cours
+24 - Hai Ary - S3 - demission
+25 - Flo Poe - S2 - demission
+26 - Noe Apo - S3 - en cours
+Note enregistree 
+Note enregistree 
+5 Cam Abi
+S1 - 7.3 (AJ) - 9.5 (AJ) - 19.8 (ADM) - 18.5 (ADM) - 10.9 (ADM) - 13.2 (ADM) - 
+S2 - 14.7 (ADM) - 16.5 (ADM) - 1.2 (AJ) - 8.3 (AJ) - 14.9 (ADM) - 8.4 (AJ) - 
+B1 - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 
+S3 - 18.2 (ADM) - 4.2 (AJ) - 10.8 (ADM) - 0.0 (AJ) - 1.2 (AJ) - 16.4 (ADM) - en cours
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+5 demission(s)
+0 defaillance(s)
+16 en cours
+0 ajourne(s)
+0 passe(s)
+Note enregistree 
+Note enregistree 
+Note enregistree 
+1 - Ary Umi - S3 - en cours
+2 - Ece Lyn - S3 - en cours
+3 - Lee Max - S3 - en cours
+4 - Eli Ami - S2 - demission
+5 - Cam Abi - S3 - en cours
+6 - Cam Ari - S3 - en cours
+7 - Paj Dan - S3 - en cours
+8 - Cam Ons - S3 - en cours
+9 - Ayo Nel - S3 - en cours
+10 - Jon Jil - S3 - demission
+11 - Nor Mya - S3 - en cours
+12 - Nou Lyo - S3 - demission
+13 - Thy Loo - S3 - demission
+14 - Paz Ian - S3 - en cours
+15 - Ayo Aza - S3 - en cours
+16 - Chi Lyn - S1 - en cours
+17 - Jil Xin - S1 - demission
+18 - Rob Lan - S3 - en cours
+19 - Sam Paz - S3 - en cours
+20 - Vic Loo - S3 - en cours
+21 - Luc Lan - S3 - en cours
+22 - Ide Sam - S3 - en cours
+23 - Jay Mya - S3 - en cours
+24 - Hai Ary - S3 - demission
+25 - Flo Poe - S2 - demission
+26 - Noe Apo - S3 - en cours
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Defaillance enregistree
+5 demission(s)
+0 defaillance(s)
+15 en cours
+0 ajourne(s)
+0 passe(s)
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+1 - Ary Umi - S3 - en cours
+2 - Ece Lyn - S3 - en cours
+3 - Lee Max - S3 - en cours
+4 - Eli Ami - S2 - demission
+5 - Cam Abi - S3 - en cours
+6 - Cam Ari - S3 - en cours
+7 - Paj Dan - S3 - en cours
+8 - Cam Ons - S3 - en cours
+9 - Ayo Nel - S3 - en cours
+10 - Jon Jil - S3 - demission
+11 - Nor Mya - S3 - en cours
+12 - Nou Lyo - S3 - demission
+13 - Thy Loo - S3 - demission
+14 - Paz Ian - S3 - en cours
+15 - Ayo Aza - S3 - en cours
+16 - Chi Lyn - S1 - en cours
+17 - Jil Xin - S1 - demission
+18 - Rob Lan - S3 - demission
+19 - Sam Paz - S3 - en cours
+20 - Vic Loo - S3 - en cours
+21 - Luc Lan - S3 - en cours
+22 - Ide Sam - S3 - en cours
+23 - Jay Mya - S3 - en cours
+24 - Hai Ary - S3 - demission
+25 - Flo Poe - S2 - demission
+26 - Noe Apo - S3 - en cours
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Demission enregistree
+1 demission(s)
+0 defaillance(s)
+0 en cours
+0 ajourne(s)
+14 passe(s)
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+1 - Ary Umi - S3 - en cours
+2 - Ece Lyn - S3 - en cours
+3 - Lee Max - S3 - en cours
+4 - Eli Ami - S2 - demission
+5 - Cam Abi - S3 - en cours
+6 - Cam Ari - S3 - en cours
+7 - Paj Dan - S3 - en cours
+8 - Cam Ons - S3 - en cours
+9 - Ayo Nel - S3 - en cours
+10 - Jon Jil - S3 - demission
+11 - Nor Mya - S3 - en cours
+12 - Nou Lyo - S3 - demission
+13 - Thy Loo - S3 - demission
+14 - Paz Ian - S3 - en cours
+15 - Ayo Aza - S3 - en cours
+16 - Chi Lyn - S1 - en cours
+17 - Jil Xin - S1 - demission
+18 - Rob Lan - S3 - demission
+19 - Sam Paz - S3 - en cours
+20 - Vic Loo - S3 - en cours
+21 - Luc Lan - S3 - demission
+22 - Ide Sam - S3 - en cours
+23 - Jay Mya - S3 - en cours
+24 - Hai Ary - S3 - demission
+25 - Flo Poe - S2 - demission
+26 - Noe Apo - S3 - en cours
+1 Ary Umi
+S1 - 18.5 (ADM) - 15.5 (ADM) - 1.7 (AJ) - 4.7 (AJ) - 8.6 (AJ) - 5.3 (AJ) - 
+S2 - 2.6 (AJ) - 11.5 (ADM) - 18.9 (ADM) - 16.4 (ADM) - 7.9 (AJ) - 19.7 (ADM) - 
+B1 - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 
+S3 - 14.6 (ADM) - 8.3 (AJ) - 18.2 (ADM) - 0.4 (AJ) - 10.5 (ADM) - 7.8 (AJ) - en cours
+2 Ece Lyn
+S1 - 16.9 (ADM) - 17.7 (ADM) - 18.6 (ADM) - 3.8 (AJ) - 9.1 (AJ) - 6.8 (AJ) - 
+S2 - 12.6 (ADM) - 16.7 (ADM) - 6.3 (AJ) - 19.8 (ADM) - 12.2 (ADM) - 17.9 (ADM) - 
+B1 - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 
+S3 - 0.8 (AJ) - 7.9 (AJ) - 18.7 (ADM) - 18.2 (ADM) - * (*) - * (*) - statut inconnu
+3 Lee Max
+S1 - 7.1 (AJ) - 13.9 (ADM) - 16.4 (ADM) - 8.2 (AJ) - 6.0 (AJ) - 9.5 (AJ) - 
+S2 - 9.6 (AJ) - 17.4 (ADM) - 13.9 (ADM) - 15.6 (ADM) - 9.9 (AJ) - 6.5 (AJ) - 
+B1 - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 
+S3 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - en cours
+4 Eli Ami
+S1 - 10.4 (ADM) - 7.3 (AJ) - 19.4 (ADM) - 13.6 (ADM) - 11.6 (ADM) - 7.8 (AJ) - 
+S2 - 10.5 (ADM) - 10.4 (ADM) - 0.1 (AJ) - * (*) - * (*) - 2.8 (AJ) - demission
+5 Cam Abi
+S1 - 7.3 (AJ) - 9.5 (AJ) - 19.8 (ADM) - 18.5 (ADM) - 10.9 (ADM) - 13.2 (ADM) - 
+S2 - 14.7 (ADM) - 16.5 (ADM) - 1.2 (AJ) - 8.3 (AJ) - 14.9 (ADM) - 8.4 (AJ) - 
+B1 - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 
+S3 - 5.6 (AJ) - 11.8 (ADM) - 19.3 (ADM) - 20.0 (ADM) - 19.9 (ADM) - 19.6 (ADM) - en cours
+6 Cam Ari
+S1 - 18.1 (ADM) - 19.2 (ADM) - 0.2 (AJ) - 1.6 (AJ) - 14.4 (ADM) - 18.0 (ADM) - 
+S2 - 3.2 (AJ) - 1.2 (AJ) - 19.9 (ADM) - 19.1 (ADM) - 11.9 (ADM) - 15.5 (ADM) - 
+B1 - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 
+S3 - 14.8 (ADM) - 18.3 (ADM) - 7.0 (AJ) - 19.7 (ADM) - 16.1 (ADM) - 18.2 (ADM) - en cours
+7 Paj Dan
+S1 - 3.1 (AJ) - 18.3 (ADM) - 16.9 (ADM) - 15.4 (ADM) - 0.6 (AJ) - 18.6 (ADM) - 
+S2 - 19.5 (ADM) - 16.2 (ADM) - 18.9 (ADM) - 2.3 (AJ) - 19.5 (ADM) - 12.5 (ADM) - 
+B1 - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 
+S3 - 18.9 (ADM) - 17.3 (ADM) - 0.7 (AJ) - 13.3 (ADM) - 18.6 (ADM) - 11.8 (ADM) - en cours
+8 Cam Ons
+S1 - 19.6 (ADM) - 13.5 (ADM) - 16.9 (ADM) - 17.2 (ADM) - 2.5 (AJ) - 16.5 (ADM) - 
+S2 - 1.5 (AJ) - 15.3 (ADM) - 3.3 (AJ) - 19.4 (ADM) - 18.1 (ADM) - 4.8 (AJ) - 
+B1 - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 
+S3 - 9.9 (AJ) - 0.6 (AJ) - 8.5 (AJ) - 18.8 (ADM) - 6.2 (AJ) - 13.5 (ADM) - en cours
+9 Ayo Nel
+S1 - 2.7 (AJ) - 13.6 (ADM) - 19.6 (ADM) - 13.0 (ADM) - 18.7 (ADM) - 14.1 (ADM) - 
+S2 - 17.0 (ADM) - 14.8 (ADM) - 16.6 (ADM) - 17.4 (ADM) - 3.4 (AJ) - 16.2 (ADM) - 
+B1 - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 
+S3 - 6.1 (AJ) - 7.9 (AJ) - 3.4 (AJ) - 8.3 (AJ) - 15.4 (ADM) - 2.4 (AJ) - en cours
+10 Jon Jil
+S1 - 8.9 (AJ) - 16.8 (ADM) - 14.6 (ADM) - 14.0 (ADM) - 14.9 (ADM) - 15.2 (ADM) - 
+S2 - 15.0 (ADM) - 16.9 (ADM) - 14.6 (ADM) - 19.6 (ADM) - 6.1 (AJ) - 13.4 (ADM) - 
+B1 - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 
+S3 - 10.2 (ADM) - 17.2 (ADM) - 9.5 (AJ) - 6.5 (AJ) - 17.0 (ADM) - 16.8 (ADM) - demission
+11 Nor Mya
+S1 - 2.8 (AJ) - 11.4 (ADM) - 9.8 (AJ) - 13.3 (ADM) - 5.7 (AJ) - 19.3 (ADM) - 
+S2 - 13.7 (ADM) - 16.8 (ADM) - 6.3 (AJ) - 16.4 (ADM) - 12.9 (ADM) - 13.1 (ADM) - 
+B1 - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 
+S3 - * (*) - 10.0 (ADM) - * (*) - * (*) - * (*) - * (*) - en cours
+12 Nou Lyo
+S1 - 9.8 (AJ) - 18.2 (ADM) - 9.1 (AJ) - 13.8 (ADM) - 12.4 (ADM) - 7.6 (AJ) - 
+S2 - 6.2 (AJ) - 16.0 (ADM) - 7.2 (AJ) - 15.5 (ADM) - 13.5 (ADM) - 14.9 (ADM) - 
+B1 - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 
+S3 - 3.0 (AJ) - 8.9 (AJ) - 6.5 (AJ) - 0.4 (AJ) - 13.1 (ADM) - 14.0 (ADM) - demission
+13 Thy Loo
+S1 - 19.8 (ADM) - 0.6 (AJ) - 15.2 (ADM) - 3.6 (AJ) - 1.8 (AJ) - 19.7 (ADM) - 
+S2 - 8.5 (AJ) - 19.5 (ADM) - 7.0 (AJ) - 18.8 (ADM) - 19.0 (ADM) - 1.4 (AJ) - 
+B1 - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 
+S3 - 5.1 (AJ) - 17.2 (ADM) - 16.6 (ADM) - 2.2 (AJ) - 14.2 (ADM) - 15.9 (ADM) - statut inconnu
+14 Paz Ian
+S1 - 18.0 (ADM) - 16.4 (ADM) - 17.8 (ADM) - 13.0 (ADM) - 8.6 (AJ) - 19.9 (ADM) - 
+S2 - 18.4 (ADM) - 11.3 (ADM) - 18.8 (ADM) - 10.2 (ADM) - 7.6 (AJ) - 0.6 (AJ) - 
+B1 - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 
+S3 - 9.0 (AJ) - 19.4 (ADM) - 8.6 (AJ) - 6.5 (AJ) - 19.8 (ADM) - 10.0 (ADM) - en cours
+15 Ayo Aza
+S1 - 1.6 (AJ) - 10.4 (ADM) - 9.0 (AJ) - 15.0 (ADM) - 19.0 (ADM) - 11.4 (ADM) - 
+S2 - 19.4 (ADM) - 9.4 (AJ) - 8.9 (AJ) - 10.2 (ADM) - 4.4 (AJ) - 11.3 (ADM) - 
+B1 - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 
+S3 - 0.1 (AJ) - 10.8 (ADM) - 16.8 (ADM) - 9.9 (AJ) - 6.0 (AJ) - 9.3 (AJ) - en cours
+16 Chi Lyn
+S1 - * (*) - 11.4 (ADM) - 0.8 (AJ) - 18.7 (ADM) - 12.5 (ADM) - * (*) - statut inconnu
+17 Jil Xin
+S1 - 2.8 (AJ) - * (*) - * (*) - 7.8 (AJ) - 11.0 (ADM) - * (*) - demission
+18 Rob Lan
+S1 - 9.5 (AJ) - 12.2 (ADM) - 19.2 (ADM) - 5.7 (AJ) - 14.0 (ADM) - 7.3 (AJ) - 
+S2 - 7.9 (AJ) - 18.9 (ADM) - 1.9 (AJ) - 18.3 (ADM) - 8.6 (AJ) - 13.8 (ADM) - 
+B1 - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 
+S3 - 9.0 (AJ) - 2.5 (AJ) - 7.3 (AJ) - 15.0 (ADM) - 10.8 (ADM) - 19.9 (ADM) - statut inconnu
+19 Sam Paz
+S1 - 10.2 (ADM) - 8.1 (AJ) - 4.6 (AJ) - 18.1 (ADM) - 9.9 (AJ) - 9.9 (AJ) - 
+S2 - 9.4 (AJ) - 12.6 (ADM) - 15.6 (ADM) - 4.3 (AJ) - 6.2 (AJ) - 7.2 (AJ) - 
+B1 - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 
+S3 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - en cours
+20 Vic Loo
+S1 - 8.7 (AJ) - 10.0 (ADM) - 19.1 (ADM) - 13.4 (ADM) - 3.0 (AJ) - 18.1 (ADM) - 
+S2 - 13.7 (ADM) - 17.1 (ADM) - 5.3 (AJ) - 18.5 (ADM) - 20.0 (ADM) - 12.8 (ADM) - 
+B1 - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 
+S3 - 15.2 (ADM) - 3.7 (AJ) - 19.4 (ADM) - 6.1 (AJ) - 12.1 (ADM) - 18.5 (ADM) - en cours
+21 Luc Lan
+S1 - 16.5 (ADM) - 12.5 (ADM) - 15.9 (ADM) - 10.2 (ADM) - 15.9 (ADM) - 1.5 (AJ) - 
+S2 - 12.8 (ADM) - 13.1 (ADM) - 8.3 (AJ) - 9.3 (AJ) - 7.7 (AJ) - 19.1 (ADM) - 
+B1 - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 
+S3 - 4.7 (AJ) - 16.7 (ADM) - 1.4 (AJ) - 13.3 (ADM) - 6.3 (AJ) - 19.3 (ADM) - demission
+22 Ide Sam
+S1 - 4.9 (AJ) - 16.1 (ADM) - 3.6 (AJ) - 2.2 (AJ) - 9.2 (AJ) - 9.4 (AJ) - 
+S2 - 15.8 (ADM) - 7.9 (AJ) - 15.5 (ADM) - 17.9 (ADM) - 8.6 (AJ) - 9.8 (AJ) - 
+B1 - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 
+S3 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - en cours
+23 Jay Mya
+S1 - 4.5 (AJ) - 10.2 (ADM) - 5.0 (AJ) - 19.9 (ADM) - 16.6 (ADM) - 14.5 (ADM) - 
+S2 - 14.7 (ADM) - 15.8 (ADM) - 16.5 (ADM) - 19.1 (ADM) - 8.9 (AJ) - 2.6 (AJ) - 
+B1 - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 
+S3 - 19.9 (ADM) - 3.0 (AJ) - 11.6 (ADM) - 9.2 (AJ) - 2.1 (AJ) - 18.8 (ADM) - statut inconnu
+24 Hai Ary
+S1 - 19.6 (ADM) - 19.8 (ADM) - 7.7 (AJ) - 16.6 (ADM) - 0.6 (AJ) - 3.5 (AJ) - 
+S2 - 14.6 (ADM) - 1.0 (AJ) - 8.3 (AJ) - 5.3 (AJ) - 19.9 (ADM) - 16.8 (ADM) - 
+B1 - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 
+S3 - * (*) - * (*) - 7.3 (AJ) - * (*) - 3.5 (AJ) - 2.5 (AJ) - demission
+25 Flo Poe
+S1 - 19.4 (ADM) - 2.0 (AJ) - 17.3 (ADM) - 0.3 (AJ) - 0.8 (AJ) - 15.7 (ADM) - 
+S2 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - statut inconnu
+26 Noe Apo
+S1 - 18.2 (ADM) - 6.9 (AJ) - 19.5 (ADM) - 17.7 (ADM) - 18.4 (ADM) - 2.7 (AJ) - 
+S2 - 4.4 (AJ) - 17.2 (ADM) - 10.5 (ADM) - 11.9 (ADM) - 16.8 (ADM) - 19.3 (ADM) - 
+B1 - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 
+S3 - 11.5 (ADM) - 17.7 (ADM) - 13.4 (ADM) - 19.5 (ADM) - 15.0 (ADM) - 19.4 (ADM) - en cours
+1 demission(s)
+0 defaillance(s)
+0 en cours
+0 ajourne(s)
+14 passe(s)
+6 demission(s)
+0 defaillance(s)
+14 en cours
+0 ajourne(s)
+0 passe(s)
+6 demission(s)
+0 defaillance(s)
+14 en cours
+0 ajourne(s)
+0 passe(s)
