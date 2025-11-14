@@ -4,24 +4,24 @@ Inscription enregistree (3)
 1 - Xin Nya - S1 - en cours
 2 - Rob Abi - S1 - en cours
 3 - Dan Ode - S1 - en cours
-Note enregistree 
+Note enregistree
 1 - Xin Nya - S1 - en cours
 2 - Rob Abi - S1 - en cours
 3 - Dan Ode - S1 - en cours
-Note enregistree 
+Note enregistree
 Inscription enregistree (4)
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
 Inscription enregistree (5)
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
 Inscription enregistree (6)
 4 Rim Noe
 S1 - 15.1 (ADM) - 16.5 (ADM) - * (*) - * (*) - * (*) - 4.6 (AJ) - en cours
-Note enregistree 
+Note enregistree
 Inscription enregistree (7)
-Note enregistree 
+Note enregistree
 1 - Xin Nya - S1 - en cours
 2 - Rob Abi - S1 - en cours
 3 - Dan Ode - S1 - en cours
@@ -42,9 +42,9 @@ Inscription enregistree (9)
 1 Xin Nya
 S1 - 4.4 (AJ) - * (*) - * (*) - * (*) - 6.4 (AJ) - * (*) - en cours
 Inscription enregistree (10)
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
 1 - Xin Nya - S1 - en cours
 2 - Rob Abi - S1 - en cours
 3 - Dan Ode - S1 - en cours
@@ -56,7 +56,7 @@ Note enregistree
 9 - Eva Ode - S1 - en cours
 10 - Iza Poe - S1 - en cours
 Identifiant incorrect
-Note enregistree 
+Note enregistree
 1 Xin Nya
 S1 - 4.4 (AJ) - 15.2 (ADM) - * (*) - * (*) - 6.4 (AJ) - * (*) - en cours
 Inscription enregistree (11)
@@ -71,29 +71,29 @@ Inscription enregistree (11)
 9 - Eva Ode - S1 - en cours
 10 - Iza Poe - S1 - en cours
 11 - Zoe Yva - S1 - en cours
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
 Inscription enregistree (12)
-Note enregistree 
+Note enregistree
 Inscription enregistree (13)
-Note enregistree 
+Note enregistree
 Inscription enregistree (14)
-Note enregistree 
+Note enregistree
 Inscription enregistree (15)
 Inscription enregistree (16)
-Note enregistree 
+Note enregistree
 16 Rut Ily
 S1 - * (*) - * (*) - * (*) - * (*) - 5.1 (AJ) - * (*) - en cours
 Inscription enregistree (17)
 7 Cam Ide
 S1 - 1.9 (AJ) - 7.9 (AJ) - 7.7 (AJ) - * (*) - 5.0 (AJ) - 0.2 (AJ) - en cours
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
 Inscription enregistree (18)
 1 - Xin Nya - S1 - en cours
 2 - Rob Abi - S1 - en cours
@@ -114,32 +114,32 @@ Inscription enregistree (18)
 17 - Bia Rey - S1 - en cours
 18 - Thy Rut - S1 - en cours
 Inscription enregistree (19)
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
 Inscription enregistree (20)
-Note enregistree 
+Note enregistree
 2 Rob Abi
 S1 - * (*) - * (*) - * (*) - 15.8 (ADM) - * (*) - * (*) - en cours
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
 Note incorrecte
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
 1 - Xin Nya - S1 - en cours
 2 - Rob Abi - S1 - en cours
 3 - Dan Ode - S1 - en cours

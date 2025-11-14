@@ -1,13 +1,13 @@
 Inscription enregistree (1)
 Inscription enregistree (2)
-Note enregistree 
+Note enregistree
 Inscription enregistree (3)
 Inscription enregistree (4)
 Inscription enregistree (5)
 Inscription enregistree (6)
 3 Ide Zoi
 S1 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - en cours
-Note enregistree 
+Note enregistree
 Inscription enregistree (7)
 Inscription enregistree (8)
 Inscription enregistree (9)
@@ -22,12 +22,12 @@ Inscription enregistree (10)
 8 - Max Bia - S1 - en cours
 9 - Lan Eli - S1 - en cours
 10 - Pol Nor - S1 - en cours
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
 1 - Noe Iza - S1 - en cours
 2 - Luu Ael - S1 - en cours
 3 - Ide Zoi - S1 - en cours
@@ -38,9 +38,9 @@ Note enregistree
 8 - Max Bia - S1 - en cours
 9 - Lan Eli - S1 - en cours
 10 - Pol Nor - S1 - en cours
-Note enregistree 
+Note enregistree
 Inscription enregistree (11)
-Note enregistree 
+Note enregistree
 1 - Noe Iza - S1 - en cours
 2 - Luu Ael - S1 - en cours
 3 - Ide Zoi - S1 - en cours
@@ -53,23 +53,23 @@ Note enregistree
 10 - Pol Nor - S1 - en cours
 11 - Kai Chi - S1 - en cours
 Inscription enregistree (12)
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
 Inscription enregistree (13)
 Inscription enregistree (14)
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
 Semestre incorrect
-Note enregistree 
+Note enregistree
 Inscription enregistree (15)
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
 Inscription enregistree (16)
-Note enregistree 
+Note enregistree
 Inscription enregistree (17)
-Note enregistree 
+Note enregistree
 Inscription enregistree (18)
 Inscription enregistree (19)
 Inscription enregistree (20)
@@ -96,27 +96,27 @@ Inscription enregistree (20)
 Inscription enregistree (21)
 Defaillance enregistree
 Inscription enregistree (22)
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
 2 Luu Ael
 S1 - * (*) - * (*) - 19.0 (ADM) - * (*) - 5.5 (AJ) - 7.2 (AJ) - en cours
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
 Inscription enregistree (23)
 Inscription enregistree (24)
 Inscription enregistree (25)
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
 Inscription enregistree (26)
 Inscription enregistree (27)
 Inscription enregistree (28)
 Inscription enregistree (29)
 Inscription enregistree (30)
-Note enregistree 
+Note enregistree
 Inscription enregistree (31)
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
 Inscription enregistree (32)
 1 - Noe Iza - S1 - en cours
 2 - Luu Ael - S1 - en cours
@@ -150,11 +150,11 @@ Inscription enregistree (32)
 30 - Apo Thu - S1 - en cours
 31 - Hai Lor - S1 - en cours
 32 - Asa Nor - S1 - en cours
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
 Inscription enregistree (33)
 Inscription enregistree (34)
-Note enregistree 
+Note enregistree
 Inscription enregistree (35)
 1 - Noe Iza - S1 - en cours
 2 - Luu Ael - S1 - en cours
@@ -191,7 +191,7 @@ Inscription enregistree (35)
 33 - Mia Any - S1 - en cours
 34 - Aby Lea - S1 - en cours
 35 - Rim Dan - S1 - en cours
-Note enregistree 
+Note enregistree
 Inscription enregistree (36)
 1 - Noe Iza - S1 - en cours
 2 - Luu Ael - S1 - en cours
@@ -230,53 +230,53 @@ Inscription enregistree (36)
 35 - Rim Dan - S1 - en cours
 36 - Rey Lan - S1 - en cours
 Defaillance enregistree
-Note enregistree 
+Note enregistree
 Demission enregistree
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
 Identifiant incorrect
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
 Defaillance enregistree
 Demission enregistree
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
 Defaillance enregistree
 Defaillance enregistree
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
 5 Ane Pol
 S1 - * (*) - 15.7 (ADM) - 16.3 (ADM) - * (*) - 6.0 (AJ) - 1.6 (AJ) - en cours
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
 34 Aby Lea
 S1 - * (*) - * (*) - * (*) - * (*) - 19.4 (ADM) - * (*) - en cours
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
 27 Hai Oum
 S1 - * (*) - * (*) - 0.2 (AJ) - 14.7 (ADM) - * (*) - 17.1 (ADM) - demission
 Semestre incorrect
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
 1 - Noe Iza - S1 - en cours
 2 - Luu Ael - S1 - en cours
 3 - Ide Zoi - S1 - en cours
@@ -313,7 +313,7 @@ Note enregistree
 34 - Aby Lea - S1 - en cours
 35 - Rim Dan - S1 - en cours
 36 - Rey Lan - S1 - en cours
-Note enregistree 
+Note enregistree
 1 - Noe Iza - S1 - en cours
 2 - Luu Ael - S1 - en cours
 3 - Ide Zoi - S1 - en cours
@@ -350,13 +350,13 @@ Note enregistree
 34 - Aby Lea - S1 - en cours
 35 - Rim Dan - S1 - en cours
 36 - Rey Lan - S1 - en cours
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
 1 - Noe Iza - S1 - en cours
 2 - Luu Ael - S1 - en cours
 3 - Ide Zoi - S1 - en cours
@@ -393,39 +393,39 @@ Note enregistree
 34 - Aby Lea - S1 - en cours
 35 - Rim Dan - S1 - en cours
 36 - Rey Lan - S1 - en cours
-Note enregistree 
+Note enregistree
 12 Nil Aza
 S1 - * (*) - * (*) - * (*) - 11.2 (ADM) - * (*) - * (*) - demission
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
 5 Ane Pol
 S1 - * (*) - 15.7 (ADM) - 16.3 (ADM) - * (*) - 6.0 (AJ) - 1.6 (AJ) - en cours
-Note enregistree 
+Note enregistree
 Demission enregistree
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
 Demission enregistree
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
 1 - Noe Iza - S1 - en cours
 2 - Luu Ael - S1 - en cours
 3 - Ide Zoi - S1 - en cours
@@ -465,17 +465,17 @@ Note enregistree
 Demission enregistree
 9 Lan Eli
 S1 - 0.5 (AJ) - * (*) - * (*) - * (*) - 16.9 (ADM) - * (*) - en cours
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
 1 - Noe Iza - S1 - en cours
 2 - Luu Ael - S1 - en cours
 3 - Ide Zoi - S1 - en cours
@@ -512,57 +512,57 @@ Note enregistree
 34 - Aby Lea - S1 - en cours
 35 - Rim Dan - S1 - en cours
 36 - Rey Lan - S1 - en cours
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
 31 Hai Lor
 S1 - 19.9 (ADM) - * (*) - * (*) - * (*) - * (*) - * (*) - demission
 Defaillance enregistree
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
 25 Zoe Sae
 S1 - 13.5 (ADM) - 2.7 (AJ) - 7.8 (AJ) - 3.1 (AJ) - 8.6 (AJ) - 8.6 (AJ) - en cours
-Note enregistree 
+Note enregistree
 Identifiant incorrect
-Note enregistree 
+Note enregistree
 Semestre incorrect
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
 11 Kai Chi
 S1 - 19.1 (ADM) - 10.0 (ADM) - 19.6 (ADM) - 8.7 (AJ) - 11.8 (ADM) - 4.8 (AJ) - en cours
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
 Demission enregistree
 7 Sae Lea
 S1 - 12.6 (ADM) - 2.1 (AJ) - 15.0 (ADM) - 19.8 (ADM) - 2.3 (AJ) - 11.0 (ADM) - en cours
-Note enregistree 
+Note enregistree
 Des notes sont manquantes
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
 Defaillance enregistree
-Note enregistree 
+Note enregistree
 Defaillance enregistree
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
 1 - Noe Iza - S1 - en cours
 2 - Luu Ael - S1 - en cours
 3 - Ide Zoi - S1 - en cours
@@ -599,18 +599,18 @@ Note enregistree
 34 - Aby Lea - S1 - demission
 35 - Rim Dan - S1 - en cours
 36 - Rey Lan - S1 - en cours
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
 2 Luu Ael
 S1 - 11.0 (ADM) - 7.9 (AJ) - 19.0 (ADM) - 4.4 (AJ) - 5.5 (AJ) - 7.2 (AJ) - en cours
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
 13 Xin Paz
 S1 - * (*) - * (*) - * (*) - 17.4 (ADM) - * (*) - 16.0 (ADM) - en cours
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
 Demission enregistree
 1 - Noe Iza - S1 - en cours
 2 - Luu Ael - S1 - en cours
@@ -648,8 +648,8 @@ Demission enregistree
 34 - Aby Lea - S1 - demission
 35 - Rim Dan - S1 - en cours
 36 - Rey Lan - S1 - en cours
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
 1 - Noe Iza - S1 - en cours
 2 - Luu Ael - S1 - en cours
 3 - Ide Zoi - S1 - en cours
@@ -686,9 +686,9 @@ Note enregistree
 34 - Aby Lea - S1 - demission
 35 - Rim Dan - S1 - en cours
 36 - Rey Lan - S1 - en cours
-Note enregistree 
+Note enregistree
 Demission enregistree
-Note enregistree 
+Note enregistree
 1 - Noe Iza - S1 - en cours
 2 - Luu Ael - S1 - en cours
 3 - Ide Zoi - S1 - en cours
@@ -725,15 +725,15 @@ Note enregistree
 34 - Aby Lea - S1 - demission
 35 - Rim Dan - S1 - demission
 36 - Rey Lan - S1 - en cours
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
 17 Ode Oum
 S1 - 7.8 (AJ) - 16.0 (ADM) - 14.6 (ADM) - 18.2 (ADM) - 13.2 (ADM) - 6.1 (AJ) - en cours
 Etudiant hors formation
-Note enregistree 
+Note enregistree
 3 Ide Zoi
 S1 - 13.4 (ADM) - 8.3 (AJ) - 17.4 (ADM) - 12.1 (ADM) - 3.2 (AJ) - 18.4 (ADM) - en cours
-Note enregistree 
+Note enregistree
 1 - Noe Iza - S1 - en cours
 2 - Luu Ael - S1 - en cours
 3 - Ide Zoi - S1 - en cours
@@ -771,22 +771,22 @@ Note enregistree
 35 - Rim Dan - S1 - demission
 36 - Rey Lan - S1 - en cours
 Etudiant hors formation
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
 20 Lyo Loo
 S1 - * (*) - * (*) - 0.5 (AJ) - * (*) - * (*) - * (*) - defaillance
-Note enregistree 
+Note enregistree
 Demission enregistree
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
 Etudiant hors formation
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
 1 - Noe Iza - S1 - en cours
 2 - Luu Ael - S1 - en cours
 3 - Ide Zoi - S1 - en cours
@@ -824,13 +824,13 @@ Note enregistree
 35 - Rim Dan - S1 - demission
 36 - Rey Lan - S1 - en cours
 Defaillance enregistree
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
 34 Aby Lea
 S1 - 6.7 (AJ) - 0.3 (AJ) - 2.1 (AJ) - 0.3 (AJ) - 19.4 (ADM) - * (*) - demission
 Demission enregistree
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
 Demission enregistree
 1 - Noe Iza - S1 - en cours
 2 - Luu Ael - S1 - en cours
@@ -870,7 +870,7 @@ Demission enregistree
 36 - Rey Lan - S1 - en cours
 Defaillance enregistree
 Defaillance enregistree
-Note enregistree 
+Note enregistree
 Defaillance enregistree
 Demission enregistree
 Defaillance enregistree

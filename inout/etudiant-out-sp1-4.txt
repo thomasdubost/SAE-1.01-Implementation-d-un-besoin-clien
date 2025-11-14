@@ -1,21 +1,21 @@
 Inscription enregistree (1)
 Inscription enregistree (2)
 Nom incorrect
-Note enregistree 
+Note enregistree
 Inscription enregistree (3)
 Inscription enregistree (4)
 Inscription enregistree (5)
-Note enregistree 
+Note enregistree
 Inscription enregistree (6)
 Inscription enregistree (7)
 Inscription enregistree (8)
 Inscription enregistree (9)
-Note enregistree 
+Note enregistree
 Inscription enregistree (10)
 Inscription enregistree (11)
-Note enregistree 
+Note enregistree
 Inscription enregistree (12)
-Note enregistree 
+Note enregistree
 Inscription enregistree (13)
 1 - Aoi Joe - S1 - en cours
 2 - Jon Vic - S1 - en cours
@@ -34,7 +34,7 @@ Inscription enregistree (14)
 Inscription enregistree (15)
 Inscription enregistree (16)
 Inscription enregistree (17)
-Note enregistree 
+Note enregistree
 Inscription enregistree (18)
 11 Aby Ons
 S1 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - en cours
@@ -59,11 +59,11 @@ Inscription enregistree (19)
 18 - Ray Asa - S1 - en cours
 19 - Jon Nao - S1 - en cours
 Inscription enregistree (20)
-Note enregistree 
+Note enregistree
 18 Ray Asa
 S1 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - en cours
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
 1 - Aoi Joe - S1 - en cours
 2 - Jon Vic - S1 - en cours
 3 - Xin Ian - S1 - en cours
@@ -84,37 +84,37 @@ Note enregistree
 18 - Ray Asa - S1 - en cours
 19 - Jon Nao - S1 - en cours
 20 - Tom Iza - S1 - en cours
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
 8 Lou Noe
 S1 - * (*) - * (*) - * (*) - 6.3 (AJ) - 8.4 (AJ) - * (*) - en cours
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
 7 Mae Vic
 S1 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - en cours
-Note enregistree 
+Note enregistree
 2 Jon Vic
 S1 - * (*) - 18.3 (ADM) - 11.4 (ADM) - 11.2 (ADM) - * (*) - 18.4 (ADM) - en cours
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
 10 Jay Emi
 S1 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - en cours
-Note enregistree 
+Note enregistree
 1 - Aoi Joe - S1 - en cours
 2 - Jon Vic - S1 - en cours
 3 - Xin Ian - S1 - en cours
@@ -135,19 +135,19 @@ Note enregistree
 18 - Ray Asa - S1 - en cours
 19 - Jon Nao - S1 - en cours
 20 - Tom Iza - S1 - en cours
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
 1 - Aoi Joe - S1 - en cours
 2 - Jon Vic - S1 - en cours
 3 - Xin Ian - S1 - en cours
@@ -168,7 +168,7 @@ Note enregistree
 18 - Ray Asa - S1 - en cours
 19 - Jon Nao - S1 - en cours
 20 - Tom Iza - S1 - en cours
-Note enregistree 
+Note enregistree
 1 - Aoi Joe - S1 - en cours
 2 - Jon Vic - S1 - en cours
 3 - Xin Ian - S1 - en cours
@@ -189,13 +189,13 @@ Note enregistree
 18 - Ray Asa - S1 - en cours
 19 - Jon Nao - S1 - en cours
 20 - Tom Iza - S1 - en cours
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
 1 - Aoi Joe - S1 - en cours
 2 - Jon Vic - S1 - en cours
 3 - Xin Ian - S1 - en cours

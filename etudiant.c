@@ -310,7 +310,7 @@ void note(const texte_separer separer_txt, Etudiant *etudiant_list, int nb_etudi
         strcpy(appreciation, "AJ");
     else
         strcpy(appreciation, "ADS");
-    printf("Note enregistree \n");
+    printf("Note enregistree\n");
 }
 
 void jury(const texte_separer separer_txt, Etudiant *etudiant_list, int nb_etudiant)
@@ -411,13 +411,17 @@ void jury(const texte_separer separer_txt, Etudiant *etudiant_list, int nb_etudi
         int num_bilan = etudiant->semestre_en_cours / NB_SEMESTRE_PAR_BILAN;
         calculer_bilan(etudiant, num_bilan);
         int compteur_inf_10 = 0;
+        int deja_affectee = 0;
+
         for (int i = 0; i < NB_UE; i++)
         {
             float note = etudiant->bilan[num_bilan - 1].notes[i].note;
+
             if (note < 8)
             {
                 etudiant->status = AJOURNE;
                 nb_etudiant_affectes++;
+                deja_affectee++;
                 break;
             }
 
@@ -430,20 +434,28 @@ void jury(const texte_separer separer_txt, Etudiant *etudiant_list, int nb_etudi
         if (etudiant->semestre_en_cours == NB_SEMESTRES && etudiant->status == EN_COURS)
         {
             etudiant->status = DIPLOME;
-            nb_etudiant_affectes++;
+            if (deja_affectee > 0)
+            {
+                nb_etudiant_affectes++;
+            }
+
             continue;
         }
 
         if (etudiant->status == EN_COURS)
         {
             etudiant->semestre_en_cours++;
+
             nb_etudiant_affectes++;
         }
 
         if (compteur_inf_10 >= MAX_NOTE_INF_10 && etudiant->status != AJOURNE)
         {
             etudiant->status = AJOURNE;
-            nb_etudiant_affectes++;
+            if (deja_affectee > 0)
+            {
+                nb_etudiant_affectes++;
+            }
             continue;
         }
     }

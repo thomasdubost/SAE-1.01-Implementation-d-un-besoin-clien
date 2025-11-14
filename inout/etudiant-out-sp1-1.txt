@@ -7,14 +7,14 @@ Inscription enregistree (5)
 Nom incorrect
 Inscription enregistree (6)
 Inscription enregistree (7)
-Note enregistree 
+Note enregistree
 Inscription enregistree (8)
 Inscription enregistree (9)
-Note enregistree 
+Note enregistree
 1 Pol Xin
 S1 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - en cours
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
 1 - Pol Xin - S1 - en cours
 2 - Mia Rey - S1 - en cours
 3 - Ayo Luc - S1 - en cours
@@ -24,8 +24,8 @@ Note enregistree
 7 - Asa Ray - S1 - en cours
 8 - Apo Ani - S1 - en cours
 9 - Sam Nou - S1 - en cours
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
 1 - Pol Xin - S1 - en cours
 2 - Mia Rey - S1 - en cours
 3 - Ayo Luc - S1 - en cours
@@ -49,23 +49,23 @@ Inscription enregistree (10)
 Inscription enregistree (11)
 Inscription enregistree (12)
 Inscription enregistree (13)
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
 Inscription enregistree (14)
 Inscription enregistree (15)
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
 Inscription enregistree (16)
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
 Inscription enregistree (17)
-Note enregistree 
+Note enregistree
 Inscription enregistree (18)
 Inscription enregistree (19)
-Note enregistree 
+Note enregistree
 Inscription enregistree (20)
-Note enregistree 
+Note enregistree
 1 - Pol Xin - S1 - en cours
 2 - Mia Rey - S1 - en cours
 3 - Ayo Luc - S1 - en cours
@@ -86,8 +86,8 @@ Note enregistree
 18 - Lor Eva - S1 - en cours
 19 - Aza Ayo - S1 - en cours
 20 - Gao Sam - S1 - en cours
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
 1 - Pol Xin - S1 - en cours
 2 - Mia Rey - S1 - en cours
 3 - Ayo Luc - S1 - en cours
@@ -108,8 +108,8 @@ Note enregistree
 18 - Lor Eva - S1 - en cours
 19 - Aza Ayo - S1 - en cours
 20 - Gao Sam - S1 - en cours
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
 1 - Pol Xin - S1 - en cours
 2 - Mia Rey - S1 - en cours
 3 - Ayo Luc - S1 - en cours
@@ -131,48 +131,48 @@ Note enregistree
 19 - Aza Ayo - S1 - en cours
 20 - Gao Sam - S1 - en cours
 Identifiant incorrect
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
 17 Ece Ael
 S1 - * (*) - * (*) - * (*) - 0.7 (AJ) - * (*) - * (*) - en cours
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
 20 Gao Sam
 S1 - * (*) - 10.0 (ADM) - 9.1 (AJ) - * (*) - 19.8 (ADM) - * (*) - en cours
-Note enregistree 
+Note enregistree
 17 Ece Ael
 S1 - 17.5 (ADM) - * (*) - * (*) - 0.7 (AJ) - * (*) - * (*) - en cours
 Note incorrecte
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
 7 Asa Ray
 S1 - * (*) - 2.4 (AJ) - 2.5 (AJ) - 5.1 (AJ) - * (*) - * (*) - en cours
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
 18 Lor Eva
 S1 - * (*) - 16.2 (ADM) - 12.8 (ADM) - * (*) - * (*) - * (*) - en cours
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
 1 - Pol Xin - S1 - en cours
 2 - Mia Rey - S1 - en cours
 3 - Ayo Luc - S1 - en cours

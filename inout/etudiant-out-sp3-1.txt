@@ -1,37 +1,37 @@
 Inscription enregistree (1)
-Note enregistree 
+Note enregistree
 Inscription enregistree (2)
 2 Nya Zoe
 S1 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - en cours
 Inscription enregistree (3)
-Note enregistree 
+Note enregistree
 1 - Ode Aza - S1 - en cours
 2 - Nya Zoe - S1 - en cours
 3 - Nao Ael - S1 - en cours
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
 Inscription enregistree (4)
 1 - Ode Aza - S1 - en cours
 2 - Nya Zoe - S1 - en cours
 3 - Nao Ael - S1 - en cours
 4 - Cho Aoi - S1 - en cours
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
 Inscription enregistree (5)
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
 Inscription enregistree (6)
 Inscription enregistree (7)
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
 Inscription enregistree (8)
 Inscription enregistree (9)
-Note enregistree 
+Note enregistree
 Inscription enregistree (10)
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
 Inscription enregistree (11)
 6 Poe Ida
 S1 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - en cours
@@ -48,18 +48,18 @@ Inscription enregistree (12)
 10 - Apo Joe - S1 - en cours
 11 - Nor Lie - S1 - en cours
 12 - Tom Cam - S1 - en cours
-Note enregistree 
+Note enregistree
 Inscription enregistree (13)
 Inscription enregistree (14)
 Inscription enregistree (15)
-Note enregistree 
+Note enregistree
 Inscription enregistree (16)
 7 Yva Jon
 S1 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - en cours
 Inscription enregistree (17)
 Inscription enregistree (18)
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
 Inscription enregistree (19)
 8 Evi Lyn
 S1 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - en cours
@@ -84,7 +84,7 @@ Inscription enregistree (20)
 18 - Lie Zoe - S1 - en cours
 19 - Leo Ane - S1 - en cours
 20 - Kye Any - S1 - en cours
-Note enregistree 
+Note enregistree
 Inscription enregistree (21)
 1 - Ode Aza - S1 - en cours
 2 - Nya Zoe - S1 - en cours
@@ -107,12 +107,12 @@ Inscription enregistree (21)
 19 - Leo Ane - S1 - en cours
 20 - Kye Any - S1 - en cours
 21 - Ece Mia - S1 - en cours
-Note enregistree 
+Note enregistree
 Inscription enregistree (22)
 Inscription enregistree (23)
 Inscription enregistree (24)
 Inscription enregistree (25)
-Note enregistree 
+Note enregistree
 1 - Ode Aza - S1 - en cours
 2 - Nya Zoe - S1 - en cours
 3 - Nao Ael - S1 - en cours
@@ -138,7 +138,7 @@ Note enregistree
 23 - Ary Ria - S1 - en cours
 24 - Yva Flo - S1 - en cours
 25 - Eli Rim - S1 - en cours
-Note enregistree 
+Note enregistree
 1 - Ode Aza - S1 - en cours
 2 - Nya Zoe - S1 - en cours
 3 - Nao Ael - S1 - en cours
@@ -165,36 +165,36 @@ Note enregistree
 24 - Yva Flo - S1 - en cours
 25 - Eli Rim - S1 - en cours
 Inscription enregistree (26)
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
 19 Leo Ane
 S1 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - en cours
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
 Identifiant incorrect
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
 4 Cho Aoi
 S1 - 6.9 (AJ) - 15.0 (ADM) - 16.3 (ADM) - 19.4 (ADM) - * (*) - 15.3 (ADM) - en cours
-Note enregistree 
+Note enregistree
 24 Yva Flo
 S1 - * (*) - * (*) - * (*) - * (*) - 16.4 (ADM) - * (*) - en cours
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
 1 - Ode Aza - S1 - en cours
 2 - Nya Zoe - S1 - en cours
 3 - Nao Ael - S1 - en cours
@@ -221,7 +221,7 @@ Note enregistree
 24 - Yva Flo - S1 - en cours
 25 - Eli Rim - S1 - en cours
 26 - Emi Thi - S1 - en cours
-Note enregistree 
+Note enregistree
 1 - Ode Aza - S1 - en cours
 2 - Nya Zoe - S1 - en cours
 3 - Nao Ael - S1 - en cours
@@ -248,23 +248,23 @@ Note enregistree
 24 - Yva Flo - S1 - en cours
 25 - Eli Rim - S1 - en cours
 26 - Emi Thi - S1 - en cours
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
 Semestre incorrect
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
 19 Leo Ane
 S1 - * (*) - 14.9 (ADM) - * (*) - * (*) - * (*) - * (*) - en cours
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
 1 - Ode Aza - S1 - en cours
 2 - Nya Zoe - S1 - en cours
 3 - Nao Ael - S1 - en cours
@@ -291,8 +291,8 @@ Note enregistree
 24 - Yva Flo - S1 - en cours
 25 - Eli Rim - S1 - en cours
 26 - Emi Thi - S1 - en cours
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
 1 - Ode Aza - S1 - en cours
 2 - Nya Zoe - S1 - en cours
 3 - Nao Ael - S1 - en cours
@@ -319,11 +319,11 @@ Note enregistree
 24 - Yva Flo - S1 - en cours
 25 - Eli Rim - S1 - en cours
 26 - Emi Thi - S1 - en cours
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
 13 Rey Mae
 S1 - 12.6 (ADM) - * (*) - * (*) - * (*) - * (*) - * (*) - en cours
-Note enregistree 
+Note enregistree
 1 - Ode Aza - S1 - en cours
 2 - Nya Zoe - S1 - en cours
 3 - Nao Ael - S1 - en cours
@@ -350,13 +350,13 @@ Note enregistree
 24 - Yva Flo - S1 - en cours
 25 - Eli Rim - S1 - en cours
 26 - Emi Thi - S1 - en cours
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
 Defaillance enregistree
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
 1 - Ode Aza - S1 - en cours
 2 - Nya Zoe - S1 - en cours
 3 - Nao Ael - S1 - en cours
@@ -383,29 +383,29 @@ Note enregistree
 24 - Yva Flo - S1 - en cours
 25 - Eli Rim - S1 - en cours
 26 - Emi Thi - S1 - en cours
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
 12 Tom Cam
 S1 - * (*) - * (*) - 10.7 (ADM) - * (*) - * (*) - * (*) - en cours
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
 13 Rey Mae
 S1 - 12.6 (ADM) - * (*) - * (*) - * (*) - * (*) - * (*) - en cours
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
 13 Rey Mae
 S1 - 12.6 (ADM) - * (*) - 12.7 (ADM) - * (*) - * (*) - * (*) - en cours
 Semestre incorrect
-Note enregistree 
+Note enregistree
 1 - Ode Aza - S1 - en cours
 2 - Nya Zoe - S1 - en cours
 3 - Nao Ael - S1 - en cours
@@ -432,7 +432,7 @@ Note enregistree
 24 - Yva Flo - S1 - en cours
 25 - Eli Rim - S1 - en cours
 26 - Emi Thi - S1 - en cours
-Note enregistree 
+Note enregistree
 1 - Ode Aza - S1 - en cours
 2 - Nya Zoe - S1 - en cours
 3 - Nao Ael - S1 - en cours
@@ -459,30 +459,30 @@ Note enregistree
 24 - Yva Flo - S1 - en cours
 25 - Eli Rim - S1 - en cours
 26 - Emi Thi - S1 - en cours
-Note enregistree 
+Note enregistree
 12 Tom Cam
 S1 - * (*) - * (*) - 10.7 (ADM) - * (*) - * (*) - * (*) - en cours
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
 5 Aza Ray
 S1 - 10.6 (ADM) - 4.3 (AJ) - 12.1 (ADM) - * (*) - 0.1 (AJ) - 12.1 (ADM) - defaillance
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
 Demission enregistree
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
 1 - Ode Aza - S1 - en cours
 2 - Nya Zoe - S1 - en cours
 3 - Nao Ael - S1 - demission
@@ -509,11 +509,11 @@ Note enregistree
 24 - Yva Flo - S1 - en cours
 25 - Eli Rim - S1 - en cours
 26 - Emi Thi - S1 - en cours
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
 1 - Ode Aza - S1 - en cours
 2 - Nya Zoe - S1 - en cours
 3 - Nao Ael - S1 - demission
@@ -540,28 +540,28 @@ Note enregistree
 24 - Yva Flo - S1 - en cours
 25 - Eli Rim - S1 - en cours
 26 - Emi Thi - S1 - en cours
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
 Identifiant incorrect
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
 18 Lie Zoe
 S1 - 16.5 (ADM) - 10.1 (ADM) - 15.8 (ADM) - 10.4 (ADM) - 11.4 (ADM) - * (*) - en cours
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
 14 Flo Cam
 S1 - 3.5 (AJ) - 1.0 (AJ) - 0.8 (AJ) - 6.8 (AJ) - 19.1 (ADM) - 10.6 (ADM) - en cours
-Note enregistree 
+Note enregistree
 1 - Ode Aza - S1 - en cours
 2 - Nya Zoe - S1 - en cours
 3 - Nao Ael - S1 - demission
@@ -588,8 +588,8 @@ Note enregistree
 24 - Yva Flo - S1 - en cours
 25 - Eli Rim - S1 - en cours
 26 - Emi Thi - S1 - en cours
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
 1 - Ode Aza - S1 - en cours
 2 - Nya Zoe - S1 - en cours
 3 - Nao Ael - S1 - demission
@@ -616,24 +616,24 @@ Note enregistree
 24 - Yva Flo - S1 - en cours
 25 - Eli Rim - S1 - en cours
 26 - Emi Thi - S1 - en cours
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
 1 Ode Aza
 S1 - 9.0 (AJ) - 19.8 (ADM) - 10.0 (ADM) - 16.0 (ADM) - 1.2 (AJ) - 17.4 (ADM) - en cours
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
 12 Tom Cam
 S1 - 16.4 (ADM) - 7.5 (AJ) - 10.7 (ADM) - 19.9 (ADM) - 8.6 (AJ) - 17.3 (ADM) - en cours
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
 1 - Ode Aza - S1 - en cours
 2 - Nya Zoe - S1 - en cours
 3 - Nao Ael - S1 - demission
@@ -660,7 +660,7 @@ Note enregistree
 24 - Yva Flo - S1 - en cours
 25 - Eli Rim - S1 - en cours
 26 - Emi Thi - S1 - en cours
-Note enregistree 
+Note enregistree
 1 - Ode Aza - S1 - en cours
 2 - Nya Zoe - S1 - en cours
 3 - Nao Ael - S1 - demission
@@ -687,17 +687,17 @@ Note enregistree
 24 - Yva Flo - S1 - en cours
 25 - Eli Rim - S1 - en cours
 26 - Emi Thi - S1 - en cours
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
 Semestre incorrect
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
 Semestre termine pour 24 etudiant(s)
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
 1 - Ode Aza - S2 - en cours
 2 - Nya Zoe - S2 - en cours
 3 - Nao Ael - S1 - demission
@@ -725,12 +725,12 @@ Note enregistree
 25 - Eli Rim - S2 - en cours
 26 - Emi Thi - S2 - en cours
 Etudiant hors formation
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
 Nom incorrect
-Note enregistree 
+Note enregistree
 1 - Ode Aza - S2 - en cours
 2 - Nya Zoe - S2 - en cours
 3 - Nao Ael - S1 - demission
@@ -757,18 +757,18 @@ Note enregistree
 24 - Yva Flo - S2 - en cours
 25 - Eli Rim - S2 - en cours
 26 - Emi Thi - S2 - en cours
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
 22 Thi Sam
 S1 - 7.4 (AJ) - 7.4 (AJ) - 8.7 (AJ) - 19.8 (ADM) - 11.6 (ADM) - 14.7 (ADM) - 
 S2 - * (*) - * (*) - 15.0 (ADM) - 19.5 (ADM) - 14.6 (ADM) - * (*) - en cours
 Defaillance enregistree
-Note enregistree 
+Note enregistree
 3 Nao Ael
 S1 - 17.7 (ADM) - 1.3 (AJ) - 12.3 (ADM) - 8.1 (AJ) - 0.1 (AJ) - * (*) - demission
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
 1 - Ode Aza - S2 - en cours
 2 - Nya Zoe - S2 - en cours
 3 - Nao Ael - S1 - demission
@@ -795,7 +795,7 @@ Note enregistree
 24 - Yva Flo - S2 - en cours
 25 - Eli Rim - S2 - en cours
 26 - Emi Thi - S2 - en cours
-Note enregistree 
+Note enregistree
 1 - Ode Aza - S2 - en cours
 2 - Nya Zoe - S2 - en cours
 3 - Nao Ael - S1 - demission
@@ -822,9 +822,9 @@ Note enregistree
 24 - Yva Flo - S2 - en cours
 25 - Eli Rim - S2 - en cours
 26 - Emi Thi - S2 - en cours
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
 1 - Ode Aza - S2 - en cours
 2 - Nya Zoe - S2 - en cours
 3 - Nao Ael - S1 - demission
@@ -851,12 +851,12 @@ Note enregistree
 24 - Yva Flo - S2 - en cours
 25 - Eli Rim - S2 - en cours
 26 - Emi Thi - S2 - en cours
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
 Identifiant incorrect
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
 1 - Ode Aza - S2 - en cours
 2 - Nya Zoe - S2 - en cours
 3 - Nao Ael - S1 - demission
@@ -883,7 +883,7 @@ Note enregistree
 24 - Yva Flo - S2 - en cours
 25 - Eli Rim - S2 - en cours
 26 - Emi Thi - S2 - en cours
-Note enregistree 
+Note enregistree
 1 - Ode Aza - S2 - en cours
 2 - Nya Zoe - S2 - en cours
 3 - Nao Ael - S1 - demission
@@ -910,8 +910,8 @@ Note enregistree
 24 - Yva Flo - S2 - en cours
 25 - Eli Rim - S2 - en cours
 26 - Emi Thi - S2 - en cours
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
 1 - Ode Aza - S2 - en cours
 2 - Nya Zoe - S2 - en cours
 3 - Nao Ael - S1 - demission
@@ -938,16 +938,16 @@ Note enregistree
 24 - Yva Flo - S2 - en cours
 25 - Eli Rim - S2 - en cours
 26 - Emi Thi - S2 - en cours
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
 10 Apo Joe
 S1 - 12.7 (ADM) - 18.9 (ADM) - 19.9 (ADM) - 12.3 (ADM) - 13.7 (ADM) - 16.0 (ADM) - 
 S2 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - en cours
-Note enregistree 
+Note enregistree
 1 - Ode Aza - S2 - en cours
 2 - Nya Zoe - S2 - en cours
 3 - Nao Ael - S1 - demission
@@ -975,26 +975,26 @@ Note enregistree
 25 - Eli Rim - S2 - en cours
 26 - Emi Thi - S2 - en cours
 Semestre termine pour 0 etudiant(s)
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
 Demission enregistree
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
 Nom incorrect
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
 8 Evi Lyn
 S1 - 17.1 (ADM) - 6.1 (AJ) - 6.1 (AJ) - 14.4 (ADM) - 14.9 (ADM) - 11.7 (ADM) - 
 S2 - 19.4 (ADM) - * (*) - 12.6 (ADM) - * (*) - * (*) - * (*) - en cours
-Note enregistree 
+Note enregistree
 1 - Ode Aza - S2 - en cours
 2 - Nya Zoe - S2 - en cours
 3 - Nao Ael - S1 - demission
@@ -1021,12 +1021,12 @@ Note enregistree
 24 - Yva Flo - S2 - en cours
 25 - Eli Rim - S2 - en cours
 26 - Emi Thi - S2 - en cours
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
 6 Poe Ida
 S1 - 15.7 (ADM) - 16.3 (ADM) - 16.2 (ADM) - 16.8 (ADM) - 18.4 (ADM) - 13.0 (ADM) - 
 S2 - * (*) - * (*) - * (*) - * (*) - 15.6 (ADM) - * (*) - en cours
-Note enregistree 
+Note enregistree
 1 - Ode Aza - S2 - en cours
 2 - Nya Zoe - S2 - en cours
 3 - Nao Ael - S1 - demission
@@ -1053,25 +1053,25 @@ Note enregistree
 24 - Yva Flo - S2 - en cours
 25 - Eli Rim - S2 - en cours
 26 - Emi Thi - S2 - en cours
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
 1 - Ode Aza - S2 - en cours
 2 - Nya Zoe - S2 - en cours
 3 - Nao Ael - S1 - demission
@@ -1098,9 +1098,9 @@ Note enregistree
 24 - Yva Flo - S2 - en cours
 25 - Eli Rim - S2 - en cours
 26 - Emi Thi - S2 - en cours
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
 1 - Ode Aza - S2 - en cours
 2 - Nya Zoe - S2 - en cours
 3 - Nao Ael - S1 - demission
@@ -1127,25 +1127,25 @@ Note enregistree
 24 - Yva Flo - S2 - en cours
 25 - Eli Rim - S2 - en cours
 26 - Emi Thi - S2 - en cours
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
 13 Rey Mae
 S1 - 12.6 (ADM) - 12.9 (ADM) - 12.7 (ADM) - 11.6 (ADM) - 0.1 (AJ) - 6.7 (AJ) - 
 S2 - 4.3 (AJ) - 14.0 (ADM) - * (*) - 16.7 (ADM) - 19.9 (ADM) - * (*) - en cours
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
 Identifiant incorrect
-Note enregistree 
+Note enregistree
 1 - Ode Aza - S2 - en cours
 2 - Nya Zoe - S2 - en cours
 3 - Nao Ael - S1 - demission
@@ -1172,9 +1172,9 @@ Note enregistree
 24 - Yva Flo - S2 - en cours
 25 - Eli Rim - S2 - en cours
 26 - Emi Thi - S2 - en cours
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
 1 - Ode Aza - S2 - en cours
 2 - Nya Zoe - S2 - en cours
 3 - Nao Ael - S1 - demission
@@ -1201,13 +1201,13 @@ Note enregistree
 24 - Yva Flo - S2 - en cours
 25 - Eli Rim - S2 - en cours
 26 - Emi Thi - S2 - en cours
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
 14 Flo Cam
 S1 - 3.5 (AJ) - 1.0 (AJ) - 0.8 (AJ) - 6.8 (AJ) - 19.1 (ADM) - 10.6 (ADM) - 
 S2 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - demission
-Note enregistree 
+Note enregistree
 1 - Ode Aza - S2 - en cours
 2 - Nya Zoe - S2 - en cours
 3 - Nao Ael - S1 - demission
@@ -1234,39 +1234,39 @@ Note enregistree
 24 - Yva Flo - S2 - en cours
 25 - Eli Rim - S2 - en cours
 26 - Emi Thi - S2 - en cours
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
 Note incorrecte
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
 11 Nor Lie
 S1 - 15.7 (ADM) - 9.4 (AJ) - 15.1 (ADM) - 6.4 (AJ) - 18.1 (ADM) - 1.3 (AJ) - 
 S2 - 14.1 (ADM) - 19.1 (ADM) - 11.5 (ADM) - 12.3 (ADM) - 8.1 (AJ) - 19.9 (ADM) - en cours
-Note enregistree 
+Note enregistree
 18 Lie Zoe
 S1 - 16.5 (ADM) - 10.1 (ADM) - 15.8 (ADM) - 10.4 (ADM) - 11.4 (ADM) - 14.0 (ADM) - 
 S2 - * (*) - * (*) - 6.4 (AJ) - * (*) - * (*) - * (*) - en cours
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
 14 Flo Cam
 S1 - 3.5 (AJ) - 1.0 (AJ) - 0.8 (AJ) - 6.8 (AJ) - 19.1 (ADM) - 10.6 (ADM) - 
 S2 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - demission
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
 2 Nya Zoe
 S1 - 19.7 (ADM) - 6.6 (AJ) - 2.0 (AJ) - 10.5 (ADM) - 15.1 (ADM) - 3.4 (AJ) - 
 S2 - 0.4 (AJ) - 19.5 (ADM) - 18.9 (ADM) - 16.4 (ADM) - 11.6 (ADM) - 10.4 (ADM) - en cours
-Note enregistree 
+Note enregistree
 1 - Ode Aza - S2 - en cours
 2 - Nya Zoe - S2 - en cours
 3 - Nao Ael - S1 - demission
@@ -1293,16 +1293,16 @@ Note enregistree
 24 - Yva Flo - S2 - en cours
 25 - Eli Rim - S2 - en cours
 26 - Emi Thi - S2 - en cours
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
 1 - Ode Aza - S2 - en cours
 2 - Nya Zoe - S2 - en cours
 3 - Nao Ael - S1 - demission
@@ -1330,15 +1330,15 @@ Note enregistree
 25 - Eli Rim - S2 - en cours
 26 - Emi Thi - S2 - en cours
 Etudiant hors formation
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
 16 Dan Sam
 S1 - 4.8 (AJ) - 9.8 (AJ) - 19.6 (ADM) - 11.5 (ADM) - 13.4 (ADM) - 2.3 (AJ) - 
 S2 - 17.0 (ADM) - 6.9 (AJ) - 3.6 (AJ) - 14.5 (ADM) - 13.6 (ADM) - 17.8 (ADM) - en cours
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
 1 - Ode Aza - S2 - en cours
 2 - Nya Zoe - S2 - en cours
 3 - Nao Ael - S1 - demission
@@ -1365,10 +1365,10 @@ Note enregistree
 24 - Yva Flo - S2 - en cours
 25 - Eli Rim - S2 - en cours
 26 - Emi Thi - S2 - en cours
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
 Semestre termine pour 22 etudiant(s)
-Note enregistree 
+Note enregistree
 1 - Ode Aza - S3 - en cours
 2 - Nya Zoe - S2 - ajourne
 3 - Nao Ael - S1 - demission
@@ -1395,18 +1395,18 @@ Note enregistree
 24 - Yva Flo - S3 - en cours
 25 - Eli Rim - S3 - en cours
 26 - Emi Thi - S2 - ajourne
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
 12 Tom Cam
 S1 - 16.4 (ADM) - 7.5 (ADC) - 10.7 (ADM) - 19.9 (ADM) - 8.6 (AJ) - 17.3 (ADM) - 
 S2 - 18.1 (ADM) - 14.9 (ADM) - 10.0 (ADM) - 6.6 (ADC) - 8.6 (AJ) - 4.2 (ADC) - 
 B1 - 17.2 (ADM) - 11.2 (ADM) - 10.3 (ADM) - 13.2 (ADM) - 8.6 (AJ) - 10.7 (ADM) - 
 S3 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - en cours
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
 1 - Ode Aza - S3 - en cours
 2 - Nya Zoe - S2 - ajourne
 3 - Nao Ael - S1 - demission
@@ -1433,23 +1433,23 @@ Note enregistree
 24 - Yva Flo - S3 - en cours
 25 - Eli Rim - S3 - en cours
 26 - Emi Thi - S2 - ajourne
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
 14 Flo Cam
 S1 - 3.5 (AJ) - 1.0 (AJ) - 0.8 (AJ) - 6.8 (AJ) - 19.1 (ADM) - 10.6 (ADM) - 
 S2 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - demission
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
 12 Tom Cam
 S1 - 16.4 (ADM) - 7.5 (ADC) - 10.7 (ADM) - 19.9 (ADM) - 8.6 (AJ) - 17.3 (ADM) - 
 S2 - 18.1 (ADM) - 14.9 (ADM) - 10.0 (ADM) - 6.6 (ADC) - 8.6 (AJ) - 4.2 (ADC) - 
 B1 - 17.2 (ADM) - 11.2 (ADM) - 10.3 (ADM) - 13.2 (ADM) - 8.6 (AJ) - 10.7 (ADM) - 
 S3 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - en cours
-Note enregistree 
+Note enregistree
 1 - Ode Aza - S3 - en cours
 2 - Nya Zoe - S2 - ajourne
 3 - Nao Ael - S1 - demission
@@ -1476,81 +1476,81 @@ Note enregistree
 24 - Yva Flo - S3 - en cours
 25 - Eli Rim - S3 - en cours
 26 - Emi Thi - S2 - ajourne
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
 12 Tom Cam
 S1 - 16.4 (ADM) - 7.5 (ADC) - 10.7 (ADM) - 19.9 (ADM) - 8.6 (AJ) - 17.3 (ADM) - 
 S2 - 18.1 (ADM) - 14.9 (ADM) - 10.0 (ADM) - 6.6 (ADC) - 8.6 (AJ) - 4.2 (ADC) - 
 B1 - 17.2 (ADM) - 11.2 (ADM) - 10.3 (ADM) - 13.2 (ADM) - 8.6 (AJ) - 10.7 (ADM) - 
 S3 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - en cours
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
 13 Rey Mae
 S1 - 12.6 (ADM) - 12.9 (ADM) - 12.7 (ADM) - 11.6 (ADM) - 0.1 (ADC) - 6.7 (AJ) - 
 S2 - 4.3 (AJ) - 14.0 (ADM) - 16.4 (ADM) - 16.7 (ADM) - 19.9 (ADM) - 9.8 (AJ) - 
 B1 - 8.4 (AJ) - 13.4 (ADM) - 14.6 (ADM) - 14.2 (ADM) - 10.0 (ADM) - 8.3 (AJ) - 
 S3 - * (*) - 16.7 (ADM) - * (*) - 10.0 (ADM) - * (*) - * (*) - en cours
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
 Semestre termine pour 4 etudiant(s)
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
 13 Rey Mae
 S1 - 12.6 (ADM) - 12.9 (ADM) - 12.7 (ADM) - 11.6 (ADM) - 0.1 (ADC) - 6.7 (AJ) - 
 S2 - 4.3 (AJ) - 14.0 (ADM) - 16.4 (ADM) - 16.7 (ADM) - 19.9 (ADM) - 9.8 (AJ) - 
 B1 - 8.4 (AJ) - 13.4 (ADM) - 14.6 (ADM) - 14.2 (ADM) - 10.0 (ADM) - 8.3 (AJ) - 
 S3 - * (*) - 16.7 (ADM) - * (*) - 10.0 (ADM) - * (*) - * (*) - en cours
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
 4 Cho Aoi
 S1 - 6.9 (AJ) - 15.0 (ADM) - 16.3 (ADM) - 19.4 (ADM) - 14.1 (ADM) - 15.3 (ADM) - 
 S2 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - defaillance
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
 20 Kye Any
 S1 - 13.5 (ADM) - 17.0 (ADM) - 19.8 (ADM) - 16.5 (ADM) - 8.2 (ADC) - 13.1 (ADM) - 
 S2 - 8.0 (ADC) - 18.3 (ADM) - 11.8 (ADM) - 6.6 (ADC) - 14.0 (ADM) - 9.9 (ADC) - 
 B1 - 10.8 (ADM) - 17.7 (ADM) - 15.8 (ADM) - 11.5 (ADM) - 11.1 (ADM) - 11.5 (ADM) - 
 S3 - * (*) - * (*) - * (*) - * (*) - 16.6 (ADM) - * (*) - en cours
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
 26 Emi Thi
 S1 - 17.6 (ADM) - 16.5 (ADM) - 10.5 (ADM) - 10.1 (ADM) - 13.7 (ADM) - 11.7 (ADM) - 
 S2 - 14.3 (ADM) - 15.0 (ADM) - 17.6 (ADM) - 13.4 (ADM) - 1.1 (AJ) - 9.2 (ADC) - 
 B1 - 15.9 (ADM) - 15.8 (ADM) - 14.0 (ADM) - 11.7 (ADM) - 7.4 (AJB) - 10.4 (ADM) - ajourne
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
 1 Ode Aza
 S1 - 9.0 (AJ) - 19.8 (ADM) - 10.0 (ADM) - 16.0 (ADM) - 1.2 (ADC) - 17.4 (ADM) - 
 S2 - 7.3 (AJ) - 0.8 (ADC) - 16.0 (ADM) - 18.0 (ADM) - 19.4 (ADM) - 16.0 (ADM) - 
 B1 - 8.1 (AJ) - 10.3 (ADM) - 13.0 (ADM) - 17.0 (ADM) - 10.3 (ADM) - 16.7 (ADM) - 
 S3 - 4.9 (AJ) - 8.2 (AJ) - 14.1 (ADM) - 14.6 (ADM) - 12.9 (ADM) - * (*) - en cours
-Note enregistree 
+Note enregistree
 10 Apo Joe
 S1 - 12.7 (ADM) - 18.9 (ADM) - 19.9 (ADM) - 12.3 (ADM) - 13.7 (ADM) - 16.0 (ADM) - 
 S2 - 16.3 (ADM) - 11.8 (ADM) - 1.9 (ADC) - 9.3 (ADC) - 10.6 (ADM) - 19.7 (ADM) - 
 B1 - 14.5 (ADM) - 15.4 (ADM) - 10.9 (ADM) - 10.8 (ADM) - 12.1 (ADM) - 17.8 (ADM) - 
 S3 - * (*) - 18.3 (ADM) - * (*) - 15.1 (ADM) - * (*) - 3.1 (AJ) - en cours
-Note enregistree 
+Note enregistree
 1 - Ode Aza - S3 - en cours
 2 - Nya Zoe - S2 - ajourne
 3 - Nao Ael - S1 - demission
@@ -1577,32 +1577,32 @@ Note enregistree
 24 - Yva Flo - S3 - en cours
 25 - Eli Rim - S3 - en cours
 26 - Emi Thi - S2 - ajourne
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
 21 Ece Mia
 S1 - 10.7 (ADM) - 19.9 (ADM) - 14.0 (ADM) - 18.5 (ADM) - 9.0 (AJ) - 13.7 (ADM) - 
 S2 - 9.0 (AJ) - 0.2 (ADC) - 8.1 (ADC) - 10.6 (ADM) - 7.0 (AJ) - 16.8 (ADM) - 
 B1 - 9.8 (AJ) - 10.1 (ADM) - 11.0 (ADM) - 14.5 (ADM) - 8.0 (AJ) - 15.2 (ADM) - 
 S3 - * (*) - * (*) - * (*) - 12.8 (ADM) - * (*) - 0.4 (AJ) - en cours
-Note enregistree 
+Note enregistree
 Defaillance enregistree
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
 5 Aza Ray
 S1 - 10.6 (ADM) - 4.3 (AJ) - 12.1 (ADM) - * (*) - 0.1 (AJ) - 12.1 (ADM) - defaillance
-Note enregistree 
+Note enregistree
 1 - Ode Aza - S3 - en cours
 2 - Nya Zoe - S2 - ajourne
 3 - Nao Ael - S1 - demission
@@ -1629,36 +1629,36 @@ Note enregistree
 24 - Yva Flo - S3 - en cours
 25 - Eli Rim - S3 - en cours
 26 - Emi Thi - S2 - ajourne
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
 20 Kye Any
 S1 - 13.5 (ADM) - 17.0 (ADM) - 19.8 (ADM) - 16.5 (ADM) - 8.2 (ADC) - 13.1 (ADM) - 
 S2 - 8.0 (ADC) - 18.3 (ADM) - 11.8 (ADM) - 6.6 (ADC) - 14.0 (ADM) - 9.9 (ADC) - 
 B1 - 10.8 (ADM) - 17.7 (ADM) - 15.8 (ADM) - 11.5 (ADM) - 11.1 (ADM) - 11.5 (ADM) - 
 S3 - 13.7 (ADM) - 18.8 (ADM) - * (*) - * (*) - 16.6 (ADM) - 15.7 (ADM) - en cours
 Identifiant incorrect
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
 20 Kye Any
 S1 - 13.5 (ADM) - 17.0 (ADM) - 19.8 (ADM) - 16.5 (ADM) - 8.2 (ADC) - 13.1 (ADM) - 
 S2 - 8.0 (ADC) - 18.3 (ADM) - 11.8 (ADM) - 6.6 (ADC) - 14.0 (ADM) - 9.9 (ADC) - 
 B1 - 10.8 (ADM) - 17.7 (ADM) - 15.8 (ADM) - 11.5 (ADM) - 11.1 (ADM) - 11.5 (ADM) - 
 S3 - 13.7 (ADM) - 18.8 (ADM) - * (*) - * (*) - 16.6 (ADM) - 15.7 (ADM) - en cours
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
 Nom incorrect
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
 Demission enregistree
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
 Identifiant incorrect
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
 1 - Ode Aza - S3 - demission
 2 - Nya Zoe - S2 - ajourne
 3 - Nao Ael - S1 - demission
@@ -1685,29 +1685,29 @@ Note enregistree
 24 - Yva Flo - S3 - en cours
 25 - Eli Rim - S3 - en cours
 26 - Emi Thi - S2 - ajourne
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
 26 Emi Thi
 S1 - 17.6 (ADM) - 16.5 (ADM) - 10.5 (ADM) - 10.1 (ADM) - 13.7 (ADM) - 11.7 (ADM) - 
 S2 - 14.3 (ADM) - 15.0 (ADM) - 17.6 (ADM) - 13.4 (ADM) - 1.1 (AJ) - 9.2 (ADC) - 
 B1 - 15.9 (ADM) - 15.8 (ADM) - 14.0 (ADM) - 11.7 (ADM) - 7.4 (AJB) - 10.4 (ADM) - ajourne
-Note enregistree 
+Note enregistree
 Identifiant incorrect
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
 5 Aza Ray
 S1 - 10.6 (ADM) - 4.3 (AJ) - 12.1 (ADM) - * (*) - 0.1 (AJ) - 12.1 (ADM) - defaillance
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
 Semestre termine pour 16 etudiant(s)
 25 Eli Rim
 S1 - 12.6 (ADM) - 15.7 (ADM) - 18.0 (ADM) - 18.5 (ADM) - 16.5 (ADM) - 8.7 (AJ) - 
@@ -1715,18 +1715,18 @@ S2 - 9.1 (ADC) - 13.8 (ADM) - 19.8 (ADM) - 2.6 (ADC) - 15.8 (ADM) - 7.7 (AJ) -
 B1 - 10.8 (ADM) - 14.7 (ADM) - 18.9 (ADM) - 10.5 (ADM) - 16.2 (ADM) - 8.2 (AJ) - 
 S3 - 14.2 (ADM) - 15.3 (ADM) - 15.1 (ADM) - 19.3 (ADM) - 2.5 (AJ) - 14.0 (ADM) - 
 S4 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - en cours
-Note enregistree 
+Note enregistree
 17 Zoi Oum
 S1 - 19.9 (ADM) - 7.6 (AJ) - 8.5 (ADC) - 15.5 (ADM) - 9.2 (AJ) - 7.6 (ADC) - 
 S2 - 0.3 (ADC) - 9.8 (AJ) - 12.1 (ADM) - 10.9 (ADM) - 7.8 (AJ) - 12.6 (ADM) - 
 B1 - 10.1 (ADM) - 8.7 (AJ) - 10.3 (ADM) - 13.2 (ADM) - 8.5 (AJ) - 10.1 (ADM) - 
 S3 - 17.7 (ADM) - 2.4 (AJ) - 9.8 (AJ) - 11.8 (ADM) - 8.4 (AJ) - 3.0 (AJ) - 
 S4 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - en cours
-Note enregistree 
+Note enregistree
 5 Aza Ray
 S1 - 10.6 (ADM) - 4.3 (AJ) - 12.1 (ADM) - * (*) - 0.1 (AJ) - 12.1 (ADM) - defaillance
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
 1 - Ode Aza - S3 - demission
 2 - Nya Zoe - S2 - ajourne
 3 - Nao Ael - S1 - demission
@@ -1753,8 +1753,8 @@ Note enregistree
 24 - Yva Flo - S4 - en cours
 25 - Eli Rim - S4 - en cours
 26 - Emi Thi - S2 - ajourne
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
 1 - Ode Aza - S3 - demission
 2 - Nya Zoe - S2 - ajourne
 3 - Nao Ael - S1 - demission
@@ -1781,20 +1781,20 @@ Note enregistree
 24 - Yva Flo - S4 - en cours
 25 - Eli Rim - S4 - en cours
 26 - Emi Thi - S2 - ajourne
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
 25 Eli Rim
 S1 - 12.6 (ADM) - 15.7 (ADM) - 18.0 (ADM) - 18.5 (ADM) - 16.5 (ADM) - 8.7 (AJ) - 
 S2 - 9.1 (ADC) - 13.8 (ADM) - 19.8 (ADM) - 2.6 (ADC) - 15.8 (ADM) - 7.7 (AJ) - 
 B1 - 10.8 (ADM) - 14.7 (ADM) - 18.9 (ADM) - 10.5 (ADM) - 16.2 (ADM) - 8.2 (AJ) - 
 S3 - 14.2 (ADM) - 15.3 (ADM) - 15.1 (ADM) - 19.3 (ADM) - 2.5 (AJ) - 14.0 (ADM) - 
 S4 - * (*) - 2.0 (AJ) - * (*) - * (*) - * (*) - * (*) - en cours
-Note enregistree 
+Note enregistree
 1 - Ode Aza - S3 - demission
 2 - Nya Zoe - S2 - ajourne
 3 - Nao Ael - S1 - demission
@@ -1821,11 +1821,11 @@ Note enregistree
 24 - Yva Flo - S4 - en cours
 25 - Eli Rim - S4 - en cours
 26 - Emi Thi - S2 - ajourne
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
 1 - Ode Aza - S3 - demission
 2 - Nya Zoe - S2 - ajourne
 3 - Nao Ael - S1 - demission
@@ -1852,10 +1852,10 @@ Note enregistree
 24 - Yva Flo - S4 - en cours
 25 - Eli Rim - S4 - en cours
 26 - Emi Thi - S2 - ajourne
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
 1 - Ode Aza - S3 - demission
 2 - Nya Zoe - S2 - ajourne
 3 - Nao Ael - S1 - demission
@@ -1882,7 +1882,7 @@ Note enregistree
 24 - Yva Flo - S4 - en cours
 25 - Eli Rim - S4 - en cours
 26 - Emi Thi - S2 - ajourne
-Note enregistree 
+Note enregistree
 1 - Ode Aza - S3 - demission
 2 - Nya Zoe - S2 - ajourne
 3 - Nao Ael - S1 - demission
@@ -1910,9 +1910,9 @@ Note enregistree
 25 - Eli Rim - S4 - en cours
 26 - Emi Thi - S2 - ajourne
 Demission enregistree
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
 1 - Ode Aza - S3 - demission
 2 - Nya Zoe - S2 - ajourne
 3 - Nao Ael - S1 - demission
@@ -1939,14 +1939,14 @@ Note enregistree
 24 - Yva Flo - S4 - en cours
 25 - Eli Rim - S4 - en cours
 26 - Emi Thi - S2 - ajourne
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
 1 - Ode Aza - S3 - demission
 2 - Nya Zoe - S2 - ajourne
 3 - Nao Ael - S1 - demission
@@ -1973,16 +1973,16 @@ Note enregistree
 24 - Yva Flo - S4 - en cours
 25 - Eli Rim - S4 - en cours
 26 - Emi Thi - S2 - ajourne
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
 7 Yva Jon
 S1 - 17.9 (ADM) - 3.1 (AJ) - 11.6 (ADM) - 8.7 (ADC) - 18.3 (ADM) - 19.4 (ADM) - 
 S2 - 4.7 (ADC) - 12.6 (ADM) - 14.4 (ADM) - 18.9 (ADM) - 19.9 (ADM) - 16.7 (ADM) - 
 B1 - 11.3 (ADM) - 7.9 (AJB) - 13.0 (ADM) - 13.8 (ADM) - 19.1 (ADM) - 18.0 (ADM) - ajourne
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
 1 - Ode Aza - S3 - demission
 2 - Nya Zoe - S2 - ajourne
 3 - Nao Ael - S1 - demission
@@ -2009,18 +2009,18 @@ Note enregistree
 24 - Yva Flo - S4 - en cours
 25 - Eli Rim - S4 - en cours
 26 - Emi Thi - S2 - ajourne
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
 1 - Ode Aza - S3 - demission
 2 - Nya Zoe - S2 - ajourne
 3 - Nao Ael - S1 - demission
@@ -2047,17 +2047,17 @@ Note enregistree
 24 - Yva Flo - S4 - en cours
 25 - Eli Rim - S4 - en cours
 26 - Emi Thi - S2 - ajourne
-Note enregistree 
+Note enregistree
 Defaillance enregistree
-Note enregistree 
+Note enregistree
 2 Nya Zoe
 S1 - 19.7 (ADM) - 6.6 (ADC) - 2.0 (ADC) - 10.5 (ADM) - 15.1 (ADM) - 3.4 (AJ) - 
 S2 - 0.4 (ADC) - 19.5 (ADM) - 18.9 (ADM) - 16.4 (ADM) - 11.6 (ADM) - 10.4 (ADM) - 
 B1 - 10.0 (ADM) - 13.0 (ADM) - 10.4 (ADM) - 13.5 (ADM) - 13.3 (ADM) - 6.9 (AJB) - ajourne
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
 1 - Ode Aza - S3 - demission
 2 - Nya Zoe - S2 - ajourne
 3 - Nao Ael - S1 - demission
@@ -2085,8 +2085,8 @@ Note enregistree
 25 - Eli Rim - S4 - en cours
 26 - Emi Thi - S2 - ajourne
 Etudiant hors formation
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
 1 - Ode Aza - S3 - demission
 2 - Nya Zoe - S2 - ajourne
 3 - Nao Ael - S1 - demission
@@ -2113,12 +2113,12 @@ Note enregistree
 24 - Yva Flo - S4 - en cours
 25 - Eli Rim - S4 - en cours
 26 - Emi Thi - S2 - ajourne
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
 1 - Ode Aza - S3 - demission
 2 - Nya Zoe - S2 - ajourne
 3 - Nao Ael - S1 - demission
@@ -2145,7 +2145,7 @@ Note enregistree
 24 - Yva Flo - S4 - en cours
 25 - Eli Rim - S4 - en cours
 26 - Emi Thi - S2 - ajourne
-Note enregistree 
+Note enregistree
 1 - Ode Aza - S3 - demission
 2 - Nya Zoe - S2 - ajourne
 3 - Nao Ael - S1 - demission
@@ -2172,33 +2172,33 @@ Note enregistree
 24 - Yva Flo - S4 - en cours
 25 - Eli Rim - S4 - en cours
 26 - Emi Thi - S2 - ajourne
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
 19 Leo Ane
 S1 - 18.5 (ADM) - 14.9 (ADM) - 5.0 (ADC) - 18.7 (ADM) - 2.4 (AJ) - 13.1 (ADM) - 
 S2 - 3.0 (ADC) - 12.2 (ADM) - 18.3 (ADM) - 10.2 (ADM) - 14.8 (ADM) - 11.9 (ADM) - 
 B1 - 10.8 (ADM) - 13.5 (ADM) - 11.6 (ADM) - 14.4 (ADM) - 8.6 (AJ) - 12.5 (ADM) - 
 S3 - 19.3 (ADM) - 19.8 (ADM) - 9.1 (AJ) - 14.7 (ADM) - 13.3 (ADM) - 12.8 (ADM) - 
 S4 - 5.6 (AJ) - 18.7 (ADM) - 7.2 (AJ) - 1.3 (AJ) - 8.0 (AJ) - 19.7 (ADM) - en cours
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
 1 - Ode Aza - S3 - demission
 2 - Nya Zoe - S2 - ajourne
 3 - Nao Ael - S1 - demission
@@ -2225,15 +2225,15 @@ Note enregistree
 24 - Yva Flo - S4 - en cours
 25 - Eli Rim - S4 - en cours
 26 - Emi Thi - S2 - ajourne
-Note enregistree 
+Note enregistree
 6 Poe Ida
 S1 - 15.7 (ADM) - 16.3 (ADM) - 16.2 (ADM) - 16.8 (ADM) - 18.4 (ADM) - 13.0 (ADM) - 
 S2 - 18.0 (ADM) - 10.3 (ADM) - 0.8 (AJ) - 3.5 (ADC) - 15.6 (ADM) - 10.0 (ADM) - 
 B1 - 16.8 (ADM) - 13.3 (ADM) - 8.5 (AJ) - 10.1 (ADM) - 17.0 (ADM) - 11.5 (ADM) - 
 S3 - 9.1 (AJ) - 9.3 (AJ) - 1.5 (AJ) - 15.3 (ADM) - 1.4 (AJ) - 12.4 (ADM) - 
 S4 - 15.9 (ADM) - 9.3 (AJ) - 19.5 (ADM) - 1.1 (AJ) - 19.5 (ADM) - 14.4 (ADM) - en cours
-Note enregistree 
-Semestre termine pour 15 etudiant(s)
+Note enregistree
+Semestre termine pour 14 etudiant(s)
 1 - Ode Aza - S3 - demission
 2 - Nya Zoe - S2 - ajourne
 3 - Nao Ael - S1 - demission
@@ -2260,28 +2260,28 @@ Semestre termine pour 15 etudiant(s)
 24 - Yva Flo - S5 - en cours
 25 - Eli Rim - S5 - en cours
 26 - Emi Thi - S2 - ajourne
-Note enregistree 
+Note enregistree
 Nom incorrect
-Note enregistree 
+Note enregistree
 4 Cho Aoi
 S1 - 6.9 (AJ) - 15.0 (ADM) - 16.3 (ADM) - 19.4 (ADM) - 14.1 (ADM) - 15.3 (ADM) - 
 S2 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - defaillance
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
 26 Emi Thi
 S1 - 17.6 (ADM) - 16.5 (ADM) - 10.5 (ADM) - 10.1 (ADM) - 13.7 (ADM) - 11.7 (ADM) - 
 S2 - 14.3 (ADM) - 15.0 (ADM) - 17.6 (ADM) - 13.4 (ADM) - 1.1 (AJ) - 9.2 (ADC) - 
 B1 - 15.9 (ADM) - 15.8 (ADM) - 14.0 (ADM) - 11.7 (ADM) - 7.4 (AJB) - 10.4 (ADM) - ajourne
-Note enregistree 
+Note enregistree
 16 Dan Sam
 S1 - 4.8 (ADC) - 9.8 (AJ) - 19.6 (ADM) - 11.5 (ADM) - 13.4 (ADM) - 2.3 (ADC) - 
 S2 - 17.0 (ADM) - 6.9 (AJ) - 3.6 (ADC) - 14.5 (ADM) - 13.6 (ADM) - 17.8 (ADM) - 
@@ -2290,16 +2290,16 @@ S3 - 13.9 (ADM) - 19.2 (ADM) - 4.2 (ADC) - 12.9 (ADM) - 10.3 (ADM) - 12.6 (ADM) 
 S4 - 17.2 (ADM) - 0.8 (ADC) - 18.3 (ADM) - 16.7 (ADM) - 10.6 (ADM) - 12.7 (ADM) - 
 B2 - 15.6 (ADM) - 10.0 (ADM) - 11.3 (ADM) - 14.8 (ADM) - 10.4 (ADM) - 12.6 (ADM) - 
 S5 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - en cours
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
 Etudiant hors formation
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
 11 Nor Lie
 S1 - 15.7 (ADM) - 9.4 (ADC) - 15.1 (ADM) - 6.4 (AJ) - 18.1 (ADM) - 1.3 (ADC) - 
 S2 - 14.1 (ADM) - 19.1 (ADM) - 11.5 (ADM) - 12.3 (ADM) - 8.1 (ADC) - 19.9 (ADM) - 
@@ -2308,9 +2308,9 @@ S3 - 13.5 (ADM) - 13.5 (ADM) - 9.3 (ADC) - 19.6 (ADM) - 19.6 (ADM) - 3.8 (ADC) -
 S4 - 18.4 (ADM) - 17.4 (ADM) - 14.2 (ADM) - 10.9 (ADM) - 1.2 (ADC) - 17.1 (ADM) - 
 B2 - 15.9 (ADM) - 15.4 (ADM) - 11.8 (ADM) - 15.2 (ADM) - 10.4 (ADM) - 10.4 (ADM) - 
 S5 - 19.0 (ADM) - * (*) - * (*) - * (*) - * (*) - 6.4 (AJ) - en cours
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
 1 - Ode Aza - S3 - demission
 2 - Nya Zoe - S2 - ajourne
 3 - Nao Ael - S1 - demission
@@ -2337,19 +2337,19 @@ Note enregistree
 24 - Yva Flo - S5 - en cours
 25 - Eli Rim - S5 - en cours
 26 - Emi Thi - S2 - ajourne
-Note enregistree 
+Note enregistree
 4 Cho Aoi
 S1 - 6.9 (AJ) - 15.0 (ADM) - 16.3 (ADM) - 19.4 (ADM) - 14.1 (ADM) - 15.3 (ADM) - 
 S2 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - defaillance
-Note enregistree 
+Note enregistree
 Demission enregistree
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
 1 - Ode Aza - S3 - demission
 2 - Nya Zoe - S2 - ajourne
 3 - Nao Ael - S1 - demission
@@ -2376,7 +2376,7 @@ Note enregistree
 24 - Yva Flo - S5 - en cours
 25 - Eli Rim - S5 - en cours
 26 - Emi Thi - S2 - ajourne
-Note enregistree 
+Note enregistree
 24 Yva Flo
 S1 - 13.3 (ADM) - 18.3 (ADM) - 19.8 (ADM) - 16.7 (ADM) - 16.4 (ADM) - 6.2 (AJ) - 
 S2 - 14.5 (ADM) - 5.3 (ADC) - 1.1 (ADC) - 12.1 (ADM) - 13.9 (ADM) - 9.9 (AJ) - 
@@ -2386,14 +2386,14 @@ S4 - 19.5 (ADM) - 7.0 (AJ) - 9.9 (AJ) - 17.1 (ADM) - 16.9 (ADM) - 4.6 (ADC) -
 B2 - 10.0 (ADM) - 8.0 (AJ) - 8.5 (AJ) - 11.4 (ADM) - 16.2 (ADM) - 10.8 (ADM) - 
 S5 - 7.6 (AJ) - 19.1 (ADM) - 17.6 (ADM) - 17.1 (ADM) - 8.4 (AJ) - 6.6 (AJ) - en cours
 Defaillance enregistree
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
 1 - Ode Aza - S3 - demission
 2 - Nya Zoe - S2 - ajourne
 3 - Nao Ael - S1 - demission
@@ -2420,10 +2420,10 @@ Note enregistree
 24 - Yva Flo - S5 - en cours
 25 - Eli Rim - S5 - en cours
 26 - Emi Thi - S2 - ajourne
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
 23 Ary Ria
 S1 - 17.7 (ADM) - 6.2 (AJ) - 18.5 (ADM) - 12.4 (ADM) - 12.2 (ADM) - 16.2 (ADM) - 
 S2 - 7.4 (ADC) - 12.2 (ADM) - 1.4 (ADC) - 15.5 (ADM) - 13.7 (ADM) - 6.1 (ADC) - 
@@ -2433,8 +2433,8 @@ S4 - 10.6 (ADM) - 10.7 (ADM) - 17.8 (ADM) - 5.1 (AJ) - 11.0 (ADM) - 0.3 (ADC) -
 B2 - 9.2 (AJ) - 11.5 (ADM) - 13.5 (ADM) - 9.3 (AJ) - 8.7 (AJ) - 10.0 (ADM) - 
 S5 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - 
 B2 - 9.2 (AJ) - 11.5 (ADM) - 13.5 (ADM) - 9.3 (AJ) - 8.7 (AJ) - 10.0 (ADM) - ajourne
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
 1 - Ode Aza - S3 - demission
 2 - Nya Zoe - S2 - ajourne
 3 - Nao Ael - S1 - demission
@@ -2461,7 +2461,7 @@ Note enregistree
 24 - Yva Flo - S5 - en cours
 25 - Eli Rim - S5 - en cours
 26 - Emi Thi - S2 - ajourne
-Note enregistree 
+Note enregistree
 1 - Ode Aza - S3 - demission
 2 - Nya Zoe - S2 - ajourne
 3 - Nao Ael - S1 - demission
@@ -2488,13 +2488,13 @@ Note enregistree
 24 - Yva Flo - S5 - en cours
 25 - Eli Rim - S5 - en cours
 26 - Emi Thi - S2 - ajourne
-Note enregistree 
+Note enregistree
 Des notes sont manquantes
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
 15 Jay Jil
 S1 - 8.4 (ADC) - 16.2 (ADM) - 18.4 (ADM) - 19.5 (ADM) - 18.7 (ADM) - 11.1 (ADM) - 
 S2 - 15.2 (ADM) - 18.6 (ADM) - 2.2 (ADC) - 0.5 (ADC) - 14.3 (ADM) - 19.8 (ADM) - 
@@ -2502,13 +2502,13 @@ B1 - 11.8 (ADM) - 17.4 (ADM) - 10.3 (ADM) - 10.0 (ADM) - 16.5 (ADM) - 15.4 (ADM)
 S3 - 4.9 (ADC) - 11.7 (ADM) - 7.9 (ADC) - 17.5 (ADM) - 10.2 (ADM) - 19.2 (ADM) - 
 S4 - 18.5 (ADM) - 0.2 (AJ) - 13.4 (ADM) - 5.7 (ADC) - 16.6 (ADM) - 1.8 (ADC) - 
 B2 - 11.7 (ADM) - 6.0 (AJB) - 10.6 (ADM) - 11.6 (ADM) - 13.4 (ADM) - 10.5 (ADM) - ajourne
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
 4 Cho Aoi
 S1 - 6.9 (AJ) - 15.0 (ADM) - 16.3 (ADM) - 19.4 (ADM) - 14.1 (ADM) - 15.3 (ADM) - 
 S2 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - defaillance
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
 22 Thi Sam
 S1 - 7.4 (ADC) - 7.4 (ADC) - 8.7 (ADC) - 19.8 (ADM) - 11.6 (ADM) - 14.7 (ADM) - 
 S2 - 14.3 (ADM) - 16.1 (ADM) - 15.0 (ADM) - 19.5 (ADM) - 14.6 (ADM) - 9.7 (ADC) - 
@@ -2542,15 +2542,15 @@ Demission enregistree
 24 - Yva Flo - S5 - en cours
 25 - Eli Rim - S5 - demission
 26 - Emi Thi - S2 - ajourne
-Note enregistree 
+Note enregistree
 5 Aza Ray
 S1 - 10.6 (ADM) - 4.3 (AJ) - 12.1 (ADM) - * (*) - 0.1 (AJ) - 12.1 (ADM) - defaillance
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
 1 - Ode Aza - S3 - demission
 2 - Nya Zoe - S2 - ajourne
 3 - Nao Ael - S1 - demission
@@ -2577,9 +2577,9 @@ Note enregistree
 24 - Yva Flo - S5 - en cours
 25 - Eli Rim - S5 - demission
 26 - Emi Thi - S2 - ajourne
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
 1 - Ode Aza - S3 - demission
 2 - Nya Zoe - S2 - ajourne
 3 - Nao Ael - S1 - demission
@@ -2606,18 +2606,18 @@ Note enregistree
 24 - Yva Flo - S5 - en cours
 25 - Eli Rim - S5 - demission
 26 - Emi Thi - S2 - ajourne
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
 1 Ode Aza
 S1 - 9.0 (AJ) - 19.8 (ADM) - 10.0 (ADM) - 16.0 (ADM) - 1.2 (ADC) - 17.4 (ADM) - 
 S2 - 7.3 (AJ) - 0.8 (ADC) - 16.0 (ADM) - 18.0 (ADM) - 19.4 (ADM) - 16.0 (ADM) - 
 B1 - 8.1 (AJ) - 10.3 (ADM) - 13.0 (ADM) - 17.0 (ADM) - 10.3 (ADM) - 16.7 (ADM) - 
 S3 - 4.9 (AJ) - 8.2 (AJ) - 14.1 (ADM) - 14.6 (ADM) - 12.9 (ADM) - * (*) - demission
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
 11 Nor Lie
 S1 - 15.7 (ADM) - 9.4 (ADC) - 15.1 (ADM) - 6.4 (AJ) - 18.1 (ADM) - 1.3 (ADC) - 
 S2 - 14.1 (ADM) - 19.1 (ADM) - 11.5 (ADM) - 12.3 (ADM) - 8.1 (ADC) - 19.9 (ADM) - 
@@ -2626,20 +2626,20 @@ S3 - 13.5 (ADM) - 13.5 (ADM) - 9.3 (ADC) - 19.6 (ADM) - 19.6 (ADM) - 3.8 (ADC) -
 S4 - 18.4 (ADM) - 17.4 (ADM) - 14.2 (ADM) - 10.9 (ADM) - 1.2 (ADC) - 17.1 (ADM) - 
 B2 - 15.9 (ADM) - 15.4 (ADM) - 11.8 (ADM) - 15.2 (ADM) - 10.4 (ADM) - 10.4 (ADM) - 
 S5 - 13.7 (ADM) - 7.8 (AJ) - 10.4 (ADM) - 19.1 (ADM) - 19.8 (ADM) - 14.5 (ADM) - en cours
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
+Note enregistree
 Defaillance enregistree
 Semestre termine pour 0 etudiant(s)
 1 - Ode Aza - S3 - demission
