@@ -12,6 +12,7 @@
 #define NB_SEMESTRE_PAR_BILAN 2
 #define STATUT_LENGTH 15
 #define MAX_NOTE_INF_10 3
+#define NB_ANNEE 3
 
 typedef enum
 {

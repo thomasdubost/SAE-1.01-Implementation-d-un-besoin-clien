@@ -220,9 +220,9 @@ void affichage_semestre(Etudiant etudiant)
         if (s % 2 == 0 && s != 0)
         {
             affichage_bilan(etudiant, s / 2);
-            // printf("\n");
-            continue;
+            printf("\n");
         }
+
         printf("S%d - ", s + 1);
 
         for (int m = 0; m < NB_UE; m++)
@@ -239,6 +239,18 @@ void affichage_semestre(Etudiant etudiant)
         {
             printf("\n");
         }
+    }
+
+    if (etudiant.status == AJOURNE)
+    {
+        printf("\n");
+        affichage_bilan(etudiant, etudiant.semestre_en_cours / 2);
+    }
+
+    if (nb_semestres == NB_SEMESTRES)
+    {
+        printf("\n");
+        affichage_bilan(etudiant, NB_BILANS);
     }
 }
 void affichage_bilan(Etudiant etudiant, int bilan_a_afficher)
@@ -335,8 +347,15 @@ void jury(const texte_separer separer_txt, Etudiant *etudiant_list, int nb_etudi
     for (int i = 0; i < nb_etudiant; ++i)
     {
         Etudiant *etudiant = &etudiant_list[i];
-
-        if (semestre != etudiant->semestre_en_cours || etudiant->status != EN_COURS)
+        if (etudiant->status == DEFAILLANT)
+        {
+            continue;
+        }
+        if (etudiant->status == STATUT_DEMISSION)
+        {
+            continue;
+        }
+        if (semestre != etudiant->semestre_en_cours)
         {
             continue;
         }
@@ -357,6 +376,11 @@ void jury(const texte_separer separer_txt, Etudiant *etudiant_list, int nb_etudi
             float note_semestre_precedent = etudiant->semestres[semestre_index - 1].notes[num_ue].note;
             float moyenne_note = (note + note_semestre_precedent) / 2;
 
+            if (note < 10 && note_semestre_precedent < 10)
+            {
+                continue;
+            }
+
             if (note >= 10 || moyenne_note < 10)
             {
 
@@ -371,8 +395,11 @@ void jury(const texte_separer separer_txt, Etudiant *etudiant_list, int nb_etudi
             float note = etudiant->semestres[semestre_index - 1].notes[num_ue].note;
             float note_semestre_suivant = etudiant->semestres[semestre_index].notes[num_ue].note;
             float moyenne_note = (note + note_semestre_suivant) / 2;
-            // stoker la moyen dans etudiant.bilan
 
+            if (note < 10 && note_semestre_suivant < 10)
+            {
+                continue;
+            }
             if (note >= 10 || moyenne_note < 10)
             {
                 continue;
@@ -400,23 +427,24 @@ void jury(const texte_separer separer_txt, Etudiant *etudiant_list, int nb_etudi
             }
         }
 
-        if (compteur_inf_10 >= MAX_NOTE_INF_10)
-        {
-            etudiant->status = AJOURNE;
-            nb_etudiant_affectes++;
-            continue;
-        }
-
         if (etudiant->semestre_en_cours == NB_SEMESTRES && etudiant->status == EN_COURS)
         {
-            nb_etudiant_affectes++;
             etudiant->status = DIPLOME;
+            nb_etudiant_affectes++;
+            continue;
         }
 
         if (etudiant->status == EN_COURS)
         {
             etudiant->semestre_en_cours++;
             nb_etudiant_affectes++;
+        }
+
+        if (compteur_inf_10 >= MAX_NOTE_INF_10 && etudiant->status != AJOURNE)
+        {
+            etudiant->status = AJOURNE;
+            nb_etudiant_affectes++;
+            continue;
         }
     }
 
@@ -513,6 +541,12 @@ void etudiants(const texte_separer separertxt, Etudiant *etudiant_list, int nb_e
 void bilan_etu(const texte_separer separertxt, Etudiant *etudiant_list, int nb_etudiant)
 {
     int annee = atoi(separertxt.list_arguments[0]);
+    if (annee > NB_ANNEE)
+    {
+        puts("Annee incorrecte");
+        return;
+    }
+
     int demission = 0, defaillance = 0, encours = 0, ajourne = 0, passe = 0;
 
     for (int i = 0; i < nb_etudiant; i++)
@@ -543,7 +577,11 @@ void bilan_etu(const texte_separer separertxt, Etudiant *etudiant_list, int nb_e
                 ++passe;
         }
     }
-
+    if (demission == 0 && defaillance == 0 && encours == 0 && ajourne == 0 && passe == 0)
+    {
+        puts("Annee incorrecte");
+        return;
+    }
     printf("%d demission(s)\n", demission);
     printf("%d defaillance(s)\n", defaillance);
     printf("%d en cours\n", encours);

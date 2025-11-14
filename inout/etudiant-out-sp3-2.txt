@@ -1011,14 +1011,15 @@ Note enregistree
 Note enregistree 
 Note enregistree 
 Note enregistree 
-Semestre termine pour 22 etudiant(s)
+Semestre termine pour 23 etudiant(s)
 Etudiant hors formation
 Note enregistree 
 Note enregistree 
 Note enregistree 
 11 Jil Kye
 S1 - 18.8 (ADM) - 16.1 (ADM) - 11.5 (ADM) - 19.1 (ADM) - 4.6 (AJ) - 16.5 (ADM) - 
-S2 - 11.0 (ADM) - 16.5 (ADM) - 11.8 (ADM) - 18.0 (ADM) - 5.8 (AJ) - 7.6 (AJ) - ajourne
+S2 - 11.0 (ADM) - 16.5 (ADM) - 11.8 (ADM) - 18.0 (ADM) - 5.8 (AJ) - 7.6 (ADC) - 
+B1 - 14.9 (ADM) - 16.3 (ADM) - 11.7 (ADM) - 18.5 (ADM) - 5.2 (AJB) - 12.0 (ADM) - ajourne
 Note enregistree 
 Note enregistree 
 Note enregistree 
@@ -1047,7 +1048,7 @@ Note enregistree
 23 - Nil Zoe - S1 - demission
 24 - Ide Rim - S3 - en cours
 25 - Emi Aby - S3 - en cours
-26 - Izy Ons - S2 - ajourne
+26 - Izy Ons - S3 - ajourne
 Note enregistree 
 Note enregistree 
 Note enregistree 
@@ -1057,36 +1058,6 @@ Note enregistree
 Note enregistree 
 Note enregistree 
 Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-Note enregistree 
-1 - Ani Cho - S3 - en cours
-2 - Mia Lya - S3 - en cours
-3 - Gao Eva - S3 - en cours
-4 - Ide Eri - S2 - ajourne
-5 - Yva Cam - S2 - defaillance
-6 - Xin Ece - S3 - en cours
-7 - Ray Mia - S3 - en cours
-8 - Xin Rob - S3 - en cours
-9 - Ian Noy - S3 - en cours
-10 - Vic Paz - S2 - ajourne
-11 - Jil Kye - S2 - ajourne
-12 - Bia Lea - S3 - en cours
-13 - Sam Lyn - S1 - defaillance
-14 - Loo Rob - S3 - en cours
-15 - Nil Asa - S3 - en cours
-16 - Ian Ria - S3 - en cours
-17 - Ray Izy - S3 - en cours
-18 - Roy Asa - S3 - en cours
-19 - Cho Kye - S3 - en cours
-20 - Apo Tya - S2 - demission
-21 - Dan Asa - S3 - en cours
-22 - Cho Thy - S3 - en cours
-23 - Nil Zoe - S1 - demission
-24 - Ide Rim - S3 - en cours
-25 - Emi Aby - S3 - en cours
-26 - Izy Ons - S2 - ajourne
 Note enregistree 
 Note enregistree 
 Note enregistree 
@@ -1116,7 +1087,37 @@ Note enregistree
 23 - Nil Zoe - S1 - demission
 24 - Ide Rim - S3 - en cours
 25 - Emi Aby - S3 - en cours
-26 - Izy Ons - S2 - ajourne
+26 - Izy Ons - S3 - ajourne
+Note enregistree 
+Note enregistree 
+Note enregistree 
+Note enregistree 
+1 - Ani Cho - S3 - en cours
+2 - Mia Lya - S3 - en cours
+3 - Gao Eva - S3 - en cours
+4 - Ide Eri - S2 - ajourne
+5 - Yva Cam - S2 - defaillance
+6 - Xin Ece - S3 - en cours
+7 - Ray Mia - S3 - en cours
+8 - Xin Rob - S3 - en cours
+9 - Ian Noy - S3 - en cours
+10 - Vic Paz - S2 - ajourne
+11 - Jil Kye - S2 - ajourne
+12 - Bia Lea - S3 - en cours
+13 - Sam Lyn - S1 - defaillance
+14 - Loo Rob - S3 - en cours
+15 - Nil Asa - S3 - en cours
+16 - Ian Ria - S3 - en cours
+17 - Ray Izy - S3 - en cours
+18 - Roy Asa - S3 - en cours
+19 - Cho Kye - S3 - en cours
+20 - Apo Tya - S2 - demission
+21 - Dan Asa - S3 - en cours
+22 - Cho Thy - S3 - en cours
+23 - Nil Zoe - S1 - demission
+24 - Ide Rim - S3 - en cours
+25 - Emi Aby - S3 - en cours
+26 - Izy Ons - S3 - ajourne
 Note enregistree 
 Note enregistree 
 Note enregistree 
@@ -1124,9 +1125,9 @@ Note enregistree
 Note enregistree 
 Note enregistree 
 6 Xin Ece
-S1 - 12.8 (ADM) - 17.8 (ADM) - 12.6 (ADM) - 15.8 (ADM) - 8.9 (AJ) - 13.8 (ADM) - 
+S1 - 12.8 (ADM) - 17.8 (ADM) - 12.6 (ADM) - 15.8 (ADM) - 8.9 (ADC) - 13.8 (ADM) - 
 S2 - 19.2 (ADM) - 19.2 (ADM) - 16.8 (ADM) - 0.2 (AJ) - 16.7 (ADM) - 13.5 (ADM) - 
-B1 - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 
+B1 - 16.0 (ADM) - 18.5 (ADM) - 14.7 (ADM) - 8.0 (AJ) - 12.8 (ADM) - 13.7 (ADM) - 
 S3 - * (*) - * (*) - 9.6 (AJ) - * (*) - * (*) - * (*) - en cours
 Note enregistree 
 Note enregistree 
@@ -1141,8 +1142,8 @@ Note enregistree
 Note enregistree 
 1 Ani Cho
 S1 - 16.5 (ADM) - 18.6 (ADM) - 17.3 (ADM) - 11.1 (ADM) - 18.4 (ADM) - 14.1 (ADM) - 
-S2 - 11.2 (ADM) - 16.6 (ADM) - 0.7 (AJ) - 15.4 (ADM) - 12.4 (ADM) - 9.4 (AJ) - 
-B1 - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 
+S2 - 11.2 (ADM) - 16.6 (ADM) - 0.7 (AJ) - 15.4 (ADM) - 12.4 (ADM) - 9.4 (ADC) - 
+B1 - 13.8 (ADM) - 17.6 (ADM) - 9.0 (AJ) - 13.2 (ADM) - 15.4 (ADM) - 11.8 (ADM) - 
 S3 - * (*) - 6.5 (AJ) - * (*) - * (*) - * (*) - * (*) - en cours
 Note enregistree 
 Note enregistree 
@@ -1171,7 +1172,7 @@ Note enregistree
 23 - Nil Zoe - S1 - demission
 24 - Ide Rim - S3 - en cours
 25 - Emi Aby - S3 - en cours
-26 - Izy Ons - S2 - ajourne
+26 - Izy Ons - S3 - ajourne
 Note enregistree 
 Note enregistree 
 Note enregistree 
@@ -1201,7 +1202,7 @@ Note enregistree
 23 - Nil Zoe - S1 - demission
 24 - Ide Rim - S3 - en cours
 25 - Emi Aby - S3 - en cours
-26 - Izy Ons - S2 - ajourne
+26 - Izy Ons - S3 - ajourne
 Note enregistree 
 Note enregistree 
 Note enregistree 
@@ -1210,8 +1211,8 @@ Note enregistree
 Note enregistree 
 9 Ian Noy
 S1 - 19.2 (ADM) - 19.6 (ADM) - 14.0 (ADM) - 14.9 (ADM) - 19.5 (ADM) - 19.6 (ADM) - 
-S2 - 5.5 (AJ) - 3.2 (AJ) - 12.2 (ADM) - 17.6 (ADM) - 18.7 (ADM) - 7.0 (AJ) - 
-B1 - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 
+S2 - 5.5 (ADC) - 3.2 (ADC) - 12.2 (ADM) - 17.6 (ADM) - 18.7 (ADM) - 7.0 (ADC) - 
+B1 - 12.4 (ADM) - 11.4 (ADM) - 13.1 (ADM) - 16.3 (ADM) - 19.1 (ADM) - 13.3 (ADM) - 
 S3 - * (*) - * (*) - 18.6 (ADM) - * (*) - 17.0 (ADM) - 18.6 (ADM) - en cours
 Note enregistree 
 Note enregistree 
@@ -1250,7 +1251,7 @@ Note enregistree
 23 - Nil Zoe - S1 - demission
 24 - Ide Rim - S3 - en cours
 25 - Emi Aby - S3 - en cours
-26 - Izy Ons - S2 - ajourne
+26 - Izy Ons - S3 - ajourne
 Note enregistree 
 Note enregistree 
 Note enregistree 
@@ -1276,8 +1277,8 @@ Note enregistree
 Note enregistree 
 22 Cho Thy
 S1 - 12.8 (ADM) - 16.1 (ADM) - 11.6 (ADM) - 9.2 (AJ) - 17.4 (ADM) - 18.5 (ADM) - 
-S2 - 8.6 (AJ) - 17.8 (ADM) - 18.1 (ADM) - 8.8 (AJ) - 2.3 (AJ) - 16.4 (ADM) - 
-B1 - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 
+S2 - 8.6 (ADC) - 17.8 (ADM) - 18.1 (ADM) - 8.8 (AJ) - 2.3 (AJ) - 16.4 (ADM) - 
+B1 - 10.7 (ADM) - 17.0 (ADM) - 14.8 (ADM) - 9.0 (AJ) - 9.9 (AJ) - 17.4 (ADM) - 
 S3 - 16.3 (ADM) - 6.1 (AJ) - 17.1 (ADM) - 17.7 (ADM) - 18.8 (ADM) - 16.6 (ADM) - en cours
 Note enregistree 
 Note enregistree 
@@ -1306,7 +1307,7 @@ Note enregistree
 23 - Nil Zoe - S1 - demission
 24 - Ide Rim - S3 - en cours
 25 - Emi Aby - S3 - en cours
-26 - Izy Ons - S2 - ajourne
+26 - Izy Ons - S3 - ajourne
 Note enregistree 
 Note enregistree 
 Note enregistree 
@@ -1319,17 +1320,17 @@ Note enregistree
 Note enregistree 
 Note enregistree 
 7 Ray Mia
-S1 - 18.5 (ADM) - 0.8 (AJ) - 15.6 (ADM) - 14.7 (ADM) - 0.1 (AJ) - 14.0 (ADM) - 
-S2 - 19.7 (ADM) - 19.6 (ADM) - 5.6 (AJ) - 17.3 (ADM) - 19.8 (ADM) - 2.8 (AJ) - 
-B1 - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 
+S1 - 18.5 (ADM) - 0.8 (ADC) - 15.6 (ADM) - 14.7 (ADM) - 0.1 (ADC) - 14.0 (ADM) - 
+S2 - 19.7 (ADM) - 19.6 (ADM) - 5.6 (ADC) - 17.3 (ADM) - 19.8 (ADM) - 2.8 (AJ) - 
+B1 - 19.1 (ADM) - 10.2 (ADM) - 10.6 (ADM) - 16.0 (ADM) - 10.0 (ADM) - 8.4 (AJ) - 
 S3 - 14.2 (ADM) - 4.0 (AJ) - * (*) - 7.5 (AJ) - 15.3 (ADM) - * (*) - en cours
 Note enregistree 
 Note enregistree 
 Note enregistree 
 6 Xin Ece
-S1 - 12.8 (ADM) - 17.8 (ADM) - 12.6 (ADM) - 15.8 (ADM) - 8.9 (AJ) - 13.8 (ADM) - 
+S1 - 12.8 (ADM) - 17.8 (ADM) - 12.6 (ADM) - 15.8 (ADM) - 8.9 (ADC) - 13.8 (ADM) - 
 S2 - 19.2 (ADM) - 19.2 (ADM) - 16.8 (ADM) - 0.2 (AJ) - 16.7 (ADM) - 13.5 (ADM) - 
-B1 - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 
+B1 - 16.0 (ADM) - 18.5 (ADM) - 14.7 (ADM) - 8.0 (AJ) - 12.8 (ADM) - 13.7 (ADM) - 
 S3 - 5.0 (AJ) - 0.1 (AJ) - 9.6 (AJ) - * (*) - 13.9 (ADM) - 19.5 (ADM) - en cours
 Identifiant incorrect
 Note enregistree 
@@ -1340,9 +1341,9 @@ S1 - 13.6 (ADM) - 1.7 (AJ) - 12.2 (ADM) - 3.5 (AJ) - 17.6 (ADM) - 10.5 (ADM) -
 S2 - * (*) - * (*) - * (*) - 18.4 (ADM) - 0.9 (AJ) - 2.1 (AJ) - defaillance
 Note enregistree 
 24 Ide Rim
-S1 - 13.9 (ADM) - 9.7 (AJ) - 14.2 (ADM) - 14.9 (ADM) - 8.8 (AJ) - 3.0 (AJ) - 
-S2 - 15.7 (ADM) - 10.2 (ADM) - 10.7 (ADM) - 5.0 (AJ) - 11.1 (ADM) - 18.1 (ADM) - 
-B1 - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 
+S1 - 13.9 (ADM) - 9.7 (AJ) - 14.2 (ADM) - 14.9 (ADM) - 8.8 (AJ) - 3.0 (ADC) - 
+S2 - 15.7 (ADM) - 10.2 (ADM) - 10.7 (ADM) - 5.0 (ADC) - 11.1 (ADM) - 18.1 (ADM) - 
+B1 - 14.8 (ADM) - 9.9 (AJ) - 12.5 (ADM) - 10.0 (ADM) - 9.9 (AJ) - 10.5 (ADM) - 
 S3 - 5.3 (AJ) - 6.1 (AJ) - 6.9 (AJ) - * (*) - 17.9 (ADM) - 6.4 (AJ) - defaillance
 Note enregistree 
 Note enregistree 
@@ -1372,12 +1373,12 @@ Note enregistree
 23 - Nil Zoe - S1 - demission
 24 - Ide Rim - S3 - defaillance
 25 - Emi Aby - S3 - en cours
-26 - Izy Ons - S2 - ajourne
+26 - Izy Ons - S3 - ajourne
 Note enregistree 
 Note enregistree 
 Note enregistree 
 Note enregistree 
-Semestre termine pour 16 etudiant(s)
+Semestre termine pour 17 etudiant(s)
 Note enregistree 
 Note enregistree 
 Nom incorrect
@@ -1388,13 +1389,15 @@ Demission enregistree
 Note enregistree 
 Note enregistree 
 4 Ide Eri
-S1 - 16.8 (ADM) - 7.0 (AJ) - 17.5 (ADM) - 18.5 (ADM) - 12.0 (ADM) - 0.1 (AJ) - 
-S2 - 5.2 (AJ) - 5.6 (AJ) - 10.0 (ADM) - 6.5 (AJ) - 12.6 (ADM) - 19.9 (ADM) - ajourne
+S1 - 16.8 (ADM) - 7.0 (AJ) - 17.5 (ADM) - 18.5 (ADM) - 12.0 (ADM) - 0.1 (ADC) - 
+S2 - 5.2 (ADC) - 5.6 (AJ) - 10.0 (ADM) - 6.5 (ADC) - 12.6 (ADM) - 19.9 (ADM) - 
+B1 - 11.0 (ADM) - 6.3 (AJB) - 13.7 (ADM) - 12.5 (ADM) - 12.3 (ADM) - 10.0 (ADM) - ajourne
 Note enregistree 
 Note enregistree 
 4 Ide Eri
-S1 - 16.8 (ADM) - 7.0 (AJ) - 17.5 (ADM) - 18.5 (ADM) - 12.0 (ADM) - 0.1 (AJ) - 
-S2 - 5.2 (AJ) - 5.6 (AJ) - 10.0 (ADM) - 6.5 (AJ) - 12.6 (ADM) - 19.9 (ADM) - ajourne
+S1 - 16.8 (ADM) - 7.0 (AJ) - 17.5 (ADM) - 18.5 (ADM) - 12.0 (ADM) - 0.1 (ADC) - 
+S2 - 5.2 (ADC) - 5.6 (AJ) - 10.0 (ADM) - 6.5 (ADC) - 12.6 (ADM) - 19.9 (ADM) - 
+B1 - 11.0 (ADM) - 6.3 (AJB) - 13.7 (ADM) - 12.5 (ADM) - 12.3 (ADM) - 10.0 (ADM) - ajourne
 Note enregistree 
 Note enregistree 
 Etudiant hors formation
@@ -1432,7 +1435,7 @@ Note enregistree
 23 - Nil Zoe - S1 - demission
 24 - Ide Rim - S3 - defaillance
 25 - Emi Aby - S4 - en cours
-26 - Izy Ons - S2 - ajourne
+26 - Izy Ons - S4 - ajourne
 Note enregistree 
 Note enregistree 
 Note enregistree 
@@ -1465,7 +1468,7 @@ Note enregistree
 23 - Nil Zoe - S1 - demission
 24 - Ide Rim - S3 - defaillance
 25 - Emi Aby - S4 - en cours
-26 - Izy Ons - S2 - ajourne
+26 - Izy Ons - S4 - ajourne
 Note enregistree 
 Note enregistree 
 Note enregistree 
@@ -1495,7 +1498,7 @@ Note enregistree
 23 - Nil Zoe - S1 - demission
 24 - Ide Rim - S3 - defaillance
 25 - Emi Aby - S4 - en cours
-26 - Izy Ons - S2 - ajourne
+26 - Izy Ons - S4 - ajourne
 Note enregistree 
 1 - Ani Cho - S4 - en cours
 2 - Mia Lya - S4 - en cours
@@ -1522,7 +1525,7 @@ Note enregistree
 23 - Nil Zoe - S1 - demission
 24 - Ide Rim - S3 - defaillance
 25 - Emi Aby - S4 - en cours
-26 - Izy Ons - S2 - ajourne
+26 - Izy Ons - S4 - ajourne
 Note enregistree 
 Note enregistree 
 Note enregistree 
@@ -1551,15 +1554,15 @@ Note enregistree
 23 - Nil Zoe - S1 - demission
 24 - Ide Rim - S3 - defaillance
 25 - Emi Aby - S4 - en cours
-26 - Izy Ons - S2 - ajourne
+26 - Izy Ons - S4 - ajourne
 Note enregistree 
 Note enregistree 
 Note enregistree 
 Note enregistree 
 2 Mia Lya
 S1 - 14.2 (ADM) - 2.9 (AJ) - 18.1 (ADM) - 15.5 (ADM) - 14.1 (ADM) - 5.5 (AJ) - 
-S2 - 18.8 (ADM) - 13.8 (ADM) - 2.7 (AJ) - 10.7 (ADM) - 18.5 (ADM) - 11.5 (ADM) - 
-B1 - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 
+S2 - 18.8 (ADM) - 13.8 (ADM) - 2.7 (ADC) - 10.7 (ADM) - 18.5 (ADM) - 11.5 (ADM) - 
+B1 - 16.5 (ADM) - 8.3 (AJ) - 10.4 (ADM) - 13.1 (ADM) - 16.3 (ADM) - 8.5 (AJ) - 
 S3 - 14.3 (ADM) - 2.5 (AJ) - 11.3 (ADM) - 15.3 (ADM) - 11.8 (ADM) - 17.2 (ADM) - 
 S4 - 15.3 (ADM) - * (*) - * (*) - 5.2 (AJ) - * (*) - 17.2 (ADM) - en cours
 Nom incorrect
@@ -1591,12 +1594,12 @@ Note enregistree
 23 - Nil Zoe - S1 - demission
 24 - Ide Rim - S3 - defaillance
 25 - Emi Aby - S4 - en cours
-26 - Izy Ons - S2 - ajourne
+26 - Izy Ons - S4 - ajourne
 Note enregistree 
 16 Ian Ria
 S1 - 10.5 (ADM) - 7.2 (AJ) - 14.8 (ADM) - 16.3 (ADM) - 12.5 (ADM) - 15.5 (ADM) - 
-S2 - 9.7 (AJ) - 9.4 (AJ) - 5.7 (AJ) - 4.3 (AJ) - 6.8 (AJ) - 16.0 (ADM) - 
-B1 - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 
+S2 - 9.7 (ADC) - 9.4 (AJ) - 5.7 (ADC) - 4.3 (ADC) - 6.8 (AJ) - 16.0 (ADM) - 
+B1 - 10.1 (ADM) - 8.3 (AJ) - 10.2 (ADM) - 10.3 (ADM) - 9.7 (AJ) - 15.7 (ADM) - 
 S3 - 11.5 (ADM) - 14.0 (ADM) - 19.2 (ADM) - 19.0 (ADM) - 18.9 (ADM) - 11.5 (ADM) - 
 S4 - 10.3 (ADM) - 11.3 (ADM) - * (*) - * (*) - 14.7 (ADM) - 4.7 (AJ) - en cours
 Note enregistree 
@@ -1631,7 +1634,7 @@ Note enregistree
 23 - Nil Zoe - S1 - demission
 24 - Ide Rim - S3 - defaillance
 25 - Emi Aby - S4 - en cours
-26 - Izy Ons - S2 - ajourne
+26 - Izy Ons - S4 - ajourne
 Note enregistree 
 Note enregistree 
 Note enregistree 
@@ -1647,9 +1650,9 @@ Note enregistree
 Semestre termine pour 0 etudiant(s)
 Note enregistree 
 14 Loo Rob
-S1 - 1.6 (AJ) - 19.4 (ADM) - 14.4 (ADM) - 5.8 (AJ) - 6.2 (AJ) - 12.9 (ADM) - 
-S2 - 18.5 (ADM) - 3.4 (AJ) - 13.9 (ADM) - 14.5 (ADM) - 9.8 (AJ) - 11.7 (ADM) - 
-B1 - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 
+S1 - 1.6 (ADC) - 19.4 (ADM) - 14.4 (ADM) - 5.8 (ADC) - 6.2 (AJ) - 12.9 (ADM) - 
+S2 - 18.5 (ADM) - 3.4 (ADC) - 13.9 (ADM) - 14.5 (ADM) - 9.8 (AJ) - 11.7 (ADM) - 
+B1 - 10.1 (ADM) - 11.4 (ADM) - 14.1 (ADM) - 10.2 (ADM) - 8.0 (AJ) - 12.3 (ADM) - 
 S3 - 10.5 (ADM) - 8.0 (AJ) - 6.0 (AJ) - 17.7 (ADM) - 13.2 (ADM) - 10.0 (ADM) - 
 S4 - * (*) - 16.7 (ADM) - 9.9 (AJ) - 15.6 (ADM) - 18.9 (ADM) - 15.1 (ADM) - en cours
 Note enregistree 
@@ -1688,7 +1691,7 @@ Note enregistree
 23 - Nil Zoe - S1 - demission
 24 - Ide Rim - S3 - defaillance
 25 - Emi Aby - S4 - en cours
-26 - Izy Ons - S2 - ajourne
+26 - Izy Ons - S4 - ajourne
 Etudiant hors formation
 Note enregistree 
 Note enregistree 
@@ -1708,7 +1711,7 @@ Note enregistree
 Note enregistree 
 Note enregistree 
 Note enregistree 
-Semestre termine pour 14 etudiant(s)
+Semestre termine pour 17 etudiant(s)
 20 Apo Tya
 S1 - 11.0 (ADM) - 14.3 (ADM) - 8.2 (AJ) - 18.4 (ADM) - 6.4 (AJ) - 8.5 (AJ) - 
 S2 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - demission
@@ -1727,11 +1730,11 @@ Note enregistree
 Note enregistree 
 1 Ani Cho
 S1 - 16.5 (ADM) - 18.6 (ADM) - 17.3 (ADM) - 11.1 (ADM) - 18.4 (ADM) - 14.1 (ADM) - 
-S2 - 11.2 (ADM) - 16.6 (ADM) - 0.7 (AJ) - 15.4 (ADM) - 12.4 (ADM) - 9.4 (AJ) - 
-B1 - 14.9 () - 8.1 () - 11.5 () - 10.8 () - 16.3 () - 8.0 () - 
-S3 - 17.6 (ADM) - 6.5 (AJ) - 4.5 (AJ) - 10.5 (ADM) - 15.1 (ADM) - 7.0 (AJ) - 
+S2 - 11.2 (ADM) - 16.6 (ADM) - 0.7 (AJ) - 15.4 (ADM) - 12.4 (ADM) - 9.4 (ADC) - 
+B1 - 13.8 (ADM) - 17.6 (ADM) - 9.0 (AJ) - 13.2 (ADM) - 15.4 (ADM) - 11.8 (ADM) - 
+S3 - 17.6 (ADM) - 6.5 (AJ) - 4.5 (ADC) - 10.5 (ADM) - 15.1 (ADM) - 7.0 (AJ) - 
 S4 - 12.2 (ADM) - 9.8 (AJ) - 18.6 (ADM) - 11.2 (ADM) - 17.4 (ADM) - 9.0 (AJ) - 
-B2 - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 
+B2 - 14.9 (ADM) - 8.1 (AJ) - 11.5 (ADM) - 10.8 (ADM) - 16.3 (ADM) - 8.0 (AJ) - 
 S5 - * (*) - * (*) - 1.2 (AJ) - * (*) - 17.1 (ADM) - * (*) - en cours
 Note enregistree 
 1 - Ani Cho - S5 - en cours
@@ -1748,7 +1751,7 @@ Note enregistree
 12 - Bia Lea - S5 - en cours
 13 - Sam Lyn - S1 - defaillance
 14 - Loo Rob - S5 - en cours
-15 - Nil Asa - S4 - ajourne
+15 - Nil Asa - S5 - ajourne
 16 - Ian Ria - S5 - en cours
 17 - Ray Izy - S4 - defaillance
 18 - Roy Asa - S3 - demission
@@ -1758,8 +1761,8 @@ Note enregistree
 22 - Cho Thy - S5 - en cours
 23 - Nil Zoe - S1 - demission
 24 - Ide Rim - S3 - defaillance
-25 - Emi Aby - S4 - ajourne
-26 - Izy Ons - S2 - ajourne
+25 - Emi Aby - S5 - ajourne
+26 - Izy Ons - S4 - ajourne
 Note enregistree 
 Note enregistree 
 Note enregistree 
@@ -1778,7 +1781,7 @@ Note enregistree
 12 - Bia Lea - S5 - en cours
 13 - Sam Lyn - S1 - defaillance
 14 - Loo Rob - S5 - en cours
-15 - Nil Asa - S4 - ajourne
+15 - Nil Asa - S5 - ajourne
 16 - Ian Ria - S5 - en cours
 17 - Ray Izy - S4 - defaillance
 18 - Roy Asa - S3 - demission
@@ -1788,8 +1791,8 @@ Note enregistree
 22 - Cho Thy - S5 - en cours
 23 - Nil Zoe - S1 - demission
 24 - Ide Rim - S3 - defaillance
-25 - Emi Aby - S4 - ajourne
-26 - Izy Ons - S2 - ajourne
+25 - Emi Aby - S5 - ajourne
+26 - Izy Ons - S4 - ajourne
 Note enregistree 
 Note enregistree 
 Note enregistree 
@@ -1813,7 +1816,7 @@ Demission enregistree
 12 - Bia Lea - S5 - en cours
 13 - Sam Lyn - S1 - defaillance
 14 - Loo Rob - S5 - en cours
-15 - Nil Asa - S4 - ajourne
+15 - Nil Asa - S5 - ajourne
 16 - Ian Ria - S5 - en cours
 17 - Ray Izy - S4 - defaillance
 18 - Roy Asa - S3 - demission
@@ -1823,8 +1826,8 @@ Demission enregistree
 22 - Cho Thy - S5 - demission
 23 - Nil Zoe - S1 - demission
 24 - Ide Rim - S3 - defaillance
-25 - Emi Aby - S4 - ajourne
-26 - Izy Ons - S2 - ajourne
+25 - Emi Aby - S5 - ajourne
+26 - Izy Ons - S4 - ajourne
 Note enregistree 
 Note enregistree 
 1 - Ani Cho - S5 - en cours
@@ -1841,7 +1844,7 @@ Note enregistree
 12 - Bia Lea - S5 - en cours
 13 - Sam Lyn - S1 - defaillance
 14 - Loo Rob - S5 - en cours
-15 - Nil Asa - S4 - ajourne
+15 - Nil Asa - S5 - ajourne
 16 - Ian Ria - S5 - en cours
 17 - Ray Izy - S4 - defaillance
 18 - Roy Asa - S3 - demission
@@ -1851,8 +1854,8 @@ Note enregistree
 22 - Cho Thy - S5 - demission
 23 - Nil Zoe - S1 - demission
 24 - Ide Rim - S3 - defaillance
-25 - Emi Aby - S4 - ajourne
-26 - Izy Ons - S2 - ajourne
+25 - Emi Aby - S5 - ajourne
+26 - Izy Ons - S4 - ajourne
 Note enregistree 
 Note enregistree 
 Note enregistree 
@@ -1885,7 +1888,7 @@ Note enregistree
 12 - Bia Lea - S5 - en cours
 13 - Sam Lyn - S1 - defaillance
 14 - Loo Rob - S5 - en cours
-15 - Nil Asa - S4 - ajourne
+15 - Nil Asa - S5 - ajourne
 16 - Ian Ria - S5 - en cours
 17 - Ray Izy - S4 - defaillance
 18 - Roy Asa - S3 - demission
@@ -1895,8 +1898,8 @@ Note enregistree
 22 - Cho Thy - S5 - demission
 23 - Nil Zoe - S1 - demission
 24 - Ide Rim - S3 - defaillance
-25 - Emi Aby - S4 - ajourne
-26 - Izy Ons - S2 - ajourne
+25 - Emi Aby - S5 - ajourne
+26 - Izy Ons - S4 - ajourne
 Note enregistree 
 Note enregistree 
 Note enregistree 
@@ -1915,7 +1918,7 @@ Note enregistree
 12 - Bia Lea - S5 - en cours
 13 - Sam Lyn - S1 - defaillance
 14 - Loo Rob - S5 - en cours
-15 - Nil Asa - S4 - ajourne
+15 - Nil Asa - S5 - ajourne
 16 - Ian Ria - S5 - en cours
 17 - Ray Izy - S4 - defaillance
 18 - Roy Asa - S3 - demission
@@ -1925,8 +1928,8 @@ Note enregistree
 22 - Cho Thy - S5 - demission
 23 - Nil Zoe - S1 - demission
 24 - Ide Rim - S3 - defaillance
-25 - Emi Aby - S4 - ajourne
-26 - Izy Ons - S2 - ajourne
+25 - Emi Aby - S5 - ajourne
+26 - Izy Ons - S4 - ajourne
 Note enregistree 
 Note enregistree 
 Note enregistree 
@@ -1935,27 +1938,29 @@ Note enregistree
 Note enregistree 
 1 Ani Cho
 S1 - 16.5 (ADM) - 18.6 (ADM) - 17.3 (ADM) - 11.1 (ADM) - 18.4 (ADM) - 14.1 (ADM) - 
-S2 - 11.2 (ADM) - 16.6 (ADM) - 0.7 (AJ) - 15.4 (ADM) - 12.4 (ADM) - 9.4 (AJ) - 
-B1 - 14.9 () - 8.1 () - 11.5 () - 10.8 () - 16.3 () - 8.0 () - 
-S3 - 17.6 (ADM) - 6.5 (AJ) - 4.5 (AJ) - 10.5 (ADM) - 15.1 (ADM) - 7.0 (AJ) - 
+S2 - 11.2 (ADM) - 16.6 (ADM) - 0.7 (AJ) - 15.4 (ADM) - 12.4 (ADM) - 9.4 (ADC) - 
+B1 - 13.8 (ADM) - 17.6 (ADM) - 9.0 (AJ) - 13.2 (ADM) - 15.4 (ADM) - 11.8 (ADM) - 
+S3 - 17.6 (ADM) - 6.5 (AJ) - 4.5 (ADC) - 10.5 (ADM) - 15.1 (ADM) - 7.0 (AJ) - 
 S4 - 12.2 (ADM) - 9.8 (AJ) - 18.6 (ADM) - 11.2 (ADM) - 17.4 (ADM) - 9.0 (AJ) - 
-B2 - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 
+B2 - 14.9 (ADM) - 8.1 (AJ) - 11.5 (ADM) - 10.8 (ADM) - 16.3 (ADM) - 8.0 (AJ) - 
 S5 - 4.1 (AJ) - 15.0 (ADM) - 1.2 (AJ) - 3.5 (AJ) - 17.1 (ADM) - 7.3 (AJ) - en cours
 Note enregistree 
 4 Ide Eri
-S1 - 16.8 (ADM) - 7.0 (AJ) - 17.5 (ADM) - 18.5 (ADM) - 12.0 (ADM) - 0.1 (AJ) - 
-S2 - 5.2 (AJ) - 5.6 (AJ) - 10.0 (ADM) - 6.5 (AJ) - 12.6 (ADM) - 19.9 (ADM) - ajourne
+S1 - 16.8 (ADM) - 7.0 (AJ) - 17.5 (ADM) - 18.5 (ADM) - 12.0 (ADM) - 0.1 (ADC) - 
+S2 - 5.2 (ADC) - 5.6 (AJ) - 10.0 (ADM) - 6.5 (ADC) - 12.6 (ADM) - 19.9 (ADM) - 
+B1 - 11.0 (ADM) - 6.3 (AJB) - 13.7 (ADM) - 12.5 (ADM) - 12.3 (ADM) - 10.0 (ADM) - ajourne
 Note enregistree 
 Note enregistree 
 Note enregistree 
 Note enregistree 
-Semestre termine pour 8 etudiant(s)
+Semestre termine pour 10 etudiant(s)
 Note enregistree 
 Note enregistree 
 Note enregistree 
 11 Jil Kye
 S1 - 18.8 (ADM) - 16.1 (ADM) - 11.5 (ADM) - 19.1 (ADM) - 4.6 (AJ) - 16.5 (ADM) - 
-S2 - 11.0 (ADM) - 16.5 (ADM) - 11.8 (ADM) - 18.0 (ADM) - 5.8 (AJ) - 7.6 (AJ) - ajourne
+S2 - 11.0 (ADM) - 16.5 (ADM) - 11.8 (ADM) - 18.0 (ADM) - 5.8 (AJ) - 7.6 (ADC) - 
+B1 - 14.9 (ADM) - 16.3 (ADM) - 11.7 (ADM) - 18.5 (ADM) - 5.2 (AJB) - 12.0 (ADM) - ajourne
 Note enregistree 
 Note enregistree 
 Demission enregistree
@@ -1974,7 +1979,7 @@ Note enregistree
 12 - Bia Lea - S6 - en cours
 13 - Sam Lyn - S1 - defaillance
 14 - Loo Rob - S6 - demission
-15 - Nil Asa - S4 - ajourne
+15 - Nil Asa - S6 - ajourne
 16 - Ian Ria - S6 - en cours
 17 - Ray Izy - S4 - defaillance
 18 - Roy Asa - S3 - demission
@@ -1984,26 +1989,27 @@ Note enregistree
 22 - Cho Thy - S5 - demission
 23 - Nil Zoe - S1 - demission
 24 - Ide Rim - S3 - defaillance
-25 - Emi Aby - S4 - ajourne
-26 - Izy Ons - S2 - ajourne
+25 - Emi Aby - S6 - ajourne
+26 - Izy Ons - S4 - ajourne
 Note enregistree 
 Note enregistree 
 Note enregistree 
 16 Ian Ria
 S1 - 10.5 (ADM) - 7.2 (AJ) - 14.8 (ADM) - 16.3 (ADM) - 12.5 (ADM) - 15.5 (ADM) - 
-S2 - 9.7 (AJ) - 9.4 (AJ) - 5.7 (AJ) - 4.3 (AJ) - 6.8 (AJ) - 16.0 (ADM) - 
-B1 - 10.9 () - 12.6 () - 18.2 () - 14.7 () - 16.8 () - 8.1 () - 
+S2 - 9.7 (ADC) - 9.4 (AJ) - 5.7 (ADC) - 4.3 (ADC) - 6.8 (AJ) - 16.0 (ADM) - 
+B1 - 10.1 (ADM) - 8.3 (AJ) - 10.2 (ADM) - 10.3 (ADM) - 9.7 (AJ) - 15.7 (ADM) - 
 S3 - 11.5 (ADM) - 14.0 (ADM) - 19.2 (ADM) - 19.0 (ADM) - 18.9 (ADM) - 11.5 (ADM) - 
 S4 - 10.3 (ADM) - 11.3 (ADM) - 17.3 (ADM) - 10.4 (ADM) - 14.7 (ADM) - 4.7 (AJ) - 
-B2 - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 
+B2 - 10.9 (ADM) - 12.6 (ADM) - 18.2 (ADM) - 14.7 (ADM) - 16.8 (ADM) - 8.1 (AJ) - 
 S5 - 8.5 (AJ) - 8.6 (AJ) - 14.4 (ADM) - 19.0 (ADM) - 15.6 (ADM) - 6.6 (AJ) - 
-S6 - * (*) - * (*) - * (*) - 10.9 (ADM) - 10.5 (ADM) - 9.7 (AJ) - en cours
+S6 - * (*) - * (*) - * (*) - 10.9 (ADM) - 10.5 (ADM) - 9.7 (AJ) - 
+B3 - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - en cours
 Note enregistree 
 Note enregistree 
 18 Roy Asa
-S1 - 10.1 (ADM) - 9.9 (AJ) - 7.0 (AJ) - 1.2 (AJ) - 19.7 (ADM) - 4.5 (AJ) - 
+S1 - 10.1 (ADM) - 9.9 (AJ) - 7.0 (AJ) - 1.2 (ADC) - 19.7 (ADM) - 4.5 (ADC) - 
 S2 - 19.7 (ADM) - 6.3 (AJ) - 9.2 (AJ) - 19.2 (ADM) - 17.3 (ADM) - 19.8 (ADM) - 
-B1 - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 
+B1 - 14.9 (ADM) - 8.1 (AJ) - 8.1 (AJ) - 10.2 (ADM) - 18.5 (ADM) - 12.1 (ADM) - 
 S3 - * (*) - 14.7 (ADM) - 3.5 (AJ) - * (*) - 19.0 (ADM) - 0.6 (AJ) - demission
 Note enregistree 
 Note enregistree 
@@ -2028,7 +2034,7 @@ Note enregistree
 12 - Bia Lea - S6 - en cours
 13 - Sam Lyn - S1 - defaillance
 14 - Loo Rob - S6 - demission
-15 - Nil Asa - S4 - ajourne
+15 - Nil Asa - S6 - ajourne
 16 - Ian Ria - S6 - en cours
 17 - Ray Izy - S4 - defaillance
 18 - Roy Asa - S3 - demission
@@ -2038,19 +2044,20 @@ Note enregistree
 22 - Cho Thy - S5 - demission
 23 - Nil Zoe - S1 - demission
 24 - Ide Rim - S3 - defaillance
-25 - Emi Aby - S4 - ajourne
-26 - Izy Ons - S2 - ajourne
+25 - Emi Aby - S6 - ajourne
+26 - Izy Ons - S4 - ajourne
 Note enregistree 
 13 Sam Lyn
 S1 - 13.5 (ADM) - 5.1 (AJ) - 7.8 (AJ) - * (*) - 13.1 (ADM) - * (*) - defaillance
 Note enregistree 
 Note enregistree 
 3 Gao Eva
-S1 - 16.6 (ADM) - 16.5 (ADM) - 5.6 (AJ) - 0.8 (AJ) - 8.0 (AJ) - 15.8 (ADM) - 
-S2 - 13.4 (ADM) - 10.7 (ADM) - 17.4 (ADM) - 16.9 (ADM) - 10.0 (ADM) - 8.3 (AJ) - 
-B1 - 11.3 () - 10.2 () - 12.2 () - 5.1 () - 15.1 () - 13.7 () - 
-S3 - 10.9 (ADM) - 0.8 (AJ) - 15.1 (ADM) - 5.0 (AJ) - 18.7 (ADM) - 16.8 (ADM) - 
-S4 - 11.8 (ADM) - 19.6 (ADM) - 9.4 (AJ) - 5.1 (AJ) - 11.4 (ADM) - 10.6 (ADM) - ajourne
+S1 - 16.6 (ADM) - 16.5 (ADM) - 5.6 (ADC) - 0.8 (AJ) - 8.0 (AJ) - 15.8 (ADM) - 
+S2 - 13.4 (ADM) - 10.7 (ADM) - 17.4 (ADM) - 16.9 (ADM) - 10.0 (ADM) - 8.3 (ADC) - 
+B1 - 15.0 (ADM) - 13.6 (ADM) - 11.5 (ADM) - 8.8 (AJ) - 9.0 (AJ) - 12.0 (ADM) - 
+S3 - 10.9 (ADM) - 0.8 (ADC) - 15.1 (ADM) - 5.0 (AJ) - 18.7 (ADM) - 16.8 (ADM) - 
+S4 - 11.8 (ADM) - 19.6 (ADM) - 9.4 (ADC) - 5.1 (AJ) - 11.4 (ADM) - 10.6 (ADM) - 
+B2 - 11.3 (ADM) - 10.2 (ADM) - 12.2 (ADM) - 5.1 (AJB) - 15.1 (ADM) - 13.7 (ADM) - ajourne
 Note enregistree 
 Note enregistree 
 Note enregistree 
@@ -2068,7 +2075,7 @@ Note enregistree
 12 - Bia Lea - S6 - en cours
 13 - Sam Lyn - S1 - defaillance
 14 - Loo Rob - S6 - demission
-15 - Nil Asa - S4 - ajourne
+15 - Nil Asa - S6 - ajourne
 16 - Ian Ria - S6 - en cours
 17 - Ray Izy - S4 - defaillance
 18 - Roy Asa - S3 - demission
@@ -2078,8 +2085,8 @@ Note enregistree
 22 - Cho Thy - S5 - demission
 23 - Nil Zoe - S1 - demission
 24 - Ide Rim - S3 - defaillance
-25 - Emi Aby - S4 - ajourne
-26 - Izy Ons - S2 - ajourne
+25 - Emi Aby - S6 - ajourne
+26 - Izy Ons - S4 - ajourne
 Note enregistree 
 Note enregistree 
 Note enregistree 
@@ -2110,7 +2117,7 @@ Note enregistree
 12 - Bia Lea - S6 - en cours
 13 - Sam Lyn - S1 - defaillance
 14 - Loo Rob - S6 - demission
-15 - Nil Asa - S4 - ajourne
+15 - Nil Asa - S6 - ajourne
 16 - Ian Ria - S6 - en cours
 17 - Ray Izy - S4 - defaillance
 18 - Roy Asa - S3 - demission
@@ -2120,198 +2127,216 @@ Note enregistree
 22 - Cho Thy - S5 - demission
 23 - Nil Zoe - S1 - demission
 24 - Ide Rim - S3 - defaillance
-25 - Emi Aby - S4 - ajourne
-26 - Izy Ons - S2 - ajourne
+25 - Emi Aby - S6 - ajourne
+26 - Izy Ons - S4 - ajourne
 Note enregistree 
-Semestre termine pour 6 etudiant(s)
-1 - Ani Cho - S7 - en cours
+Semestre termine pour 8 etudiant(s)
+1 - Ani Cho - S6 - diplome
 2 - Mia Lya - S4 - ajourne
 3 - Gao Eva - S4 - ajourne
 4 - Ide Eri - S2 - ajourne
 5 - Yva Cam - S2 - defaillance
-6 - Xin Ece - S7 - en cours
+6 - Xin Ece - S6 - diplome
 7 - Ray Mia - S5 - defaillance
 8 - Xin Rob - S6 - defaillance
-9 - Ian Noy - S6 - ajourne
+9 - Ian Noy - S6 - diplome
 10 - Vic Paz - S2 - ajourne
 11 - Jil Kye - S2 - ajourne
-12 - Bia Lea - S7 - en cours
+12 - Bia Lea - S6 - diplome
 13 - Sam Lyn - S1 - defaillance
 14 - Loo Rob - S6 - demission
-15 - Nil Asa - S4 - ajourne
-16 - Ian Ria - S7 - en cours
+15 - Nil Asa - S6 - ajourne
+16 - Ian Ria - S6 - diplome
 17 - Ray Izy - S4 - defaillance
 18 - Roy Asa - S3 - demission
-19 - Cho Kye - S6 - ajourne
+19 - Cho Kye - S6 - diplome
 20 - Apo Tya - S2 - demission
 21 - Dan Asa - S4 - demission
 22 - Cho Thy - S5 - demission
 23 - Nil Zoe - S1 - demission
 24 - Ide Rim - S3 - defaillance
-25 - Emi Aby - S4 - ajourne
-26 - Izy Ons - S2 - ajourne
+25 - Emi Aby - S6 - ajourne
+26 - Izy Ons - S4 - ajourne
 1 Ani Cho
 S1 - 16.5 (ADM) - 18.6 (ADM) - 17.3 (ADM) - 11.1 (ADM) - 18.4 (ADM) - 14.1 (ADM) - 
-S2 - 11.2 (ADM) - 16.6 (ADM) - 0.7 (AJ) - 15.4 (ADM) - 12.4 (ADM) - 9.4 (AJ) - 
-B1 - 14.9 () - 8.1 () - 11.5 () - 10.8 () - 16.3 () - 8.0 () - 
-S3 - 17.6 (ADM) - 6.5 (AJ) - 4.5 (AJ) - 10.5 (ADM) - 15.1 (ADM) - 7.0 (AJ) - 
+S2 - 11.2 (ADM) - 16.6 (ADM) - 0.7 (AJ) - 15.4 (ADM) - 12.4 (ADM) - 9.4 (ADC) - 
+B1 - 13.8 (ADM) - 17.6 (ADM) - 9.0 (AJ) - 13.2 (ADM) - 15.4 (ADM) - 11.8 (ADM) - 
+S3 - 17.6 (ADM) - 6.5 (AJ) - 4.5 (ADC) - 10.5 (ADM) - 15.1 (ADM) - 7.0 (AJ) - 
 S4 - 12.2 (ADM) - 9.8 (AJ) - 18.6 (ADM) - 11.2 (ADM) - 17.4 (ADM) - 9.0 (AJ) - 
-B2 - 10.1 () - 14.0 () - 10.5 () - 10.7 () - 10.4 () - 9.3 () - 
-S5 - 4.1 (AJ) - 15.0 (ADM) - 1.2 (AJ) - 3.5 (AJ) - 17.1 (ADM) - 7.3 (AJ) - 
-S6 - 16.1 (ADM) - 13.0 (ADM) - 19.9 (ADM) - 17.9 (ADM) - 3.8 (AJ) - 11.3 (ADM) - 
-B3 - 0.0 (nﬁÍ≥V) - 0.0 () - 0.0 () - * (*) - 0.0 (Ô€Í≥V) - 0.0 () - 
-S7 - 0.0 ({^A) - 0.0 (>
-çA) - 0.0 (◊£A) - 0.0 (◊£TA) - 0.0 (¬ıvA) - 0.0 (43=A) - en cours
+B2 - 14.9 (ADM) - 8.1 (AJ) - 11.5 (ADM) - 10.8 (ADM) - 16.3 (ADM) - 8.0 (AJ) - 
+S5 - 4.1 (ADC) - 15.0 (ADM) - 1.2 (ADC) - 3.5 (ADC) - 17.1 (ADM) - 7.3 (AJ) - 
+S6 - 16.1 (ADM) - 13.0 (ADM) - 19.9 (ADM) - 17.9 (ADM) - 3.8 (ADC) - 11.3 (ADM) - 
+B3 - 10.1 (ADM) - 14.0 (ADM) - 10.5 (ADM) - 10.7 (ADM) - 10.4 (ADM) - 9.3 (AJ) - diplome
 2 Mia Lya
 S1 - 14.2 (ADM) - 2.9 (AJ) - 18.1 (ADM) - 15.5 (ADM) - 14.1 (ADM) - 5.5 (AJ) - 
-S2 - 18.8 (ADM) - 13.8 (ADM) - 2.7 (AJ) - 10.7 (ADM) - 18.5 (ADM) - 11.5 (ADM) - 
-B1 - 14.8 () - 7.2 () - 14.3 () - 10.3 () - 15.3 () - 17.2 () - 
+S2 - 18.8 (ADM) - 13.8 (ADM) - 2.7 (ADC) - 10.7 (ADM) - 18.5 (ADM) - 11.5 (ADM) - 
+B1 - 16.5 (ADM) - 8.3 (AJ) - 10.4 (ADM) - 13.1 (ADM) - 16.3 (ADM) - 8.5 (AJ) - 
 S3 - 14.3 (ADM) - 2.5 (AJ) - 11.3 (ADM) - 15.3 (ADM) - 11.8 (ADM) - 17.2 (ADM) - 
-S4 - 15.3 (ADM) - 11.9 (ADM) - 17.3 (ADM) - 5.2 (AJ) - 18.9 (ADM) - 17.2 (ADM) - ajourne
+S4 - 15.3 (ADM) - 11.9 (ADM) - 17.3 (ADM) - 5.2 (ADC) - 18.9 (ADM) - 17.2 (ADM) - 
+B2 - 14.8 (ADM) - 7.2 (AJB) - 14.3 (ADM) - 10.3 (ADM) - 15.3 (ADM) - 17.2 (ADM) - ajourne
 3 Gao Eva
-S1 - 16.6 (ADM) - 16.5 (ADM) - 5.6 (AJ) - 0.8 (AJ) - 8.0 (AJ) - 15.8 (ADM) - 
-S2 - 13.4 (ADM) - 10.7 (ADM) - 17.4 (ADM) - 16.9 (ADM) - 10.0 (ADM) - 8.3 (AJ) - 
-B1 - 11.3 () - 10.2 () - 12.2 () - 5.1 () - 15.1 () - 13.7 () - 
-S3 - 10.9 (ADM) - 0.8 (AJ) - 15.1 (ADM) - 5.0 (AJ) - 18.7 (ADM) - 16.8 (ADM) - 
-S4 - 11.8 (ADM) - 19.6 (ADM) - 9.4 (AJ) - 5.1 (AJ) - 11.4 (ADM) - 10.6 (ADM) - ajourne
+S1 - 16.6 (ADM) - 16.5 (ADM) - 5.6 (ADC) - 0.8 (AJ) - 8.0 (AJ) - 15.8 (ADM) - 
+S2 - 13.4 (ADM) - 10.7 (ADM) - 17.4 (ADM) - 16.9 (ADM) - 10.0 (ADM) - 8.3 (ADC) - 
+B1 - 15.0 (ADM) - 13.6 (ADM) - 11.5 (ADM) - 8.8 (AJ) - 9.0 (AJ) - 12.0 (ADM) - 
+S3 - 10.9 (ADM) - 0.8 (ADC) - 15.1 (ADM) - 5.0 (AJ) - 18.7 (ADM) - 16.8 (ADM) - 
+S4 - 11.8 (ADM) - 19.6 (ADM) - 9.4 (ADC) - 5.1 (AJ) - 11.4 (ADM) - 10.6 (ADM) - 
+B2 - 11.3 (ADM) - 10.2 (ADM) - 12.2 (ADM) - 5.1 (AJB) - 15.1 (ADM) - 13.7 (ADM) - ajourne
 4 Ide Eri
-S1 - 16.8 (ADM) - 7.0 (AJ) - 17.5 (ADM) - 18.5 (ADM) - 12.0 (ADM) - 0.1 (AJ) - 
-S2 - 5.2 (AJ) - 5.6 (AJ) - 10.0 (ADM) - 6.5 (AJ) - 12.6 (ADM) - 19.9 (ADM) - ajourne
+S1 - 16.8 (ADM) - 7.0 (AJ) - 17.5 (ADM) - 18.5 (ADM) - 12.0 (ADM) - 0.1 (ADC) - 
+S2 - 5.2 (ADC) - 5.6 (AJ) - 10.0 (ADM) - 6.5 (ADC) - 12.6 (ADM) - 19.9 (ADM) - 
+B1 - 11.0 (ADM) - 6.3 (AJB) - 13.7 (ADM) - 12.5 (ADM) - 12.3 (ADM) - 10.0 (ADM) - ajourne
 5 Yva Cam
 S1 - 13.6 (ADM) - 1.7 (AJ) - 12.2 (ADM) - 3.5 (AJ) - 17.6 (ADM) - 10.5 (ADM) - 
 S2 - * (*) - * (*) - * (*) - 18.4 (ADM) - 0.9 (AJ) - 2.1 (AJ) - defaillance
 6 Xin Ece
-S1 - 12.8 (ADM) - 17.8 (ADM) - 12.6 (ADM) - 15.8 (ADM) - 8.9 (AJ) - 13.8 (ADM) - 
+S1 - 12.8 (ADM) - 17.8 (ADM) - 12.6 (ADM) - 15.8 (ADM) - 8.9 (ADC) - 13.8 (ADM) - 
 S2 - 19.2 (ADM) - 19.2 (ADM) - 16.8 (ADM) - 0.2 (AJ) - 16.7 (ADM) - 13.5 (ADM) - 
-B1 - 9.4 () - 9.7 () - 13.8 () - 11.3 () - 13.8 () - 12.8 () - 
-S3 - 5.0 (AJ) - 0.1 (AJ) - 9.6 (AJ) - 16.0 (ADM) - 13.9 (ADM) - 19.5 (ADM) - 
-S4 - 13.9 (ADM) - 19.4 (ADM) - 18.0 (ADM) - 6.7 (AJ) - 13.6 (ADM) - 6.0 (AJ) - 
-B2 - 10.5 () - 16.8 () - 10.0 () - 11.6 () - 10.9 () - 10.4 () - 
-S5 - 19.5 (ADM) - 17.7 (ADM) - 5.7 (AJ) - 17.0 (ADM) - 10.7 (ADM) - 19.3 (ADM) - 
-S6 - 1.5 (AJ) - 15.9 (ADM) - 14.2 (ADM) - 6.3 (AJ) - 11.0 (ADM) - 1.5 (AJ) - 
-B3 - 0.0 (nﬁÍ≥V) - 0.0 () - 0.0 () - * (*) - 0.0 (Ô€Í≥V) - 0.0 () - 
-S7 - 0.0 (ÆGÄA) - 0.0 (\èîA) - 0.0 (öôkA) - 0.0 (ff) - 0.0 (ÜÎMA) - 0.0 (Ö[A) - en cours
+B1 - 16.0 (ADM) - 18.5 (ADM) - 14.7 (ADM) - 8.0 (AJ) - 12.8 (ADM) - 13.7 (ADM) - 
+S3 - 5.0 (AJ) - 0.1 (AJ) - 9.6 (ADC) - 16.0 (ADM) - 13.9 (ADM) - 19.5 (ADM) - 
+S4 - 13.9 (ADM) - 19.4 (ADM) - 18.0 (ADM) - 6.7 (ADC) - 13.6 (ADM) - 6.0 (ADC) - 
+B2 - 9.4 (AJ) - 9.7 (AJ) - 13.8 (ADM) - 11.3 (ADM) - 13.8 (ADM) - 12.8 (ADM) - 
+S5 - 19.5 (ADM) - 17.7 (ADM) - 5.7 (ADC) - 17.0 (ADM) - 10.7 (ADM) - 19.3 (ADM) - 
+S6 - 1.5 (ADC) - 15.9 (ADM) - 14.2 (ADM) - 6.3 (ADC) - 11.0 (ADM) - 1.5 (ADC) - 
+B3 - 10.5 (ADM) - 16.8 (ADM) - 10.0 (ADM) - 11.6 (ADM) - 10.9 (ADM) - 10.4 (ADM) - diplome
 7 Ray Mia
-S1 - 18.5 (ADM) - 0.8 (AJ) - 15.6 (ADM) - 14.7 (ADM) - 0.1 (AJ) - 14.0 (ADM) - 
-S2 - 19.7 (ADM) - 19.6 (ADM) - 5.6 (AJ) - 17.3 (ADM) - 19.8 (ADM) - 2.8 (AJ) - 
-B1 - 13.9 () - 10.8 () - 10.0 () - 12.4 () - 13.2 () - 12.4 () - 
-S3 - 14.2 (ADM) - 4.0 (AJ) - 0.1 (AJ) - 7.5 (AJ) - 15.3 (ADM) - 14.5 (ADM) - 
+S1 - 18.5 (ADM) - 0.8 (ADC) - 15.6 (ADM) - 14.7 (ADM) - 0.1 (ADC) - 14.0 (ADM) - 
+S2 - 19.7 (ADM) - 19.6 (ADM) - 5.6 (ADC) - 17.3 (ADM) - 19.8 (ADM) - 2.8 (AJ) - 
+B1 - 19.1 (ADM) - 10.2 (ADM) - 10.6 (ADM) - 16.0 (ADM) - 10.0 (ADM) - 8.4 (AJ) - 
+S3 - 14.2 (ADM) - 4.0 (ADC) - 0.1 (ADC) - 7.5 (ADC) - 15.3 (ADM) - 14.5 (ADM) - 
 S4 - 13.5 (ADM) - 17.5 (ADM) - 19.9 (ADM) - 17.4 (ADM) - 11.1 (ADM) - 10.3 (ADM) - 
-B2 - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 
+B2 - 13.9 (ADM) - 10.8 (ADM) - 10.0 (ADM) - 12.4 (ADM) - 13.2 (ADM) - 12.4 (ADM) - 
 S5 - 13.6 (ADM) - * (*) - 19.7 (ADM) - * (*) - * (*) - * (*) - defaillance
 8 Xin Rob
-S1 - 5.1 (AJ) - 11.0 (ADM) - 15.0 (ADM) - 16.2 (ADM) - 7.2 (AJ) - 18.9 (ADM) - 
+S1 - 5.1 (ADC) - 11.0 (ADM) - 15.0 (ADM) - 16.2 (ADM) - 7.2 (AJ) - 18.9 (ADM) - 
 S2 - 17.2 (ADM) - 16.7 (ADM) - 10.1 (ADM) - 10.3 (ADM) - 9.3 (AJ) - 15.7 (ADM) - 
-B1 - 9.5 () - 10.7 () - 10.0 () - 10.5 () - 16.4 () - 10.5 () - 
-S3 - 14.8 (ADM) - 1.8 (AJ) - 2.7 (AJ) - 9.9 (AJ) - 13.8 (ADM) - 2.8 (AJ) - 
+B1 - 11.2 (ADM) - 13.8 (ADM) - 12.6 (ADM) - 13.3 (ADM) - 8.2 (AJ) - 17.3 (ADM) - 
+S3 - 14.8 (ADM) - 1.8 (ADC) - 2.7 (ADC) - 9.9 (ADC) - 13.8 (ADM) - 2.8 (ADC) - 
 S4 - 4.3 (AJ) - 19.5 (ADM) - 17.2 (ADM) - 11.1 (ADM) - 19.0 (ADM) - 18.2 (ADM) - 
-B2 - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 
+B2 - 9.5 (AJ) - 10.7 (ADM) - 10.0 (ADM) - 10.5 (ADM) - 16.4 (ADM) - 10.5 (ADM) - 
 S5 - 9.4 (AJ) - 13.6 (ADM) - 15.7 (ADM) - 9.4 (AJ) - 1.9 (AJ) - 10.6 (ADM) - 
-S6 - 15.9 (ADM) - 4.0 (AJ) - * (*) - 7.2 (AJ) - 0.2 (AJ) - 8.7 (AJ) - defaillance
+S6 - 15.9 (ADM) - 4.0 (AJ) - * (*) - 7.2 (AJ) - 0.2 (AJ) - 8.7 (AJ) - 
+B3 - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - defaillance
 9 Ian Noy
 S1 - 19.2 (ADM) - 19.6 (ADM) - 14.0 (ADM) - 14.9 (ADM) - 19.5 (ADM) - 19.6 (ADM) - 
-S2 - 5.5 (AJ) - 3.2 (AJ) - 12.2 (ADM) - 17.6 (ADM) - 18.7 (ADM) - 7.0 (AJ) - 
-B1 - 10.0 () - 10.4 () - 12.1 () - 10.4 () - 12.1 () - 11.8 () - 
-S3 - 19.7 (ADM) - 4.1 (AJ) - 18.6 (ADM) - 19.4 (ADM) - 17.0 (ADM) - 18.6 (ADM) - 
-S4 - 0.2 (AJ) - 16.6 (ADM) - 5.6 (AJ) - 1.5 (AJ) - 7.3 (AJ) - 5.0 (AJ) - 
-B2 - 8.9 () - 8.6 () - 11.4 () - 14.6 () - 8.6 () - 15.7 () - 
-S5 - 9.2 (AJ) - 7.7 (AJ) - 6.8 (AJ) - 12.7 (ADM) - 8.5 (AJ) - 18.8 (ADM) - 
-S6 - 8.7 (AJ) - 9.5 (AJ) - 16.1 (ADM) - 16.5 (ADM) - 8.7 (AJ) - 12.7 (ADM) - ajourne
+S2 - 5.5 (ADC) - 3.2 (ADC) - 12.2 (ADM) - 17.6 (ADM) - 18.7 (ADM) - 7.0 (ADC) - 
+B1 - 12.4 (ADM) - 11.4 (ADM) - 13.1 (ADM) - 16.3 (ADM) - 19.1 (ADM) - 13.3 (ADM) - 
+S3 - 19.7 (ADM) - 4.1 (ADC) - 18.6 (ADM) - 19.4 (ADM) - 17.0 (ADM) - 18.6 (ADM) - 
+S4 - 0.2 (ADC) - 16.6 (ADM) - 5.6 (ADC) - 1.5 (ADC) - 7.3 (ADC) - 5.0 (ADC) - 
+B2 - 10.0 (ADM) - 10.4 (ADM) - 12.1 (ADM) - 10.4 (ADM) - 12.1 (ADM) - 11.8 (ADM) - 
+S5 - 9.2 (AJ) - 7.7 (AJ) - 6.8 (ADC) - 12.7 (ADM) - 8.5 (AJ) - 18.8 (ADM) - 
+S6 - 8.7 (AJ) - 9.5 (AJ) - 16.1 (ADM) - 16.5 (ADM) - 8.7 (AJ) - 12.7 (ADM) - 
+B3 - 8.9 (AJ) - 8.6 (AJ) - 11.4 (ADM) - 14.6 (ADM) - 8.6 (AJ) - 15.7 (ADM) - diplome
 10 Vic Paz
-S1 - 19.4 (ADM) - 9.5 (AJ) - 0.7 (AJ) - 10.6 (ADM) - 16.0 (ADM) - 2.1 (AJ) - 
-S2 - 11.9 (ADM) - 11.9 (ADM) - 19.7 (ADM) - 14.7 (ADM) - 19.3 (ADM) - 12.2 (ADM) - ajourne
+S1 - 19.4 (ADM) - 9.5 (ADC) - 0.7 (ADC) - 10.6 (ADM) - 16.0 (ADM) - 2.1 (AJ) - 
+S2 - 11.9 (ADM) - 11.9 (ADM) - 19.7 (ADM) - 14.7 (ADM) - 19.3 (ADM) - 12.2 (ADM) - 
+B1 - 15.6 (ADM) - 10.7 (ADM) - 10.2 (ADM) - 12.7 (ADM) - 17.6 (ADM) - 7.2 (AJB) - ajourne
 11 Jil Kye
 S1 - 18.8 (ADM) - 16.1 (ADM) - 11.5 (ADM) - 19.1 (ADM) - 4.6 (AJ) - 16.5 (ADM) - 
-S2 - 11.0 (ADM) - 16.5 (ADM) - 11.8 (ADM) - 18.0 (ADM) - 5.8 (AJ) - 7.6 (AJ) - ajourne
+S2 - 11.0 (ADM) - 16.5 (ADM) - 11.8 (ADM) - 18.0 (ADM) - 5.8 (AJ) - 7.6 (ADC) - 
+B1 - 14.9 (ADM) - 16.3 (ADM) - 11.7 (ADM) - 18.5 (ADM) - 5.2 (AJB) - 12.0 (ADM) - ajourne
 12 Bia Lea
-S1 - 15.0 (ADM) - 16.5 (ADM) - 0.7 (AJ) - 16.0 (ADM) - 15.2 (ADM) - 19.9 (ADM) - 
-S2 - 3.2 (AJ) - 5.3 (AJ) - 19.6 (ADM) - 9.2 (AJ) - 2.8 (AJ) - 0.3 (AJ) - 
-B1 - 10.4 () - 8.3 () - 9.6 () - 14.8 () - 10.5 () - 17.0 () - 
-S3 - 3.2 (AJ) - 9.7 (AJ) - 19.0 (ADM) - 15.6 (ADM) - 8.7 (AJ) - 19.1 (ADM) - 
+S1 - 15.0 (ADM) - 16.5 (ADM) - 0.7 (ADC) - 16.0 (ADM) - 15.2 (ADM) - 19.9 (ADM) - 
+S2 - 3.2 (AJ) - 5.3 (ADC) - 19.6 (ADM) - 9.2 (ADC) - 2.8 (AJ) - 0.3 (ADC) - 
+B1 - 9.1 (AJ) - 10.9 (ADM) - 10.2 (ADM) - 12.6 (ADM) - 9.0 (AJ) - 10.1 (ADM) - 
+S3 - 3.2 (ADC) - 9.7 (AJ) - 19.0 (ADM) - 15.6 (ADM) - 8.7 (ADC) - 19.1 (ADM) - 
 S4 - 17.7 (ADM) - 6.9 (AJ) - 0.1 (AJ) - 13.9 (ADM) - 12.4 (ADM) - 14.9 (ADM) - 
-B2 - 14.8 () - 19.6 () - 10.3 () - 14.5 () - 10.8 () - 13.1 () - 
+B2 - 10.4 (ADM) - 8.3 (AJ) - 9.6 (AJ) - 14.8 (ADM) - 10.5 (ADM) - 17.0 (ADM) - 
 S5 - 15.5 (ADM) - 19.4 (ADM) - 10.1 (ADM) - 17.8 (ADM) - 10.1 (ADM) - 19.4 (ADM) - 
-S6 - 14.0 (ADM) - 19.7 (ADM) - 10.5 (ADM) - 11.2 (ADM) - 11.5 (ADM) - 6.8 (AJ) - 
-B3 - 0.0 (nﬁÍ≥V) - 0.0 () - 0.0 () - * (*) - 0.0 (Ô€Í≥V) - 0.0 () - 
-S7 - 0.0 (ˆ(A) - 0.0 (33/A) - 0.0 (§p#A) - 0.0 (·zJA) - 0.0 (◊£A) - 0.0 (ÃÃ"A) - en cours
+S6 - 14.0 (ADM) - 19.7 (ADM) - 10.5 (ADM) - 11.2 (ADM) - 11.5 (ADM) - 6.8 (ADC) - 
+B3 - 14.8 (ADM) - 19.6 (ADM) - 10.3 (ADM) - 14.5 (ADM) - 10.8 (ADM) - 13.1 (ADM) - diplome
 13 Sam Lyn
 S1 - 13.5 (ADM) - 5.1 (AJ) - 7.8 (AJ) - * (*) - 13.1 (ADM) - * (*) - defaillance
 14 Loo Rob
-S1 - 1.6 (AJ) - 19.4 (ADM) - 14.4 (ADM) - 5.8 (AJ) - 6.2 (AJ) - 12.9 (ADM) - 
-S2 - 18.5 (ADM) - 3.4 (AJ) - 13.9 (ADM) - 14.5 (ADM) - 9.8 (AJ) - 11.7 (ADM) - 
-B1 - 13.4 () - 12.4 () - 8.0 () - 16.6 () - 16.0 () - 12.5 () - 
-S3 - 10.5 (ADM) - 8.0 (AJ) - 6.0 (AJ) - 17.7 (ADM) - 13.2 (ADM) - 10.0 (ADM) - 
+S1 - 1.6 (ADC) - 19.4 (ADM) - 14.4 (ADM) - 5.8 (ADC) - 6.2 (AJ) - 12.9 (ADM) - 
+S2 - 18.5 (ADM) - 3.4 (ADC) - 13.9 (ADM) - 14.5 (ADM) - 9.8 (AJ) - 11.7 (ADM) - 
+B1 - 10.1 (ADM) - 11.4 (ADM) - 14.1 (ADM) - 10.2 (ADM) - 8.0 (AJ) - 12.3 (ADM) - 
+S3 - 10.5 (ADM) - 8.0 (ADC) - 6.0 (AJ) - 17.7 (ADM) - 13.2 (ADM) - 10.0 (ADM) - 
 S4 - 16.3 (ADM) - 16.7 (ADM) - 9.9 (AJ) - 15.6 (ADM) - 18.9 (ADM) - 15.1 (ADM) - 
-B2 - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 
+B2 - 13.4 (ADM) - 12.4 (ADM) - 8.0 (AJ) - 16.6 (ADM) - 16.0 (ADM) - 12.5 (ADM) - 
 S5 - 14.7 (ADM) - 0.8 (AJ) - 15.4 (ADM) - 2.8 (AJ) - 12.0 (ADM) - 8.6 (AJ) - 
-S6 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - demission
+S6 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - 
+B3 - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - demission
 15 Nil Asa
-S1 - 2.8 (AJ) - 12.9 (ADM) - 14.7 (ADM) - 17.0 (ADM) - 12.6 (ADM) - 10.6 (ADM) - 
+S1 - 2.8 (ADC) - 12.9 (ADM) - 14.7 (ADM) - 17.0 (ADM) - 12.6 (ADM) - 10.6 (ADM) - 
 S2 - 17.3 (ADM) - 10.7 (ADM) - 19.9 (ADM) - 16.0 (ADM) - 10.5 (ADM) - 11.8 (ADM) - 
-B1 - 10.8 () - 13.5 () - 8.0 () - 8.1 () - 8.1 () - 13.9 () - 
-S3 - 2.1 (AJ) - 12.7 (ADM) - 8.8 (AJ) - 8.5 (AJ) - 9.6 (AJ) - 16.9 (ADM) - 
-S4 - 19.6 (ADM) - 14.3 (ADM) - 7.3 (AJ) - 7.7 (AJ) - 6.6 (AJ) - 10.9 (ADM) - ajourne
+B1 - 10.0 (ADM) - 11.8 (ADM) - 17.3 (ADM) - 16.5 (ADM) - 11.5 (ADM) - 11.2 (ADM) - 
+S3 - 2.1 (ADC) - 12.7 (ADM) - 8.8 (AJ) - 8.5 (AJ) - 9.6 (AJ) - 16.9 (ADM) - 
+S4 - 19.6 (ADM) - 14.3 (ADM) - 7.3 (AJ) - 7.7 (AJ) - 6.6 (AJ) - 10.9 (ADM) - 
+B2 - 10.8 (ADM) - 13.5 (ADM) - 8.0 (AJ) - 8.1 (AJ) - 8.1 (AJ) - 13.9 (ADM) - 
+S5 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - 
+S6 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - 
+B3 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - 
+B3 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - ajourne
 16 Ian Ria
 S1 - 10.5 (ADM) - 7.2 (AJ) - 14.8 (ADM) - 16.3 (ADM) - 12.5 (ADM) - 15.5 (ADM) - 
-S2 - 9.7 (AJ) - 9.4 (AJ) - 5.7 (AJ) - 4.3 (AJ) - 6.8 (AJ) - 16.0 (ADM) - 
-B1 - 10.9 () - 12.6 () - 18.2 () - 14.7 () - 16.8 () - 8.1 () - 
+S2 - 9.7 (ADC) - 9.4 (AJ) - 5.7 (ADC) - 4.3 (ADC) - 6.8 (AJ) - 16.0 (ADM) - 
+B1 - 10.1 (ADM) - 8.3 (AJ) - 10.2 (ADM) - 10.3 (ADM) - 9.7 (AJ) - 15.7 (ADM) - 
 S3 - 11.5 (ADM) - 14.0 (ADM) - 19.2 (ADM) - 19.0 (ADM) - 18.9 (ADM) - 11.5 (ADM) - 
 S4 - 10.3 (ADM) - 11.3 (ADM) - 17.3 (ADM) - 10.4 (ADM) - 14.7 (ADM) - 4.7 (AJ) - 
-B2 - 12.6 () - 10.3 () - 11.5 () - 14.9 () - 13.1 () - 8.1 () - 
-S5 - 8.5 (AJ) - 8.6 (AJ) - 14.4 (ADM) - 19.0 (ADM) - 15.6 (ADM) - 6.6 (AJ) - 
-S6 - 16.6 (ADM) - 12.0 (ADM) - 8.6 (AJ) - 10.9 (ADM) - 10.5 (ADM) - 9.7 (AJ) - 
-B3 - 0.0 (nﬁÍ≥V) - 0.0 () - 0.0 () - * (*) - 0.0 (Ô€Í≥V) - 0.0 () - 
-S7 - 0.0 (‚z"A) - 0.0 (33A) - 0.0 (R∏$A) - 0.0 (ÆG%A) - 0.0 (33A) - 0.0 (\è|A) - en cours
+B2 - 10.9 (ADM) - 12.6 (ADM) - 18.2 (ADM) - 14.7 (ADM) - 16.8 (ADM) - 8.1 (AJ) - 
+S5 - 8.5 (ADC) - 8.6 (ADC) - 14.4 (ADM) - 19.0 (ADM) - 15.6 (ADM) - 6.6 (AJ) - 
+S6 - 16.6 (ADM) - 12.0 (ADM) - 8.6 (ADC) - 10.9 (ADM) - 10.5 (ADM) - 9.7 (AJ) - 
+B3 - 12.6 (ADM) - 10.3 (ADM) - 11.5 (ADM) - 14.9 (ADM) - 13.1 (ADM) - 8.1 (AJ) - diplome
 17 Ray Izy
-S1 - 17.9 (ADM) - 16.3 (ADM) - 19.8 (ADM) - 4.9 (AJ) - 17.6 (ADM) - 18.7 (ADM) - 
-S2 - 16.4 (ADM) - 7.7 (AJ) - 6.8 (AJ) - 17.9 (ADM) - 5.1 (AJ) - 6.3 (AJ) - 
-B1 - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 
+S1 - 17.9 (ADM) - 16.3 (ADM) - 19.8 (ADM) - 4.9 (ADC) - 17.6 (ADM) - 18.7 (ADM) - 
+S2 - 16.4 (ADM) - 7.7 (ADC) - 6.8 (ADC) - 17.9 (ADM) - 5.1 (ADC) - 6.3 (ADC) - 
+B1 - 17.2 (ADM) - 12.0 (ADM) - 13.3 (ADM) - 11.4 (ADM) - 11.4 (ADM) - 12.5 (ADM) - 
 S3 - 18.4 (ADM) - 0.8 (AJ) - 3.8 (AJ) - 1.5 (AJ) - 18.5 (ADM) - 7.3 (AJ) - 
 S4 - 13.0 (ADM) - * (*) - 14.8 (ADM) - * (*) - * (*) - * (*) - defaillance
 18 Roy Asa
-S1 - 10.1 (ADM) - 9.9 (AJ) - 7.0 (AJ) - 1.2 (AJ) - 19.7 (ADM) - 4.5 (AJ) - 
+S1 - 10.1 (ADM) - 9.9 (AJ) - 7.0 (AJ) - 1.2 (ADC) - 19.7 (ADM) - 4.5 (ADC) - 
 S2 - 19.7 (ADM) - 6.3 (AJ) - 9.2 (AJ) - 19.2 (ADM) - 17.3 (ADM) - 19.8 (ADM) - 
-B1 - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 
+B1 - 14.9 (ADM) - 8.1 (AJ) - 8.1 (AJ) - 10.2 (ADM) - 18.5 (ADM) - 12.1 (ADM) - 
 S3 - * (*) - 14.7 (ADM) - 3.5 (AJ) - * (*) - 19.0 (ADM) - 0.6 (AJ) - demission
 19 Cho Kye
-S1 - 11.2 (ADM) - 18.1 (ADM) - 18.9 (ADM) - 14.2 (ADM) - 6.9 (AJ) - 13.9 (ADM) - 
+S1 - 11.2 (ADM) - 18.1 (ADM) - 18.9 (ADM) - 14.2 (ADM) - 6.9 (ADC) - 13.9 (ADM) - 
 S2 - 19.8 (ADM) - 15.7 (ADM) - 18.8 (ADM) - 16.1 (ADM) - 17.2 (ADM) - 13.4 (ADM) - 
-B1 - 14.3 () - 18.9 () - 8.1 () - 10.0 () - 16.8 () - 9.5 () - 
-S3 - 12.0 (ADM) - 19.4 (ADM) - 9.9 (AJ) - 0.4 (AJ) - 14.8 (ADM) - 7.4 (AJ) - 
+B1 - 15.5 (ADM) - 16.9 (ADM) - 18.8 (ADM) - 15.2 (ADM) - 12.1 (ADM) - 13.6 (ADM) - 
+S3 - 12.0 (ADM) - 19.4 (ADM) - 9.9 (AJ) - 0.4 (ADC) - 14.8 (ADM) - 7.4 (AJ) - 
 S4 - 16.6 (ADM) - 18.5 (ADM) - 6.3 (AJ) - 19.6 (ADM) - 18.9 (ADM) - 11.5 (ADM) - 
-B2 - 15.4 () - 8.7 () - 13.7 () - 8.4 () - 9.1 () - 13.2 () - 
+B2 - 14.3 (ADM) - 18.9 (ADM) - 8.1 (AJ) - 10.0 (ADM) - 16.8 (ADM) - 9.5 (AJ) - 
 S5 - 15.0 (ADM) - 14.4 (ADM) - 18.3 (ADM) - 9.7 (AJ) - 10.4 (ADM) - 17.5 (ADM) - 
-S6 - 15.8 (ADM) - 3.0 (AJ) - 9.1 (AJ) - 7.1 (AJ) - 7.9 (AJ) - 8.9 (AJ) - ajourne
+S6 - 15.8 (ADM) - 3.0 (AJ) - 9.1 (ADC) - 7.1 (AJ) - 7.9 (AJ) - 8.9 (ADC) - 
+B3 - 15.4 (ADM) - 8.7 (AJ) - 13.7 (ADM) - 8.4 (AJ) - 9.1 (AJ) - 13.2 (ADM) - diplome
 20 Apo Tya
 S1 - 11.0 (ADM) - 14.3 (ADM) - 8.2 (AJ) - 18.4 (ADM) - 6.4 (AJ) - 8.5 (AJ) - 
 S2 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - demission
 21 Dan Asa
-S1 - 16.2 (ADM) - 12.3 (ADM) - 0.0 (AJ) - 1.3 (AJ) - 15.4 (ADM) - 18.7 (ADM) - 
-S2 - 19.2 (ADM) - 11.2 (ADM) - 19.9 (ADM) - 19.0 (ADM) - 17.1 (ADM) - 8.2 (AJ) - 
-B1 - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 
+S1 - 16.2 (ADM) - 12.3 (ADM) - 0.0 (ADC) - 1.3 (ADC) - 15.4 (ADM) - 18.7 (ADM) - 
+S2 - 19.2 (ADM) - 11.2 (ADM) - 19.9 (ADM) - 19.0 (ADM) - 17.1 (ADM) - 8.2 (ADC) - 
+B1 - 17.7 (ADM) - 11.7 (ADM) - 10.0 (ADM) - 10.1 (ADM) - 16.2 (ADM) - 13.4 (ADM) - 
 S3 - 4.3 (AJ) - 15.6 (ADM) - 10.6 (ADM) - 9.3 (AJ) - 7.4 (AJ) - 4.4 (AJ) - 
 S4 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - demission
 22 Cho Thy
 S1 - 12.8 (ADM) - 16.1 (ADM) - 11.6 (ADM) - 9.2 (AJ) - 17.4 (ADM) - 18.5 (ADM) - 
-S2 - 8.6 (AJ) - 17.8 (ADM) - 18.1 (ADM) - 8.8 (AJ) - 2.3 (AJ) - 16.4 (ADM) - 
-B1 - 15.6 () - 8.6 () - 17.5 () - 18.1 () - 10.5 () - 13.8 () - 
+S2 - 8.6 (ADC) - 17.8 (ADM) - 18.1 (ADM) - 8.8 (AJ) - 2.3 (AJ) - 16.4 (ADM) - 
+B1 - 10.7 (ADM) - 17.0 (ADM) - 14.8 (ADM) - 9.0 (AJ) - 9.9 (AJ) - 17.4 (ADM) - 
 S3 - 16.3 (ADM) - 6.1 (AJ) - 17.1 (ADM) - 17.7 (ADM) - 18.8 (ADM) - 16.6 (ADM) - 
-S4 - 15.0 (ADM) - 11.2 (ADM) - 18.0 (ADM) - 18.5 (ADM) - 2.3 (AJ) - 11.1 (ADM) - 
-B2 - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 
+S4 - 15.0 (ADM) - 11.2 (ADM) - 18.0 (ADM) - 18.5 (ADM) - 2.3 (ADC) - 11.1 (ADM) - 
+B2 - 15.6 (ADM) - 8.6 (AJ) - 17.5 (ADM) - 18.1 (ADM) - 10.5 (ADM) - 13.8 (ADM) - 
 S5 - 19.1 (ADM) - 15.7 (ADM) - * (*) - * (*) - 14.1 (ADM) - * (*) - demission
 23 Nil Zoe
 S1 - 19.4 (ADM) - * (*) - * (*) - 9.2 (AJ) - 19.5 (ADM) - 8.4 (AJ) - demission
 24 Ide Rim
-S1 - 13.9 (ADM) - 9.7 (AJ) - 14.2 (ADM) - 14.9 (ADM) - 8.8 (AJ) - 3.0 (AJ) - 
-S2 - 15.7 (ADM) - 10.2 (ADM) - 10.7 (ADM) - 5.0 (AJ) - 11.1 (ADM) - 18.1 (ADM) - 
-B1 - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 0.0 () - 
+S1 - 13.9 (ADM) - 9.7 (AJ) - 14.2 (ADM) - 14.9 (ADM) - 8.8 (AJ) - 3.0 (ADC) - 
+S2 - 15.7 (ADM) - 10.2 (ADM) - 10.7 (ADM) - 5.0 (ADC) - 11.1 (ADM) - 18.1 (ADM) - 
+B1 - 14.8 (ADM) - 9.9 (AJ) - 12.5 (ADM) - 10.0 (ADM) - 9.9 (AJ) - 10.5 (ADM) - 
 S3 - 5.3 (AJ) - 6.1 (AJ) - 6.9 (AJ) - * (*) - 17.9 (ADM) - 6.4 (AJ) - defaillance
 25 Emi Aby
-S1 - 6.5 (AJ) - 19.4 (ADM) - 19.1 (ADM) - 9.4 (AJ) - 14.9 (ADM) - 12.4 (ADM) - 
-S2 - 17.5 (ADM) - 3.1 (AJ) - 6.3 (AJ) - 6.8 (AJ) - 19.7 (ADM) - 11.4 (ADM) - 
-B1 - 8.4 () - 11.4 () - 10.6 () - 11.0 () - 8.2 () - 9.1 () - 
-S3 - 8.4 (AJ) - 2.9 (AJ) - 3.3 (AJ) - 2.4 (AJ) - 13.0 (ADM) - 4.0 (AJ) - 
-S4 - 8.3 (AJ) - 19.9 (ADM) - 17.8 (ADM) - 19.6 (ADM) - 3.4 (AJ) - 14.3 (ADM) - ajourne
+S1 - 6.5 (ADC) - 19.4 (ADM) - 19.1 (ADM) - 9.4 (AJ) - 14.9 (ADM) - 12.4 (ADM) - 
+S2 - 17.5 (ADM) - 3.1 (ADC) - 6.3 (ADC) - 6.8 (AJ) - 19.7 (ADM) - 11.4 (ADM) - 
+B1 - 12.0 (ADM) - 11.2 (ADM) - 12.7 (ADM) - 8.1 (AJ) - 17.3 (ADM) - 11.9 (ADM) - 
+S3 - 8.4 (AJ) - 2.9 (ADC) - 3.3 (ADC) - 2.4 (ADC) - 13.0 (ADM) - 4.0 (AJ) - 
+S4 - 8.3 (AJ) - 19.9 (ADM) - 17.8 (ADM) - 19.6 (ADM) - 3.4 (AJ) - 14.3 (ADM) - 
+B2 - 8.4 (AJ) - 11.4 (ADM) - 10.6 (ADM) - 11.0 (ADM) - 8.2 (AJ) - 9.1 (AJ) - 
+S5 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - 
+S6 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - 
+B3 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - 
+B3 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - ajourne
 26 Izy Ons
-S1 - 12.4 (ADM) - 6.2 (AJ) - 7.1 (AJ) - 9.7 (AJ) - 8.1 (AJ) - 15.4 (ADM) - 
-S2 - 17.5 (ADM) - 18.4 (ADM) - 9.9 (AJ) - 6.5 (AJ) - 14.1 (ADM) - 4.2 (AJ) - ajourne
+S1 - 12.4 (ADM) - 6.2 (ADC) - 7.1 (AJ) - 9.7 (AJ) - 8.1 (ADC) - 15.4 (ADM) - 
+S2 - 17.5 (ADM) - 18.4 (ADM) - 9.9 (AJ) - 6.5 (AJ) - 14.1 (ADM) - 4.2 (AJ) - 
+B1 - 14.9 (ADM) - 12.3 (ADM) - 8.5 (AJ) - 8.1 (AJ) - 11.1 (ADM) - 9.8 (AJ) - 
+S3 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - 
+S4 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - 
+B2 - * (*) - * (*) - * (*) - * (*) - * (*) - * (*) - ajourne
