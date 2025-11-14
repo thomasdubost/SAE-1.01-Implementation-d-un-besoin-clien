@@ -1,9 +1,94 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "etudiant.h"
 #include <string.h>
 #include <math.h>
+#define MAX_ARGUMENTS_COUNT 3
+#define MAX_ARGUMENTS_LENGTH 256
+#define MAX_NAME_TAILLE 50
+#define INSCRIPTION_ARGS_COUNT 2
+#define MAX_ETUDIANTS 100
+#define NB_SEMESTRES 6
+#define NB_BILANS 3
+#define NB_UE 6
+#define MAX_COMMAND_LENGTH 256
+#define NOTE_MAX 20
+#define APPRECIATION_LENGTH 5
+#define NB_SEMESTRE_PAR_BILAN 2
+#define STATUT_LENGTH 15
+#define MAX_NOTE_INF_10 3
+#define NB_ANNEE 3
 
+typedef enum
+{
+
+    AJOURNE,
+    EN_COURS,
+    STATUT_DEMISSION,
+    DIPLOME,
+    DEFAILLANT,
+} Status;
+
+typedef enum
+{
+    UNKNOWN = -1,
+    EXIT = 0,
+    INSCRIRE_ETUDIANT,
+    CURSUS,
+    NOTE,
+    NOTE_INPUT,
+    DEMISSION,
+    DEFAILLANCE,
+    JURY,
+    ETUDIANTS,
+    BILAN,
+} Command_type;
+
+typedef struct
+{
+    Command_type command_type;
+    char list_arguments[MAX_ARGUMENTS_COUNT][MAX_ARGUMENTS_LENGTH];
+    int arguments_cmp;
+} texte_separer;
+
+typedef struct
+{
+    float note;
+    char appreciation[APPRECIATION_LENGTH]; // exemple: "ADM", "AJ", "ADC", "ADS"
+} Note;
+
+typedef struct
+{
+    Note notes[NB_UE];
+} UE;
+
+typedef struct
+{
+    char nom[MAX_NAME_TAILLE];
+    char prenom[MAX_NAME_TAILLE];
+    int id_etudiant;
+    UE semestres[NB_SEMESTRES];
+    int semestre_en_cours;
+    UE bilan[NB_BILANS];
+    Status status;
+} Etudiant;
+
+void separertxt(char *command, texte_separer *texte_separer);
+void choixCommande(char *command, int *etudiant_count, Etudiant *etudiant_list);
+void inscrireEtudiant(const texte_separer separertxt, int *nb_students, Etudiant *student_list);
+void texteSeparerNote(texte_separer *texte_separer);
+void cursus(const texte_separer separer_txt, int nb_etudiant, Etudiant *etudiant_list);
+void affichage_semestre(Etudiant etudiant);
+void affichage_bilan(Etudiant etudiant, int bilan_a_afficher);
+void note(const texte_separer separer_txt, Etudiant *etudiant_list, int nb_etudiant);
+void demission(const texte_separer separer_txt, Etudiant *etudiant_list, int nb_etudiant);
+void defaillance(const texte_separer separer_txt, Etudiant *etudiant_list, int nb_etudiant);
+void jury(const texte_separer separer_txt, Etudiant *etudiant_list, int nb_etudiant);
+void calculer_bilan(Etudiant *etudiant, int num_bilan);
+void etudiants(const texte_separer separertxt, Etudiant *etudiant_list, int nb_etudiant);
+void bilan_etu(const texte_separer separertxt, Etudiant *etudiant_list, int nb_etudiant);
+void init_ue(UE semestres[]);
+
+// Il recupere la commande et stock les etudiants et la command.
 int main()
 {
 
@@ -20,7 +105,7 @@ int main()
         choixCommande(command, &etudiant_count, etudiant_list);
     }
 }
-
+// choisie la command a appeler avec la commande separer en entrée
 void choixCommande(char *command, int *etudiant_count, Etudiant *etudiant_list)
 {
     // remplace le \n a la fin de la commande par un \0
@@ -66,7 +151,7 @@ void choixCommande(char *command, int *etudiant_count, Etudiant *etudiant_list)
         break;
     }
 }
-
+// separe la command du fgets en une command et des arguments a envoyer aux fonctions
 void separertxt(char *command, texte_separer *texte_separer)
 {
     const char *token;
@@ -167,7 +252,7 @@ void init_ue(UE semestres[])
         }
     }
 }
-
+// affiche le cursus d'un etudiant
 void cursus(const texte_separer separer_txt, int nb_etudiant, Etudiant *etudiant_list)
 {
     if (separer_txt.arguments_cmp != 1)
@@ -211,6 +296,7 @@ void cursus(const texte_separer separer_txt, int nb_etudiant, Etudiant *etudiant
         break;
     }
 }
+// affiche un cursus des notes en fonction du nombre de semestres avec un bilan tt les 2 semestres
 void affichage_semestre(Etudiant etudiant)
 {
     int nb_semestres = etudiant.semestre_en_cours;
@@ -253,6 +339,7 @@ void affichage_semestre(Etudiant etudiant)
         affichage_bilan(etudiant, NB_BILANS);
     }
 }
+// affiche un bilan eet arrondie la moyen a 10.f
 void affichage_bilan(Etudiant etudiant, int bilan_a_afficher)
 {
 
@@ -268,6 +355,7 @@ void affichage_bilan(Etudiant etudiant, int bilan_a_afficher)
         printf(" - ");
     }
 }
+// enregistrer une note dans une ue, dans un semestre, a un id
 void note(const texte_separer separer_txt, Etudiant *etudiant_list, int nb_etudiant)
 {
     int id = atoi(separer_txt.list_arguments[0]);
@@ -312,7 +400,7 @@ void note(const texte_separer separer_txt, Etudiant *etudiant_list, int nb_etudi
         strcpy(appreciation, "ADS");
     printf("Note enregistree\n");
 }
-
+// jury fait passer un etudiant a l'année suivante ou non, un etudiant doit avoir tt ses notes
 void jury(const texte_separer separer_txt, Etudiant *etudiant_list, int nb_etudiant)
 {
     int semestre = atoi(separer_txt.list_arguments[0]);
@@ -462,7 +550,7 @@ void jury(const texte_separer separer_txt, Etudiant *etudiant_list, int nb_etudi
 
     printf("Semestre termine pour %d etudiant(s)\n", nb_etudiant_affectes);
 }
-
+// calcul un bilan
 void calculer_bilan(Etudiant *etudiant, int num_bilan)
 {
     int numero_semestre_index = num_bilan * NB_SEMESTRE_PAR_BILAN - 1;
@@ -482,6 +570,7 @@ void calculer_bilan(Etudiant *etudiant, int num_bilan)
             strcpy(appreciation_bilan, "AJB");
     }
 }
+// change se status d'unetudiant a demission
 void demission(const texte_separer separer_txt, Etudiant *etudiant_list, int nb_etudiant)
 {
     int id = atoi(separer_txt.list_arguments[0]);
@@ -501,7 +590,7 @@ void demission(const texte_separer separer_txt, Etudiant *etudiant_list, int nb_
     etudiant->status = STATUT_DEMISSION;
     puts("Demission enregistree");
 }
-
+// change le status d'un etudiant a defaillant
 void defaillance(const texte_separer separer_txt, Etudiant *etudiant_list, int nb_etudiant)
 {
     int id = atoi(separer_txt.list_arguments[0]);
@@ -521,7 +610,7 @@ void defaillance(const texte_separer separer_txt, Etudiant *etudiant_list, int n
     etudiant->status = DEFAILLANT;
     puts("Defaillance enregistree");
 }
-
+// affiche tt les etudiants avec leur identifiant, leur prenom et nom, semestre en cours et leur status
 void etudiants(const texte_separer separertxt, Etudiant *etudiant_list, int nb_etudiant)
 {
     for (int i = 0; i < nb_etudiant; ++i)
@@ -549,7 +638,7 @@ void etudiants(const texte_separer separertxt, Etudiant *etudiant_list, int nb_e
         printf("%d - %s %s - S%d - %s\n", i + 1, etudiant.prenom, etudiant.nom, etudiant.semestre_en_cours, statusEtudiant);
     }
 }
-
+// fait le bilan des status des etudiants en fonction de l'année donnée en paramètre
 void bilan_etu(const texte_separer separertxt, Etudiant *etudiant_list, int nb_etudiant)
 {
     int annee = atoi(separertxt.list_arguments[0]);
@@ -578,7 +667,7 @@ void bilan_etu(const texte_separer separertxt, Etudiant *etudiant_list, int nb_e
             case STATUT_DEMISSION:
                 ++demission;
                 break;
-            case DEFAILLANCE:
+            case DEFAILLANT:
                 ++defaillance;
                 break;
             }
